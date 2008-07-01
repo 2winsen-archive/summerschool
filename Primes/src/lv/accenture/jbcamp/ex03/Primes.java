@@ -10,16 +10,15 @@ public class Primes {
 		}
 
 		int nValues = Integer.parseInt(args[0]);
+		outer:
+		for (int i = 2; i <= nValues; i++) {
 
-		for (int i = 2; i <= Math.sqrt(nValues); i++) {
-			outer:
-
-			for (int j = 2; j < i; j++) {
+			for (int j = 2; j <= Math.sqrt(i); j++) {
 				if (i % j == 0) {
 					continue outer;
 				}
-			}						
-			
+			}		
+		
 			System.out.println(i);
 
 		}
