@@ -8,7 +8,7 @@ import java.io.OutputStreamWriter;
 public class HilbertTest {
 	
 	public static void main(String[] args) throws IOException {
-		args = new String[] {"5", "sample.svg"};
+		args = new String[] {"4", "sample.svg"};
 		if (args.length  != 2) {
 			System.out.println("Usage: HibertTest order:int filepath");
 			System.exit(1);
