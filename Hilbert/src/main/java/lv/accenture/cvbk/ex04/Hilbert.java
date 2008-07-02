@@ -25,7 +25,7 @@ public class Hilbert {
 		StringBuffer sb = new StringBuffer();
 		sb.append("<?xml version='1.0'?>\n<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.0//EN'\n");
 		sb.append("'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>\n");
-		sb.append("<svg width='100cm' height='100cm' viewBox='0 0 ");
+		sb.append("<svg width='10cm' height='10cm' viewBox='0 0 ");
 		sb.append(Math.pow(2, order) + " ");
 		sb.append(Math.pow(2, order));
 		sb.append("'>\n");
