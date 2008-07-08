@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/microsoft">
+<title>del.icio.us/retiman/microsoft</title>
+<link>http://del.icio.us/retiman/microsoft</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.zdnetasia.com/news/security/0,39044215,62032221,00.htm" />
+  <rdf:li rdf:resource="http://support.microsoft.com/kb/307897" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/business/6275728.stm" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/ie/archive/2006/11/30/ie6-and-ie7-running-on-a-single-machine.aspx" />
+  <rdf:li rdf:resource="http://www.markshuttleworth.com/archives/127" />
+  <rdf:li rdf:resource="http://connect.microsoft.com/WindowsHomeServer" />
+  <rdf:li rdf:resource="http://court.shrock.org/sysinternals/" />
+  <rdf:li rdf:resource="http://www.theregister.com/2007/06/05/microsoft_mvp_threats/" />
+  <rdf:li rdf:resource="http://news.wired.com/dynamic/stories/M/MICROSOFT_AQUANTIVE?SITE=WIRE&#x26;SECTION=HOME&#x26;TEMPLATE=DEFAULT" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.zdnetasia.com/news/security/0,39044215,62032221,00.htm">
+<title>Microsoft downplays stealth Windows Update file updates - Security - News - ZDNet Asia</title>
+<link>http://www.zdnetasia.com/news/security/0,39044215,62032221,00.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-15T00:42:15Z</dc:date>
+<dc:subject>microsoft windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://support.microsoft.com/kb/307897">
+<title>How to synchronize the time with the Windows Time service in Windows XP</title>
+<link>http://support.microsoft.com/kb/307897</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-17T01:05:11Z</dc:date>
+<dc:subject>microsoft windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/business/6275728.stm">
+<title>BBC NEWS | Business | Microsoft facing $1bn Xbox bill</title>
+<link>http://news.bbc.co.uk/2/hi/business/6275728.stm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-05T22:35:52Z</dc:date>
+<dc:subject>gaming microsoft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/ie/archive/2006/11/30/ie6-and-ie7-running-on-a-single-machine.aspx">
+<title>IEBlog : IE6 and IE7 Running on a Single Machine</title>
+<link>http://blogs.msdn.com/ie/archive/2006/11/30/ie6-and-ie7-running-on-a-single-machine.aspx</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-20T21:50:54Z</dc:date>
+<dc:subject>microsoft software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.markshuttleworth.com/archives/127">
+<title>Mark Shuttleworth &#xBB; Blog Archive &#xBB; No negotiations with Microsoft in progress</title>
+<link>http://www.markshuttleworth.com/archives/127</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-17T07:24:43Z</dc:date>
+<dc:subject>law microsoft ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://connect.microsoft.com/WindowsHomeServer">
+<title>Connect: Windows Home Server</title>
+<link>http://connect.microsoft.com/WindowsHomeServer</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-14T18:19:33Z</dc:date>
+<dc:subject>microsoft software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://court.shrock.org/sysinternals/">
+<title>Index of /sysinternals</title>
+<link>http://court.shrock.org/sysinternals/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T05:07:45Z</dc:date>
+<dc:subject>microsoft software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theregister.com/2007/06/05/microsoft_mvp_threats/">
+<title>Microsoft threatens its Most Valuable Professional | The Register</title>
+<link>http://www.theregister.com/2007/06/05/microsoft_mvp_threats/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-07T19:11:31Z</dc:date>
+<dc:subject>funny microsoft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.wired.com/dynamic/stories/M/MICROSOFT_AQUANTIVE?SITE=WIRE&#x26;SECTION=HOME&#x26;TEMPLATE=DEFAULT">
+<title>Wired News - AP News</title>
+<link>http://news.wired.com/dynamic/stories/M/MICROSOFT_AQUANTIVE?SITE=WIRE&#x26;SECTION=HOME&#x26;TEMPLATE=DEFAULT</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-19T22:03:01Z</dc:date>
+<dc:subject>google microsoft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

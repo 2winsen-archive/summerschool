@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/software">
+<title>del.icio.us/retiman/software</title>
+<link>http://del.icio.us/retiman/software</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://magicseteditor.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.dd-wrt.com/wiki/index.php?title=Installation" />
+  <rdf:li rdf:resource="http://handbrake.m0k.org/" />
+  <rdf:li rdf:resource="http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled" />
+  <rdf:li rdf:resource="http://www.nongnu.org/tpb/" />
+  <rdf:li rdf:resource="http://mitpress.mit.edu/sicp/full-text/book/book.html" />
+  <rdf:li rdf:resource="http://thinking-forth.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.spinellis.gr/codereading/" />
+  <rdf:li rdf:resource="http://www.spinellis.gr/codequality/" />
+  <rdf:li rdf:resource="http://oss.codepoet.no/revelation/screenshots/" />
+  <rdf:li rdf:resource="http://www.informationweek.com/news/showArticle.jhtml?articleID=201802175" />
+  <rdf:li rdf:resource="http://movabletype.org/" />
+  <rdf:li rdf:resource="http://www.planeshift.it/" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/fontblog/archive/2005/11/08/490490.aspx" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20070718-new-trojans-give-us-300-or-the-data-gets-it.html" />
+  <rdf:li rdf:resource="https://answers.launchpad.net/ubuntu/+source/k3b/+question/7969" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=35087" />
+  <rdf:li rdf:resource="http://www.mailbucket.org/" />
+  <rdf:li rdf:resource="http://swik.net/" />
+  <rdf:li rdf:resource="http://freshmeat.net/articles/view/747/" />
+  <rdf:li rdf:resource="http://zero-install.sourceforge.net/" />
+  <rdf:li rdf:resource="http://wiki.opensymphony.com/dashboard.action" />
+  <rdf:li rdf:resource="http://code.google.com/p/syntaxhighlighter/" />
+  <rdf:li rdf:resource="http://mjtsai.com/blog/2007/07/15/subversion-to-git/" />
+  <rdf:li rdf:resource="http://ws.apache.org/commons/tcpmon/" />
+  <rdf:li rdf:resource="http://jgap.sourceforge.net/" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/ie/archive/2006/11/30/ie6-and-ie7-running-on-a-single-machine.aspx" />
+  <rdf:li rdf:resource="http://connect.microsoft.com/WindowsHomeServer" />
+  <rdf:li rdf:resource="http://www.tlbox.com/system_administrators/" />
+  <rdf:li rdf:resource="http://www.dr-hoiby.com/WhoLockMe/" />
+  <rdf:li rdf:resource="http://court.shrock.org/sysinternals/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://magicseteditor.sourceforge.net/">
+<title>Welcome | Magic Set Editor</title>
+<link>http://magicseteditor.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-29T00:05:32Z</dc:date>
+<dc:subject>design gaming mtg software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dd-wrt.com/wiki/index.php?title=Installation">
+<title>Installation - DD-WRT Wiki</title>
+<link>http://www.dd-wrt.com/wiki/index.php?title=Installation</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-28T22:27:40Z</dc:date>
+<dc:subject>ddwrt hack linux networking software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/ddwrt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://handbrake.m0k.org/">
+<title>HandBrake</title>
+<link>http://handbrake.m0k.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-01T04:01:51Z</dc:date>
+<dc:subject>ipod linux music software video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled">
+<title>Innovation | Don&#x2019;t invent, evolve | Economist.com</title>
+<link>http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-24T21:50:30Z</dc:date>
+<dc:subject>design evolution science software technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nongnu.org/tpb/">
+<title>TPB - ThinkPad Buttons</title>
+<link>http://www.nongnu.org/tpb/</link>
+<description>dfadsafsad</description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-21T20:30:02Z</dc:date>
+<dc:subject>linux software thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mitpress.mit.edu/sicp/full-text/book/book.html">
+<title>Structure and Interpretation of Computer Programs</title>
+<link>http://mitpress.mit.edu/sicp/full-text/book/book.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:51:06Z</dc:date>
+<dc:subject>design development haskell howto reference software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/haskell" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinking-forth.sourceforge.net/">
+<title>Thinking Forth</title>
+<link>http://thinking-forth.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:50:30Z</dc:date>
+<dc:subject>design development reference software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spinellis.gr/codereading/">
+<title>Spinellis: Code Reading: The Open Source Perspective</title>
+<link>http://www.spinellis.gr/codereading/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:49:27Z</dc:date>
+<dc:subject>development reference software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spinellis.gr/codequality/">
+<title>Spinellis: Code Quality: The Open Source Perspective</title>
+<link>http://www.spinellis.gr/codequality/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:48:56Z</dc:date>
+<dc:subject>java software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://oss.codepoet.no/revelation/screenshots/">
+<title>Screenshots - Revelation</title>
+<link>http://oss.codepoet.no/revelation/screenshots/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-17T22:34:18Z</dc:date>
+<dc:subject>linux software ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.informationweek.com/news/showArticle.jhtml?articleID=201802175">
+<title>Those Cross-Browser Blues: How To Develop Web Sites For Both Internet Explorer And Firefox -- Browser Compatability</title>
+<link>http://www.informationweek.com/news/showArticle.jhtml?articleID=201802175</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T05:30:18Z</dc:date>
+<dc:subject>firefox software testing web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://movabletype.org/">
+<title>MovableType.org - Home for the MT Community</title>
+<link>http://movabletype.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-11T20:56:45Z</dc:date>
+<dc:subject>cms software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.planeshift.it/">
+<title>PlaneShift - A 3D Fantasy MMORPG</title>
+<link>http://www.planeshift.it/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-06T18:30:35Z</dc:date>
+<dc:subject>gaming software ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/fontblog/archive/2005/11/08/490490.aspx">
+<title>fontblog : Where does 96 DPI come from in Windows?</title>
+<link>http://blogs.msdn.com/fontblog/archive/2005/11/08/490490.aspx</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T22:10:06Z</dc:date>
+<dc:subject>history software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20070718-new-trojans-give-us-300-or-the-data-gets-it.html">
+<title>New Trojans: give us $300, or the data gets it!</title>
+<link>http://arstechnica.com/news.ars/post/20070718-new-trojans-give-us-300-or-the-data-gets-it.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-01T01:44:38Z</dc:date>
+<dc:subject>funny news software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://answers.launchpad.net/ubuntu/+source/k3b/+question/7969">
+<title>k3b in ubuntu question #7969: &#x201C;i am need enable Mp3 support and install MAD Mp3 decoding library&#x201D;</title>
+<link>https://answers.launchpad.net/ubuntu/+source/k3b/+question/7969</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-29T07:59:10Z</dc:date>
+<dc:subject>software ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=35087">
+<title>Howto: Backup and restore your system! - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=35087</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-29T05:24:53Z</dc:date>
+<dc:subject>howto linux software ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mailbucket.org/">
+<title>MailBucket</title>
+<link>http://www.mailbucket.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-28T08:43:55Z</dc:date>
+<dc:subject>privacy software web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://swik.net/">
+<title>The Open Software Wiki - SWiK</title>
+<link>http://swik.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-25T18:24:54Z</dc:date>
+<dc:subject>cool software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://freshmeat.net/articles/view/747/">
+<title>freshmeat.net: Tutorials - Fine-tuning MPlayer</title>
+<link>http://freshmeat.net/articles/view/747/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-20T19:41:21Z</dc:date>
+<dc:subject>linux software ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zero-install.sourceforge.net/">
+<title>The Zero Install system</title>
+<link>http://zero-install.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T22:18:35Z</dc:date>
+<dc:subject>linux security software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.opensymphony.com/dashboard.action">
+<title>Dashboard - Confluence</title>
+<link>http://wiki.opensymphony.com/dashboard.action</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T22:10:36Z</dc:date>
+<dc:subject>java software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/syntaxhighlighter/">
+<title>syntaxhighlighter - Google Code</title>
+<link>http://code.google.com/p/syntaxhighlighter/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T21:18:21Z</dc:date>
+<dc:subject>ajax cool development javascript software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mjtsai.com/blog/2007/07/15/subversion-to-git/">
+<title>Michael Tsai - Blog - Subversion to Git</title>
+<link>http://mjtsai.com/blog/2007/07/15/subversion-to-git/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T20:20:15Z</dc:date>
+<dc:subject>development git scm software subversion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/scm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ws.apache.org/commons/tcpmon/">
+<title>Web Services Commons : TCPMon - Apache TCPMon</title>
+<link>http://ws.apache.org/commons/tcpmon/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-06T19:21:22Z</dc:date>
+<dc:subject>apache java software testing web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jgap.sourceforge.net/">
+<title>JGAP: Java Genetic Algorithms Package</title>
+<link>http://jgap.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-25T17:40:02Z</dc:date>
+<dc:subject>development evolution java science software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/ie/archive/2006/11/30/ie6-and-ie7-running-on-a-single-machine.aspx">
+<title>IEBlog : IE6 and IE7 Running on a Single Machine</title>
+<link>http://blogs.msdn.com/ie/archive/2006/11/30/ie6-and-ie7-running-on-a-single-machine.aspx</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-20T21:50:54Z</dc:date>
+<dc:subject>microsoft software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://connect.microsoft.com/WindowsHomeServer">
+<title>Connect: Windows Home Server</title>
+<link>http://connect.microsoft.com/WindowsHomeServer</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-14T18:19:33Z</dc:date>
+<dc:subject>microsoft software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tlbox.com/system_administrators/">
+<title>tlbox - System Administration Tools</title>
+<link>http://www.tlbox.com/system_administrators/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-12T18:59:58Z</dc:date>
+<dc:subject>linux software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dr-hoiby.com/WhoLockMe/">
+<title>WhoLockMe Explorer Extension v1.04 beta (NT-Win2K-XP) download page</title>
+<link>http://www.dr-hoiby.com/WhoLockMe/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:42:10Z</dc:date>
+<dc:subject>software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://court.shrock.org/sysinternals/">
+<title>Index of /sysinternals</title>
+<link>http://court.shrock.org/sysinternals/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T05:07:45Z</dc:date>
+<dc:subject>microsoft software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

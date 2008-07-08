@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/ati">
+<title>del.icio.us/retiman/ati</title>
+<link>http://del.icio.us/retiman/ati</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.phoronix.com/scan.php?page=article&#x26;item=675&#x26;num=1" />
+  <rdf:li rdf:resource="http://gentoo-wiki.com/HOWTO_ATI_Drivers" />
+  <rdf:li rdf:resource="http://ati.amd.com/support/drivers/linux/linux-radeon.html" />
+  <rdf:li rdf:resource="http://www.phoronix.com/forums/showthread.php?t=5953&#x26;page=2" />
+  <rdf:li rdf:resource="http://allmybrain.com/2007/10/24/aiglx-compiz-fusion-gentoo-and-my-ati-radeon-9600-card-with-8423/" />
+  <rdf:li rdf:resource="http://gentoo-wiki.com/AIGLX" />
+  <rdf:li rdf:resource="http://wiki.cchtml.com/index.php/Main_Page" />
+  <rdf:li rdf:resource="http://gentoo-wiki.com/HOWTO_Dual_Monitors" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.phoronix.com/scan.php?page=article&#x26;item=675&#x26;num=1">
+<title>[Phoronix] ATIpower: ATI Linux GPU Overclocking</title>
+<link>http://www.phoronix.com/scan.php?page=article&#x26;item=675&#x26;num=1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-04T23:31:44Z</dc:date>
+<dc:subject>ati linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gentoo-wiki.com/HOWTO_ATI_Drivers">
+<title>HOWTO ATI Drivers - Gentoo Linux Wiki</title>
+<link>http://gentoo-wiki.com/HOWTO_ATI_Drivers</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-30T02:13:41Z</dc:date>
+<dc:subject>ati gentoo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gentoo" />
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ati.amd.com/support/drivers/linux/linux-radeon.html">
+<title>ATI Proprietary Linux x86 Display Driver 8.42.3</title>
+<link>http://ati.amd.com/support/drivers/linux/linux-radeon.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-04T00:28:44Z</dc:date>
+<dc:subject>ati hardware linux thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.phoronix.com/forums/showthread.php?t=5953&#x26;page=2">
+<title>compiz-fusion (on Ubuntu/Gutsy) and 8.42 - Page 2 - Phoronix Forums</title>
+<link>http://www.phoronix.com/forums/showthread.php?t=5953&#x26;page=2</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-30T22:48:44Z</dc:date>
+<dc:subject>ati linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://allmybrain.com/2007/10/24/aiglx-compiz-fusion-gentoo-and-my-ati-radeon-9600-card-with-8423/">
+<title>AIGLX, Compiz-Fusion, Gentoo, and my ATI Radeon 9600 Card with 8.42.3 | All My Brain</title>
+<link>http://allmybrain.com/2007/10/24/aiglx-compiz-fusion-gentoo-and-my-ati-radeon-9600-card-with-8423/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-30T22:48:34Z</dc:date>
+<dc:subject>ati linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gentoo-wiki.com/AIGLX">
+<title>HOWTO AIGLX - Gentoo Linux Wiki</title>
+<link>http://gentoo-wiki.com/AIGLX</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-30T22:48:20Z</dc:date>
+<dc:subject>ati howto linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.cchtml.com/index.php/Main_Page">
+<title>Main Page - cchtml.com</title>
+<link>http://wiki.cchtml.com/index.php/Main_Page</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-24T18:55:38Z</dc:date>
+<dc:subject>ati linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gentoo-wiki.com/HOWTO_Dual_Monitors">
+<title>HOWTO Dual Monitors - Gentoo Linux Wiki</title>
+<link>http://gentoo-wiki.com/HOWTO_Dual_Monitors</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-10T18:43:58Z</dc:date>
+<dc:subject>ati gentoo hardware howto linux video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gentoo" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

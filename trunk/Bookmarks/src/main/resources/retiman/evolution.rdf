@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/evolution">
+<title>del.icio.us/retiman/evolution</title>
+<link>http://del.icio.us/retiman/evolution</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://listverse.com/science/9-extraordinary-human-abilities/" />
+  <rdf:li rdf:resource="http://www.slate.com/id/2192211" />
+  <rdf:li rdf:resource="http://www.pandasthumb.org/archives/2006/07/target_target_w_1.html" />
+  <rdf:li rdf:resource="http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria" />
+  <rdf:li rdf:resource="http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled" />
+  <rdf:li rdf:resource="http://www.cbsnews.com/stories/2007/08/09/tech/main3151006.shtml" />
+  <rdf:li rdf:resource="http://www.livescience.com/animals/top10_species_success.html" />
+  <rdf:li rdf:resource="http://www.livescience.com/health/top10_missinglinks.html" />
+  <rdf:li rdf:resource="http://www.livescience.com/animals/top10_vestigial_organs-1.html" />
+  <rdf:li rdf:resource="http://www.axolotl.org/" />
+  <rdf:li rdf:resource="http://www.msnbc.msn.com/id/19956961/" />
+  <rdf:li rdf:resource="http://people.howstuffworks.com/intelligent-design.htm" />
+  <rdf:li rdf:resource="http://blog.newsweek.com/blogs/labnotes/archive/2007/06/27/why-doesn-t-evolution-get-rid-of-ugly-people.aspx" />
+  <rdf:li rdf:resource="http://wiki.cotch.net/index.php/List_of_creationist_arguments" />
+  <rdf:li rdf:resource="http://www.365tomorrows.com/06/23/37-hands/" />
+  <rdf:li rdf:resource="http://jgap.sourceforge.net/" />
+  <rdf:li rdf:resource="http://news.yahoo.com/s/nm/20070523/od_uk_nm/oukoe_uk_fish_limbs;_ylt=Aj8eTwK5t0gdclNJ3amBYN7MWM0F" />
+  <rdf:li rdf:resource="http://www.zwire.com/site/news.cfm?newsid=18345643&#x26;BRD=2081&#x26;PAG=461&#x26;dept_id=385210&#x26;rfi=6" />
+  <rdf:li rdf:resource="http://abc.net.au/science/news/stories/2007/1930802.htm?ancient" />
+  <rdf:li rdf:resource="http://sciam.com/article.cfm?articleId=000D4FEC-7D5B-1D07-8E49809EC588EEDF&#x26;chanId=sa013&#x26;modsrc=most_popular" />
+  <rdf:li rdf:resource="http://www.netscrap.com/netscrap_detail.cfm?scrap_id=73" />
+  <rdf:li rdf:resource="http://www.scribd.com/doc/24702/Why-asking-her-out-is-terrifying" />
+  <rdf:li rdf:resource="http://www.stephenjaygould.org/ctrl/news/file021.html" />
+  <rdf:li rdf:resource="http://www.talkorigins.org/faqs/punc-eq.html" />
+  <rdf:li rdf:resource="http://www.talkorigins.org/faqs/speciation.html" />
+  <rdf:li rdf:resource="http://science.slashdot.org/article.pl?sid=07/03/31/1919214&#x26;from=rss" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Creation-evolution_controversy" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://listverse.com/science/9-extraordinary-human-abilities/">
+<title>9 Extraordinary Human Abilities - The List Universe</title>
+<link>http://listverse.com/science/9-extraordinary-human-abilities/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-29T15:56:19Z</dc:date>
+<dc:subject>biology evolution science weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slate.com/id/2192211">
+<title>How smart is the octopus? - By Carl Zimmer - Slate Magazine</title>
+<link>http://www.slate.com/id/2192211</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-25T22:02:52Z</dc:date>
+<dc:subject>biology evolution octopus science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/octopus" />
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pandasthumb.org/archives/2006/07/target_target_w_1.html">
+<title>Target? TARGET? We don't need no stinkin' Target! - The Panda's Thumb</title>
+<link>http://www.pandasthumb.org/archives/2006/07/target_target_w_1.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-18T23:40:41Z</dc:date>
+<dc:subject>algorithms evolution genetic programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/genetic" />
+    <rdf:li resource="http://del.icio.us/tag/algorithms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria">
+<title>Antibiotic Resistance of Bacteria: An Example of Evolution in Action? - Answers in Genesis</title>
+<link>http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-16T04:18:46Z</dc:date>
+<dc:subject>atheism creationism design evolution idiocy religion wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/idiocy" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled">
+<title>Innovation | Don&#x2019;t invent, evolve | Economist.com</title>
+<link>http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-24T21:50:30Z</dc:date>
+<dc:subject>design evolution science software technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cbsnews.com/stories/2007/08/09/tech/main3151006.shtml">
+<title>Evolutionary Theory Challenged By Fossils, Discovery In Africa Suggests Two Early Species Of Man Lived Side By Side For Half-Million Years - CBS News</title>
+<link>http://www.cbsnews.com/stories/2007/08/09/tech/main3151006.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-12T21:55:05Z</dc:date>
+<dc:subject>evolution science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/animals/top10_species_success.html">
+<title>Ten Species Success Stories | LiveScience</title>
+<link>http://www.livescience.com/animals/top10_species_success.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:31:39Z</dc:date>
+<dc:subject>cool evolution science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/health/top10_missinglinks.html">
+<title>Top 10 Missing Links | LiveScience</title>
+<link>http://www.livescience.com/health/top10_missinglinks.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:30:56Z</dc:date>
+<dc:subject>evolution reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/animals/top10_vestigial_organs-1.html">
+<title>Top 10 Useless Limbs (and Other Vestigial Organs) | LiveScience</title>
+<link>http://www.livescience.com/animals/top10_vestigial_organs-1.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:29:04Z</dc:date>
+<dc:subject>evolution science weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.axolotl.org/">
+<title>Axolotls: The Fascinating Mexican Axolotl and the Tiger Salamander</title>
+<link>http://www.axolotl.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-08T00:17:40Z</dc:date>
+<dc:subject>cool evolution</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.msnbc.msn.com/id/19956961/">
+<title>Pope: Creation vs. evolution an &#x2018;absurdity&#x2019; - Focus on the Vatican - MSNBC.com</title>
+<link>http://www.msnbc.msn.com/id/19956961/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-26T22:17:27Z</dc:date>
+<dc:subject>creationism evolution politics religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://people.howstuffworks.com/intelligent-design.htm">
+<title>Howstuffworks &#x22;How Intelligent Design Works&#x22;</title>
+<link>http://people.howstuffworks.com/intelligent-design.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-25T19:32:00Z</dc:date>
+<dc:subject>creationism evolution howstuffworks religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/howstuffworks" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.newsweek.com/blogs/labnotes/archive/2007/06/27/why-doesn-t-evolution-get-rid-of-ugly-people.aspx">
+<title>Lab Notes : Why Doesn't Evolution Get Rid of Ugly People?</title>
+<link>http://blog.newsweek.com/blogs/labnotes/archive/2007/06/27/why-doesn-t-evolution-get-rid-of-ugly-people.aspx</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T06:02:28Z</dc:date>
+<dc:subject>evolution science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.cotch.net/index.php/List_of_creationist_arguments">
+<title>List of creationist arguments - EvoWiki</title>
+<link>http://wiki.cotch.net/index.php/List_of_creationist_arguments</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-10T23:50:26Z</dc:date>
+<dc:subject>creationism evolution reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.365tomorrows.com/06/23/37-hands/">
+<title>365 tomorrows &#xBB; 37 Hands</title>
+<link>http://www.365tomorrows.com/06/23/37-hands/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-06T22:14:46Z</dc:date>
+<dc:subject>evolution funny science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jgap.sourceforge.net/">
+<title>JGAP: Java Genetic Algorithms Package</title>
+<link>http://jgap.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-25T17:40:02Z</dc:date>
+<dc:subject>development evolution java science software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.yahoo.com/s/nm/20070523/od_uk_nm/oukoe_uk_fish_limbs;_ylt=Aj8eTwK5t0gdclNJ3amBYN7MWM0F">
+<title>Study shows primitive fish had genetic wiring for limbs - Yahoo! News</title>
+<link>http://news.yahoo.com/s/nm/20070523/od_uk_nm/oukoe_uk_fish_limbs;_ylt=Aj8eTwK5t0gdclNJ3amBYN7MWM0F</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-24T19:17:32Z</dc:date>
+<dc:subject>evolution science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zwire.com/site/news.cfm?newsid=18345643&#x26;BRD=2081&#x26;PAG=461&#x26;dept_id=385210&#x26;rfi=6">
+<title>Georgetown Times</title>
+<link>http://www.zwire.com/site/news.cfm?newsid=18345643&#x26;BRD=2081&#x26;PAG=461&#x26;dept_id=385210&#x26;rfi=6</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-24T05:53:54Z</dc:date>
+<dc:subject>evolution funny religion wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://abc.net.au/science/news/stories/2007/1930802.htm?ancient">
+<title>News in Science - Dinosaur 'feathers' are no such thing - 23/05/2007</title>
+<link>http://abc.net.au/science/news/stories/2007/1930802.htm?ancient</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-23T05:45:11Z</dc:date>
+<dc:subject>evolution</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sciam.com/article.cfm?articleId=000D4FEC-7D5B-1D07-8E49809EC588EEDF&#x26;chanId=sa013&#x26;modsrc=most_popular">
+<title>15 Answers to Creationist Nonsense: Scientific American</title>
+<link>http://sciam.com/article.cfm?articleId=000D4FEC-7D5B-1D07-8E49809EC588EEDF&#x26;chanId=sa013&#x26;modsrc=most_popular</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-20T01:57:01Z</dc:date>
+<dc:subject>atheism creationism education evolution religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.netscrap.com/netscrap_detail.cfm?scrap_id=73">
+<title>NetScrap(TM): CREATURES FROM PRIMORDIAL SILICON</title>
+<link>http://www.netscrap.com/netscrap_detail.cfm?scrap_id=73</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-08T20:19:31Z</dc:date>
+<dc:subject>evolution</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scribd.com/doc/24702/Why-asking-her-out-is-terrifying">
+<title>Why asking her out is terrifying</title>
+<link>http://www.scribd.com/doc/24702/Why-asking-her-out-is-terrifying</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-01T18:19:04Z</dc:date>
+<dc:subject>cool evolution funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stephenjaygould.org/ctrl/news/file021.html">
+<title>Washington Post, &#x22;How Science Responds When Creationists Criticize Evolution&#x22;</title>
+<link>http://www.stephenjaygould.org/ctrl/news/file021.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T06:24:03Z</dc:date>
+<dc:subject>creationism evolution</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.talkorigins.org/faqs/punc-eq.html">
+<title>Punctuated Equilibria</title>
+<link>http://www.talkorigins.org/faqs/punc-eq.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T06:14:47Z</dc:date>
+<dc:subject>evolution</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.talkorigins.org/faqs/speciation.html">
+<title>Some More Observed Speciation Events</title>
+<link>http://www.talkorigins.org/faqs/speciation.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T06:14:35Z</dc:date>
+<dc:subject>evolution</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://science.slashdot.org/article.pl?sid=07/03/31/1919214&#x26;from=rss">
+<title>Slashdot | 48% of Americans Reject Evolution</title>
+<link>http://science.slashdot.org/article.pl?sid=07/03/31/1919214&#x26;from=rss</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:44:30Z</dc:date>
+<dc:subject>atheism evolution religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Creation-evolution_controversy">
+<title>Creation and evolution controversy</title>
+<link>http://en.wikipedia.org/wiki/Creation-evolution_controversy</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T21:17:55Z</dc:date>
+<dc:subject>creationism evolution religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/backup">
+<title>del.icio.us/retiman/backup</title>
+<link>http://del.icio.us/retiman/backup</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://gentoo-wiki.com/HOWTO_Backup_a_DVD" />
+  <rdf:li rdf:resource="http://blog.interlinked.org/tutorials/rsync_time_machine.html" />
+  <rdf:li rdf:resource="http://code.google.com/p/flyback/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/backup-utilities/copy-and-paste-your-entire-hard-drive-with-two-clicks-with-gparted-296850.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://gentoo-wiki.com/HOWTO_Backup_a_DVD">
+<title>HOWTO Backup a DVD - Gentoo Linux Wiki</title>
+<link>http://gentoo-wiki.com/HOWTO_Backup_a_DVD</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-08T20:29:32Z</dc:date>
+<dc:subject>backup dvd linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.interlinked.org/tutorials/rsync_time_machine.html">
+<title>Time Machine for every Unix out there - IMHO</title>
+<link>http://blog.interlinked.org/tutorials/rsync_time_machine.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-19T03:33:21Z</dc:date>
+<dc:subject>backup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/flyback/">
+<title>flyback - Google Code</title>
+<link>http://code.google.com/p/flyback/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-07T21:22:00Z</dc:date>
+<dc:subject>backup</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/backup-utilities/copy-and-paste-your-entire-hard-drive-with-two-clicks-with-gparted-296850.php">
+<title>Backup Utilities: Copy and Paste your Entire Hard Drive with Two Clicks with GParted - Lifehacker</title>
+<link>http://lifehacker.com/software/backup-utilities/copy-and-paste-your-entire-hard-drive-with-two-clicks-with-gparted-296850.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-06T20:34:54Z</dc:date>
+<dc:subject>backup linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

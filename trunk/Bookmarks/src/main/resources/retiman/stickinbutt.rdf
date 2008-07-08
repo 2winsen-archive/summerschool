@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/stickinbutt">
+<title>del.icio.us/retiman/stickinbutt</title>
+<link>http://del.icio.us/retiman/stickinbutt</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.news.com/8301-10784_3-9778087-7.html" />
+  <rdf:li rdf:resource="http://www.myfoxboston.com/myfox/pages/News/Detail?contentId=3581762&#x26;version=2&#x26;locale=EN-US&#x26;layoutCode=TSTY&#x26;pageId=3.8.1" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/nationworld/nation/la-na-schlafly19jun19,0,1038574.story" />
+  <rdf:li rdf:resource="http://www.cnn.com/2007/POLITICS/06/20/bush.stem.cell.ap/index.html?eref=rss_topstories" />
+  <rdf:li rdf:resource="http://money.cnn.com/magazines/business2/business2_archive/2007/06/01/100050989/index.htm?postversion=2007052205" />
+  <rdf:li rdf:resource="http://web.archive.org/web/20050209050454/www.thislife.org/pages/trax/text/adm2.html" />
+  <rdf:li rdf:resource="http://www.wnd.com/news/article.asp?ARTICLE_ID=55564" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.news.com/8301-10784_3-9778087-7.html">
+<title>Prince lashes out at YouTube, eBay and The Pirate Bay | Tech news blog - CNET News.com</title>
+<link>http://www.news.com/8301-10784_3-9778087-7.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T22:44:47Z</dc:date>
+<dc:subject>law stickinbutt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/stickinbutt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.myfoxboston.com/myfox/pages/News/Detail?contentId=3581762&#x26;version=2&#x26;locale=EN-US&#x26;layoutCode=TSTY&#x26;pageId=3.8.1">
+<title>MyFox Boston | High School Yearbook Photo Blacked Out for Gay Kiss</title>
+<link>http://www.myfoxboston.com/myfox/pages/News/Detail?contentId=3581762&#x26;version=2&#x26;locale=EN-US&#x26;layoutCode=TSTY&#x26;pageId=3.8.1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-25T17:50:11Z</dc:date>
+<dc:subject>education stickinbutt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/stickinbutt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/nationworld/nation/la-na-schlafly19jun19,0,1038574.story">
+<title>A conservative's answer to Wikipedia - Los Angeles Times</title>
+<link>http://www.latimes.com/news/nationworld/nation/la-na-schlafly19jun19,0,1038574.story</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-23T01:48:49Z</dc:date>
+<dc:subject>dumbass religion stickinbutt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stickinbutt" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnn.com/2007/POLITICS/06/20/bush.stem.cell.ap/index.html?eref=rss_topstories">
+<title>Bush vetoes bill aimed at promoting stem cell research - CNN.com</title>
+<link>http://www.cnn.com/2007/POLITICS/06/20/bush.stem.cell.ap/index.html?eref=rss_topstories</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-22T16:45:36Z</dc:date>
+<dc:subject>politics stickinbutt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stickinbutt" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.cnn.com/magazines/business2/business2_archive/2007/06/01/100050989/index.htm?postversion=2007052205">
+<title>Kevin Ham, the $300 million master of Web domains - June 1, 2007</title>
+<link>http://money.cnn.com/magazines/business2/business2_archive/2007/06/01/100050989/index.htm?postversion=2007052205</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-23T00:26:32Z</dc:date>
+<dc:subject>stickinbutt web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stickinbutt" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://web.archive.org/web/20050209050454/www.thislife.org/pages/trax/text/adm2.html">
+<title>This American Life | The Informant: Campaign Contributions</title>
+<link>http://web.archive.org/web/20050209050454/www.thislife.org/pages/trax/text/adm2.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-07T20:33:13Z</dc:date>
+<dc:subject>stickinbutt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stickinbutt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wnd.com/news/article.asp?ARTICLE_ID=55564">
+<title>WorldNetDaily: Anti-God Starbucks cup has customer steaming</title>
+<link>http://www.wnd.com/news/article.asp?ARTICLE_ID=55564</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-06T22:21:13Z</dc:date>
+<dc:subject>religion stickinbutt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/stickinbutt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

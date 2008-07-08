@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/weird">
+<title>del.icio.us/retiman/weird</title>
+<link>http://del.icio.us/retiman/weird</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://listverse.com/science/9-extraordinary-human-abilities/" />
+  <rdf:li rdf:resource="http://www.signonsandiego.com/news/nation/20070907-1516-sawedleg.html" />
+  <rdf:li rdf:resource="http://www.bearsandbuds.com/July2007/Veggie-Art-July07.asp" />
+  <rdf:li rdf:resource="http://www.theregister.co.uk/2007/09/18/blizzard_disbands_roleplay_guild/" />
+  <rdf:li rdf:resource="http://www.thesun.co.uk/article/0,,2-2007420438,00.html" />
+  <rdf:li rdf:resource="http://www.fixedgeargallery.com/articles/evanmarks/china/EvanMarks.htm" />
+  <rdf:li rdf:resource="http://www.weirdasianews.com/2007/08/31/weird-asian-martial-arts-weapons/" />
+  <rdf:li rdf:resource="http://www.phonedaily.com/news/?news_id=6117" />
+  <rdf:li rdf:resource="http://blog.wired.com/gadgets/2007/08/gps-alarm-shoes.html" />
+  <rdf:li rdf:resource="http://www.livescience.com/animals/top10_vestigial_organs-1.html" />
+  <rdf:li rdf:resource="http://www.msnbc.msn.com/id/19740787/" />
+  <rdf:li rdf:resource="http://news.wired.com/dynamic/stories/C/CHINA_DINOSAUR_MEDICINE?SITE=WIRE&#x26;SECTION=HOME&#x26;TEMPLATE=DEFAULT" />
+  <rdf:li rdf:resource="http://www.foxnews.com/story/0,2933,190586,00.html" />
+  <rdf:li rdf:resource="http://www.cnn.com/2007/US/06/29/wrestler.ap/index.html?eref=rss_topstories" />
+  <rdf:li rdf:resource="http://en.wikinews.org/wiki/Death_of_Nancy_Benoit_rumour_posted_on_Wikipedia_hours_prior_to_body_being_found" />
+  <rdf:li rdf:resource="http://www.thedigitalbeat.com/2007/05/10-strangest-weapons-through-history.html/#/blank" />
+  <rdf:li rdf:resource="http://www.wired.com/techbiz/people/magazine/15-07/ff_hansreiser?currentPage=all" />
+  <rdf:li rdf:resource="http://www.cnn.com/2007/US/06/22/six.flags.accident/index.html" />
+  <rdf:li rdf:resource="http://www.abcnews.go.com/International/wireStory?id=3302237" />
+  <rdf:li rdf:resource="http://stuff.co.nz/4103247a4560.html" />
+  <rdf:li rdf:resource="http://www.steadyhealth.com/Will_anal_sex_make_my_butt_bigger_-t123634-0-asc-0.html" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/uk_news/england/merseyside/4253849.stm" />
+  <rdf:li rdf:resource="http://hngkong.wordpress.com/2007/06/08/arrested/" />
+  <rdf:li rdf:resource="http://www.reuters.com/article/oddlyEnoughNews/idUSPEK3449620070528?feedType=RSS" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/nationworld/world/la-fg-crimes27may27,0,4717805.story?coll=la-home-center" />
+  <rdf:li rdf:resource="http://www.cnn.com/2007/US/05/07/spiderboy.ap/index.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://listverse.com/science/9-extraordinary-human-abilities/">
+<title>9 Extraordinary Human Abilities - The List Universe</title>
+<link>http://listverse.com/science/9-extraordinary-human-abilities/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-29T15:56:19Z</dc:date>
+<dc:subject>biology evolution science weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.signonsandiego.com/news/nation/20070907-1516-sawedleg.html">
+<title>SignOnSanDiego.com &#x3E; News &#x3E; Nation -- Ark. man charged with rape, exploiting children saws halfway through his leg before trial</title>
+<link>http://www.signonsandiego.com/news/nation/20070907-1516-sawedleg.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-07T06:40:51Z</dc:date>
+<dc:subject>weird wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bearsandbuds.com/July2007/Veggie-Art-July07.asp">
+<title>Veggie-Art-July07</title>
+<link>http://www.bearsandbuds.com/July2007/Veggie-Art-July07.asp</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-24T03:28:50Z</dc:date>
+<dc:subject>cool funny weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theregister.co.uk/2007/09/18/blizzard_disbands_roleplay_guild/">
+<title>World of Warcraft smites den of orc and elf sexual delinquency | The Register</title>
+<link>http://www.theregister.co.uk/2007/09/18/blizzard_disbands_roleplay_guild/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-19T23:27:55Z</dc:date>
+<dc:subject>funny weird wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesun.co.uk/article/0,,2-2007420438,00.html">
+<title>The Sun Online - News: Dave shows off crocked fingers</title>
+<link>http://www.thesun.co.uk/article/0,,2-2007420438,00.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-16T08:57:12Z</dc:date>
+<dc:subject>retard weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/retard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fixedgeargallery.com/articles/evanmarks/china/EvanMarks.htm">
+<title>Fixed Gear Gallery :: Fwd: Skills only found in China</title>
+<link>http://www.fixedgeargallery.com/articles/evanmarks/china/EvanMarks.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-15T00:46:05Z</dc:date>
+<dc:subject>china funny weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.weirdasianews.com/2007/08/31/weird-asian-martial-arts-weapons/">
+<title>Weird Asian Martial Arts Weapons | Weird Asia News</title>
+<link>http://www.weirdasianews.com/2007/08/31/weird-asian-martial-arts-weapons/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T03:42:16Z</dc:date>
+<dc:subject>cool history weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.phonedaily.com/news/?news_id=6117">
+<title>PhoneDaily &#x624B;&#x6A5F;&#x65B0;&#x805E; MOTO Z6 &#x516C;&#x4ED4;&#x9650;&#x5B9A;&#x7248;&#x4E0A;&#x5E02;&#x3000;E6 &#x6A5F;&#x5668;&#x4EBA;&#x73FE;&#x8EAB;&#xFF01;</title>
+<link>http://www.phonedaily.com/news/?news_id=6117</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-06T18:40:21Z</dc:date>
+<dc:subject>weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/gadgets/2007/08/gps-alarm-shoes.html">
+<title>Wired Blogs: Gadget Lab</title>
+<link>http://blog.wired.com/gadgets/2007/08/gps-alarm-shoes.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-24T22:02:35Z</dc:date>
+<dc:subject>weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/animals/top10_vestigial_organs-1.html">
+<title>Top 10 Useless Limbs (and Other Vestigial Organs) | LiveScience</title>
+<link>http://www.livescience.com/animals/top10_vestigial_organs-1.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:29:04Z</dc:date>
+<dc:subject>evolution science weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.msnbc.msn.com/id/19740787/">
+<title>Gunman crashes party, gets hugs - Criminal Peculiarity - MSNBC.com</title>
+<link>http://www.msnbc.msn.com/id/19740787/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-15T00:32:35Z</dc:date>
+<dc:subject>funny weird wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.wired.com/dynamic/stories/C/CHINA_DINOSAUR_MEDICINE?SITE=WIRE&#x26;SECTION=HOME&#x26;TEMPLATE=DEFAULT">
+<title>Wired News - AP News</title>
+<link>http://news.wired.com/dynamic/stories/C/CHINA_DINOSAUR_MEDICINE?SITE=WIRE&#x26;SECTION=HOME&#x26;TEMPLATE=DEFAULT</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-06T01:56:45Z</dc:date>
+<dc:subject>china science weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.foxnews.com/story/0,2933,190586,00.html">
+<title>FOXNews.com - Did Pedophilia Hysteria Cause Child's Death? - Blog | Blogs | Popular Blogs | Video Blogs</title>
+<link>http://www.foxnews.com/story/0,2933,190586,00.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-29T22:56:39Z</dc:date>
+<dc:subject>weird wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnn.com/2007/US/06/29/wrestler.ap/index.html?eref=rss_topstories">
+<title>Wikipedia user admits changing Benoit entry - CNN.com</title>
+<link>http://www.cnn.com/2007/US/06/29/wrestler.ap/index.html?eref=rss_topstories</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-29T18:08:47Z</dc:date>
+<dc:subject>weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikinews.org/wiki/Death_of_Nancy_Benoit_rumour_posted_on_Wikipedia_hours_prior_to_body_being_found">
+<title>Death of Nancy Benoit rumour posted on Wikipedia hours prior to body being found - Wikinews</title>
+<link>http://en.wikinews.org/wiki/Death_of_Nancy_Benoit_rumour_posted_on_Wikipedia_hours_prior_to_body_being_found</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-28T22:46:31Z</dc:date>
+<dc:subject>weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thedigitalbeat.com/2007/05/10-strangest-weapons-through-history.html/#/blank">
+<title>10 Strangest Weapons through History - 10 Things You Never Knew About</title>
+<link>http://www.thedigitalbeat.com/2007/05/10-strangest-weapons-through-history.html/#/blank</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-28T08:10:32Z</dc:date>
+<dc:subject>cool history weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wired.com/techbiz/people/magazine/15-07/ff_hansreiser?currentPage=all">
+<title>Hans Reiser: Once a Linux Visionary, Now Accused of Murder</title>
+<link>http://www.wired.com/techbiz/people/magazine/15-07/ff_hansreiser?currentPage=all</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-26T10:07:24Z</dc:date>
+<dc:subject>weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnn.com/2007/US/06/22/six.flags.accident/index.html">
+<title>Report: Parks shut down drop-tower rides after teen loses feet - CNN.com</title>
+<link>http://www.cnn.com/2007/US/06/22/six.flags.accident/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-23T02:02:17Z</dc:date>
+<dc:subject>weird wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.abcnews.go.com/International/wireStory?id=3302237">
+<title>ABC News: Bomb Seized at Jerusalem Gay Parade</title>
+<link>http://www.abcnews.go.com/International/wireStory?id=3302237</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-21T22:40:18Z</dc:date>
+<dc:subject>weird wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://stuff.co.nz/4103247a4560.html">
+<title>Stab victim 'continued masturbating' - New Zealand's source for oddstuff - strange, weird &#x26; bizarre news on Stuff.co.nz</title>
+<link>http://stuff.co.nz/4103247a4560.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-21T05:46:16Z</dc:date>
+<dc:subject>weird wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.steadyhealth.com/Will_anal_sex_make_my_butt_bigger_-t123634-0-asc-0.html">
+<title>Will anal sex make my butt bigger? &#x3E;&#x3E; Medical Questions, Weight Loss, Pregnancy, Drugs, Health Insurance</title>
+<link>http://www.steadyhealth.com/Will_anal_sex_make_my_butt_bigger_-t123634-0-asc-0.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-17T07:19:15Z</dc:date>
+<dc:subject>funny weird wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/uk_news/england/merseyside/4253849.stm">
+<title>BBC NEWS | UK | England | Merseyside | Woman jailed for testicle attack</title>
+<link>http://news.bbc.co.uk/2/hi/uk_news/england/merseyside/4253849.stm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T02:38:44Z</dc:date>
+<dc:subject>weird wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hngkong.wordpress.com/2007/06/08/arrested/">
+<title>Arrested &#xAB; From the Mind of Charles</title>
+<link>http://hngkong.wordpress.com/2007/06/08/arrested/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T04:32:30Z</dc:date>
+<dc:subject>weird wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reuters.com/article/oddlyEnoughNews/idUSPEK3449620070528?feedType=RSS">
+<title>Woman seeks fame as face of Chairman Mao | Oddly Enough | Reuters</title>
+<link>http://www.reuters.com/article/oddlyEnoughNews/idUSPEK3449620070528?feedType=RSS</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T19:25:05Z</dc:date>
+<dc:subject>china funny weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/nationworld/world/la-fg-crimes27may27,0,4717805.story?coll=la-home-center">
+<title>Grisly crimes alarming Japan - Los Angeles Times</title>
+<link>http://www.latimes.com/news/nationworld/world/la-fg-crimes27may27,0,4717805.story?coll=la-home-center</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-28T04:22:37Z</dc:date>
+<dc:subject>weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnn.com/2007/US/05/07/spiderboy.ap/index.html">
+<title>Doctor finds spiders in ear of boy with earache - CNN.com</title>
+<link>http://www.cnn.com/2007/US/05/07/spiderboy.ap/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-25T21:39:49Z</dc:date>
+<dc:subject>cool weird wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

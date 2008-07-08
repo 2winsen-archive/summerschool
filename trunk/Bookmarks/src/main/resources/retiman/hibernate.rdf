@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/hibernate">
+<title>del.icio.us/retiman/hibernate</title>
+<link>http://del.icio.us/retiman/hibernate</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://code.google.com/p/spring-on-rails/" />
+  <rdf:li rdf:resource="http://www.p6spy.com/" />
+  <rdf:li rdf:resource="http://www.infoq.com/presentations/code-organization-large-projects" />
+  <rdf:li rdf:resource="http://www.onjava.com/pub/a/onjava/2007/06/07/agile-database-refactoring-with-hibernate.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://code.google.com/p/spring-on-rails/">
+<title>spring-on-rails - Google Code</title>
+<link>http://code.google.com/p/spring-on-rails/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-04T18:48:10Z</dc:date>
+<dc:subject>hibernate java rails ruby web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/hibernate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.p6spy.com/">
+<title>P6Spy Open Source Software</title>
+<link>http://www.p6spy.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-18T04:25:22Z</dc:date>
+<dc:subject>database hibernate java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/hibernate" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/presentations/code-organization-large-projects">
+<title>InfoQ: Code Organization Guidelines for Large Code Bases</title>
+<link>http://www.infoq.com/presentations/code-organization-large-projects</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-26T18:01:34Z</dc:date>
+<dc:subject>development hibernate java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/hibernate" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.onjava.com/pub/a/onjava/2007/06/07/agile-database-refactoring-with-hibernate.html">
+<title>ONJava.com -- Agile Database Refactoring with Hibernate</title>
+<link>http://www.onjava.com/pub/a/onjava/2007/06/07/agile-database-refactoring-with-hibernate.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:37:45Z</dc:date>
+<dc:subject>database hibernate java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/hibernate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

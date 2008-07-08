@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/rsync">
+<title>del.icio.us/retiman/rsync</title>
+<link>http://del.icio.us/retiman/rsync</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lifehacker.com/software/rsync/geek-to-live--mirror-files-across-systems-with-rsync-196122.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://lifehacker.com/software/rsync/geek-to-live--mirror-files-across-systems-with-rsync-196122.php">
+<title>Geek to Live: Mirror files across systems with rsync - Lifehacker</title>
+<link>http://lifehacker.com/software/rsync/geek-to-live--mirror-files-across-systems-with-rsync-196122.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-28T23:21:26Z</dc:date>
+<dc:subject>rsync</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rsync" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

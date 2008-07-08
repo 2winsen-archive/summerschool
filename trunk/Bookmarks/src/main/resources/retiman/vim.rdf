@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/vim">
+<title>del.icio.us/retiman/vim</title>
+<link>http://del.icio.us/retiman/vim</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11" />
+  <rdf:li rdf:resource="http://www.fprintf.net/vimCheatSheet.html" />
+  <rdf:li rdf:resource="http://lucumr.pocoo.org/articles/vim-as-development-environment" />
+  <rdf:li rdf:resource="http://vim.sourceforge.net/tips/tip.php?tip_id=385" />
+  <rdf:li rdf:resource="http://everything101.sourceforge.net/docs/papers/java_and_vim.html" />
+  <rdf:li rdf:resource="http://dgoodwin.dangerouslyinc.com/replacing-eclipse-vim-java-development" />
+  <rdf:li rdf:resource="http://shinyblue.net/itybits/vim/" />
+  <rdf:li rdf:resource="http://articles.techrepublic.com.com/5100-22-5054618.html" />
+  <rdf:li rdf:resource="http://jvi.sourceforge.net/" />
+  <rdf:li rdf:resource="http://rails.vim.tpope.net/#demonstrations" />
+  <rdf:li rdf:resource="http://ideavim.sourceforge.net/" />
+  <rdf:li rdf:resource="http://eclim.sourceforge.net/" />
+  <rdf:li rdf:resource="http://vimplugin.sourceforge.net/wiki/pmwiki.php" />
+  <rdf:li rdf:resource="http://viclipse.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.satokar.com/viplugin/" />
+  <rdf:li rdf:resource="http://wiki.rubyonrails.org/rails/pages/HowtoUseVimWithRails" />
+  <rdf:li rdf:resource="http://blog.interlinked.org/tutorials/vim_tutorial.html" />
+  <rdf:li rdf:resource="http://www.vim.org/scripts/script.php?script_id=1662" />
+  <rdf:li rdf:resource="http://rails.vim.tpope.net/#features" />
+  <rdf:li rdf:resource="http://www.servlets.com/blog/archives/000040.html" />
+  <rdf:li rdf:resource="http://hasno.info/2006/04/10/vim-7-ruby-omni-completion" />
+  <rdf:li rdf:resource="http://www-acs.ucsd.edu/info/vi_tutorial.shtml" />
+  <rdf:li rdf:resource="http://www.eng.hawaii.edu/Tutor/vi.html" />
+  <rdf:li rdf:resource="http://www-acs.ucsd.edu/info/vi_tutorial.php" />
+  <rdf:li rdf:resource="http://www.viemu.com/a-why-vi-vim.html" />
+  <rdf:li rdf:resource="http://devblog.famundo.com/articles/2007/03/08/how-i-learned-to-love-vim-and-ditched-eclipse" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11">
+<title>100 Vim commands every programmer should know</title>
+<link>http://www.catswhocode.com/blog/web-development/100-vim-commands-every-programmer-should-know-11</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-05T01:07:05Z</dc:date>
+<dc:subject>vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fprintf.net/vimCheatSheet.html">
+<title>Vim Commands Cheat Sheet</title>
+<link>http://www.fprintf.net/vimCheatSheet.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-23T07:36:46Z</dc:date>
+<dc:subject>vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lucumr.pocoo.org/articles/vim-as-development-environment">
+<title>Vim as Development Environment &#xBB; Articles &#xBB; Lucumr</title>
+<link>http://lucumr.pocoo.org/articles/vim-as-development-environment</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-15T08:41:30Z</dc:date>
+<dc:subject>java vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vim.sourceforge.net/tips/tip.php?tip_id=385">
+<title>Tip #385 - some java &#x26; vim tips : vim online</title>
+<link>http://vim.sourceforge.net/tips/tip.php?tip_id=385</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-15T05:24:03Z</dc:date>
+<dc:subject>java vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://everything101.sourceforge.net/docs/papers/java_and_vim.html">
+<title>ophinity :: papers :: java and vim</title>
+<link>http://everything101.sourceforge.net/docs/papers/java_and_vim.html</link>
+<description>map F :let &#x26;amp;fen = !&#x26;amp;fen</description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-15T04:48:25Z</dc:date>
+<dc:subject>java vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dgoodwin.dangerouslyinc.com/replacing-eclipse-vim-java-development">
+<title>Replacing Eclipse With Vim For Java Development | dgoodwin's blog</title>
+<link>http://dgoodwin.dangerouslyinc.com/replacing-eclipse-vim-java-development</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-15T04:47:45Z</dc:date>
+<dc:subject>java vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://shinyblue.net/itybits/vim/">
+<title>s h i n y b l u e Vim tips</title>
+<link>http://shinyblue.net/itybits/vim/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-11T23:29:16Z</dc:date>
+<dc:subject>linux vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://articles.techrepublic.com.com/5100-22-5054618.html">
+<title>Configure vi for Java application development</title>
+<link>http://articles.techrepublic.com.com/5100-22-5054618.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-06T01:11:51Z</dc:date>
+<dc:subject>vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jvi.sourceforge.net/">
+<title>jVi Home Page</title>
+<link>http://jvi.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-05T18:37:39Z</dc:date>
+<dc:subject>java vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rails.vim.tpope.net/#demonstrations">
+<title>rails.vim</title>
+<link>http://rails.vim.tpope.net/#demonstrations</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-24T21:55:00Z</dc:date>
+<dc:subject>rails ruby vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ideavim.sourceforge.net/">
+<title>VIM Emulator Plugin for IntelliJ IDEA</title>
+<link>http://ideavim.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-21T17:44:37Z</dc:date>
+<dc:subject>idea java vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/idea" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://eclim.sourceforge.net/">
+<title>Welcome to Eclim</title>
+<link>http://eclim.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-21T17:41:48Z</dc:date>
+<dc:subject>eclipse vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vimplugin.sourceforge.net/wiki/pmwiki.php">
+<title>Vimplugin Wiki : Home Page</title>
+<link>http://vimplugin.sourceforge.net/wiki/pmwiki.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-21T17:39:34Z</dc:date>
+<dc:subject>eclipse vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://viclipse.sourceforge.net/">
+<title>Viclipse</title>
+<link>http://viclipse.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-21T17:39:29Z</dc:date>
+<dc:subject>eclipse vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.satokar.com/viplugin/">
+<title>viPlugin for Eclipse | ... 'cause editing still is the way to code</title>
+<link>http://www.satokar.com/viplugin/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-21T17:22:47Z</dc:date>
+<dc:subject>eclipse java rails vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.rubyonrails.org/rails/pages/HowtoUseVimWithRails">
+<title>HowtoUseVimWithRails in Ruby on Rails</title>
+<link>http://wiki.rubyonrails.org/rails/pages/HowtoUseVimWithRails</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-20T23:24:44Z</dc:date>
+<dc:subject>rails ruby vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.interlinked.org/tutorials/vim_tutorial.html">
+<title>Vim Introduction and Tutorial - IMHO</title>
+<link>http://blog.interlinked.org/tutorials/vim_tutorial.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-20T23:04:02Z</dc:date>
+<dc:subject>linux vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vim.org/scripts/script.php?script_id=1662">
+<title>rubycomplete.vim - ruby omni-completion : vim online</title>
+<link>http://www.vim.org/scripts/script.php?script_id=1662</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-20T22:50:01Z</dc:date>
+<dc:subject>ruby vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rails.vim.tpope.net/#features">
+<title>rails.vim</title>
+<link>http://rails.vim.tpope.net/#features</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-20T22:49:52Z</dc:date>
+<dc:subject>rails ruby vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.servlets.com/blog/archives/000040.html">
+<title>Servlets.com Weblog: Why I stopped using vim and started using IntelliJ</title>
+<link>http://www.servlets.com/blog/archives/000040.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-20T22:33:27Z</dc:date>
+<dc:subject>eclipse idea vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/idea" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hasno.info/2006/04/10/vim-7-ruby-omni-completion">
+<title>tech addict - vim 7 ruby omni completion</title>
+<link>http://hasno.info/2006/04/10/vim-7-ruby-omni-completion</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-19T07:04:43Z</dc:date>
+<dc:subject>development ruby vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-acs.ucsd.edu/info/vi_tutorial.shtml">
+<title>ACS - Beginner's Guide to the Vi editor</title>
+<link>http://www-acs.ucsd.edu/info/vi_tutorial.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:33:23Z</dc:date>
+<dc:subject>development linux shell vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eng.hawaii.edu/Tutor/vi.html">
+<title>Mastering the VI editor</title>
+<link>http://www.eng.hawaii.edu/Tutor/vi.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-29T09:36:21Z</dc:date>
+<dc:subject>vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-acs.ucsd.edu/info/vi_tutorial.php">
+<title>Beginner's Guide to the Vi editor</title>
+<link>http://www-acs.ucsd.edu/info/vi_tutorial.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-08T03:07:34Z</dc:date>
+<dc:subject>howto linux vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.viemu.com/a-why-vi-vim.html">
+<title>Why, oh WHY, do those #?@! nutheads use vi?</title>
+<link>http://www.viemu.com/a-why-vi-vim.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-18T19:41:33Z</dc:date>
+<dc:subject>linux vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://devblog.famundo.com/articles/2007/03/08/how-i-learned-to-love-vim-and-ditched-eclipse">
+<title>How I learned to Love vim and Ditched Eclipse</title>
+<link>http://devblog.famundo.com/articles/2007/03/08/how-i-learned-to-love-vim-and-ditched-eclipse</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:18:27Z</dc:date>
+<dc:subject>development vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

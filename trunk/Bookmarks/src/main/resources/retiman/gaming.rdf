@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/gaming">
+<title>del.icio.us/retiman/gaming</title>
+<link>http://del.icio.us/retiman/gaming</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://the13blog.blogspot.com/2006/03/best-is-yet-to-come.html" />
+  <rdf:li rdf:resource="http://downloads.khinsider.com/" />
+  <rdf:li rdf:resource="http://www.geocities.com/bernardalgain/Lufia2.html" />
+  <rdf:li rdf:resource="http://chishm.drunkencoders.com/DLDI/" />
+  <rdf:li rdf:resource="http://t4ils.free.fr/Projets_NDS/StillAliveDS/site/index.php?page=download" />
+  <rdf:li rdf:resource="http://www.slate.com/id/2192407" />
+  <rdf:li rdf:resource="http://www.neogaf.com/forum/showthread.php?t=303161" />
+  <rdf:li rdf:resource="http://projects.elsallia.com/der-langrisser/downloads" />
+  <rdf:li rdf:resource="http://gamewiki.net/" />
+  <rdf:li rdf:resource="http://www.ff12sector.com/ff12_gameshark_codebreaker_codes.php" />
+  <rdf:li rdf:resource="http://forums.cmgsccc.com/showthread.php?t=22301" />
+  <rdf:li rdf:resource="http://finalfantasy.wikia.com/wiki/Main_Page" />
+  <rdf:li rdf:resource="http://boards.gamefaqs.com/gfaqs/genmessage.php?board=935695&#x26;topic=40065884" />
+  <rdf:li rdf:resource="http://www.savegamesconverter.co.uk/#" />
+  <rdf:li rdf:resource="http://www.nintendo-hacks.com/forums/t464.html" />
+  <rdf:li rdf:resource="http://www.escapistmagazine.com/articles/view/editorials/zeropunctuation/2901-Zero-Punctuation-Call-of-Duty-4" />
+  <rdf:li rdf:resource="http://members.shaw.ca/halflifestory/timeline.htm" />
+  <rdf:li rdf:resource="http://www.assassinscreed-maps.com/Maps.htm" />
+  <rdf:li rdf:resource="http://code.google.com/p/lioneditor/" />
+  <rdf:li rdf:resource="http://www.gamefaqs.com/computer/doswin/file/927314/43128" />
+  <rdf:li rdf:resource="http://psubuntu.com/installation-instructions/" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=343113" />
+  <rdf:li rdf:resource="http://linuxhelp.blogspot.com/2007/10/install-linux-on-sony-playstation-ps3.html" />
+  <rdf:li rdf:resource="http://magicseteditor.sourceforge.net/" />
+  <rdf:li rdf:resource="http://boards.gamefaqs.com/gfaqs/genmessage.php?board=937312&#x26;topic=39213391" />
+  <rdf:li rdf:resource="http://www.gamefaqs.com/portable/psp/file/937312/50422" />
+  <rdf:li rdf:resource="http://www.gamefaqs.com/console/wii/file/928517/50094" />
+  <rdf:li rdf:resource="http://www.games.net/article/feature/116721/stranded-the-top-25-games-that-wont-come-to-america/" />
+  <rdf:li rdf:resource="http://www.mrbass.org/nintendoDS/" />
+  <rdf:li rdf:resource="http://www.gamespot.com/psp/rpg/jeannedarc/show_msgs.php?topic_id=m-1-37835612&#x26;" />
+  <rdf:li rdf:resource="http://boardsus.playstation.com/playstation/board/message?board.id=jeannedarc&#x26;message.id=893" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://the13blog.blogspot.com/2006/03/best-is-yet-to-come.html">
+<title>The 13: The best is yet to come</title>
+<link>http://the13blog.blogspot.com/2006/03/best-is-yet-to-come.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-25T09:24:57Z</dc:date>
+<dc:subject>gaming music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://downloads.khinsider.com/">
+<title>Free MP3 downloads - Free Video Game OST - Game Soundtracks for download</title>
+<link>http://downloads.khinsider.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-25T08:45:10Z</dc:date>
+<dc:subject>gaming music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geocities.com/bernardalgain/Lufia2.html">
+<title>B.A.L.R.O.G. - Lufia2</title>
+<link>http://www.geocities.com/bernardalgain/Lufia2.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-24T01:34:31Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://chishm.drunkencoders.com/DLDI/">
+<title>DLDI - Dynamically Linked Device Interface for libfat</title>
+<link>http://chishm.drunkencoders.com/DLDI/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-20T13:53:13Z</dc:date>
+<dc:subject>ds gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ds" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://t4ils.free.fr/Projets_NDS/StillAliveDS/site/index.php?page=download">
+<title>StillAliveDS map sharing website !</title>
+<link>http://t4ils.free.fr/Projets_NDS/StillAliveDS/site/index.php?page=download</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-31T17:43:23Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slate.com/id/2192407">
+<title>Can Nintendo's Wii Fit get your sorry, lazy ass in shape? - By Seth Stevenson - Slate Magazine</title>
+<link>http://www.slate.com/id/2192407</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-30T23:00:02Z</dc:date>
+<dc:subject>gaming wii</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wii" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.neogaf.com/forum/showthread.php?t=303161">
+<title>Metal Gear Solid 4 Official Thread - No Place to Hide, No Time for a Legend to FoxDie - NeoGAF</title>
+<link>http://www.neogaf.com/forum/showthread.php?t=303161</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-30T17:54:25Z</dc:date>
+<dc:subject>gaming mgs4</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/mgs4" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://projects.elsallia.com/der-langrisser/downloads">
+<title>Langrisser Projects &#xBB; Downloads</title>
+<link>http://projects.elsallia.com/der-langrisser/downloads</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-19T12:15:25Z</dc:date>
+<dc:subject>gaming snes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/snes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gamewiki.net/">
+<title>Main Page - GameWiki</title>
+<link>http://gamewiki.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-11T11:08:31Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ff12sector.com/ff12_gameshark_codebreaker_codes.php">
+<title>FFXII Sector | CodeBreaker 2 / GameShark 2 Codes | The Ultimate Final Fantasy XII / FF12 / Final Fantasy 12 Source.</title>
+<link>http://www.ff12sector.com/ff12_gameshark_codebreaker_codes.php</link>
+<description>203B5E08 3C014120 203B5E1C 00000000</description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-06T08:24:02Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.cmgsccc.com/showthread.php?t=22301">
+<title>FAQ: PS2 Codebreaker 9.3 on PS3 - CMGSCCC Forums</title>
+<link>http://forums.cmgsccc.com/showthread.php?t=22301</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-04-20T06:31:07Z</dc:date>
+<dc:subject>codebreaker gaming ps2 ps3</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/ps2" />
+    <rdf:li resource="http://del.icio.us/tag/ps3" />
+    <rdf:li resource="http://del.icio.us/tag/codebreaker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://finalfantasy.wikia.com/wiki/Main_Page">
+<title>Main Page - The Final Fantasy Wiki has more Final Fantasy information than Cid could research</title>
+<link>http://finalfantasy.wikia.com/wiki/Main_Page</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-04-20T05:54:14Z</dc:date>
+<dc:subject>finalfantasy gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/finalfantasy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://boards.gamefaqs.com/gfaqs/genmessage.php?board=935695&#x26;topic=40065884">
+<title>Dokidoki Majo Shinpan! Message Board - Dokidoki Majo Shinpan! Forum - Dokidoki Majo Shinpan! Discussion</title>
+<link>http://boards.gamefaqs.com/gfaqs/genmessage.php?board=935695&#x26;topic=40065884</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-24T08:29:40Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.savegamesconverter.co.uk/#">
+<title>.:Savegames Converter - Problems:.</title>
+<link>http://www.savegamesconverter.co.uk/#</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-26T13:22:19Z</dc:date>
+<dc:subject>converter ds gaming savegame</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/ds" />
+    <rdf:li resource="http://del.icio.us/tag/savegame" />
+    <rdf:li resource="http://del.icio.us/tag/converter" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nintendo-hacks.com/forums/t464.html">
+<title>Wii Hacks - Nintendo-Hacks.com Forums</title>
+<link>http://www.nintendo-hacks.com/forums/t464.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-23T08:36:00Z</dc:date>
+<dc:subject>gaming hack howto wii</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wii" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.escapistmagazine.com/articles/view/editorials/zeropunctuation/2901-Zero-Punctuation-Call-of-Duty-4">
+<title>The Escapist : Zero Punctuation: Call of Duty 4</title>
+<link>http://www.escapistmagazine.com/articles/view/editorials/zeropunctuation/2901-Zero-Punctuation-Call-of-Duty-4</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-07T03:37:58Z</dc:date>
+<dc:subject>callofduty4 gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/callofduty4" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://members.shaw.ca/halflifestory/timeline.htm">
+<title>The Half Life Saga Story Guide</title>
+<link>http://members.shaw.ca/halflifestory/timeline.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-14T08:23:11Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.assassinscreed-maps.com/Maps.htm">
+<title>Assassin's Creed Interactive Maps</title>
+<link>http://www.assassinscreed-maps.com/Maps.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-13T09:39:12Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/lioneditor/">
+<title>lioneditor - Google Code</title>
+<link>http://code.google.com/p/lioneditor/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-08T20:12:10Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamefaqs.com/computer/doswin/file/927314/43128">
+<title>GameFAQs: Half-Life 2: Episode One (PC) FAQ/Walkthrough by Grawl</title>
+<link>http://www.gamefaqs.com/computer/doswin/file/927314/43128</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-27T01:26:52Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psubuntu.com/installation-instructions/">
+<title>psubuntu.com | Ubuntu on a Playstation 3 &#xBB; Instructions</title>
+<link>http://psubuntu.com/installation-instructions/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-17T21:15:10Z</dc:date>
+<dc:subject>gaming ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=343113">
+<title>HOWTO: Install Ubuntu on PS3 from Live CD - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=343113</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-17T21:14:37Z</dc:date>
+<dc:subject>gaming linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linuxhelp.blogspot.com/2007/10/install-linux-on-sony-playstation-ps3.html">
+<title>All about Linux: Install Linux on Sony Playstation PS3 - a collection of tutorials</title>
+<link>http://linuxhelp.blogspot.com/2007/10/install-linux-on-sony-playstation-ps3.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-16T07:56:18Z</dc:date>
+<dc:subject>gaming linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://magicseteditor.sourceforge.net/">
+<title>Welcome | Magic Set Editor</title>
+<link>http://magicseteditor.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-29T00:05:32Z</dc:date>
+<dc:subject>design gaming mtg software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://boards.gamefaqs.com/gfaqs/genmessage.php?board=937312&#x26;topic=39213391">
+<title>Final Fantasy Tactics: The War of the Lions Message Board - Final Fantasy Tactics: The War of the Lions Forum - Final Fantasy Tactics: The War of the Lions Discussion</title>
+<link>http://boards.gamefaqs.com/gfaqs/genmessage.php?board=937312&#x26;topic=39213391</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-24T06:43:57Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamefaqs.com/portable/psp/file/937312/50422">
+<title>GameFAQs: Final Fantasy Tactics: The War of the Lions (PSP) FAQ/Walkthrough by ErgGibbon</title>
+<link>http://www.gamefaqs.com/portable/psp/file/937312/50422</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-11T12:22:47Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamefaqs.com/console/wii/file/928517/50094">
+<title>GameFAQs: Metroid Prime 3: Corruption (WII) FAQ/Walkthrough by CyricZ</title>
+<link>http://www.gamefaqs.com/console/wii/file/928517/50094</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-07T05:27:26Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.games.net/article/feature/116721/stranded-the-top-25-games-that-wont-come-to-america/">
+<title>Stranded! The Top 25 Games that Haven't Come to America| Features | Games.net</title>
+<link>http://www.games.net/article/feature/116721/stranded-the-top-25-games-that-wont-come-to-america/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-28T01:01:14Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mrbass.org/nintendoDS/">
+<title>Newbie Guide Nintendo DS Lite Games</title>
+<link>http://www.mrbass.org/nintendoDS/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-21T05:50:18Z</dc:date>
+<dc:subject>gaming piracy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/piracy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamespot.com/psp/rpg/jeannedarc/show_msgs.php?topic_id=m-1-37835612&#x26;">
+<title>GameSpot Forums - Jeanne D'Arc - Bind List FAQs - 95% Done, already submitted as a partial guide</title>
+<link>http://www.gamespot.com/psp/rpg/jeannedarc/show_msgs.php?topic_id=m-1-37835612&#x26;</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-19T22:59:06Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://boardsus.playstation.com/playstation/board/message?board.id=jeannedarc&#x26;message.id=893">
+<title>here some faqs*super spoilers*+new details and 100%complete binding lists - Jeanne D'Arc (PSP&#x2122;) - PlayStation.com Forums</title>
+<link>http://boardsus.playstation.com/playstation/board/message?board.id=jeannedarc&#x26;message.id=893</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-19T22:58:56Z</dc:date>
+<dc:subject>gaming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

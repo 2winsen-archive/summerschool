@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/reference">
+<title>del.icio.us/retiman/reference</title>
+<link>http://del.icio.us/retiman/reference</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://scala.sygneca.com/" />
+  <rdf:li rdf:resource="http://mitpress.mit.edu/sicp/full-text/book/book.html" />
+  <rdf:li rdf:resource="http://thinking-forth.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.spinellis.gr/codereading/" />
+  <rdf:li rdf:resource="http://www.pickthebrain.com/blog/art-of-writing/?" />
+  <rdf:li rdf:resource="http://listverse.com/miscellaneous/20-amazing-optical-illusions/" />
+  <rdf:li rdf:resource="http://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html" />
+  <rdf:li rdf:resource="http://blog.i64.pl/PiosBlog/200610/29-linux-keyboard-shortcuts-you-should-know-about/" />
+  <rdf:li rdf:resource="http://www.livescience.com/health/top10_missinglinks.html" />
+  <rdf:li rdf:resource="http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/" />
+  <rdf:li rdf:resource="http://www.skepdic.com/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/technophilia/where-to-find-public-records-online-280785.php" />
+  <rdf:li rdf:resource="http://www.system666.net/want-free-internet-heres-how" />
+  <rdf:li rdf:resource="http://wiki.cotch.net/index.php/List_of_creationist_arguments" />
+  <rdf:li rdf:resource="http://www.biblegateway.com/" />
+  <rdf:li rdf:resource="http://exphone.org/" />
+  <rdf:li rdf:resource="http://www.survivaltopics.com/survival/the-5-basic-survival-skills/" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=189192" />
+  <rdf:li rdf:resource="http://consumerist.com/consumer/insiders/22-confessions-of-a-former-dell-sales-manager-268831.php" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/how-to/create-iso-disk-images-and-generate-md5-checksums-268304.php" />
+  <rdf:li rdf:resource="http://www.xsol.se/index.php/2007/04/29/feisty-performance-fly-like-a-butterfly/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/linux/library/l-linux-kernel/?S_TACT=105AGX59&#x26;S_CMP=GR&#x26;ca=dgr-btw01LKernalAnatomy" />
+  <rdf:li rdf:resource="http://www.atomicmpc.com.au/article.asp?CIID=82898" />
+  <rdf:li rdf:resource="http://money.howstuffworks.com/house-buying.htm" />
+  <rdf:li rdf:resource="http://www.digilife.be/quickreferences/quickrefs.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://scala.sygneca.com/">
+<title>start [Scala Wiki]</title>
+<link>http://scala.sygneca.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-15T22:56:13Z</dc:date>
+<dc:subject>languages reference scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mitpress.mit.edu/sicp/full-text/book/book.html">
+<title>Structure and Interpretation of Computer Programs</title>
+<link>http://mitpress.mit.edu/sicp/full-text/book/book.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:51:06Z</dc:date>
+<dc:subject>design development haskell howto reference software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/haskell" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinking-forth.sourceforge.net/">
+<title>Thinking Forth</title>
+<link>http://thinking-forth.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:50:30Z</dc:date>
+<dc:subject>design development reference software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spinellis.gr/codereading/">
+<title>Spinellis: Code Reading: The Open Source Perspective</title>
+<link>http://www.spinellis.gr/codereading/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:49:27Z</dc:date>
+<dc:subject>development reference software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pickthebrain.com/blog/art-of-writing/?">
+<title>Art of Writing - Writing Tips</title>
+<link>http://www.pickthebrain.com/blog/art-of-writing/?</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-14T05:36:31Z</dc:date>
+<dc:subject>education funny reference writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://listverse.com/miscellaneous/20-amazing-optical-illusions/">
+<title>20 Amazing Optical Illusions - The List Universe</title>
+<link>http://listverse.com/miscellaneous/20-amazing-optical-illusions/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T21:31:39Z</dc:date>
+<dc:subject>cool education image math psychology reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html">
+<title>Stevey's Blog Rants: Ten Tips for a (Slightly) Less Awful Resume</title>
+<link>http://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-27T01:28:53Z</dc:date>
+<dc:subject>job reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/job" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.i64.pl/PiosBlog/200610/29-linux-keyboard-shortcuts-you-should-know-about/">
+<title>Linux keyboard shortcuts you should know about &#xBB; Pio&#x2019;s Blog</title>
+<link>http://blog.i64.pl/PiosBlog/200610/29-linux-keyboard-shortcuts-you-should-know-about/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-19T01:19:04Z</dc:date>
+<dc:subject>linux reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/health/top10_missinglinks.html">
+<title>Top 10 Missing Links | LiveScience</title>
+<link>http://www.livescience.com/health/top10_missinglinks.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:30:56Z</dc:date>
+<dc:subject>evolution reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/">
+<title>Sed - Stream Editor - Cheat Sheet - good coders code, great reuse</title>
+<link>http://www.catonmat.net/blog/sed-stream-editor-cheat-sheet/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T21:35:56Z</dc:date>
+<dc:subject>linux reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.skepdic.com/">
+<title>The Skeptic's Dictionary</title>
+<link>http://www.skepdic.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-30T17:45:02Z</dc:date>
+<dc:subject>cool funny reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/technophilia/where-to-find-public-records-online-280785.php">
+<title>Technophilia: Where to find public records online - Lifehacker</title>
+<link>http://lifehacker.com/software/technophilia/where-to-find-public-records-online-280785.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-30T08:46:05Z</dc:date>
+<dc:subject>cool law reference web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.system666.net/want-free-internet-heres-how">
+<title>Want free internet? Heres how&#x2026; at System 666</title>
+<link>http://www.system666.net/want-free-internet-heres-how</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T08:13:08Z</dc:date>
+<dc:subject>howto reference security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.cotch.net/index.php/List_of_creationist_arguments">
+<title>List of creationist arguments - EvoWiki</title>
+<link>http://wiki.cotch.net/index.php/List_of_creationist_arguments</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-10T23:50:26Z</dc:date>
+<dc:subject>creationism evolution reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.biblegateway.com/">
+<title>BibleGateway.com: A searchable online Bible in over 50 versions and 35 languages.</title>
+<link>http://www.biblegateway.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-10T18:08:49Z</dc:date>
+<dc:subject>education reference religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://exphone.org/">
+<title>exPhone &#x2014; clever ways to responsibly reuse or recycle your old cell phone</title>
+<link>http://exphone.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-08T03:07:32Z</dc:date>
+<dc:subject>phone reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/phone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.survivaltopics.com/survival/the-5-basic-survival-skills/">
+<title>The 5 Basic Survival Skills</title>
+<link>http://www.survivaltopics.com/survival/the-5-basic-survival-skills/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-29T00:05:11Z</dc:date>
+<dc:subject>health howto reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=189192">
+<title>Improve performance in Ubuntu - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=189192</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-24T06:40:47Z</dc:date>
+<dc:subject>linux reference ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://consumerist.com/consumer/insiders/22-confessions-of-a-former-dell-sales-manager-268831.php">
+<title>Insiders: 22 Confessions Of A Former Dell Sales Manager - Consumerist</title>
+<link>http://consumerist.com/consumer/insiders/22-confessions-of-a-former-dell-sales-manager-268831.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-18T19:16:47Z</dc:date>
+<dc:subject>howto reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/how-to/create-iso-disk-images-and-generate-md5-checksums-268304.php">
+<title>How To: Create .iso disk images and generate MD5 checksums - Lifehacker</title>
+<link>http://lifehacker.com/software/how-to/create-iso-disk-images-and-generate-md5-checksums-268304.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T04:43:29Z</dc:date>
+<dc:subject>howto reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.xsol.se/index.php/2007/04/29/feisty-performance-fly-like-a-butterfly/">
+<title>&#xBB; Blog Archive &#xBB; Feisty Performance - &#x201C;Fly Like A Butterfly&#x201D;</title>
+<link>http://www.xsol.se/index.php/2007/04/29/feisty-performance-fly-like-a-butterfly/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T04:33:22Z</dc:date>
+<dc:subject>linux reference ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/linux/library/l-linux-kernel/?S_TACT=105AGX59&#x26;S_CMP=GR&#x26;ca=dgr-btw01LKernalAnatomy">
+<title>Anatomy of the Linux kernel</title>
+<link>http://www.ibm.com/developerworks/linux/library/l-linux-kernel/?S_TACT=105AGX59&#x26;S_CMP=GR&#x26;ca=dgr-btw01LKernalAnatomy</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-12T19:11:43Z</dc:date>
+<dc:subject>linux reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.atomicmpc.com.au/article.asp?CIID=82898">
+<title>Everything you ever wanted to know about video codecs. - Feature - Tech Talk - www.atomicmpc.com.au</title>
+<link>http://www.atomicmpc.com.au/article.asp?CIID=82898</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-12T19:11:28Z</dc:date>
+<dc:subject>reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.howstuffworks.com/house-buying.htm">
+<title>Howstuffworks &#x22;How Buying a House Works&#x22;</title>
+<link>http://money.howstuffworks.com/house-buying.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:58:09Z</dc:date>
+<dc:subject>home howto reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.digilife.be/quickreferences/quickrefs.htm">
+<title>Quick Reference Cards</title>
+<link>http://www.digilife.be/quickreferences/quickrefs.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T03:14:52Z</dc:date>
+<dc:subject>development howto reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

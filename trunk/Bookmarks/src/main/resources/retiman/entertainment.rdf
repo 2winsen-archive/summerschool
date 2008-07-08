@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/entertainment">
+<title>del.icio.us/retiman/entertainment</title>
+<link>http://del.icio.us/retiman/entertainment</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cracked.com/article_15074_20-best-that-guys-all-time.html" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Gold_Dust_Gasoline" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Debra_Jo_Rupp" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cracked.com/article_15074_20-best-that-guys-all-time.html">
+<title>The 20 Best &#x22;That Guys&#x22; of All Time | Cracked.com</title>
+<link>http://www.cracked.com/article_15074_20-best-that-guys-all-time.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-30T19:50:25Z</dc:date>
+<dc:subject>entertainment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Gold_Dust_Gasoline">
+<title>Gold Dust Gasoline - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Gold_Dust_Gasoline</link>
+<description>Kitty</description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-30T19:37:46Z</dc:date>
+<dc:subject>entertainment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Debra_Jo_Rupp">
+<title>Debra Jo Rupp - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Debra_Jo_Rupp</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-30T19:35:21Z</dc:date>
+<dc:subject>entertainment</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/entertainment" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

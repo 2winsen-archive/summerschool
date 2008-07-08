@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/dumbass">
+<title>del.icio.us/retiman/dumbass</title>
+<link>http://del.icio.us/retiman/dumbass</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.thestar.com/News/GTA/article/309855" />
+  <rdf:li rdf:resource="http://www.howardforums.com/announcement.php?f=181" />
+  <rdf:li rdf:resource="http://www.computerworld.com/action/article.do?command=viewArticleBasic&#x26;articleId=9056284&#x26;pageNumber=1" />
+  <rdf:li rdf:resource="http://www2.oprah.com/money/credit/slide/200710/credit_20071018_284_101.jhtml" />
+  <rdf:li rdf:resource="http://www.ocellated.com/2006/04/13/bill-nye-in-waco/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Carl_Baugh" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/nationworld/nation/la-na-schlafly19jun19,0,1038574.story" />
+  <rdf:li rdf:resource="http://tech.blorge.com/Structure:%20/2007/05/26/myspace-falsely-labeled-a-woman-as-sex-offender/" />
+  <rdf:li rdf:resource="http://scienceblogs.com/pharyngula/2007/05/another_christian_science_fair.php" />
+  <rdf:li rdf:resource="http://thinkprogress.org/2007/05/08/poe-kkk/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Series_of_tubes" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.thestar.com/News/GTA/article/309855">
+<title>TheStar.com | GTA | Student faces Facebook consequences</title>
+<link>http://www.thestar.com/News/GTA/article/309855</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-07T21:29:22Z</dc:date>
+<dc:subject>dumbass education technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howardforums.com/announcement.php?f=181">
+<title>HowardForums: Your Mobile Phone Community &#x26; Resource - Announcements in Forum: Windows Mobile Professional (Pocket PC)</title>
+<link>http://www.howardforums.com/announcement.php?f=181</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-07T21:29:09Z</dc:date>
+<dc:subject>dumbass technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.computerworld.com/action/article.do?command=viewArticleBasic&#x26;articleId=9056284&#x26;pageNumber=1">
+<title>Medco sys admin gets 30 months for planting logic bomb</title>
+<link>http://www.computerworld.com/action/article.do?command=viewArticleBasic&#x26;articleId=9056284&#x26;pageNumber=1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-09T19:50:55Z</dc:date>
+<dc:subject>dumbass</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www2.oprah.com/money/credit/slide/200710/credit_20071018_284_101.jhtml">
+<title>Keeping Up With the Joneses</title>
+<link>http://www2.oprah.com/money/credit/slide/200710/credit_20071018_284_101.jhtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-26T03:13:14Z</dc:date>
+<dc:subject>dumbass money retard wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/retard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ocellated.com/2006/04/13/bill-nye-in-waco/">
+<title>Ocellated &#xBB; Bill Nye in Waco</title>
+<link>http://www.ocellated.com/2006/04/13/bill-nye-in-waco/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-12T08:36:47Z</dc:date>
+<dc:subject>bible dumbass religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Carl_Baugh">
+<title>Carl Baugh - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Carl_Baugh</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T18:09:16Z</dc:date>
+<dc:subject>creationism dinosaur dumbass religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/dinosaur" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/nationworld/nation/la-na-schlafly19jun19,0,1038574.story">
+<title>A conservative's answer to Wikipedia - Los Angeles Times</title>
+<link>http://www.latimes.com/news/nationworld/nation/la-na-schlafly19jun19,0,1038574.story</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-23T01:48:49Z</dc:date>
+<dc:subject>dumbass religion stickinbutt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stickinbutt" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tech.blorge.com/Structure:%20/2007/05/26/myspace-falsely-labeled-a-woman-as-sex-offender/">
+<title>TECH.BLORGE.com &#xBB; Blog Archive &#xBB; MySpace falsely labeled a woman as sex offender</title>
+<link>http://tech.blorge.com/Structure:%20/2007/05/26/myspace-falsely-labeled-a-woman-as-sex-offender/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-08T23:12:50Z</dc:date>
+<dc:subject>dumbass wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scienceblogs.com/pharyngula/2007/05/another_christian_science_fair.php">
+<title>Pharyngula: Another Christian Science Fair embarrasses itself</title>
+<link>http://scienceblogs.com/pharyngula/2007/05/another_christian_science_fair.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-24T04:36:37Z</dc:date>
+<dc:subject>creationism dumbass funny religion wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinkprogress.org/2007/05/08/poe-kkk/">
+<title>Think Progress &#xBB; Rep. Poe Quotes Ku Klux Klan Grand Wizard On House Floor</title>
+<link>http://thinkprogress.org/2007/05/08/poe-kkk/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-08T18:14:38Z</dc:date>
+<dc:subject>dumbass</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Series_of_tubes">
+<title>Series of tubes - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Series_of_tubes</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-08T18:14:17Z</dc:date>
+<dc:subject>dumbass funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

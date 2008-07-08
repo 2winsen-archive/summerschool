@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/scala">
+<title>del.icio.us/retiman/scala</title>
+<link>http://del.icio.us/retiman/scala</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.reddit.com/r/programming/info/6qei3/comments/" />
+  <rdf:li rdf:resource="http://dlwh.blogspot.com/2008/05/dynamic-code-reloading-in-scala.html" />
+  <rdf:li rdf:resource="http://blog.tmorris.net/just-what-the-funk-is-a-functor-anyway/" />
+  <rdf:li rdf:resource="http://www.drmaciver.com/2008/06/scala-arrays/" />
+  <rdf:li rdf:resource="http://blog.lostlake.org/index.php?/archives/73-For-all-you-know,-its-just-another-Java-library.html" />
+  <rdf:li rdf:resource="http://github.com/dlwh/smr/tree/master" />
+  <rdf:li rdf:resource="http://yarivsblog.com/articles/2008/05/18/erlang-vs-scala/" />
+  <rdf:li rdf:resource="http://scalada.blogspot.com/2008/03/implicit-conversions-magical-and.html" />
+  <rdf:li rdf:resource="http://www.lexspoon.org/sbaz/tutorial.html" />
+  <rdf:li rdf:resource="http://users.utu.fi/hvkhut/scalad/infix.htm" />
+  <rdf:li rdf:resource="http://www.scala-lang.org/docu/files/api/scala/Int.html" />
+  <rdf:li rdf:resource="http://creativekarma.com/ee.php/weblog/comments/scala_function_objects_from_a_java_perspective/" />
+  <rdf:li rdf:resource="http://wiki.netbeans.org/Scala" />
+  <rdf:li rdf:resource="http://unenterprise.blogspot.com/2008/03/existential-types-in-scala.html" />
+  <rdf:li rdf:resource="http://blogs.sun.com/sundararajan/entry/scala_for_java_programmers_part" />
+  <rdf:li rdf:resource="http://scala.sygneca.com/" />
+  <rdf:li rdf:resource="http://www.artima.com/scalatest/doc-0.9.1/org/scalatest/Suite.html" />
+  <rdf:li rdf:resource="http://james-iry.blogspot.com/2007/08/martians-vs-monads-null-considered.html" />
+  <rdf:li rdf:resource="http://www.artima.com/scalatest/" />
+  <rdf:li rdf:resource="http://scala-tools.org/mvnsites/maven-scala-plugin/index.html" />
+  <rdf:li rdf:resource="http://www.artima.com/scalazine" />
+  <rdf:li rdf:resource="http://www.artima.com/scalazine/articles/steps.html" />
+  <rdf:li rdf:resource="http://scala.sygneca.com/code/start" />
+  <rdf:li rdf:resource="http://www.nabble.com/Mixed-Java-Scala-Project-Organization-td9054773s177.html#a9054773" />
+  <rdf:li rdf:resource="http://thread.gmane.org/gmane.comp.lang.scala/3189" />
+  <rdf:li rdf:resource="http://blogtrader.net/page/dcaoyuan/" />
+  <rdf:li rdf:resource="http://scala-blogs.org/2008/01/maven-for-scala.html" />
+  <rdf:li rdf:resource="http://www.codecommit.com/blog/scala/scala-for-java-refugees-part-1" />
+  <rdf:li rdf:resource="http://www.scala-lang.org/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.reddit.com/r/programming/info/6qei3/comments/">
+<title>programming: Are Scala's Case Classes A Failed Experiment?</title>
+<link>http://www.reddit.com/r/programming/info/6qei3/comments/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-06T21:24:58Z</dc:date>
+<dc:subject>scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dlwh.blogspot.com/2008/05/dynamic-code-reloading-in-scala.html">
+<title>:dlwh: Dynamic Code Reloading in the Scala Interpreter</title>
+<link>http://dlwh.blogspot.com/2008/05/dynamic-code-reloading-in-scala.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-06T20:17:28Z</dc:date>
+<dc:subject>java scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.tmorris.net/just-what-the-funk-is-a-functor-anyway/">
+<title>&#x3BB; Tony&#x2019;s blog &#x3BB; &#xBB; Blog Archive &#xBB; Just what the funk is a Functor anyway?</title>
+<link>http://blog.tmorris.net/just-what-the-funk-is-a-functor-anyway/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-29T05:12:16Z</dc:date>
+<dc:subject>java scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.drmaciver.com/2008/06/scala-arrays/">
+<title>David R. MacIver &#xBB; Blog Archive &#xBB; Scala arrays</title>
+<link>http://www.drmaciver.com/2008/06/scala-arrays/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-19T14:36:27Z</dc:date>
+<dc:subject>scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.lostlake.org/index.php?/archives/73-For-all-you-know,-its-just-another-Java-library.html">
+<title>For all you know, it's just another Java library - David Pollak's Blog</title>
+<link>http://blog.lostlake.org/index.php?/archives/73-For-all-you-know,-its-just-another-Java-library.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-02T06:58:34Z</dc:date>
+<dc:subject>java lift maven scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/lift" />
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://github.com/dlwh/smr/tree/master">
+<title>dlwh's smr at master &#x2014; GitHub</title>
+<link>http://github.com/dlwh/smr/tree/master</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-31T04:00:57Z</dc:date>
+<dc:subject>mapreduce scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/mapreduce" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://yarivsblog.com/articles/2008/05/18/erlang-vs-scala/">
+<title>Yariv&#x2019;s Blog &#xBB; Blog Archive &#xBB; Erlang vs. Scala</title>
+<link>http://yarivsblog.com/articles/2008/05/18/erlang-vs-scala/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-23T12:58:33Z</dc:date>
+<dc:subject>erlang scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/erlang" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scalada.blogspot.com/2008/03/implicit-conversions-magical-and.html">
+<title>Scalada - all about Scala: Implicit conversions - magical and demonic</title>
+<link>http://scalada.blogspot.com/2008/03/implicit-conversions-magical-and.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-11T10:32:24Z</dc:date>
+<dc:subject>scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lexspoon.org/sbaz/tutorial.html">
+<title>Scala Bazaar Tutorial</title>
+<link>http://www.lexspoon.org/sbaz/tutorial.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-07T11:36:39Z</dc:date>
+<dc:subject>scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://users.utu.fi/hvkhut/scalad/infix.htm">
+<title>Scalad - a salad of Scala abstractions</title>
+<link>http://users.utu.fi/hvkhut/scalad/infix.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-06T07:40:14Z</dc:date>
+<dc:subject>complex scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/complex" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scala-lang.org/docu/files/api/scala/Int.html">
+<title>class Int in package scala</title>
+<link>http://www.scala-lang.org/docu/files/api/scala/Int.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-29T00:34:55Z</dc:date>
+<dc:subject>int scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/int" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://creativekarma.com/ee.php/weblog/comments/scala_function_objects_from_a_java_perspective/">
+<title>CK: Scala function objects from a Java perspective</title>
+<link>http://creativekarma.com/ee.php/weblog/comments/scala_function_objects_from_a_java_perspective/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-21T23:10:32Z</dc:date>
+<dc:subject>scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.netbeans.org/Scala">
+<title>NetBeans Wiki: Scala</title>
+<link>http://wiki.netbeans.org/Scala</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-12T19:38:14Z</dc:date>
+<dc:subject>development netbeans scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/netbeans" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://unenterprise.blogspot.com/2008/03/existential-types-in-scala.html">
+<title>Desperately UnEnterprise: Existential types in Scala</title>
+<link>http://unenterprise.blogspot.com/2008/03/existential-types-in-scala.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-02T23:29:03Z</dc:date>
+<dc:subject>scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.sun.com/sundararajan/entry/scala_for_java_programmers_part">
+<title>A. Sundararajan's Weblog</title>
+<link>http://blogs.sun.com/sundararajan/entry/scala_for_java_programmers_part</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-18T05:39:29Z</dc:date>
+<dc:subject>scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scala.sygneca.com/">
+<title>start [Scala Wiki]</title>
+<link>http://scala.sygneca.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-15T22:56:13Z</dc:date>
+<dc:subject>languages reference scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artima.com/scalatest/doc-0.9.1/org/scalatest/Suite.html">
+<title>trait Suite in org.scalatest</title>
+<link>http://www.artima.com/scalatest/doc-0.9.1/org/scalatest/Suite.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-15T10:41:47Z</dc:date>
+<dc:subject>scala testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://james-iry.blogspot.com/2007/08/martians-vs-monads-null-considered.html">
+<title>One Div Zero: Martians vs Monads: Null Considered Harmful</title>
+<link>http://james-iry.blogspot.com/2007/08/martians-vs-monads-null-considered.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-15T03:54:25Z</dc:date>
+<dc:subject>monads scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/monads" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artima.com/scalatest/">
+<title>ScalaTest</title>
+<link>http://www.artima.com/scalatest/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-12T04:56:06Z</dc:date>
+<dc:subject>scala testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scala-tools.org/mvnsites/maven-scala-plugin/index.html">
+<title>maven-scala-plugin - maven-scala-plugin</title>
+<link>http://scala-tools.org/mvnsites/maven-scala-plugin/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-12T04:55:55Z</dc:date>
+<dc:subject>maven scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artima.com/scalazine">
+<title>Scalazine</title>
+<link>http://www.artima.com/scalazine</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-10T12:39:35Z</dc:date>
+<dc:subject>scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artima.com/scalazine/articles/steps.html">
+<title>First Steps to Scala</title>
+<link>http://www.artima.com/scalazine/articles/steps.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-10T10:46:52Z</dc:date>
+<dc:subject>scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scala.sygneca.com/code/start">
+<title>code:start [Scala Wiki]</title>
+<link>http://scala.sygneca.com/code/start</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-10T10:14:01Z</dc:date>
+<dc:subject>scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nabble.com/Mixed-Java-Scala-Project-Organization-td9054773s177.html#a9054773">
+<title>Nabble - Scala - Mixed Java Scala Project Organization</title>
+<link>http://www.nabble.com/Mixed-Java-Scala-Project-Organization-td9054773s177.html#a9054773</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-10T09:59:56Z</dc:date>
+<dc:subject>java scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thread.gmane.org/gmane.comp.lang.scala/3189">
+<title>Mixed-language project builds</title>
+<link>http://thread.gmane.org/gmane.comp.lang.scala/3189</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-10T09:59:47Z</dc:date>
+<dc:subject>java scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogtrader.net/page/dcaoyuan/">
+<title>Caoyuan's Blog</title>
+<link>http://blogtrader.net/page/dcaoyuan/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-10T05:12:08Z</dc:date>
+<dc:subject>java netbeans scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/netbeans" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scala-blogs.org/2008/01/maven-for-scala.html">
+<title>Scala Blog: maven for scala</title>
+<link>http://scala-blogs.org/2008/01/maven-for-scala.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-07T06:50:59Z</dc:date>
+<dc:subject>java maven scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codecommit.com/blog/scala/scala-for-java-refugees-part-1">
+<title>Code Commit: Scala for Java Refugees Part 1: main(String[])</title>
+<link>http://www.codecommit.com/blog/scala/scala-for-java-refugees-part-1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-14T23:11:19Z</dc:date>
+<dc:subject>scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scala-lang.org/">
+<title>The Scala Programming Language</title>
+<link>http://www.scala-lang.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-09T23:36:16Z</dc:date>
+<dc:subject>scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

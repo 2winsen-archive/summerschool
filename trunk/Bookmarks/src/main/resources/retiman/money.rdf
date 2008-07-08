@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/money">
+<title>del.icio.us/retiman/money</title>
+<link>http://del.icio.us/retiman/money</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://finance.yahoo.com/taxes/article/104297/The-13-Most-Overlooked-Tax-Deductions" />
+  <rdf:li rdf:resource="http://www2.oprah.com/money/credit/slide/200710/credit_20071018_284_101.jhtml" />
+  <rdf:li rdf:resource="http://efinancedirectory.com/articles/This_is_Why_I_Rent%3A_Median_Incomes_Do_Not_Support_Median_Home_Prices.html" />
+  <rdf:li rdf:resource="http://www.fortunewatch.com/how-a-millionaires-brain-works/" />
+  <rdf:li rdf:resource="http://www.aarpmagazine.org/money/avoid_money_traps.html" />
+  <rdf:li rdf:resource="http://www.getrichslowly.org/blog/2007/09/26/12-investing-mistakes-ive-made-and-how-you-can-learn-from-them/" />
+  <rdf:li rdf:resource="http://www.thesimpledollar.com/2007/08/23/getting-over-the-taboo-of-generics-and-store-brands/" />
+  <rdf:li rdf:resource="http://www.engadget.com/2007/08/07/hacking-a-coinstar-machine-to-bypass-transaction-fees/" />
+  <rdf:li rdf:resource="http://www.consumerist.com/consumer/retirement/3-common-401k-mistakes-279402.php" />
+  <rdf:li rdf:resource="http://consumerist.com/consumer/irs/man-dodges-taxes-for-10-years-wins-in-federal-district-court-279978.php" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2007/06/29/business/28cnd-bizcourt.htm" />
+  <rdf:li rdf:resource="http://reddit.com/info/223ab/comments" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2007/06/17/magazine/17lootfarmers-t.html?ei=5088&#x26;en=a6282d1ddf608fc1&#x26;ex=1339732800&#x26;partner=rssnyt&#x26;emc=rss&#x26;pagewanted=all" />
+  <rdf:li rdf:resource="https://www.expensr.com/" />
+  <rdf:li rdf:resource="http://money.howstuffworks.com/swiss-bank-account.htm" />
+  <rdf:li rdf:resource="http://money.howstuffworks.com/how-to-million-dollars.htm" />
+  <rdf:li rdf:resource="http://www.getrichslowly.org/blog/2007/06/07/how-to-start-a-roth-ira-and-where-to-do-it/" />
+  <rdf:li rdf:resource="http://www.invest-faq.com/" />
+  <rdf:li rdf:resource="http://www.howstuffworks.com/question436.htm" />
+  <rdf:li rdf:resource="http://www.howstuffworks.com/bank.htm" />
+  <rdf:li rdf:resource="http://www.howstuffworks.com/401k.htm" />
+  <rdf:li rdf:resource="http://www.howstuffworks.com/529.htm" />
+  <rdf:li rdf:resource="http://money.howstuffworks.com/stock.htm" />
+  <rdf:li rdf:resource="http://money.cnn.com/2006/06/13/magazines/fortune/forty1_retirementguide_fortune/index.htm" />
+  <rdf:li rdf:resource="http://michaelbluejay.com/house/" />
+  <rdf:li rdf:resource="http://www.thesimpledollar.com/2007/03/11/what-you-need-to-know-about-farmers-markets-and-ten-tips-for-maximizing-your-money-there/" />
+  <rdf:li rdf:resource="http://www.foxnews.com/story/0,2933,275655,00.html" />
+  <rdf:li rdf:resource="http://articles.moneycentral.msn.com/Banking/BetterBanking/WhenBanksTurnEvil.aspx?GT1=10019" />
+  <rdf:li rdf:resource="http://www.steve-olson.com/personal-responsibility-is-the-cornerstone-of-financial-literacy/" />
+  <rdf:li rdf:resource="http://patrick.net/housing/prices.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://finance.yahoo.com/taxes/article/104297/The-13-Most-Overlooked-Tax-Deductions">
+<title>http://finance.yahoo.com/taxes/article/104297/The-13-Most-Overlooked-Tax-Deductions</title>
+<link>http://finance.yahoo.com/taxes/article/104297/The-13-Most-Overlooked-Tax-Deductions</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-06T01:29:47Z</dc:date>
+<dc:subject>investing money taxes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/taxes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www2.oprah.com/money/credit/slide/200710/credit_20071018_284_101.jhtml">
+<title>Keeping Up With the Joneses</title>
+<link>http://www2.oprah.com/money/credit/slide/200710/credit_20071018_284_101.jhtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-26T03:13:14Z</dc:date>
+<dc:subject>dumbass money retard wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/retard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://efinancedirectory.com/articles/This_is_Why_I_Rent%3A_Median_Incomes_Do_Not_Support_Median_Home_Prices.html">
+<title>This is Why I Rent: Median Incomes Do Not Support Median Home Prices | eFinanceDirectory.com</title>
+<link>http://efinancedirectory.com/articles/This_is_Why_I_Rent%3A_Median_Incomes_Do_Not_Support_Median_Home_Prices.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-14T05:32:40Z</dc:date>
+<dc:subject>home money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fortunewatch.com/how-a-millionaires-brain-works/">
+<title>Fortune Watch &#xBB; How a Millionaire&#x2019;s Brain Works&#x2026;</title>
+<link>http://www.fortunewatch.com/how-a-millionaires-brain-works/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T19:22:43Z</dc:date>
+<dc:subject>funny money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aarpmagazine.org/money/avoid_money_traps.html">
+<title>Avoid These Money Traps</title>
+<link>http://www.aarpmagazine.org/money/avoid_money_traps.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-04T20:55:50Z</dc:date>
+<dc:subject>investing money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.getrichslowly.org/blog/2007/09/26/12-investing-mistakes-ive-made-and-how-you-can-learn-from-them/">
+<title>12 Investing Mistakes I&#x2019;ve Made (and How You Can Learn From Them) &#x221E; Get Rich Slowly</title>
+<link>http://www.getrichslowly.org/blog/2007/09/26/12-investing-mistakes-ive-made-and-how-you-can-learn-from-them/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-27T23:22:28Z</dc:date>
+<dc:subject>investing money stocks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/stocks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesimpledollar.com/2007/08/23/getting-over-the-taboo-of-generics-and-store-brands/">
+<title>The Simple Dollar &#xBB; Getting Over The &#x201C;Taboo&#x201D; Of Generics And Store Brands</title>
+<link>http://www.thesimpledollar.com/2007/08/23/getting-over-the-taboo-of-generics-and-store-brands/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-24T22:02:40Z</dc:date>
+<dc:subject>money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.engadget.com/2007/08/07/hacking-a-coinstar-machine-to-bypass-transaction-fees/">
+<title>Hacking a CoinStar machine to bypass transaction fees - Engadget</title>
+<link>http://www.engadget.com/2007/08/07/hacking-a-coinstar-machine-to-bypass-transaction-fees/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-07T18:06:19Z</dc:date>
+<dc:subject>money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.consumerist.com/consumer/retirement/3-common-401k-mistakes-279402.php">
+<title>Retirement: 3 Common 401(k) Mistakes - Consumerist</title>
+<link>http://www.consumerist.com/consumer/retirement/3-common-401k-mistakes-279402.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-21T03:00:38Z</dc:date>
+<dc:subject>401k money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/401k" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://consumerist.com/consumer/irs/man-dodges-taxes-for-10-years-wins-in-federal-district-court-279978.php">
+<title>IRS: Man Dodges Taxes For 10 Years, Wins In Federal District Court - Consumerist</title>
+<link>http://consumerist.com/consumer/irs/man-dodges-taxes-for-10-years-wins-in-federal-district-court-279978.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-21T02:59:28Z</dc:date>
+<dc:subject>cool law money taxes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/taxes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2007/06/29/business/28cnd-bizcourt.htm">
+<title>Justices End 96-Year-Old Ban on Price Floors - New York Times</title>
+<link>http://www.nytimes.com/2007/06/29/business/28cnd-bizcourt.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-29T20:43:10Z</dc:date>
+<dc:subject>money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://reddit.com/info/223ab/comments">
+<title>Say &#x22;Goodbye&#x22; to brand name discounts: Supreme Court OKs retail price fixing by manufacturers (reddit.com)</title>
+<link>http://reddit.com/info/223ab/comments</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-29T20:42:24Z</dc:date>
+<dc:subject>money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2007/06/17/magazine/17lootfarmers-t.html?ei=5088&#x26;en=a6282d1ddf608fc1&#x26;ex=1339732800&#x26;partner=rssnyt&#x26;emc=rss&#x26;pagewanted=all">
+<title>Video Games - China - Money - Online Games - New York Times</title>
+<link>http://www.nytimes.com/2007/06/17/magazine/17lootfarmers-t.html?ei=5088&#x26;en=a6282d1ddf608fc1&#x26;ex=1339732800&#x26;partner=rssnyt&#x26;emc=rss&#x26;pagewanted=all</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-20T20:15:45Z</dc:date>
+<dc:subject>china gaming money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.expensr.com/">
+<title>expensr.com - Where did all my money go?</title>
+<link>https://www.expensr.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T04:43:12Z</dc:date>
+<dc:subject>money web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.howstuffworks.com/swiss-bank-account.htm">
+<title>Howstuffworks &#x22;How Swiss Bank Accounts Work&#x22;</title>
+<link>http://money.howstuffworks.com/swiss-bank-account.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:57:55Z</dc:date>
+<dc:subject>howstuffworks howto money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howstuffworks" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.howstuffworks.com/how-to-million-dollars.htm">
+<title>Howstuffworks &#x22;How to Make a Million Dollars&#x22;</title>
+<link>http://money.howstuffworks.com/how-to-million-dollars.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:57:45Z</dc:date>
+<dc:subject>money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.getrichslowly.org/blog/2007/06/07/how-to-start-a-roth-ira-and-where-to-do-it/">
+<title>How to Start a Roth IRA (and Where to Do It) &#x221E; Get Rich Slowly</title>
+<link>http://www.getrichslowly.org/blog/2007/06/07/how-to-start-a-roth-ira-and-where-to-do-it/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:52:15Z</dc:date>
+<dc:subject>howto investing money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.invest-faq.com/">
+<title>The Investment FAQ: Home Page</title>
+<link>http://www.invest-faq.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T21:35:32Z</dc:date>
+<dc:subject>money stocks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/stocks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howstuffworks.com/question436.htm">
+<title>Howstuffworks &#x22;How do stock options work?&#x22;</title>
+<link>http://www.howstuffworks.com/question436.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T21:11:21Z</dc:date>
+<dc:subject>money stocks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/stocks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howstuffworks.com/bank.htm">
+<title>Howstuffworks &#x22;How Banks Work&#x22;</title>
+<link>http://www.howstuffworks.com/bank.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T21:11:06Z</dc:date>
+<dc:subject>money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howstuffworks.com/401k.htm">
+<title>Howstuffworks &#x22;How 401(k) Plans Work&#x22;</title>
+<link>http://www.howstuffworks.com/401k.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T21:10:52Z</dc:date>
+<dc:subject>401k investing money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/401k" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howstuffworks.com/529.htm">
+<title>Howstuffworks &#x22;How 529 Plans Work&#x22;</title>
+<link>http://www.howstuffworks.com/529.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T21:10:35Z</dc:date>
+<dc:subject>investing money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.howstuffworks.com/stock.htm">
+<title>Howstuffworks &#x22;How Stocks and the Stock Market Work&#x22;</title>
+<link>http://money.howstuffworks.com/stock.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T20:47:08Z</dc:date>
+<dc:subject>howstuffworks howto investing money stocks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stocks" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/howstuffworks" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.cnn.com/2006/06/13/magazines/fortune/forty1_retirementguide_fortune/index.htm">
+<title>The Fortune 40: The best stocks to buy now - Jun. 15, 2006</title>
+<link>http://money.cnn.com/2006/06/13/magazines/fortune/forty1_retirementguide_fortune/index.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T20:46:31Z</dc:date>
+<dc:subject>investing money stocks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/stocks" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://michaelbluejay.com/house/">
+<title>How to Buy a House -- A guide for first-time home buyers</title>
+<link>http://michaelbluejay.com/house/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T20:30:38Z</dc:date>
+<dc:subject>home howto money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesimpledollar.com/2007/03/11/what-you-need-to-know-about-farmers-markets-and-ten-tips-for-maximizing-your-money-there/">
+<title>The Simple Dollar &#xBB; What You Need To Know About Farmer&#x2019;s Markets - And Ten Tips For Maximizing Your Money There</title>
+<link>http://www.thesimpledollar.com/2007/03/11/what-you-need-to-know-about-farmers-markets-and-ten-tips-for-maximizing-your-money-there/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-27T22:46:17Z</dc:date>
+<dc:subject>health money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.foxnews.com/story/0,2933,275655,00.html">
+<title>FOXNews.com - U.S. Mint: 'Silver Surfer' Coin Is Breaking the Law - Celebrity Gossip | Entertainment News | Arts And Entertainment</title>
+<link>http://www.foxnews.com/story/0,2933,275655,00.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-27T10:32:27Z</dc:date>
+<dc:subject>funny money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://articles.moneycentral.msn.com/Banking/BetterBanking/WhenBanksTurnEvil.aspx?GT1=10019">
+<title>When banks turn evil - MSN Money</title>
+<link>http://articles.moneycentral.msn.com/Banking/BetterBanking/WhenBanksTurnEvil.aspx?GT1=10019</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-24T18:42:06Z</dc:date>
+<dc:subject>money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.steve-olson.com/personal-responsibility-is-the-cornerstone-of-financial-literacy/">
+<title>Personal Responsibility is the Cornerstone of Financial Literacy | steve-olson.com</title>
+<link>http://www.steve-olson.com/personal-responsibility-is-the-cornerstone-of-financial-literacy/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-21T19:06:59Z</dc:date>
+<dc:subject>money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://patrick.net/housing/prices.html">
+<title>What should you pay for a house?</title>
+<link>http://patrick.net/housing/prices.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:45:24Z</dc:date>
+<dc:subject>money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/design">
+<title>del.icio.us/retiman/design</title>
+<link>http://del.icio.us/retiman/design</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm" />
+  <rdf:li rdf:resource="http://htmlhelp.com/reference/html40/entities/symbols.html" />
+  <rdf:li rdf:resource="http://magicseteditor.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria" />
+  <rdf:li rdf:resource="http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled" />
+  <rdf:li rdf:resource="http://mitpress.mit.edu/sicp/full-text/book/book.html" />
+  <rdf:li rdf:resource="http://thinking-forth.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.ftponline.com/interviews/beck_cooper/" />
+  <rdf:li rdf:resource="http://weblogs.java.net/blog/robogeek/archive/2007/08/jdepend_and_cod.html" />
+  <rdf:li rdf:resource="http://thinkvitamin.com/features/design/web-design-isms-7-surefire-styles-that-work" />
+  <rdf:li rdf:resource="http://www.martinfowler.com/eaaCatalog/index.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">
+<title>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</title>
+<link>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-01T16:07:53Z</dc:date>
+<dc:subject>computer design development education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://htmlhelp.com/reference/html40/entities/symbols.html">
+<title>HTML 4.0 Entities for Symbols and Greek Letters</title>
+<link>http://htmlhelp.com/reference/html40/entities/symbols.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-28T02:02:11Z</dc:date>
+<dc:subject>css design html</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://magicseteditor.sourceforge.net/">
+<title>Welcome | Magic Set Editor</title>
+<link>http://magicseteditor.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-29T00:05:32Z</dc:date>
+<dc:subject>design gaming mtg software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria">
+<title>Antibiotic Resistance of Bacteria: An Example of Evolution in Action? - Answers in Genesis</title>
+<link>http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-16T04:18:46Z</dc:date>
+<dc:subject>atheism creationism design evolution idiocy religion wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/idiocy" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled">
+<title>Innovation | Don&#x2019;t invent, evolve | Economist.com</title>
+<link>http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-24T21:50:30Z</dc:date>
+<dc:subject>design evolution science software technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mitpress.mit.edu/sicp/full-text/book/book.html">
+<title>Structure and Interpretation of Computer Programs</title>
+<link>http://mitpress.mit.edu/sicp/full-text/book/book.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:51:06Z</dc:date>
+<dc:subject>design development haskell howto reference software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/haskell" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinking-forth.sourceforge.net/">
+<title>Thinking Forth</title>
+<link>http://thinking-forth.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:50:30Z</dc:date>
+<dc:subject>design development reference software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ftponline.com/interviews/beck_cooper/">
+<title>Extreme Programming vs. Interaction Design</title>
+<link>http://www.ftponline.com/interviews/beck_cooper/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-11T21:10:48Z</dc:date>
+<dc:subject>design development</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.java.net/blog/robogeek/archive/2007/08/jdepend_and_cod.html">
+<title>David Herron's Blog: JDepend and code complexity</title>
+<link>http://weblogs.java.net/blog/robogeek/archive/2007/08/jdepend_and_cod.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-23T08:16:57Z</dc:date>
+<dc:subject>design java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinkvitamin.com/features/design/web-design-isms-7-surefire-styles-that-work">
+<title>Vitamin Features &#xBB; Web Design-isms: 7 Surefire Styles that Work</title>
+<link>http://thinkvitamin.com/features/design/web-design-isms-7-surefire-styles-that-work</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-12T18:58:16Z</dc:date>
+<dc:subject>css design web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.martinfowler.com/eaaCatalog/index.html">
+<title>Catalog of Patterns of Enterprise Application Architecture</title>
+<link>http://www.martinfowler.com/eaaCatalog/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-06T05:10:01Z</dc:date>
+<dc:subject>design development java patterns software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/patterns" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/db2">
+<title>del.icio.us/retiman/db2</title>
+<link>http://del.icio.us/retiman/db2</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://users.sdsc.edu/~jrowley/db2/howto.html" />
+  <rdf:li rdf:resource="http://www.coffeecode.net/categories/3-DB2" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://users.sdsc.edu/~jrowley/db2/howto.html">
+<title>DB2 Basics</title>
+<link>http://users.sdsc.edu/~jrowley/db2/howto.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T23:41:09Z</dc:date>
+<dc:subject>database db2 sql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/db2" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.coffeecode.net/categories/3-DB2">
+<title>DB2 - Coffee|Code</title>
+<link>http://www.coffeecode.net/categories/3-DB2</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T21:00:57Z</dc:date>
+<dc:subject>db2 linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/db2" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

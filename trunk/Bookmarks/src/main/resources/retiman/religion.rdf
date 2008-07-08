@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/religion">
+<title>del.icio.us/retiman/religion</title>
+<link>http://del.icio.us/retiman/religion</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cnn.com/2008/US/01/09/hand.cut.off.ap/index.html?eref=rss_topstories" />
+  <rdf:li rdf:resource="http://www.conservapedia.com/Main_Page" />
+  <rdf:li rdf:resource="http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria" />
+  <rdf:li rdf:resource="http://www.lewrockwell.com/paul/paul148.html" />
+  <rdf:li rdf:resource="http://www.cbsnews.com/stories/2007/08/23/eveningnews/main3199062.shtml" />
+  <rdf:li rdf:resource="http://video.google.com/videoplay?docid=891776135764757633&#x26;q=god+is+not+great+debate&#x26;total=151&#x26;start=0&#x26;num=10&#x26;so=0&#x26;type=search&#x26;plindex=1" />
+  <rdf:li rdf:resource="http://www.ocellated.com/2006/04/13/bill-nye-in-waco/" />
+  <rdf:li rdf:resource="http://www.atheistnation.net/news/?atheist/article,00090" />
+  <rdf:li rdf:resource="http://pressesc.com/news/80931072007/atheist-doctors-more-likely-care-poor-religious-ones" />
+  <rdf:li rdf:resource="http://www.dailykos.com/storyonly/2007/7/22/9334/83825" />
+  <rdf:li rdf:resource="http://www.msnbc.msn.com/id/19956961/" />
+  <rdf:li rdf:resource="http://people.howstuffworks.com/intelligent-design.htm" />
+  <rdf:li rdf:resource="http://www.chron.com/disp/story.mpl/front/4968717.html" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Carl_Baugh" />
+  <rdf:li rdf:resource="http://www.powells.com/review/2007_07_14" />
+  <rdf:li rdf:resource="http://friendlyatheist.com/2007/07/12/atheist-podcasts/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Isaiah_7:14" />
+  <rdf:li rdf:resource="http://www.biblegateway.com/" />
+  <rdf:li rdf:resource="http://www.badastronomy.com/bablog/2007/07/01/what-happened-before-the-big-bang/" />
+  <rdf:li rdf:resource="http://blog.wired.com/wiredscience/2007/06/do-stem-cells-g.html" />
+  <rdf:li rdf:resource="http://www.theregister.co.uk/2007/06/25/id_not_science/" />
+  <rdf:li rdf:resource="http://www.opednews.com/articles/opedne_dennis_d_070614_questions_your_pasto.htm" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/nationworld/nation/la-na-schlafly19jun19,0,1038574.story" />
+  <rdf:li rdf:resource="http://www.straightdope.com/classics/a1_145.html" />
+  <rdf:li rdf:resource="http://gospelofreason.wordpress.com/2007/06/13/god-said-pi-3-stand-by-your-beliefs-dammit/" />
+  <rdf:li rdf:resource="http://destructionoverdrive.blogspot.com/2005/06/last-answer-by-isaac-asimov.html" />
+  <rdf:li rdf:resource="http://www.timesonline.co.uk/tol/news/uk/article571206.ece" />
+  <rdf:li rdf:resource="http://rawstory.com/showoutarticle.php?src=http%3A%2F%2Fwww.editorandpublisher.com%2Feandp%2Fnews%2Farticle_display.jsp%3Fvnu_content_id%3D1003590603" />
+  <rdf:li rdf:resource="http://www.zwire.com/site/news.cfm?newsid=18345643&#x26;BRD=2081&#x26;PAG=461&#x26;dept_id=385210&#x26;rfi=6" />
+  <rdf:li rdf:resource="http://scienceblogs.com/pharyngula/2007/05/another_christian_science_fair.php" />
+  <rdf:li rdf:resource="http://www.christianitytoday.com/tcw/1997/novdec/7w6046.html?start=1" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cnn.com/2008/US/01/09/hand.cut.off.ap/index.html?eref=rss_topstories">
+<title>Man sees 'mark,' cuts off hand - CNN.com</title>
+<link>http://www.cnn.com/2008/US/01/09/hand.cut.off.ap/index.html?eref=rss_topstories</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-09T19:38:48Z</dc:date>
+<dc:subject>religion wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.conservapedia.com/Main_Page">
+<title>Main Page - Conservapedia</title>
+<link>http://www.conservapedia.com/Main_Page</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-17T07:22:07Z</dc:date>
+<dc:subject>religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria">
+<title>Antibiotic Resistance of Bacteria: An Example of Evolution in Action? - Answers in Genesis</title>
+<link>http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-16T04:18:46Z</dc:date>
+<dc:subject>atheism creationism design evolution idiocy religion wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/idiocy" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lewrockwell.com/paul/paul148.html">
+<title>The War on Religion by Rep. Ron Paul</title>
+<link>http://www.lewrockwell.com/paul/paul148.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-10T21:57:58Z</dc:date>
+<dc:subject>politics religion ronpaul</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/ronpaul" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cbsnews.com/stories/2007/08/23/eveningnews/main3199062.shtml">
+<title>Letters Reveal Mother Teresa's Secret, Book Of Iconic Nun's Letters Shows She Was Tormented By Her Doubts In Her Faith - CBS News</title>
+<link>http://www.cbsnews.com/stories/2007/08/23/eveningnews/main3199062.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T18:43:56Z</dc:date>
+<dc:subject>atheism history news religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://video.google.com/videoplay?docid=891776135764757633&#x26;q=god+is+not+great+debate&#x26;total=151&#x26;start=0&#x26;num=10&#x26;so=0&#x26;type=search&#x26;plindex=1">
+<title>Christopher Hitchens vs Al Sharpton on Atheism and God - The Full Debate</title>
+<link>http://video.google.com/videoplay?docid=891776135764757633&#x26;q=god+is+not+great+debate&#x26;total=151&#x26;start=0&#x26;num=10&#x26;so=0&#x26;type=search&#x26;plindex=1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T05:07:21Z</dc:date>
+<dc:subject>atheism history politics religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ocellated.com/2006/04/13/bill-nye-in-waco/">
+<title>Ocellated &#xBB; Bill Nye in Waco</title>
+<link>http://www.ocellated.com/2006/04/13/bill-nye-in-waco/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-12T08:36:47Z</dc:date>
+<dc:subject>bible dumbass religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.atheistnation.net/news/?atheist/article,00090">
+<title>Atheist Nation | Atheist News | &#x22;Convert Or Die&#x22; Game Sent To Troops In Iraq w/Pentagon Blessing | Article 00090</title>
+<link>http://www.atheistnation.net/news/?atheist/article,00090</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-08T18:29:54Z</dc:date>
+<dc:subject>politics religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pressesc.com/news/80931072007/atheist-doctors-more-likely-care-poor-religious-ones">
+<title>Atheist doctors more likely to care for the poor than religious ones | Press Esc</title>
+<link>http://pressesc.com/news/80931072007/atheist-doctors-more-likely-care-poor-religious-ones</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T22:00:24Z</dc:date>
+<dc:subject>health religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dailykos.com/storyonly/2007/7/22/9334/83825">
+<title>Daily Kos: &#x22;The Only Moral Abortion Is My Abortion&#x22;</title>
+<link>http://www.dailykos.com/storyonly/2007/7/22/9334/83825</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-27T08:11:37Z</dc:date>
+<dc:subject>health politics psychology religion women wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/women" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.msnbc.msn.com/id/19956961/">
+<title>Pope: Creation vs. evolution an &#x2018;absurdity&#x2019; - Focus on the Vatican - MSNBC.com</title>
+<link>http://www.msnbc.msn.com/id/19956961/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-26T22:17:27Z</dc:date>
+<dc:subject>creationism evolution politics religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://people.howstuffworks.com/intelligent-design.htm">
+<title>Howstuffworks &#x22;How Intelligent Design Works&#x22;</title>
+<link>http://people.howstuffworks.com/intelligent-design.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-25T19:32:00Z</dc:date>
+<dc:subject>creationism evolution howstuffworks religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/howstuffworks" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.chron.com/disp/story.mpl/front/4968717.html">
+<title>Cypress murder suspect says he did 'right thing' | Chron.com - Houston Chronicle</title>
+<link>http://www.chron.com/disp/story.mpl/front/4968717.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T23:38:44Z</dc:date>
+<dc:subject>religion wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Carl_Baugh">
+<title>Carl Baugh - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Carl_Baugh</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T18:09:16Z</dc:date>
+<dc:subject>creationism dinosaur dumbass religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/dinosaur" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.powells.com/review/2007_07_14">
+<title>Powell's Books - Review-a-Day - Misquoting Jesus: The Story Behind Who Changed the Bible and Why by Bart D. Ehrman, reviewed by Powells.com</title>
+<link>http://www.powells.com/review/2007_07_14</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T08:23:18Z</dc:date>
+<dc:subject>atheism bible history religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://friendlyatheist.com/2007/07/12/atheist-podcasts/">
+<title>Friendly Atheist &#xBB; Atheist Podcasts</title>
+<link>http://friendlyatheist.com/2007/07/12/atheist-podcasts/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T20:20:50Z</dc:date>
+<dc:subject>atheism religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Isaiah_7:14">
+<title>Isaiah 7:14 - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Isaiah_7:14</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-10T18:23:42Z</dc:date>
+<dc:subject>bible religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.biblegateway.com/">
+<title>BibleGateway.com: A searchable online Bible in over 50 versions and 35 languages.</title>
+<link>http://www.biblegateway.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-10T18:08:49Z</dc:date>
+<dc:subject>education reference religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.badastronomy.com/bablog/2007/07/01/what-happened-before-the-big-bang/">
+<title>Bad Astronomy Blog &#xBB; What happened before the Big Bang?</title>
+<link>http://www.badastronomy.com/bablog/2007/07/01/what-happened-before-the-big-bang/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-06T22:32:49Z</dc:date>
+<dc:subject>religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/wiredscience/2007/06/do-stem-cells-g.html">
+<title>Wired Science - Wired Blogs</title>
+<link>http://blog.wired.com/wiredscience/2007/06/do-stem-cells-g.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-29T23:43:59Z</dc:date>
+<dc:subject>religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theregister.co.uk/2007/06/25/id_not_science/">
+<title>UK Gov boots intelligent design back into 'religious' margins | The Register</title>
+<link>http://www.theregister.co.uk/2007/06/25/id_not_science/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-26T00:39:14Z</dc:date>
+<dc:subject>politics religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.opednews.com/articles/opedne_dennis_d_070614_questions_your_pasto.htm">
+<title>Questions Your Pastor Will Hate</title>
+<link>http://www.opednews.com/articles/opedne_dennis_d_070614_questions_your_pasto.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-23T02:01:36Z</dc:date>
+<dc:subject>atheism education religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/nationworld/nation/la-na-schlafly19jun19,0,1038574.story">
+<title>A conservative's answer to Wikipedia - Los Angeles Times</title>
+<link>http://www.latimes.com/news/nationworld/nation/la-na-schlafly19jun19,0,1038574.story</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-23T01:48:49Z</dc:date>
+<dc:subject>dumbass religion stickinbutt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stickinbutt" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.straightdope.com/classics/a1_145.html">
+<title>The Straight Dope: How do courts swear in atheists?</title>
+<link>http://www.straightdope.com/classics/a1_145.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-22T01:11:09Z</dc:date>
+<dc:subject>atheism funny law religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gospelofreason.wordpress.com/2007/06/13/god-said-pi-3-stand-by-your-beliefs-dammit/">
+<title>God Said Pi = 3; Stand By Your Beliefs Dammit &#xAB; Gospel of Reason</title>
+<link>http://gospelofreason.wordpress.com/2007/06/13/god-said-pi-3-stand-by-your-beliefs-dammit/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T03:23:41Z</dc:date>
+<dc:subject>creationism math religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://destructionoverdrive.blogspot.com/2005/06/last-answer-by-isaac-asimov.html">
+<title>Kill 'Em All: The Last Answer, by Isaac Asimov.</title>
+<link>http://destructionoverdrive.blogspot.com/2005/06/last-answer-by-isaac-asimov.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T02:08:54Z</dc:date>
+<dc:subject>asimov religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/asimov" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.timesonline.co.uk/tol/news/uk/article571206.ece">
+<title>Societies worse off 'when they have God on their side'-News-UK-TimesOnline</title>
+<link>http://www.timesonline.co.uk/tol/news/uk/article571206.ece</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-12T21:25:33Z</dc:date>
+<dc:subject>atheism religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rawstory.com/showoutarticle.php?src=http%3A%2F%2Fwww.editorandpublisher.com%2Feandp%2Fnews%2Farticle_display.jsp%3Fvnu_content_id%3D1003590603">
+<title>education and religion</title>
+<link>http://rawstory.com/showoutarticle.php?src=http%3A%2F%2Fwww.editorandpublisher.com%2Feandp%2Fnews%2Farticle_display.jsp%3Fvnu_content_id%3D1003590603</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-26T11:18:34Z</dc:date>
+<dc:subject>education religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zwire.com/site/news.cfm?newsid=18345643&#x26;BRD=2081&#x26;PAG=461&#x26;dept_id=385210&#x26;rfi=6">
+<title>Georgetown Times</title>
+<link>http://www.zwire.com/site/news.cfm?newsid=18345643&#x26;BRD=2081&#x26;PAG=461&#x26;dept_id=385210&#x26;rfi=6</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-24T05:53:54Z</dc:date>
+<dc:subject>evolution funny religion wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scienceblogs.com/pharyngula/2007/05/another_christian_science_fair.php">
+<title>Pharyngula: Another Christian Science Fair embarrasses itself</title>
+<link>http://scienceblogs.com/pharyngula/2007/05/another_christian_science_fair.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-24T04:36:37Z</dc:date>
+<dc:subject>creationism dumbass funny religion wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.christianitytoday.com/tcw/1997/novdec/7w6046.html?start=1">
+<title>When Homosexuality Hits Home | Today's Christian Woman | Your Life. Your Faith. Your World.</title>
+<link>http://www.christianitytoday.com/tcw/1997/novdec/7w6046.html?start=1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-23T00:09:58Z</dc:date>
+<dc:subject>funny religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

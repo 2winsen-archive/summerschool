@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/iphone">
+<title>del.icio.us/retiman/iphone</title>
+<link>http://del.icio.us/retiman/iphone</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.badastronomy.com/bablog/2007/09/29/am-i-glad-i-didnt-buy-an-iphone/" />
+  <rdf:li rdf:resource="http://www.engadget.com/2007/09/12/first-free-open-gui-iphone-unlock-software-tested-it-works/" />
+  <rdf:li rdf:resource="http://www.engadget.com/2007/09/11/iunlock-released-the-first-free-open-source-iphone-sim-unlock/" />
+  <rdf:li rdf:resource="http://www.tuaw.com/2007/08/07/iphone-nes-fast-usable-totally-rewritten/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.badastronomy.com/bablog/2007/09/29/am-i-glad-i-didnt-buy-an-iphone/">
+<title>Bad Astronomy Blog &#xBB; Am I glad I didn&#x2019;t buy an iPhone!</title>
+<link>http://www.badastronomy.com/bablog/2007/09/29/am-i-glad-i-didnt-buy-an-iphone/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-17T00:10:44Z</dc:date>
+<dc:subject>iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.engadget.com/2007/09/12/first-free-open-gui-iphone-unlock-software-tested-it-works/">
+<title>First free, open, GUI iPhone unlock software tested: it works! - Engadget</title>
+<link>http://www.engadget.com/2007/09/12/first-free-open-gui-iphone-unlock-software-tested-it-works/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-12T19:19:03Z</dc:date>
+<dc:subject>hack iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.engadget.com/2007/09/11/iunlock-released-the-first-free-open-source-iphone-sim-unlock/">
+<title>iUnlock released: the first free, open source iPhone SIM unlock software - Engadget</title>
+<link>http://www.engadget.com/2007/09/11/iunlock-released-the-first-free-open-source-iphone-sim-unlock/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-12T06:47:19Z</dc:date>
+<dc:subject>hack iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.tuaw.com/2007/08/07/iphone-nes-fast-usable-totally-rewritten/">
+<title>iPhone NES: Fast, usable, totally rewritten - The Unofficial Apple Weblog (TUAW)</title>
+<link>http://www.tuaw.com/2007/08/07/iphone-nes-fast-usable-totally-rewritten/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-08T08:09:11Z</dc:date>
+<dc:subject>iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

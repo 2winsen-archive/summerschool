@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/generics">
+<title>del.icio.us/retiman/generics</title>
+<link>http://del.icio.us/retiman/generics</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/java/library/j-jtp07018.html?ca=drs-" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/java/library/j-jtp04298.html" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Generics_in_Java#Type_erasure" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.ibm.com/developerworks/java/library/j-jtp07018.html?ca=drs-">
+<title>Java theory and practice: Going wild with generics, Part 2</title>
+<link>http://www.ibm.com/developerworks/java/library/j-jtp07018.html?ca=drs-</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-06T19:52:36Z</dc:date>
+<dc:subject>generics java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/generics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/java/library/j-jtp04298.html">
+<title>Java theory and practice: Going wild with generics, Part 1</title>
+<link>http://www.ibm.com/developerworks/java/library/j-jtp04298.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-06T19:52:30Z</dc:date>
+<dc:subject>generics java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/generics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Generics_in_Java#Type_erasure">
+<title>Generics in Java - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Generics_in_Java#Type_erasure</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-14T05:15:43Z</dc:date>
+<dc:subject>generics java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/generics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

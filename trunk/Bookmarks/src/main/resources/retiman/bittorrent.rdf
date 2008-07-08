@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/bittorrent">
+<title>del.icio.us/retiman/bittorrent</title>
+<link>http://del.icio.us/retiman/bittorrent</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://wiki.torproject.org/noreply/TheOnionRouter/TorifyHOWTO/BitTorrent" />
+  <rdf:li rdf:resource="http://www.dessent.net/btfaq/#proxy" />
+  <rdf:li rdf:resource="http://torrentfreak.com/how-to-encrypt-bittorrent-traffic/" />
+  <rdf:li rdf:resource="http://www.opensubtitles.org/en" />
+  <rdf:li rdf:resource="http://rixstep.com/1/20060708,00.shtml" />
+  <rdf:li rdf:resource="http://www.mininova.org/" />
+  <rdf:li rdf:resource="http://thepiratebay.org/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="https://wiki.torproject.org/noreply/TheOnionRouter/TorifyHOWTO/BitTorrent">
+<title>TheOnionRouter/TorifyHOWTO/BitTorrent - Noreply Wiki</title>
+<link>https://wiki.torproject.org/noreply/TheOnionRouter/TorifyHOWTO/BitTorrent</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-05T07:02:46Z</dc:date>
+<dc:subject>bittorrent tor</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+    <rdf:li resource="http://del.icio.us/tag/tor" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dessent.net/btfaq/#proxy">
+<title>BitTorrent FAQ and Guide</title>
+<link>http://www.dessent.net/btfaq/#proxy</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-02T04:13:09Z</dc:date>
+<dc:subject>bittorrent proxy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+    <rdf:li resource="http://del.icio.us/tag/proxy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://torrentfreak.com/how-to-encrypt-bittorrent-traffic/">
+<title>How To Encrypt BitTorrent Traffic | TorrentFreak</title>
+<link>http://torrentfreak.com/how-to-encrypt-bittorrent-traffic/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-01T08:03:52Z</dc:date>
+<dc:subject>bittorrent</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.opensubtitles.org/en">
+<title>Subtitles - download DivX subtitles from the biggest open subtitles database</title>
+<link>http://www.opensubtitles.org/en</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-04T22:58:59Z</dc:date>
+<dc:subject>bittorrent dvd serials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/serials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rixstep.com/1/20060708,00.shtml">
+<title>Rixstep</title>
+<link>http://rixstep.com/1/20060708,00.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T21:29:37Z</dc:date>
+<dc:subject>bittorrent news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mininova.org/">
+<title>Mininova : The ultimate BitTorrent source!</title>
+<link>http://www.mininova.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-17T05:33:34Z</dc:date>
+<dc:subject>bittorrent</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thepiratebay.org/">
+<title>Download music, movies, games, software! The Pirate Bay - The worlds largest BitTorrent tracker</title>
+<link>http://thepiratebay.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-17T05:33:14Z</dc:date>
+<dc:subject>bittorrent</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

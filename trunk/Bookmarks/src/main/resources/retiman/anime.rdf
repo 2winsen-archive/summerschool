@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/anime">
+<title>del.icio.us/retiman/anime</title>
+<link>http://del.icio.us/retiman/anime</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.francescadani.com/cosplay/cosplay.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.francescadani.com/cosplay/cosplay.htm">
+<title>FrancescaDani.com :: Official Site Of Italian Model &#x26; Cosplay Performer</title>
+<link>http://www.francescadani.com/cosplay/cosplay.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-15T21:49:02Z</dc:date>
+<dc:subject>anime cosplay photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+    <rdf:li resource="http://del.icio.us/tag/cosplay" />
+    <rdf:li resource="http://del.icio.us/tag/anime" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

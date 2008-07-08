@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/home">
+<title>del.icio.us/retiman/home</title>
+<link>http://del.icio.us/retiman/home</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://efinancedirectory.com/articles/This_is_Why_I_Rent%3A_Median_Incomes_Do_Not_Support_Median_Home_Prices.html" />
+  <rdf:li rdf:resource="http://www.linuxmce.org/" />
+  <rdf:li rdf:resource="http://money.howstuffworks.com/house-buying.htm" />
+  <rdf:li rdf:resource="http://michaelbluejay.com/house/" />
+  <rdf:li rdf:resource="http://www.realsimple.com/realsimple/content/0,21770,1020737,00.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://efinancedirectory.com/articles/This_is_Why_I_Rent%3A_Median_Incomes_Do_Not_Support_Median_Home_Prices.html">
+<title>This is Why I Rent: Median Incomes Do Not Support Median Home Prices | eFinanceDirectory.com</title>
+<link>http://efinancedirectory.com/articles/This_is_Why_I_Rent%3A_Median_Incomes_Do_Not_Support_Median_Home_Prices.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-14T05:32:40Z</dc:date>
+<dc:subject>home money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linuxmce.org/">
+<title>LinuxMCE</title>
+<link>http://www.linuxmce.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-14T20:17:18Z</dc:date>
+<dc:subject>home linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.howstuffworks.com/house-buying.htm">
+<title>Howstuffworks &#x22;How Buying a House Works&#x22;</title>
+<link>http://money.howstuffworks.com/house-buying.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:58:09Z</dc:date>
+<dc:subject>home howto reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://michaelbluejay.com/house/">
+<title>How to Buy a House -- A guide for first-time home buyers</title>
+<link>http://michaelbluejay.com/house/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T20:30:38Z</dc:date>
+<dc:subject>home howto money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.realsimple.com/realsimple/content/0,21770,1020737,00.html">
+<title>The Keep-It-Clean Plan | Cleaning : RealSimple.com</title>
+<link>http://www.realsimple.com/realsimple/content/0,21770,1020737,00.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T19:50:17Z</dc:date>
+<dc:subject>cleaning home howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/cleaning" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

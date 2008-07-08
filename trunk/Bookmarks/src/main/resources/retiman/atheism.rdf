@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/atheism">
+<title>del.icio.us/retiman/atheism</title>
+<link>http://del.icio.us/retiman/atheism</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria" />
+  <rdf:li rdf:resource="http://www.cbsnews.com/stories/2007/08/23/eveningnews/main3199062.shtml" />
+  <rdf:li rdf:resource="http://video.google.com/videoplay?docid=891776135764757633&#x26;q=god+is+not+great+debate&#x26;total=151&#x26;start=0&#x26;num=10&#x26;so=0&#x26;type=search&#x26;plindex=1" />
+  <rdf:li rdf:resource="http://www.powells.com/review/2007_07_14" />
+  <rdf:li rdf:resource="http://friendlyatheist.com/2007/07/12/atheist-podcasts/" />
+  <rdf:li rdf:resource="http://www.infidels.org/library/modern/mathew/arguments.html#lll" />
+  <rdf:li rdf:resource="http://www.badastronomy.com/" />
+  <rdf:li rdf:resource="http://www.opednews.com/articles/opedne_dennis_d_070614_questions_your_pasto.htm" />
+  <rdf:li rdf:resource="http://www.caseagainstfaith.com/" />
+  <rdf:li rdf:resource="http://www.rationalresponders.com/" />
+  <rdf:li rdf:resource="http://www.midwest-populistamerica.com/articles/militant-atheism/" />
+  <rdf:li rdf:resource="http://www.straightdope.com/classics/a1_145.html" />
+  <rdf:li rdf:resource="http://www.evolutionvscreationism.info/Evolution%20vs.%20Creationism/The%20Scientists.html" />
+  <rdf:li rdf:resource="http://www.timesonline.co.uk/tol/news/uk/article571206.ece" />
+  <rdf:li rdf:resource="http://sciam.com/article.cfm?articleId=000D4FEC-7D5B-1D07-8E49809EC588EEDF&#x26;chanId=sa013&#x26;modsrc=most_popular" />
+  <rdf:li rdf:resource="http://cosmicvariance.com/2005/10/10/the-world-is-not-magic/" />
+  <rdf:li rdf:resource="http://profnewport.blogspot.com/2007/04/myth-of-atheist-hitler.html" />
+  <rdf:li rdf:resource="http://science.slashdot.org/article.pl?sid=07/03/31/1919214&#x26;from=rss" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/opinion/la-op-harris24dec24,0,3994298.story?page=1&#x26;track=tottext" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria">
+<title>Antibiotic Resistance of Bacteria: An Example of Evolution in Action? - Answers in Genesis</title>
+<link>http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-16T04:18:46Z</dc:date>
+<dc:subject>atheism creationism design evolution idiocy religion wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/idiocy" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cbsnews.com/stories/2007/08/23/eveningnews/main3199062.shtml">
+<title>Letters Reveal Mother Teresa's Secret, Book Of Iconic Nun's Letters Shows She Was Tormented By Her Doubts In Her Faith - CBS News</title>
+<link>http://www.cbsnews.com/stories/2007/08/23/eveningnews/main3199062.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T18:43:56Z</dc:date>
+<dc:subject>atheism history news religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://video.google.com/videoplay?docid=891776135764757633&#x26;q=god+is+not+great+debate&#x26;total=151&#x26;start=0&#x26;num=10&#x26;so=0&#x26;type=search&#x26;plindex=1">
+<title>Christopher Hitchens vs Al Sharpton on Atheism and God - The Full Debate</title>
+<link>http://video.google.com/videoplay?docid=891776135764757633&#x26;q=god+is+not+great+debate&#x26;total=151&#x26;start=0&#x26;num=10&#x26;so=0&#x26;type=search&#x26;plindex=1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T05:07:21Z</dc:date>
+<dc:subject>atheism history politics religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.powells.com/review/2007_07_14">
+<title>Powell's Books - Review-a-Day - Misquoting Jesus: The Story Behind Who Changed the Bible and Why by Bart D. Ehrman, reviewed by Powells.com</title>
+<link>http://www.powells.com/review/2007_07_14</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T08:23:18Z</dc:date>
+<dc:subject>atheism bible history religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://friendlyatheist.com/2007/07/12/atheist-podcasts/">
+<title>Friendly Atheist &#xBB; Atheist Podcasts</title>
+<link>http://friendlyatheist.com/2007/07/12/atheist-podcasts/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T20:20:50Z</dc:date>
+<dc:subject>atheism religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infidels.org/library/modern/mathew/arguments.html#lll">
+<title>Atheism: Common Arguments</title>
+<link>http://www.infidels.org/library/modern/mathew/arguments.html#lll</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-10T20:09:23Z</dc:date>
+<dc:subject>atheism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.badastronomy.com/">
+<title>Bad Astronomy Blog</title>
+<link>http://www.badastronomy.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-06T22:33:07Z</dc:date>
+<dc:subject>atheism funny science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.opednews.com/articles/opedne_dennis_d_070614_questions_your_pasto.htm">
+<title>Questions Your Pastor Will Hate</title>
+<link>http://www.opednews.com/articles/opedne_dennis_d_070614_questions_your_pasto.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-23T02:01:36Z</dc:date>
+<dc:subject>atheism education religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.caseagainstfaith.com/">
+<title>Case Against Faith: Debunking Lee Strobel and promoting atheism</title>
+<link>http://www.caseagainstfaith.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-22T23:56:49Z</dc:date>
+<dc:subject>atheism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rationalresponders.com/">
+<title>Welcome to the Rational Response Squad! | Rational Responders</title>
+<link>http://www.rationalresponders.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-22T23:47:50Z</dc:date>
+<dc:subject>atheism education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.midwest-populistamerica.com/articles/militant-atheism/">
+<title>&#x201C;Militant Atheism&#x201D;?</title>
+<link>http://www.midwest-populistamerica.com/articles/militant-atheism/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-22T20:47:17Z</dc:date>
+<dc:subject>atheism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.straightdope.com/classics/a1_145.html">
+<title>The Straight Dope: How do courts swear in atheists?</title>
+<link>http://www.straightdope.com/classics/a1_145.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-22T01:11:09Z</dc:date>
+<dc:subject>atheism funny law religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evolutionvscreationism.info/Evolution%20vs.%20Creationism/The%20Scientists.html">
+<title>The Scientists</title>
+<link>http://www.evolutionvscreationism.info/Evolution%20vs.%20Creationism/The%20Scientists.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-14T16:59:17Z</dc:date>
+<dc:subject>atheism creationism education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.timesonline.co.uk/tol/news/uk/article571206.ece">
+<title>Societies worse off 'when they have God on their side'-News-UK-TimesOnline</title>
+<link>http://www.timesonline.co.uk/tol/news/uk/article571206.ece</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-12T21:25:33Z</dc:date>
+<dc:subject>atheism religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sciam.com/article.cfm?articleId=000D4FEC-7D5B-1D07-8E49809EC588EEDF&#x26;chanId=sa013&#x26;modsrc=most_popular">
+<title>15 Answers to Creationist Nonsense: Scientific American</title>
+<link>http://sciam.com/article.cfm?articleId=000D4FEC-7D5B-1D07-8E49809EC588EEDF&#x26;chanId=sa013&#x26;modsrc=most_popular</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-20T01:57:01Z</dc:date>
+<dc:subject>atheism creationism education evolution religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cosmicvariance.com/2005/10/10/the-world-is-not-magic/">
+<title>The world is not magic | Cosmic Variance</title>
+<link>http://cosmicvariance.com/2005/10/10/the-world-is-not-magic/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-19T22:38:43Z</dc:date>
+<dc:subject>atheism religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://profnewport.blogspot.com/2007/04/myth-of-atheist-hitler.html">
+<title>The People's Republic Of Newport: The myth of an atheist Hitler</title>
+<link>http://profnewport.blogspot.com/2007/04/myth-of-atheist-hitler.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-26T18:36:48Z</dc:date>
+<dc:subject>atheism religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://science.slashdot.org/article.pl?sid=07/03/31/1919214&#x26;from=rss">
+<title>Slashdot | 48% of Americans Reject Evolution</title>
+<link>http://science.slashdot.org/article.pl?sid=07/03/31/1919214&#x26;from=rss</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:44:30Z</dc:date>
+<dc:subject>atheism evolution religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/opinion/la-op-harris24dec24,0,3994298.story?page=1&#x26;track=tottext">
+<title>10 myths about atheism</title>
+<link>http://www.latimes.com/news/opinion/la-op-harris24dec24,0,3994298.story?page=1&#x26;track=tottext</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T07:18:53Z</dc:date>
+<dc:subject>atheism</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

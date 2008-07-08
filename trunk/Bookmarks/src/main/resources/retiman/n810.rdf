@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/n810">
+<title>del.icio.us/retiman/n810</title>
+<link>http://del.icio.us/retiman/n810</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://maemo.org/development/documentation/how-tos/3-x/howto_customization_bora.html" />
+  <rdf:li rdf:resource="http://forum.brighthand.com/showthread.php?t=251086" />
+  <rdf:li rdf:resource="http://code.google.com/p/erminig/downloads/list" />
+  <rdf:li rdf:resource="http://www.nokia.com/betalabs/videoconverter" />
+  <rdf:li rdf:resource="http://maemo.org/community/wiki/ApplicationCatalog2006#5dc83fa04b1bd6c3e90d22164f2bcf15" />
+  <rdf:li rdf:resource="http://www.arachnoid.com/linux/nokia/index.html" />
+  <rdf:li rdf:resource="http://oss.kernelconcepts.de/maemo/" />
+  <rdf:li rdf:resource="http://tabletschool.blogspot.com/2007/10/nokia-n810-and-nokia-n800-everything.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://maemo.org/development/documentation/how-tos/3-x/howto_customization_bora.html">
+<title>maemo.org - Maemo 3.x: How-to: Customizing and theming maemo</title>
+<link>http://maemo.org/development/documentation/how-tos/3-x/howto_customization_bora.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-04T18:51:02Z</dc:date>
+<dc:subject>maemo n810</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maemo" />
+    <rdf:li resource="http://del.icio.us/tag/n810" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.brighthand.com/showthread.php?t=251086">
+<title>N810 and Maemo Mapper - Brighthand.com Smartphone and PDA Discussion Forums</title>
+<link>http://forum.brighthand.com/showthread.php?t=251086</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-10T23:27:57Z</dc:date>
+<dc:subject>n810</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/n810" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/erminig/downloads/list">
+<title>erminig - Google Code</title>
+<link>http://code.google.com/p/erminig/downloads/list</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-10T22:32:09Z</dc:date>
+<dc:subject>n810</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/n810" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nokia.com/betalabs/videoconverter">
+<title>Nokia - Internet Tablet Video Converter - Beta Labs</title>
+<link>http://www.nokia.com/betalabs/videoconverter</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-07T07:09:35Z</dc:date>
+<dc:subject>n810</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/n810" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://maemo.org/community/wiki/ApplicationCatalog2006#5dc83fa04b1bd6c3e90d22164f2bcf15">
+<title>maemo.org - ApplicationCatalog2006</title>
+<link>http://maemo.org/community/wiki/ApplicationCatalog2006#5dc83fa04b1bd6c3e90d22164f2bcf15</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-06T20:43:36Z</dc:date>
+<dc:subject>maemo n810</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/n810" />
+    <rdf:li resource="http://del.icio.us/tag/maemo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.arachnoid.com/linux/nokia/index.html">
+<title>Hacking the Nokia N810</title>
+<link>http://www.arachnoid.com/linux/nokia/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-05T08:49:35Z</dc:date>
+<dc:subject>n810</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/n810" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://oss.kernelconcepts.de/maemo/">
+<title>kernel concepts - Maemo</title>
+<link>http://oss.kernelconcepts.de/maemo/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-05T07:24:55Z</dc:date>
+<dc:subject>n810</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/n810" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tabletschool.blogspot.com/2007/10/nokia-n810-and-nokia-n800-everything.html">
+<title>Internet Tablet School - Tutorials: Nokia N810 and Nokia N800: Everything you need to know</title>
+<link>http://tabletschool.blogspot.com/2007/10/nokia-n810-and-nokia-n800-everything.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-04T07:55:46Z</dc:date>
+<dc:subject>n810</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/n810" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

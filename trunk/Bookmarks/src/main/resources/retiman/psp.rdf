@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/psp">
+<title>del.icio.us/retiman/psp</title>
+<link>http://del.icio.us/retiman/psp</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://yoyofr92.free.fr/psp/snespsp.html" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/Magic-PSP-Station-Magic-the-Gathering-solitaire-two-player-hotseat/pg/49/aid/109596" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/PSP-Wi-Fi-Adhoc-File-Transfer-v0-5/pg/49/aid/108058" />
+  <rdf:li rdf:resource="http://www.gamerspress.com/index.php?title=PSX_on_PSP_-_Memory_Card_Handling" />
+  <rdf:li rdf:resource="http://forums.maxconsole.net/showthread.php?t=42026" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/JoySens-v1-3-now-with-DPad-Analog-swap-function/pg/49/aid/105640" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/PSP-MAME4ALL-v4-7r3-Hires/pg/49/aid/104607" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/Turbo-Grafx-16-PC-Emulator-for-Sony-PSP-released/pg/49/aid/105095" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/Linux-QPSPmanage-PBP-file-manager/pg/49/aid/102781" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/Noobz-release-eLoader-v1-000-for-PSP-Slim-and-old-homebrew/pg/49/aid/102534" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/Snes9xTYL-for-PSP-Slim-from-iR-Shell-creator/pg/49/aid/102443" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/CPS1PSP-CPS2PSP-NCDZPSP-MSVPSP-v2-06-for-firmware-3-xx/pg/49/aid/102378" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/JaPSPanese-practice-your-hiragana-katakana/pg/49/aid/102376" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/Extended-Pandora-Bootmenu-v0-8-with-USB-function/pg/49/aid/102282" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/PSPSSH-v1-0-9-improved-character-support/pg/49/aid/102265" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/PSP-Normal-Boot-Loader-for-Pandora-s-Battery/pg/49/aid/102219" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/Lounger-s-M33-installation-guide-by-for-PSP-Slim/pg/49/aid/102187" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/MasterBoy-v2-01/pg/49/aid/101045" />
+  <rdf:li rdf:resource="http://www.kde-apps.org/content/show.php?content=51374" />
+  <rdf:li rdf:resource="http://www.engadget.com/2007/06/24/psp-all-firmware-homebrew-hack-surfaces/" />
+  <rdf:li rdf:resource="http://www.emulator-zone.com/doc.php/psp/forthepsp.html" />
+  <rdf:li rdf:resource="http://forums.keeptouch.net/showthread.php?p=1514505" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/PlayStation_Portable_homebrew" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/tags/snes9xtyl/3545" />
+  <rdf:li rdf:resource="http://psp-news.dcemu.co.uk/unofficialsnes9xpsp.shtml" />
+  <rdf:li rdf:resource="http://forums.afterdawn.com/thread_view.cfm/493083" />
+  <rdf:li rdf:resource="http://forums.exophase.com/showthread.php?t=383" />
+  <rdf:li rdf:resource="http://dl.qj.net/Downgrader-for-v3.03-PSP-PSP/pg/12/fid/12431/catid/114" />
+  <rdf:li rdf:resource="http://forums.qj.net/f-psp-hacks-9/t-guidethe-ultimate-downgrader-guide-90916.html" />
+  <rdf:li rdf:resource="http://pspupdates.qj.net/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://yoyofr92.free.fr/psp/snespsp.html">
+<title>YoyoFR's psp stuff - SnesPSP_TYL</title>
+<link>http://yoyofr92.free.fr/psp/snespsp.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-20T14:22:30Z</dc:date>
+<dc:subject>psp snes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/snes" />
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/Magic-PSP-Station-Magic-the-Gathering-solitaire-two-player-hotseat/pg/49/aid/109596">
+<title>Magic PSP Station: Magic the Gathering solitaire, two-player hotseat - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/Magic-PSP-Station-Magic-the-Gathering-solitaire-two-player-hotseat/pg/49/aid/109596</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-13T18:19:35Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/PSP-Wi-Fi-Adhoc-File-Transfer-v0-5/pg/49/aid/108058">
+<title>PSP Wi-Fi Adhoc File Transfer v0.5 - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/PSP-Wi-Fi-Adhoc-File-Transfer-v0-5/pg/49/aid/108058</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-19T21:38:29Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gamerspress.com/index.php?title=PSX_on_PSP_-_Memory_Card_Handling">
+<title>PSX on PSP - Memory Card Handling - TheGamersPress</title>
+<link>http://www.gamerspress.com/index.php?title=PSX_on_PSP_-_Memory_Card_Handling</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-19T08:22:39Z</dc:date>
+<dc:subject>psp psx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psx" />
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.maxconsole.net/showthread.php?t=42026">
+<title>PSX Save Game For PSP POST HERE - MaxConsole Forums</title>
+<link>http://forums.maxconsole.net/showthread.php?t=42026</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-19T08:22:24Z</dc:date>
+<dc:subject>psp psx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psx" />
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/JoySens-v1-3-now-with-DPad-Analog-swap-function/pg/49/aid/105640">
+<title>JoySens v1.3 - now with DPad/Analog swap function - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/JoySens-v1-3-now-with-DPad-Analog-swap-function/pg/49/aid/105640</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-22T07:27:53Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/PSP-MAME4ALL-v4-7r3-Hires/pg/49/aid/104607">
+<title>PSP MAME4ALL v4.7r3 Hires - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/PSP-MAME4ALL-v4-7r3-Hires/pg/49/aid/104607</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-17T01:04:05Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/Turbo-Grafx-16-PC-Emulator-for-Sony-PSP-released/pg/49/aid/105095">
+<title>Turbo Grafx 16 PC Emulator for Sony PSP released - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/Turbo-Grafx-16-PC-Emulator-for-Sony-PSP-released/pg/49/aid/105095</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-17T00:19:08Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/Linux-QPSPmanage-PBP-file-manager/pg/49/aid/102781">
+<title>Linux QPSPmanage - PBP file manager - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/Linux-QPSPmanage-PBP-file-manager/pg/49/aid/102781</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-12T20:18:13Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/Noobz-release-eLoader-v1-000-for-PSP-Slim-and-old-homebrew/pg/49/aid/102534">
+<title>Noobz release eLoader v1.000 for PSP Slim and old homebrew - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/Noobz-release-eLoader-v1-000-for-PSP-Slim-and-old-homebrew/pg/49/aid/102534</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T20:49:21Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/Snes9xTYL-for-PSP-Slim-from-iR-Shell-creator/pg/49/aid/102443">
+<title>Snes9xTYL for PSP Slim - from iR Shell creator - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/Snes9xTYL-for-PSP-Slim-from-iR-Shell-creator/pg/49/aid/102443</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T20:23:52Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/CPS1PSP-CPS2PSP-NCDZPSP-MSVPSP-v2-06-for-firmware-3-xx/pg/49/aid/102378">
+<title>CPS1PSP/CPS2PSP/NCDZPSP/MSVPSP v2.06 for firmware 3.xx - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/CPS1PSP-CPS2PSP-NCDZPSP-MSVPSP-v2-06-for-firmware-3-xx/pg/49/aid/102378</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T18:06:05Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/JaPSPanese-practice-your-hiragana-katakana/pg/49/aid/102376">
+<title>JaPSPanese - practice your hiragana &#x26; katakana - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/JaPSPanese-practice-your-hiragana-katakana/pg/49/aid/102376</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T18:01:12Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/Extended-Pandora-Bootmenu-v0-8-with-USB-function/pg/49/aid/102282">
+<title>Extended Pandora Bootmenu v0.8 - with USB function - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/Extended-Pandora-Bootmenu-v0-8-with-USB-function/pg/49/aid/102282</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T00:43:22Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/PSPSSH-v1-0-9-improved-character-support/pg/49/aid/102265">
+<title>PSPSSH v1.0.9 - improved character support - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/PSPSSH-v1-0-9-improved-character-support/pg/49/aid/102265</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-10T22:17:01Z</dc:date>
+<dc:subject>psp ssh</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+    <rdf:li resource="http://del.icio.us/tag/ssh" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/PSP-Normal-Boot-Loader-for-Pandora-s-Battery/pg/49/aid/102219">
+<title>PSP Normal Boot Loader for Pandora's Battery - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/PSP-Normal-Boot-Loader-for-Pandora-s-Battery/pg/49/aid/102219</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-09T23:19:58Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/Lounger-s-M33-installation-guide-by-for-PSP-Slim/pg/49/aid/102187">
+<title>Lounger's M33 installation guide by for PSP Slim - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/Lounger-s-M33-installation-guide-by-for-PSP-Slim/pg/49/aid/102187</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-07T21:32:23Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/MasterBoy-v2-01/pg/49/aid/101045">
+<title>Article Detail - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/MasterBoy-v2-01/pg/49/aid/101045</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-05T05:17:54Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kde-apps.org/content/show.php?content=51374">
+<title> PSX2PSP KDE-Apps.org</title>
+<link>http://www.kde-apps.org/content/show.php?content=51374</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-14T05:52:06Z</dc:date>
+<dc:subject>kde psp psx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/kde" />
+    <rdf:li resource="http://del.icio.us/tag/psx" />
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.engadget.com/2007/06/24/psp-all-firmware-homebrew-hack-surfaces/">
+<title>PSP all-firmware homebrew hack surfaces - Engadget</title>
+<link>http://www.engadget.com/2007/06/24/psp-all-firmware-homebrew-hack-surfaces/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-25T21:13:41Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.emulator-zone.com/doc.php/psp/forthepsp.html">
+<title>The Emulator Zone - Emulators for the PSP</title>
+<link>http://www.emulator-zone.com/doc.php/psp/forthepsp.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-07T07:16:45Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.keeptouch.net/showthread.php?p=1514505">
+<title>Sony Playstation Portable For Dummies - Keeptouch Community Portal</title>
+<link>http://forums.keeptouch.net/showthread.php?p=1514505</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-03T09:51:27Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/PlayStation_Portable_homebrew">
+<title>PlayStation Portable homebrew - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/PlayStation_Portable_homebrew</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-01T06:55:23Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/tags/snes9xtyl/3545">
+<title>QJ.NET - QuickJump Home - PlayStation Portable News - PSP Updates</title>
+<link>http://pspupdates.qj.net/tags/snes9xtyl/3545</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-17T20:58:25Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psp-news.dcemu.co.uk/unofficialsnes9xpsp.shtml">
+<title>PSP Emulation News PSP Gaming PSP Hardware PSP Homebrew PSP hacking PSP Updates Playstation Portable PSP movies PSP consoles PSP Shop Buy Preoder PSP Here</title>
+<link>http://psp-news.dcemu.co.uk/unofficialsnes9xpsp.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-17T20:40:52Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.afterdawn.com/thread_view.cfm/493083">
+<title>*UPDATED* ~GUIDE/TUTORIAL: How to PLAY ISO's/CSO's/EMULATION/MOST OF YOUR PSP QUESTIONS ANSWERED HERE!~</title>
+<link>http://forums.afterdawn.com/thread_view.cfm/493083</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-17T03:53:53Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.exophase.com/showthread.php?t=383">
+<title>3.40 OE-A Install Guide - eXophase Forums</title>
+<link>http://forums.exophase.com/showthread.php?t=383</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-17T03:26:03Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dl.qj.net/Downgrader-for-v3.03-PSP-PSP/pg/12/fid/12431/catid/114">
+<title>File Details-Downgrader-for-v3.03-PSP-PSP -</title>
+<link>http://dl.qj.net/Downgrader-for-v3.03-PSP-PSP/pg/12/fid/12431/catid/114</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-17T01:15:44Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.qj.net/f-psp-hacks-9/t-guidethe-ultimate-downgrader-guide-90916.html">
+<title>[Guide] The Ultimate downgrader guide - [All Downgradable Firmware] - QJ.NET Forums</title>
+<link>http://forums.qj.net/f-psp-hacks-9/t-guidethe-ultimate-downgrader-guide-90916.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-17T01:14:56Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pspupdates.qj.net/">
+<title>PSP updates</title>
+<link>http://pspupdates.qj.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:23:21Z</dc:date>
+<dc:subject>psp</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

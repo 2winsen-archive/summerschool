@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/security">
+<title>del.icio.us/retiman/security</title>
+<link>http://del.icio.us/retiman/security</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.debian-administration.org/articles/33" />
+  <rdf:li rdf:resource="http://science.howstuffworks.com/quantum-cryptology.htm" />
+  <rdf:li rdf:resource="http://machinist.salon.com/blog/2007/09/21/star_simpson/index.html" />
+  <rdf:li rdf:resource="http://ancientprogramming.blogspot.com/2007/08/how-to-implement-remember-me-using.html" />
+  <rdf:li rdf:resource="http://fishbowl.pastiche.org/2004/01/19/persistent_login_cookie_best_practice" />
+  <rdf:li rdf:resource="http://www.codinghorror.com/blog/archives/000949.html" />
+  <rdf:li rdf:resource="http://www.antsight.com/zsl/rainbowcrack/" />
+  <rdf:li rdf:resource="http://www.news.com.au/sundaytelegraph/story/0,,22304224-5005941,00.html" />
+  <rdf:li rdf:resource="http://www.psychocats.net/ubuntu/security" />
+  <rdf:li rdf:resource="http://www.securityfocus.com/infocus/1527" />
+  <rdf:li rdf:resource="http://forum.rorta.net/showthread.php?t=1134" />
+  <rdf:li rdf:resource="http://www.phenoelit-us.org/dpl/dpl.html" />
+  <rdf:li rdf:resource="http://quicksilverscreen.com/ipb/index.php?showtopic=29115" />
+  <rdf:li rdf:resource="http://kevin.vanzonneveld.net/techblog/article/block_brute_force_attacks_with_iptables/" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=510812" />
+  <rdf:li rdf:resource="http://someonewhocares.org/hosts/" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showpost.php?s=f5de5634f4448d733a599c23e4bb0257&#x26;p=2776815&#x26;postcount=1" />
+  <rdf:li rdf:resource="http://zero-install.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.wired.com/politics/law/news/2007/07/fbi_spyware" />
+  <rdf:li rdf:resource="http://www.system666.net/want-free-internet-heres-how" />
+  <rdf:li rdf:resource="http://www.darkreading.com/document.asp?doc_id=128411&#x26;WT.svl=news1_1" />
+  <rdf:li rdf:resource="http://blog.wired.com/27bstroke6/2007/06/facebook-privat.html" />
+  <rdf:li rdf:resource="http://www.serials.ws/" />
+  <rdf:li rdf:resource="http://stream-recorder.com/forum/showthread.php?t=103" />
+  <rdf:li rdf:resource="http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/15/IDTHEFT.TMP" />
+  <rdf:li rdf:resource="http://www.theday.com/re.aspx?re=27ac5889-d5bc-48b7-9eac-c4720a2fda2d" />
+  <rdf:li rdf:resource="http://www.latimes.com/news/local/la-me-hackers1jun01,0,2083352.story?coll=la-home-local" />
+  <rdf:li rdf:resource="http://blog.wired.com/27bstroke6/2007/06/teacher_granted.html" />
+  <rdf:li rdf:resource="http://www.cigital.com/papers/download/developer_gambling.php" />
+  <rdf:li rdf:resource="http://www.theregister.co.uk/security/security_report_windows_vs_linux/" />
+  <rdf:li rdf:resource="http://it.slashdot.org/article.pl?sid=07/05/22/0117203&#x26;from=rss" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.debian-administration.org/articles/33">
+<title>Giving ordinary users root privileges, selectively</title>
+<link>http://www.debian-administration.org/articles/33</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-11T05:36:32Z</dc:date>
+<dc:subject>linux security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://science.howstuffworks.com/quantum-cryptology.htm">
+<title>Howstuffworks &#x22;How Quantum Cryptology Works&#x22;</title>
+<link>http://science.howstuffworks.com/quantum-cryptology.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-23T17:50:30Z</dc:date>
+<dc:subject>cryptography physics quantum security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/quantum" />
+    <rdf:li resource="http://del.icio.us/tag/cryptography" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://machinist.salon.com/blog/2007/09/21/star_simpson/index.html">
+<title>Machinist: Tech Blog, Tech News, Technology Articles - Salon</title>
+<link>http://machinist.salon.com/blog/2007/09/21/star_simpson/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-16T20:17:26Z</dc:date>
+<dc:subject>security wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ancientprogramming.blogspot.com/2007/08/how-to-implement-remember-me-using.html">
+<title>Ancient Programming: How to implement remember me using acegi</title>
+<link>http://ancientprogramming.blogspot.com/2007/08/how-to-implement-remember-me-using.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-08T23:15:23Z</dc:date>
+<dc:subject>acegi java security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/acegi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fishbowl.pastiche.org/2004/01/19/persistent_login_cookie_best_practice">
+<title>The Fishbowl: Persistent Login Cookie Best Practice</title>
+<link>http://fishbowl.pastiche.org/2004/01/19/persistent_login_cookie_best_practice</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-08T21:22:04Z</dc:date>
+<dc:subject>security web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codinghorror.com/blog/archives/000949.html">
+<title>Coding Horror: Rainbow Hash Cracking</title>
+<link>http://www.codinghorror.com/blog/archives/000949.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-13T01:05:29Z</dc:date>
+<dc:subject>cryptography security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cryptography" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.antsight.com/zsl/rainbowcrack/">
+<title>Project RainbowCrack</title>
+<link>http://www.antsight.com/zsl/rainbowcrack/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-13T01:04:02Z</dc:date>
+<dc:subject>cryptography linux security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cryptography" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.news.com.au/sundaytelegraph/story/0,,22304224-5005941,00.html">
+<title>Student cracks Government's $84m porn filter | The Sunday Telegraph</title>
+<link>http://www.news.com.au/sundaytelegraph/story/0,,22304224-5005941,00.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-26T03:15:37Z</dc:date>
+<dc:subject>security wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.psychocats.net/ubuntu/security">
+<title>Security on Ubuntu</title>
+<link>http://www.psychocats.net/ubuntu/security</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-14T04:18:19Z</dc:date>
+<dc:subject>linux security ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.securityfocus.com/infocus/1527">
+<title>Social Engineering Fundamentals, Part I: Hacker Tactics</title>
+<link>http://www.securityfocus.com/infocus/1527</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-14T04:16:37Z</dc:date>
+<dc:subject>psychology security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.rorta.net/showthread.php?t=1134">
+<title>How to Rip Netflix 'Watch Now' Movies - Rorta</title>
+<link>http://forum.rorta.net/showthread.php?t=1134</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-07T19:22:04Z</dc:date>
+<dc:subject>drm hack netflix security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drm" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/netflix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.phenoelit-us.org/dpl/dpl.html">
+<title>Default Password List</title>
+<link>http://www.phenoelit-us.org/dpl/dpl.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:24:13Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://quicksilverscreen.com/ipb/index.php?showtopic=29115">
+<title>Disguise Yourself As Google Bot - Quicksilverscreen Forum!</title>
+<link>http://quicksilverscreen.com/ipb/index.php?showtopic=29115</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:24:03Z</dc:date>
+<dc:subject>google security web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://kevin.vanzonneveld.net/techblog/article/block_brute_force_attacks_with_iptables/">
+<title>TechBlog - How to: Block brute force attacks with iptables</title>
+<link>http://kevin.vanzonneveld.net/techblog/article/block_brute_force_attacks_with_iptables/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-31T23:55:30Z</dc:date>
+<dc:subject>linux security ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=510812">
+<title>Ubuntu Security - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=510812</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-30T07:10:34Z</dc:date>
+<dc:subject>linux security ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://someonewhocares.org/hosts/">
+<title>Using a Hosts File To Make The Internet Not Suck (as much)</title>
+<link>http://someonewhocares.org/hosts/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-25T17:58:22Z</dc:date>
+<dc:subject>privacy security web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showpost.php?s=f5de5634f4448d733a599c23e4bb0257&#x26;p=2776815&#x26;postcount=1">
+<title>Ubuntu Forums - View Single Post - Stop having to enter keyring over and over again</title>
+<link>http://ubuntuforums.org/showpost.php?s=f5de5634f4448d733a599c23e4bb0257&#x26;p=2776815&#x26;postcount=1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-24T00:37:23Z</dc:date>
+<dc:subject>linux security ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://zero-install.sourceforge.net/">
+<title>The Zero Install system</title>
+<link>http://zero-install.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T22:18:35Z</dc:date>
+<dc:subject>linux security software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wired.com/politics/law/news/2007/07/fbi_spyware">
+<title>FBI's Secret Spyware Tracks Down Teen Who Made Bomb Threats</title>
+<link>http://www.wired.com/politics/law/news/2007/07/fbi_spyware</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T16:59:15Z</dc:date>
+<dc:subject>fbi law security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/fbi" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.system666.net/want-free-internet-heres-how">
+<title>Want free internet? Heres how&#x2026; at System 666</title>
+<link>http://www.system666.net/want-free-internet-heres-how</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T08:13:08Z</dc:date>
+<dc:subject>howto reference security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.darkreading.com/document.asp?doc_id=128411&#x26;WT.svl=news1_1">
+<title>Dark Reading - Desktop Security - An Auction Site for Vulnerabilities - Security News Analysis</title>
+<link>http://www.darkreading.com/document.asp?doc_id=128411&#x26;WT.svl=news1_1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-06T21:20:56Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/27bstroke6/2007/06/facebook-privat.html">
+<title>Threat Level - Wired Blogs</title>
+<link>http://blog.wired.com/27bstroke6/2007/06/facebook-privat.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-29T18:17:46Z</dc:date>
+<dc:subject>privacy security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.serials.ws/">
+<title>Serials &#x26; keys - unlocks the world</title>
+<link>http://www.serials.ws/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-24T21:42:13Z</dc:date>
+<dc:subject>security serials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/serials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://stream-recorder.com/forum/showthread.php?t=103">
+<title>Remove DRM from WMV, ASF, WMA using Automate unDRM v2.0 (drmdbg, drm2wmv, DecryptIt) - Audio/video stream recording forums</title>
+<link>http://stream-recorder.com/forum/showthread.php?t=103</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-24T20:21:01Z</dc:date>
+<dc:subject>drm security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/drm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/15/IDTHEFT.TMP">
+<title>How victim snared ID thief / She chased down woman who had given her 6 months of hell</title>
+<link>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/15/IDTHEFT.TMP</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T20:33:46Z</dc:date>
+<dc:subject>cool law security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theday.com/re.aspx?re=27ac5889-d5bc-48b7-9eac-c4720a2fda2d">
+<title>TheDay.com - A Travesty Of Justice Averted</title>
+<link>http://www.theday.com/re.aspx?re=27ac5889-d5bc-48b7-9eac-c4720a2fda2d</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T04:42:57Z</dc:date>
+<dc:subject>law security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.latimes.com/news/local/la-me-hackers1jun01,0,2083352.story?coll=la-home-local">
+<title>Computer hackers steal Carson funds - Los Angeles Times</title>
+<link>http://www.latimes.com/news/local/la-me-hackers1jun01,0,2083352.story?coll=la-home-local</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-08T23:07:04Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/27bstroke6/2007/06/teacher_granted.html">
+<title>Threat Level - Wired Blogs</title>
+<link>http://blog.wired.com/27bstroke6/2007/06/teacher_granted.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-07T03:11:19Z</dc:date>
+<dc:subject>law security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cigital.com/papers/download/developer_gambling.php">
+<title>How We Learned to Cheat at Online Poker: A Study in Software Security [Cigital]</title>
+<link>http://www.cigital.com/papers/download/developer_gambling.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-06T19:04:56Z</dc:date>
+<dc:subject>gaming math poker security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theregister.co.uk/security/security_report_windows_vs_linux/">
+<title>Security Report: Windows vs Linux | The Register</title>
+<link>http://www.theregister.co.uk/security/security_report_windows_vs_linux/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-27T23:17:25Z</dc:date>
+<dc:subject>apache linux security windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://it.slashdot.org/article.pl?sid=07/05/22/0117203&#x26;from=rss">
+<title>Slashdot | Unicode Encoding Flaw Widespread</title>
+<link>http://it.slashdot.org/article.pl?sid=07/05/22/0117203&#x26;from=rss</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-22T16:52:28Z</dc:date>
+<dc:subject>security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

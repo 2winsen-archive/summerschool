@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/music">
+<title>del.icio.us/retiman/music</title>
+<link>http://del.icio.us/retiman/music</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://the13blog.blogspot.com/2006/03/best-is-yet-to-come.html" />
+  <rdf:li rdf:resource="http://downloads.khinsider.com/" />
+  <rdf:li rdf:resource="http://www2.cruzio.com/~keeper/AMLF.html" />
+  <rdf:li rdf:resource="http://aznmusic.wordpress.com/" />
+  <rdf:li rdf:resource="http://handbrake.m0k.org/" />
+  <rdf:li rdf:resource="http://www.podcastawards.com/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/digital-audio/remove-vocals-from-mp3s-with-audacity-296121.php" />
+  <rdf:li rdf:resource="http://www.mass-age.com/print.php?id=506" />
+  <rdf:li rdf:resource="http://alsa.opensrc.org/index.php?page=DmixPlugin" />
+  <rdf:li rdf:resource="http://www.bearth.com/bbs/zboard.php?id=music&#x26;page=1&#x26;sn1=&#x26;divpage=1&#x26;sn=off&#x26;ss=on&#x26;sc=on&#x26;select_arrange=headnum&#x26;desc=asc&#x26;no=18" />
+  <rdf:li rdf:resource="http://chinesemusicblog.com/forum/viewtopic.php?pid=33659" />
+  <rdf:li rdf:resource="http://www.sacredchao.net/quodlibet" />
+  <rdf:li rdf:resource="http://www.rockbox.org/twiki/bin/view/Main/WhyRockbox" />
+  <rdf:li rdf:resource="http://jay-chou.net/lyrics.php" />
+  <rdf:li rdf:resource="http://www.coolmanmusic.com/male/jackycheung/jackynew7.html" />
+  <rdf:li rdf:resource="http://www.powersugoi.net/tingdong/" />
+  <rdf:li rdf:resource="http://www.learn-chinese-through-music.com/index.html" />
+  <rdf:li rdf:resource="http://wiki.theppn.org/Main_Page" />
+  <rdf:li rdf:resource="http://www.frmusique.ru/texts/m/miserables/monhistoire.htm" />
+  <rdf:li rdf:resource="http://www.jay-chou.net/lyrics.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://the13blog.blogspot.com/2006/03/best-is-yet-to-come.html">
+<title>The 13: The best is yet to come</title>
+<link>http://the13blog.blogspot.com/2006/03/best-is-yet-to-come.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-25T09:24:57Z</dc:date>
+<dc:subject>gaming music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://downloads.khinsider.com/">
+<title>Free MP3 downloads - Free Video Game OST - Game Soundtracks for download</title>
+<link>http://downloads.khinsider.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-25T08:45:10Z</dc:date>
+<dc:subject>gaming music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www2.cruzio.com/~keeper/AMLF.html">
+<title>Animaniacs Mega Lyrics File</title>
+<link>http://www2.cruzio.com/~keeper/AMLF.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-04-20T16:56:49Z</dc:date>
+<dc:subject>anmaniacs music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/anmaniacs" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://aznmusic.wordpress.com/">
+<title>azn.music - Asian music for all!</title>
+<link>http://aznmusic.wordpress.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-30T02:13:24Z</dc:date>
+<dc:subject>asian music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/asian" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://handbrake.m0k.org/">
+<title>HandBrake</title>
+<link>http://handbrake.m0k.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-01T04:01:51Z</dc:date>
+<dc:subject>ipod linux music software video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.podcastawards.com/">
+<title>PodCastAwards.com</title>
+<link>http://www.podcastawards.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-04T17:16:54Z</dc:date>
+<dc:subject>ipod music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/digital-audio/remove-vocals-from-mp3s-with-audacity-296121.php">
+<title>Digital Audio: Remove Vocals from MP3s with Audacity - Lifehacker</title>
+<link>http://lifehacker.com/software/digital-audio/remove-vocals-from-mp3s-with-audacity-296121.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-04T17:01:39Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mass-age.com/print.php?id=506">
+<title>Mass-age &#x3010;&#x5927;&#x5BB6;&#x4F86;&#x62B9;&#x7D05;&#x7CFB;&#x5217;&#x7CBE;&#x9078;&#x3011; &#x8AB0;&#x5728;&#x5D07;&#x62DC;&#x6BDB;&#x4E3B;&#x5E2D;&#xFF1F;</title>
+<link>http://www.mass-age.com/print.php?id=506</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-27T20:51:37Z</dc:date>
+<dc:subject>china funny music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alsa.opensrc.org/index.php?page=DmixPlugin">
+<title>Main Page - ALSA wiki</title>
+<link>http://alsa.opensrc.org/index.php?page=DmixPlugin</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-26T17:59:06Z</dc:date>
+<dc:subject>hardware linux music ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bearth.com/bbs/zboard.php?id=music&#x26;page=1&#x26;sn1=&#x26;divpage=1&#x26;sn=off&#x26;ss=on&#x26;sc=on&#x26;select_arrange=headnum&#x26;desc=asc&#x26;no=18">
+<title>Bearth.com [Ver.6]</title>
+<link>http://www.bearth.com/bbs/zboard.php?id=music&#x26;page=1&#x26;sn1=&#x26;divpage=1&#x26;sn=off&#x26;ss=on&#x26;sc=on&#x26;select_arrange=headnum&#x26;desc=asc&#x26;no=18</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-25T20:30:40Z</dc:date>
+<dc:subject>china music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://chinesemusicblog.com/forum/viewtopic.php?pid=33659">
+<title>Chinese Music Forum / [Request] Jie Kou - S.H.E</title>
+<link>http://chinesemusicblog.com/forum/viewtopic.php?pid=33659</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-25T19:10:07Z</dc:date>
+<dc:subject>funny music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sacredchao.net/quodlibet">
+<title>Ex Falso / Quod Libet - Trac</title>
+<link>http://www.sacredchao.net/quodlibet</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-17T22:33:44Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rockbox.org/twiki/bin/view/Main/WhyRockbox">
+<title>WhyRockbox &#x3C; Main &#x3C; TWiki</title>
+<link>http://www.rockbox.org/twiki/bin/view/Main/WhyRockbox</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-28T20:21:53Z</dc:date>
+<dc:subject>linux music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jay-chou.net/lyrics.php">
+<title>Jay-Chou.net :: Lyrics</title>
+<link>http://jay-chou.net/lyrics.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-24T22:25:22Z</dc:date>
+<dc:subject>china music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.coolmanmusic.com/male/jackycheung/jackynew7.html">
+<title>&#x7D10;&#x7D04;&#x7684;&#x53F8;&#x6A5F;&#x99D5;&#x8457;&#x5317;&#x4EAC;&#x7684;&#x5922;--&#x5F35;&#x5B78;&#x53CB;</title>
+<link>http://www.coolmanmusic.com/male/jackycheung/jackynew7.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-14T10:14:49Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.powersugoi.net/tingdong/">
+<title>Ting Dong lyrics</title>
+<link>http://www.powersugoi.net/tingdong/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:31:29Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.learn-chinese-through-music.com/index.html">
+<title>Learn chinese through music</title>
+<link>http://www.learn-chinese-through-music.com/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:30:22Z</dc:date>
+<dc:subject>china music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.theppn.org/Main_Page">
+<title>wiki.theppn.org</title>
+<link>http://wiki.theppn.org/Main_Page</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:29:54Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.frmusique.ru/texts/m/miserables/monhistoire.htm">
+<title>Les Miserables french - mon histoire lyrics</title>
+<link>http://www.frmusique.ru/texts/m/miserables/monhistoire.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:29:20Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jay-chou.net/lyrics.php">
+<title>Jay Chou lyrics</title>
+<link>http://www.jay-chou.net/lyrics.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:28:47Z</dc:date>
+<dc:subject>music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

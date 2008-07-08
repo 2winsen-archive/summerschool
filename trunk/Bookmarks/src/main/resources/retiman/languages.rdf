@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/languages">
+<title>del.icio.us/retiman/languages</title>
+<link>http://del.icio.us/retiman/languages</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://scala.sygneca.com/" />
+  <rdf:li rdf:resource="http://www.freelancingjob.com/articles/article_description.php?art_id=96" />
+  <rdf:li rdf:resource="http://notes-on-haskell.blogspot.com/2007/02/whats-wrong-with-for-loop.html?reposted" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://scala.sygneca.com/">
+<title>start [Scala Wiki]</title>
+<link>http://scala.sygneca.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-15T22:56:13Z</dc:date>
+<dc:subject>languages reference scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freelancingjob.com/articles/article_description.php?art_id=96">
+<title>15 Exercises for Learning a new Programming Language</title>
+<link>http://www.freelancingjob.com/articles/article_description.php?art_id=96</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-09T08:08:59Z</dc:date>
+<dc:subject>development languages tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://notes-on-haskell.blogspot.com/2007/02/whats-wrong-with-for-loop.html?reposted">
+<title>Notes on Haskell: What's Wrong with the For Loop</title>
+<link>http://notes-on-haskell.blogspot.com/2007/02/whats-wrong-with-for-loop.html?reposted</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-18T17:18:16Z</dc:date>
+<dc:subject>haskell languages programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/haskell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

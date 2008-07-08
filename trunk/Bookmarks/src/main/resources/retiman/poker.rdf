@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/poker">
+<title>del.icio.us/retiman/poker</title>
+<link>http://del.icio.us/retiman/poker</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.codingthewheel.com/archives/how-i-built-a-working-online-poker-bot-4" />
+  <rdf:li rdf:resource="http://www.cigital.com/papers/download/developer_gambling.php" />
+  <rdf:li rdf:resource="http://www.mathandpoker.com/index.php/?p=55" />
+  <rdf:li rdf:resource="http://www.cardroomsupply.com/31-winning-texas-holdem-strategies.html" />
+  <rdf:li rdf:resource="http://www.texasholdem-poker.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.codingthewheel.com/archives/how-i-built-a-working-online-poker-bot-4">
+<title>How I Built a Working Poker Bot, Part 4: The Poker Botting Erector Set - Coding the Wheel</title>
+<link>http://www.codingthewheel.com/archives/how-i-built-a-working-online-poker-bot-4</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-29T05:12:24Z</dc:date>
+<dc:subject>poker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cigital.com/papers/download/developer_gambling.php">
+<title>How We Learned to Cheat at Online Poker: A Study in Software Security [Cigital]</title>
+<link>http://www.cigital.com/papers/download/developer_gambling.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-06T19:04:56Z</dc:date>
+<dc:subject>gaming math poker security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mathandpoker.com/index.php/?p=55">
+<title>Bankroll rule of thumb</title>
+<link>http://www.mathandpoker.com/index.php/?p=55</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:22:18Z</dc:date>
+<dc:subject>poker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cardroomsupply.com/31-winning-texas-holdem-strategies.html">
+<title>31 winning holdem strategies</title>
+<link>http://www.cardroomsupply.com/31-winning-texas-holdem-strategies.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:21:28Z</dc:date>
+<dc:subject>poker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.texasholdem-poker.com/">
+<title>Texas holdem poker</title>
+<link>http://www.texasholdem-poker.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:20:40Z</dc:date>
+<dc:subject>poker</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

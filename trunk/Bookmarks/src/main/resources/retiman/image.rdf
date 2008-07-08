@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/image">
+<title>del.icio.us/retiman/image</title>
+<link>http://del.icio.us/retiman/image</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://listverse.com/miscellaneous/20-amazing-optical-illusions/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/library/l-graf/?ca=dnt-428" />
+  <rdf:li rdf:resource="http://elonen.iki.fi/code/misc-notes/digiphoto-archive-script/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/08/25/20-free-and-fresh-icon-sets/" />
+  <rdf:li rdf:resource="http://www.stockvault.net/" />
+  <rdf:li rdf:resource="http://googlified.com/2007google-vs-god/" />
+  <rdf:li rdf:resource="http://science.readigg.com/description/16137.html" />
+  <rdf:li rdf:resource="http://www.uberg33k.com/albums/Funny/Wait_damn_it_I_have_to_pee.jpg" />
+  <rdf:li rdf:resource="http://interestingby.isaias.com.mx/pm.php?id=51035756831@N01&#x26;theme=white" />
+  <rdf:li rdf:resource="http://www.everystockphoto.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://listverse.com/miscellaneous/20-amazing-optical-illusions/">
+<title>20 Amazing Optical Illusions - The List Universe</title>
+<link>http://listverse.com/miscellaneous/20-amazing-optical-illusions/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T21:31:39Z</dc:date>
+<dc:subject>cool education image math psychology reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/library/l-graf/?ca=dnt-428">
+<title>Graphics from the command line</title>
+<link>http://www.ibm.com/developerworks/library/l-graf/?ca=dnt-428</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-13T05:55:38Z</dc:date>
+<dc:subject>image linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://elonen.iki.fi/code/misc-notes/digiphoto-archive-script/">
+<title>Unix shell scripts for archiving digital photos in directories by date</title>
+<link>http://elonen.iki.fi/code/misc-notes/digiphoto-archive-script/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-12T18:36:16Z</dc:date>
+<dc:subject>image photography</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/photography" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/08/25/20-free-and-fresh-icon-sets/">
+<title>20+ Free And Fresh Icon Sets | Graphics</title>
+<link>http://www.smashingmagazine.com/2007/08/25/20-free-and-fresh-icon-sets/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-26T03:16:15Z</dc:date>
+<dc:subject>image</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/image" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stockvault.net/">
+<title>Stockvault.net | Free Stock Photos &#x26; Free Images | Share and download</title>
+<link>http://www.stockvault.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-24T01:17:59Z</dc:date>
+<dc:subject>image</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/image" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googlified.com/2007google-vs-god/">
+<title>Google vs. God - Googlified</title>
+<link>http://googlified.com/2007google-vs-god/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-24T22:54:16Z</dc:date>
+<dc:subject>funny google image religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://science.readigg.com/description/16137.html">
+<title>Animals in the depths of the sea (26 photo) / Biology / Science ReaDigg.COM</title>
+<link>http://science.readigg.com/description/16137.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-23T16:49:06Z</dc:date>
+<dc:subject>cool image</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.uberg33k.com/albums/Funny/Wait_damn_it_I_have_to_pee.jpg">
+<title>Wait_damn_it_I_have_to_pee.jpg (JPEG Image, 800x300 pixels)</title>
+<link>http://www.uberg33k.com/albums/Funny/Wait_damn_it_I_have_to_pee.jpg</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-22T21:55:57Z</dc:date>
+<dc:subject>funny image</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://interestingby.isaias.com.mx/pm.php?id=51035756831@N01&#x26;theme=white">
+<title>Most Interesting Pictures Of Seb Przd</title>
+<link>http://interestingby.isaias.com.mx/pm.php?id=51035756831@N01&#x26;theme=white</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:43:07Z</dc:date>
+<dc:subject>cool image</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.everystockphoto.com/">
+<title>everystockphoto.com - your source for free photos</title>
+<link>http://www.everystockphoto.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:16:26Z</dc:date>
+<dc:subject>image</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/image" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

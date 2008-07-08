@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/drm">
+<title>del.icio.us/retiman/drm</title>
+<link>http://del.icio.us/retiman/drm</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://forum.rorta.net/showthread.php?t=1134" />
+  <rdf:li rdf:resource="http://all-streaming-media.com/faq/media-players/faq-Windows-Media-Player-roll-back-to-previous-version.htm" />
+  <rdf:li rdf:resource="http://stream-recorder.com/forum/showthread.php?t=103" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://forum.rorta.net/showthread.php?t=1134">
+<title>How to Rip Netflix 'Watch Now' Movies - Rorta</title>
+<link>http://forum.rorta.net/showthread.php?t=1134</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-07T19:22:04Z</dc:date>
+<dc:subject>drm hack netflix security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drm" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/netflix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://all-streaming-media.com/faq/media-players/faq-Windows-Media-Player-roll-back-to-previous-version.htm">
+<title>How to roll back Windows Media Player to a prevous version</title>
+<link>http://all-streaming-media.com/faq/media-players/faq-Windows-Media-Player-roll-back-to-previous-version.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-24T20:22:55Z</dc:date>
+<dc:subject>drm</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://stream-recorder.com/forum/showthread.php?t=103">
+<title>Remove DRM from WMV, ASF, WMA using Automate unDRM v2.0 (drmdbg, drm2wmv, DecryptIt) - Audio/video stream recording forums</title>
+<link>http://stream-recorder.com/forum/showthread.php?t=103</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-24T20:21:01Z</dc:date>
+<dc:subject>drm security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/drm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

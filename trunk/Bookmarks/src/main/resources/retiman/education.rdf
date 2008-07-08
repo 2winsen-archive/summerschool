@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/education">
+<title>del.icio.us/retiman/education</title>
+<link>http://del.icio.us/retiman/education</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm" />
+  <rdf:li rdf:resource="http://www.thestar.com/News/GTA/article/309855" />
+  <rdf:li rdf:resource="http://definr.com/" />
+  <rdf:li rdf:resource="http://www.desmoinesregister.com/apps/pbcs.dll/article?AID=2007709220333" />
+  <rdf:li rdf:resource="http://www.pickthebrain.com/blog/art-of-writing/?" />
+  <rdf:li rdf:resource="http://listverse.com/miscellaneous/20-amazing-optical-illusions/" />
+  <rdf:li rdf:resource="http://itre.cis.upenn.edu/~myl/languagelog/archives/004767.html" />
+  <rdf:li rdf:resource="http://den.usc.edu/index.htm" />
+  <rdf:li rdf:resource="http://ocw.mit.edu/index.html" />
+  <rdf:li rdf:resource="http://video.google.com/videosearch?q=user%3A%22Google+engEDU%22" />
+  <rdf:li rdf:resource="http://cosmicvariance.com/" />
+  <rdf:li rdf:resource="http://www.nizkor.org/features/fallacies/" />
+  <rdf:li rdf:resource="http://www.infidels.org/library/modern/mathew/logic.html" />
+  <rdf:li rdf:resource="http://einstein.stanford.edu/" />
+  <rdf:li rdf:resource="http://www.biblegateway.com/" />
+  <rdf:li rdf:resource="http://www.cut-the-knot.org/index.shtml" />
+  <rdf:li rdf:resource="http://abc.net.au/news/stories/2007/06/25/1960875.htm?section=world" />
+  <rdf:li rdf:resource="http://www.myfoxboston.com/myfox/pages/News/Detail?contentId=3581762&#x26;version=2&#x26;locale=EN-US&#x26;layoutCode=TSTY&#x26;pageId=3.8.1" />
+  <rdf:li rdf:resource="http://www.opednews.com/articles/opedne_dennis_d_070614_questions_your_pasto.htm" />
+  <rdf:li rdf:resource="http://www.cs.elte.hu/~ewkiss/education.html" />
+  <rdf:li rdf:resource="http://www.rationalresponders.com/" />
+  <rdf:li rdf:resource="http://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html" />
+  <rdf:li rdf:resource="http://www.wired.com/culture/lifestyle/commentary/sexdrive/2007/06/sexdrive_0615" />
+  <rdf:li rdf:resource="http://www.evolutionvscreationism.info/Evolution%20vs.%20Creationism/The%20Scientists.html" />
+  <rdf:li rdf:resource="http://rawstory.com/showoutarticle.php?src=http%3A%2F%2Fwww.editorandpublisher.com%2Feandp%2Fnews%2Farticle_display.jsp%3Fvnu_content_id%3D1003590603" />
+  <rdf:li rdf:resource="http://sciam.com/article.cfm?articleId=000D4FEC-7D5B-1D07-8E49809EC588EEDF&#x26;chanId=sa013&#x26;modsrc=most_popular" />
+  <rdf:li rdf:resource="http://www.pe.com/localnews/southwestarea/stories/PE_News_Local_D_bully17.3f7a9b4.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">
+<title>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</title>
+<link>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-01T16:07:53Z</dc:date>
+<dc:subject>computer design development education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thestar.com/News/GTA/article/309855">
+<title>TheStar.com | GTA | Student faces Facebook consequences</title>
+<link>http://www.thestar.com/News/GTA/article/309855</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-07T21:29:22Z</dc:date>
+<dc:subject>dumbass education technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://definr.com/">
+<title>definr - incredibly fast dictionary</title>
+<link>http://definr.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-25T23:28:12Z</dc:date>
+<dc:subject>education firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.desmoinesregister.com/apps/pbcs.dll/article?AID=2007709220333">
+<title>DesMoinesRegister.com</title>
+<link>http://www.desmoinesregister.com/apps/pbcs.dll/article?AID=2007709220333</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-23T00:29:21Z</dc:date>
+<dc:subject>creationism education wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pickthebrain.com/blog/art-of-writing/?">
+<title>Art of Writing - Writing Tips</title>
+<link>http://www.pickthebrain.com/blog/art-of-writing/?</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-14T05:36:31Z</dc:date>
+<dc:subject>education funny reference writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://listverse.com/miscellaneous/20-amazing-optical-illusions/">
+<title>20 Amazing Optical Illusions - The List Universe</title>
+<link>http://listverse.com/miscellaneous/20-amazing-optical-illusions/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T21:31:39Z</dc:date>
+<dc:subject>cool education image math psychology reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://itre.cis.upenn.edu/~myl/languagelog/archives/004767.html">
+<title>Language Log: Thou shalt not report odds ratios</title>
+<link>http://itre.cis.upenn.edu/~myl/languagelog/archives/004767.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-04T01:50:40Z</dc:date>
+<dc:subject>education innumeracy science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/innumeracy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://den.usc.edu/index.htm">
+<title>Distance Education Network - USC Viterbi School of Engineering</title>
+<link>http://den.usc.edu/index.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-04T00:20:42Z</dc:date>
+<dc:subject>education usc</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/usc" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ocw.mit.edu/index.html">
+<title>MIT OpenCourseWare | MIT OpenCourseWare</title>
+<link>http://ocw.mit.edu/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-27T00:36:28Z</dc:date>
+<dc:subject>education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://video.google.com/videosearch?q=user%3A%22Google+engEDU%22">
+<title>user:&#x22;Google engEDU&#x22; - Google Video</title>
+<link>http://video.google.com/videosearch?q=user%3A%22Google+engEDU%22</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T20:38:13Z</dc:date>
+<dc:subject>education google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cosmicvariance.com/">
+<title>Cosmic Variance</title>
+<link>http://cosmicvariance.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-15T21:41:22Z</dc:date>
+<dc:subject>education math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nizkor.org/features/fallacies/">
+<title>Fallacies</title>
+<link>http://www.nizkor.org/features/fallacies/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-10T20:09:39Z</dc:date>
+<dc:subject>education math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infidels.org/library/modern/mathew/logic.html">
+<title>Atheism: Logic &#x26; Fallacies</title>
+<link>http://www.infidels.org/library/modern/mathew/logic.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-10T20:08:51Z</dc:date>
+<dc:subject>education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://einstein.stanford.edu/">
+<title>Gravity Probe B</title>
+<link>http://einstein.stanford.edu/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-10T18:43:04Z</dc:date>
+<dc:subject>education science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.biblegateway.com/">
+<title>BibleGateway.com: A searchable online Bible in over 50 versions and 35 languages.</title>
+<link>http://www.biblegateway.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-10T18:08:49Z</dc:date>
+<dc:subject>education reference religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cut-the-knot.org/index.shtml">
+<title>Interactive Mathematics Miscellany and Puzzles, Index</title>
+<link>http://www.cut-the-knot.org/index.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-26T18:34:39Z</dc:date>
+<dc:subject>education math puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://abc.net.au/news/stories/2007/06/25/1960875.htm?section=world">
+<title>Creationism makes a comeback in US - ABC News (Australian Broadcasting Corporation)</title>
+<link>http://abc.net.au/news/stories/2007/06/25/1960875.htm?section=world</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-25T19:53:28Z</dc:date>
+<dc:subject>creationism education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.myfoxboston.com/myfox/pages/News/Detail?contentId=3581762&#x26;version=2&#x26;locale=EN-US&#x26;layoutCode=TSTY&#x26;pageId=3.8.1">
+<title>MyFox Boston | High School Yearbook Photo Blacked Out for Gay Kiss</title>
+<link>http://www.myfoxboston.com/myfox/pages/News/Detail?contentId=3581762&#x26;version=2&#x26;locale=EN-US&#x26;layoutCode=TSTY&#x26;pageId=3.8.1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-25T17:50:11Z</dc:date>
+<dc:subject>education stickinbutt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/stickinbutt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.opednews.com/articles/opedne_dennis_d_070614_questions_your_pasto.htm">
+<title>Questions Your Pastor Will Hate</title>
+<link>http://www.opednews.com/articles/opedne_dennis_d_070614_questions_your_pasto.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-23T02:01:36Z</dc:date>
+<dc:subject>atheism education religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.elte.hu/~ewkiss/education.html">
+<title>Can the level of math education sink any lower?</title>
+<link>http://www.cs.elte.hu/~ewkiss/education.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-23T01:40:24Z</dc:date>
+<dc:subject>education funny math wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.rationalresponders.com/">
+<title>Welcome to the Rational Response Squad! | Rational Responders</title>
+<link>http://www.rationalresponders.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-22T23:47:50Z</dc:date>
+<dc:subject>atheism education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html">
+<title>Stevey's Blog Rants: Rich Programmer Food</title>
+<link>http://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-22T21:41:07Z</dc:date>
+<dc:subject>development education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wired.com/culture/lifestyle/commentary/sexdrive/2007/06/sexdrive_0615">
+<title>Master's Student Demonstrates Thesis Project in Her Underwear</title>
+<link>http://www.wired.com/culture/lifestyle/commentary/sexdrive/2007/06/sexdrive_0615</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T19:59:20Z</dc:date>
+<dc:subject>cool education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.evolutionvscreationism.info/Evolution%20vs.%20Creationism/The%20Scientists.html">
+<title>The Scientists</title>
+<link>http://www.evolutionvscreationism.info/Evolution%20vs.%20Creationism/The%20Scientists.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-14T16:59:17Z</dc:date>
+<dc:subject>atheism creationism education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rawstory.com/showoutarticle.php?src=http%3A%2F%2Fwww.editorandpublisher.com%2Feandp%2Fnews%2Farticle_display.jsp%3Fvnu_content_id%3D1003590603">
+<title>education and religion</title>
+<link>http://rawstory.com/showoutarticle.php?src=http%3A%2F%2Fwww.editorandpublisher.com%2Feandp%2Fnews%2Farticle_display.jsp%3Fvnu_content_id%3D1003590603</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-26T11:18:34Z</dc:date>
+<dc:subject>education religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sciam.com/article.cfm?articleId=000D4FEC-7D5B-1D07-8E49809EC588EEDF&#x26;chanId=sa013&#x26;modsrc=most_popular">
+<title>15 Answers to Creationist Nonsense: Scientific American</title>
+<link>http://sciam.com/article.cfm?articleId=000D4FEC-7D5B-1D07-8E49809EC588EEDF&#x26;chanId=sa013&#x26;modsrc=most_popular</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-20T01:57:01Z</dc:date>
+<dc:subject>atheism creationism education evolution religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pe.com/localnews/southwestarea/stories/PE_News_Local_D_bully17.3f7a9b4.html">
+<title>Mom makes daughter who bullied hold a poster in front of schools | MyTown.pe.com | PE.com | Southern California News | News for Inland Southern California</title>
+<link>http://www.pe.com/localnews/southwestarea/stories/PE_News_Local_D_bully17.3f7a9b4.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-18T19:23:14Z</dc:date>
+<dc:subject>education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

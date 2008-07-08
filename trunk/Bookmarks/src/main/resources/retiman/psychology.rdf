@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/psychology">
+<title>del.icio.us/retiman/psychology</title>
+<link>http://del.icio.us/retiman/psychology</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://people.howstuffworks.com/serial-killer.htm" />
+  <rdf:li rdf:resource="http://listverse.com/miscellaneous/20-amazing-optical-illusions/" />
+  <rdf:li rdf:resource="http://www.skepdic.com/pseudosymmetry.html" />
+  <rdf:li rdf:resource="http://www.lifehack.org/articles/lifehack/7-stupid-thinking-errors-you-probably-make.html?ph" />
+  <rdf:li rdf:resource="http://news.yahoo.com/s/livescience/20070928/sc_livescience/olderbrothersfuelaggressioninsiblings;_ylt=ApZXzQdckuG8cWixrPwuGWOs0NUE" />
+  <rdf:li rdf:resource="http://www.securityfocus.com/infocus/1527" />
+  <rdf:li rdf:resource="http://www.livescience.com/health/top10_mysteriesofthemind.html" />
+  <rdf:li rdf:resource="http://www.mindtools.com/stress/Brn/BurnoutSelfTest.htm" />
+  <rdf:li rdf:resource="http://www.dailykos.com/storyonly/2007/7/22/9334/83825" />
+  <rdf:li rdf:resource="http://people.howstuffworks.com/brainwashing.htm" />
+  <rdf:li rdf:resource="http://abcnews.go.com/Primetime/story?id=2741047" />
+  <rdf:li rdf:resource="http://scienceblogs.com/developingintelligence/2007/06/a_lobotomy_can_set_you_free_co.php#bottom" />
+  <rdf:li rdf:resource="http://www.msnbc.msn.com/id/19311349/site/newsweek/page/0" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://people.howstuffworks.com/serial-killer.htm">
+<title>Howstuffworks &#x22;How Serial Killers Work&#x22;</title>
+<link>http://people.howstuffworks.com/serial-killer.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-22T07:58:43Z</dc:date>
+<dc:subject>psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://listverse.com/miscellaneous/20-amazing-optical-illusions/">
+<title>20 Amazing Optical Illusions - The List Universe</title>
+<link>http://listverse.com/miscellaneous/20-amazing-optical-illusions/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T21:31:39Z</dc:date>
+<dc:subject>cool education image math psychology reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.skepdic.com/pseudosymmetry.html">
+<title>pseudosymmetry</title>
+<link>http://www.skepdic.com/pseudosymmetry.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T19:54:55Z</dc:date>
+<dc:subject>politics psychology science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lifehack.org/articles/lifehack/7-stupid-thinking-errors-you-probably-make.html?ph">
+<title>7 Stupid Thinking Errors You Probably Make - lifehack.org</title>
+<link>http://www.lifehack.org/articles/lifehack/7-stupid-thinking-errors-you-probably-make.html?ph</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T00:23:29Z</dc:date>
+<dc:subject>psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.yahoo.com/s/livescience/20070928/sc_livescience/olderbrothersfuelaggressioninsiblings;_ylt=ApZXzQdckuG8cWixrPwuGWOs0NUE">
+<title>Older Brothers Fuel Aggression in Siblings - Yahoo! News</title>
+<link>http://news.yahoo.com/s/livescience/20070928/sc_livescience/olderbrothersfuelaggressioninsiblings;_ylt=ApZXzQdckuG8cWixrPwuGWOs0NUE</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-01T22:00:27Z</dc:date>
+<dc:subject>psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.securityfocus.com/infocus/1527">
+<title>Social Engineering Fundamentals, Part I: Hacker Tactics</title>
+<link>http://www.securityfocus.com/infocus/1527</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-14T04:16:37Z</dc:date>
+<dc:subject>psychology security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/health/top10_mysteriesofthemind.html">
+<title>Top 10 Mysteries of the Mind | LiveScience</title>
+<link>http://www.livescience.com/health/top10_mysteriesofthemind.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:31:27Z</dc:date>
+<dc:subject>health psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mindtools.com/stress/Brn/BurnoutSelfTest.htm">
+<title>Burnout Self-Test - Stress Management Techniques from Mind Tools</title>
+<link>http://www.mindtools.com/stress/Brn/BurnoutSelfTest.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-04T02:36:28Z</dc:date>
+<dc:subject>job psychology stress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/job" />
+    <rdf:li resource="http://del.icio.us/tag/stress" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dailykos.com/storyonly/2007/7/22/9334/83825">
+<title>Daily Kos: &#x22;The Only Moral Abortion Is My Abortion&#x22;</title>
+<link>http://www.dailykos.com/storyonly/2007/7/22/9334/83825</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-27T08:11:37Z</dc:date>
+<dc:subject>health politics psychology religion women wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/women" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://people.howstuffworks.com/brainwashing.htm">
+<title>Howstuffworks &#x22;How Brainwashing Works&#x22;</title>
+<link>http://people.howstuffworks.com/brainwashing.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-24T23:43:19Z</dc:date>
+<dc:subject>howstuffworks psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howstuffworks" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://abcnews.go.com/Primetime/story?id=2741047">
+<title>ABC News: Turning the Tables</title>
+<link>http://abcnews.go.com/Primetime/story?id=2741047</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-28T04:28:25Z</dc:date>
+<dc:subject>gender psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/gender" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scienceblogs.com/developingintelligence/2007/06/a_lobotomy_can_set_you_free_co.php#bottom">
+<title>Developing Intelligence : When Brain Damage Helps: Solution Spaces Are Constrained by Prefrontal Cortex</title>
+<link>http://scienceblogs.com/developingintelligence/2007/06/a_lobotomy_can_set_you_free_co.php#bottom</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-26T18:21:36Z</dc:date>
+<dc:subject>psychology science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.msnbc.msn.com/id/19311349/site/newsweek/page/0">
+<title>Psychology: Humans Will Justify Almost Anything - Newsweek Mind Matters - MSNBC.com</title>
+<link>http://www.msnbc.msn.com/id/19311349/site/newsweek/page/0</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-24T04:18:42Z</dc:date>
+<dc:subject>psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

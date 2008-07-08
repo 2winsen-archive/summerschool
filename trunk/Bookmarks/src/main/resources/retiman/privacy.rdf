@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/privacy">
+<title>del.icio.us/retiman/privacy</title>
+<link>http://del.icio.us/retiman/privacy</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.smh.com.au/news/perspectives/digital-copyright-its-all-wrong/2008/06/09/1212863545123.html" />
+  <rdf:li rdf:resource="http://blog.wired.com/27bstroke6/2008/06/house-grants-te.html" />
+  <rdf:li rdf:resource="http://seattletimes.nwsource.com/html/politics/2004001159_spying08.html" />
+  <rdf:li rdf:resource="https://www.bankprivacycase.com/FAQ.aspx" />
+  <rdf:li rdf:resource="http://www.mailbucket.org/" />
+  <rdf:li rdf:resource="http://someonewhocares.org/hosts/" />
+  <rdf:li rdf:resource="http://blog.wired.com/27bstroke6/2007/06/facebook-privat.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.smh.com.au/news/perspectives/digital-copyright-its-all-wrong/2008/06/09/1212863545123.html">
+<title>Digital copyright: it's all wrong - Perspectives - Opinion - Technology</title>
+<link>http://www.smh.com.au/news/perspectives/digital-copyright-its-all-wrong/2008/06/09/1212863545123.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-28T12:44:24Z</dc:date>
+<dc:subject>law politics privacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/27bstroke6/2008/06/house-grants-te.html">
+<title>House Grants Telecom Amnesty, Expands Spying Powers | Threat Level from Wired.com</title>
+<link>http://blog.wired.com/27bstroke6/2008/06/house-grants-te.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-23T12:33:53Z</dc:date>
+<dc:subject>politics privacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://seattletimes.nwsource.com/html/politics/2004001159_spying08.html">
+<title>Politics | AT&#x26;T gave feds access to all Web, phone traffic, ex-tech says | Seattle Times Newspaper</title>
+<link>http://seattletimes.nwsource.com/html/politics/2004001159_spying08.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-09T00:13:44Z</dc:date>
+<dc:subject>at&#x26;amp;t evil privacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evil" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/at%26t" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.bankprivacycase.com/FAQ.aspx">
+<title>Consumer Privacy: Frequently Asked Questions</title>
+<link>https://www.bankprivacycase.com/FAQ.aspx</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-08T17:34:52Z</dc:date>
+<dc:subject>privacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mailbucket.org/">
+<title>MailBucket</title>
+<link>http://www.mailbucket.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-28T08:43:55Z</dc:date>
+<dc:subject>privacy software web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://someonewhocares.org/hosts/">
+<title>Using a Hosts File To Make The Internet Not Suck (as much)</title>
+<link>http://someonewhocares.org/hosts/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-25T17:58:22Z</dc:date>
+<dc:subject>privacy security web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/27bstroke6/2007/06/facebook-privat.html">
+<title>Threat Level - Wired Blogs</title>
+<link>http://blog.wired.com/27bstroke6/2007/06/facebook-privat.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-29T18:17:46Z</dc:date>
+<dc:subject>privacy security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

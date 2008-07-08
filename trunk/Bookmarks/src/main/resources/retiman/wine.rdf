@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/wine">
+<title>del.icio.us/retiman/wine</title>
+<link>http://del.icio.us/retiman/wine</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.winehq.org/site/docs/wineusr-guide/misc-things-to-configure" />
+  <rdf:li rdf:resource="http://www.codeweavers.com/support/docs/wine-user/config-file" />
+  <rdf:li rdf:resource="http://editplus.info/wiki/Running_on_Linux" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.winehq.org/site/docs/wineusr-guide/misc-things-to-configure">
+<title>Wine HQ - Other Things to Configure</title>
+<link>http://www.winehq.org/site/docs/wineusr-guide/misc-things-to-configure</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-10T20:31:22Z</dc:date>
+<dc:subject>font wine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wine" />
+    <rdf:li resource="http://del.icio.us/tag/font" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.codeweavers.com/support/docs/wine-user/config-file">
+<title>CodeWeavers - The Wine Configuration File</title>
+<link>http://www.codeweavers.com/support/docs/wine-user/config-file</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-10T20:17:57Z</dc:date>
+<dc:subject>linux wine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wine" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://editplus.info/wiki/Running_on_Linux">
+<title>Running EditPlus on Linux</title>
+<link>http://editplus.info/wiki/Running_on_Linux</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T06:22:15Z</dc:date>
+<dc:subject>linux wine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wine" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

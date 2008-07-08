@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/bash">
+<title>del.icio.us/retiman/bash</title>
+<link>http://del.icio.us/retiman/bash</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html" />
+  <rdf:li rdf:resource="http://www.ss64.com/bash/" />
+  <rdf:li rdf:resource="http://www.pixelbeat.org/programming/shell_script_mistakes.html" />
+  <rdf:li rdf:resource="http://www.shell-fu.org/" />
+  <rdf:li rdf:resource="http://www.kuro5hin.org/story/2004/3/9/16838/14935" />
+  <rdf:li rdf:resource="http://www.pixelbeat.org/cmdline.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/featured-script/queue-downloads-at-the-command-line-with-dq-298243.php" />
+  <rdf:li rdf:resource="http://tldp.org/HOWTO/Bash-Prompt-HOWTO/x329.html" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/aix/library/au-satbuildscript.html" />
+  <rdf:li rdf:resource="http://csdir.org/tutorials/bash-tutorial/" />
+  <rdf:li rdf:resource="http://www.builderau.com.au/program/linux/soa/10-shortcuts-to-master-bash/0,339028299,339279043,00.htm" />
+  <rdf:li rdf:resource="http://pegasus.rutgers.edu/~elflord/unix/bash-tute.html" />
+  <rdf:li rdf:resource="http://tldp.org/LDP/abs/html/" />
+  <rdf:li rdf:resource="http://linuxgazette.net/133/cherian.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html">
+<title>ATOzTOA: Linux Commands I Hardly Knew</title>
+<link>http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-30T18:52:07Z</dc:date>
+<dc:subject>bash linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ss64.com/bash/">
+<title>Linux bash commands - MAN Pages</title>
+<link>http://www.ss64.com/bash/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-08T22:48:41Z</dc:date>
+<dc:subject>bash</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pixelbeat.org/programming/shell_script_mistakes.html">
+<title>Common shell script mistakes</title>
+<link>http://www.pixelbeat.org/programming/shell_script_mistakes.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-25T21:15:54Z</dc:date>
+<dc:subject>bash linux shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shell-fu.org/">
+<title>[shell-fu:home]$</title>
+<link>http://www.shell-fu.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-24T01:54:25Z</dc:date>
+<dc:subject>bash cool scripting shell tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kuro5hin.org/story/2004/3/9/16838/14935">
+<title>GNU Screen: an introduction and beginner's tutorial || kuro5hin.org</title>
+<link>http://www.kuro5hin.org/story/2004/3/9/16838/14935</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-26T16:16:33Z</dc:date>
+<dc:subject>bash screen</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/screen" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pixelbeat.org/cmdline.html">
+<title>Linux Command Line Tips</title>
+<link>http://www.pixelbeat.org/cmdline.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-08T06:22:29Z</dc:date>
+<dc:subject>bash linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/featured-script/queue-downloads-at-the-command-line-with-dq-298243.php">
+<title>Featured Script: Queue Downloads at the Command Line with DQ - Lifehacker</title>
+<link>http://lifehacker.com/software/featured-script/queue-downloads-at-the-command-line-with-dq-298243.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-15T00:38:06Z</dc:date>
+<dc:subject>bash</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tldp.org/HOWTO/Bash-Prompt-HOWTO/x329.html">
+<title>Colours</title>
+<link>http://tldp.org/HOWTO/Bash-Prompt-HOWTO/x329.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-10T21:00:01Z</dc:date>
+<dc:subject>bash</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/aix/library/au-satbuildscript.html">
+<title>System Administration Toolkit: Build intelligent, unattended scripts</title>
+<link>http://www.ibm.com/developerworks/aix/library/au-satbuildscript.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:30:48Z</dc:date>
+<dc:subject>bash development linux scripting shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://csdir.org/tutorials/bash-tutorial/">
+<title>Bash tutorial | Programming tutorials</title>
+<link>http://csdir.org/tutorials/bash-tutorial/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-24T00:37:31Z</dc:date>
+<dc:subject>bash linux scripting shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.builderau.com.au/program/linux/soa/10-shortcuts-to-master-bash/0,339028299,339279043,00.htm">
+<title>10 shortcuts to master bash - Program - Linux - Builder AU</title>
+<link>http://www.builderau.com.au/program/linux/soa/10-shortcuts-to-master-bash/0,339028299,339279043,00.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-27T03:56:04Z</dc:date>
+<dc:subject>bash linux scripting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pegasus.rutgers.edu/~elflord/unix/bash-tute.html">
+<title>bash tutorial</title>
+<link>http://pegasus.rutgers.edu/~elflord/unix/bash-tute.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-03T02:04:18Z</dc:date>
+<dc:subject>bash linux scripting shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tldp.org/LDP/abs/html/">
+<title>Advanced Bash-Scripting Guide</title>
+<link>http://tldp.org/LDP/abs/html/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-22T19:06:27Z</dc:date>
+<dc:subject>bash linux scripting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linuxgazette.net/133/cherian.html">
+<title>Easy shell scripting</title>
+<link>http://linuxgazette.net/133/cherian.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T20:23:26Z</dc:date>
+<dc:subject>bash linux shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

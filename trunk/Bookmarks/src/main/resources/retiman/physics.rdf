@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/physics">
+<title>del.icio.us/retiman/physics</title>
+<link>http://del.icio.us/retiman/physics</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.sciencenews.org/view/generic/id/33082/title/Accidental_astrophysicists" />
+  <rdf:li rdf:resource="http://science.howstuffworks.com/quantum-cryptology.htm" />
+  <rdf:li rdf:resource="http://www.pbs.org/wgbh/nova/elegant/program.html" />
+  <rdf:li rdf:resource="http://godplaysdice.blogspot.com/2007/09/why-g-2.html" />
+  <rdf:li rdf:resource="http://www.research.ibm.com/quantuminfo/teleportation/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.sciencenews.org/view/generic/id/33082/title/Accidental_astrophysicists">
+<title>Science News / Accidental Astrophysicists</title>
+<link>http://www.sciencenews.org/view/generic/id/33082/title/Accidental_astrophysicists</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-17T07:12:31Z</dc:date>
+<dc:subject>math physics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://science.howstuffworks.com/quantum-cryptology.htm">
+<title>Howstuffworks &#x22;How Quantum Cryptology Works&#x22;</title>
+<link>http://science.howstuffworks.com/quantum-cryptology.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-23T17:50:30Z</dc:date>
+<dc:subject>cryptography physics quantum security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/quantum" />
+    <rdf:li resource="http://del.icio.us/tag/cryptography" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pbs.org/wgbh/nova/elegant/program.html">
+<title>NOVA | The Elegant Universe | Watch the Program | PBS</title>
+<link>http://www.pbs.org/wgbh/nova/elegant/program.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-28T00:03:11Z</dc:date>
+<dc:subject>physics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://godplaysdice.blogspot.com/2007/09/why-g-2.html">
+<title>God Plays Dice: Why g ~ &#x3C0;&#x3C;sup&#x3E;2&#x3C;/sup&#x3E;</title>
+<link>http://godplaysdice.blogspot.com/2007/09/why-g-2.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-16T08:42:04Z</dc:date>
+<dc:subject>math physics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.research.ibm.com/quantuminfo/teleportation/">
+<title>Teleportation</title>
+<link>http://www.research.ibm.com/quantuminfo/teleportation/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-22T00:24:28Z</dc:date>
+<dc:subject>physics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

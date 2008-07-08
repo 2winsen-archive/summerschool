@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/law">
+<title>del.icio.us/retiman/law</title>
+<link>http://del.icio.us/retiman/law</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.smh.com.au/news/perspectives/digital-copyright-its-all-wrong/2008/06/09/1212863545123.html" />
+  <rdf:li rdf:resource="http://torrentfreak.com/swedish-left-party-wants-to-legalize-piracy-080609/" />
+  <rdf:li rdf:resource="http://governmentdirt.com/10_things_to_remember_when_confronted_by_the_police_avoid_the_bro_dont_tase_me_moment" />
+  <rdf:li rdf:resource="http://www.news.com/8301-10784_3-9778087-7.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/technophilia/where-to-find-public-records-online-280785.php" />
+  <rdf:li rdf:resource="http://consumerist.com/consumer/irs/man-dodges-taxes-for-10-years-wins-in-federal-district-court-279978.php" />
+  <rdf:li rdf:resource="http://www.wired.com/politics/law/news/2007/07/fbi_spyware" />
+  <rdf:li rdf:resource="http://www.denverpost.com/ci_6373222" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/1/hi/uk/6237480.stm" />
+  <rdf:li rdf:resource="http://www.straightdope.com/classics/a1_145.html" />
+  <rdf:li rdf:resource="http://www.markshuttleworth.com/archives/127" />
+  <rdf:li rdf:resource="http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/15/IDTHEFT.TMP" />
+  <rdf:li rdf:resource="http://www.theday.com/re.aspx?re=27ac5889-d5bc-48b7-9eac-c4720a2fda2d" />
+  <rdf:li rdf:resource="http://blog.wired.com/27bstroke6/2007/06/teacher_granted.html" />
+  <rdf:li rdf:resource="http://www.reason.com/blog/show/120331.html" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20070522-michigan-man-arrested-for-using-cafes-free-wifi-from-his-car.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.smh.com.au/news/perspectives/digital-copyright-its-all-wrong/2008/06/09/1212863545123.html">
+<title>Digital copyright: it's all wrong - Perspectives - Opinion - Technology</title>
+<link>http://www.smh.com.au/news/perspectives/digital-copyright-its-all-wrong/2008/06/09/1212863545123.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-28T12:44:24Z</dc:date>
+<dc:subject>law politics privacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://torrentfreak.com/swedish-left-party-wants-to-legalize-piracy-080609/">
+<title>Swedish Left Party Wants to Legalize Piracy | TorrentFreak</title>
+<link>http://torrentfreak.com/swedish-left-party-wants-to-legalize-piracy-080609/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-28T12:44:13Z</dc:date>
+<dc:subject>law p2p piracy politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/piracy" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://governmentdirt.com/10_things_to_remember_when_confronted_by_the_police_avoid_the_bro_dont_tase_me_moment">
+<title>10 Things to Remember When Confronted By The Police - Avoid the &#x22;Bro, Don't Tase Me&#x22; Moment! | Government Dirt</title>
+<link>http://governmentdirt.com/10_things_to_remember_when_confronted_by_the_police_avoid_the_bro_dont_tase_me_moment</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-14T18:59:29Z</dc:date>
+<dc:subject>funny law</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.news.com/8301-10784_3-9778087-7.html">
+<title>Prince lashes out at YouTube, eBay and The Pirate Bay | Tech news blog - CNET News.com</title>
+<link>http://www.news.com/8301-10784_3-9778087-7.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T22:44:47Z</dc:date>
+<dc:subject>law stickinbutt</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/stickinbutt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/technophilia/where-to-find-public-records-online-280785.php">
+<title>Technophilia: Where to find public records online - Lifehacker</title>
+<link>http://lifehacker.com/software/technophilia/where-to-find-public-records-online-280785.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-30T08:46:05Z</dc:date>
+<dc:subject>cool law reference web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://consumerist.com/consumer/irs/man-dodges-taxes-for-10-years-wins-in-federal-district-court-279978.php">
+<title>IRS: Man Dodges Taxes For 10 Years, Wins In Federal District Court - Consumerist</title>
+<link>http://consumerist.com/consumer/irs/man-dodges-taxes-for-10-years-wins-in-federal-district-court-279978.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-21T02:59:28Z</dc:date>
+<dc:subject>cool law money taxes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/taxes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wired.com/politics/law/news/2007/07/fbi_spyware">
+<title>FBI's Secret Spyware Tracks Down Teen Who Made Bomb Threats</title>
+<link>http://www.wired.com/politics/law/news/2007/07/fbi_spyware</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T16:59:15Z</dc:date>
+<dc:subject>fbi law security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/fbi" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.denverpost.com/ci_6373222">
+<title>The Denver Post - Sketchy evidence raises doubt</title>
+<link>http://www.denverpost.com/ci_6373222</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-15T22:14:11Z</dc:date>
+<dc:subject>law</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/1/hi/uk/6237480.stm">
+<title>BBC NEWS | UK | Anger at 'lenient' rape sentence</title>
+<link>http://news.bbc.co.uk/1/hi/uk/6237480.stm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-25T17:52:39Z</dc:date>
+<dc:subject>law wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.straightdope.com/classics/a1_145.html">
+<title>The Straight Dope: How do courts swear in atheists?</title>
+<link>http://www.straightdope.com/classics/a1_145.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-22T01:11:09Z</dc:date>
+<dc:subject>atheism funny law religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.markshuttleworth.com/archives/127">
+<title>Mark Shuttleworth &#xBB; Blog Archive &#xBB; No negotiations with Microsoft in progress</title>
+<link>http://www.markshuttleworth.com/archives/127</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-17T07:24:43Z</dc:date>
+<dc:subject>law microsoft ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/15/IDTHEFT.TMP">
+<title>How victim snared ID thief / She chased down woman who had given her 6 months of hell</title>
+<link>http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/15/IDTHEFT.TMP</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T20:33:46Z</dc:date>
+<dc:subject>cool law security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theday.com/re.aspx?re=27ac5889-d5bc-48b7-9eac-c4720a2fda2d">
+<title>TheDay.com - A Travesty Of Justice Averted</title>
+<link>http://www.theday.com/re.aspx?re=27ac5889-d5bc-48b7-9eac-c4720a2fda2d</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T04:42:57Z</dc:date>
+<dc:subject>law security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/27bstroke6/2007/06/teacher_granted.html">
+<title>Threat Level - Wired Blogs</title>
+<link>http://blog.wired.com/27bstroke6/2007/06/teacher_granted.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-07T03:11:19Z</dc:date>
+<dc:subject>law security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reason.com/blog/show/120331.html">
+<title>Reason Magazine - Hit &#x26; Run &#x3E; Supremes to Victims of Wrong House Searches: Deal With It</title>
+<link>http://www.reason.com/blog/show/120331.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-22T18:19:51Z</dc:date>
+<dc:subject>law</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20070522-michigan-man-arrested-for-using-cafes-free-wifi-from-his-car.html">
+<title>Michigan man arrested for using cafe's free WiFi from his car</title>
+<link>http://arstechnica.com/news.ars/post/20070522-michigan-man-arrested-for-using-cafes-free-wifi-from-his-car.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-22T18:14:29Z</dc:date>
+<dc:subject>law</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

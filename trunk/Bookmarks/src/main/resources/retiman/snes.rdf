@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/snes">
+<title>del.icio.us/retiman/snes</title>
+<link>http://del.icio.us/retiman/snes</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://yoyofr92.free.fr/psp/snespsp.html" />
+  <rdf:li rdf:resource="http://projects.elsallia.com/der-langrisser/downloads" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://yoyofr92.free.fr/psp/snespsp.html">
+<title>YoyoFR's psp stuff - SnesPSP_TYL</title>
+<link>http://yoyofr92.free.fr/psp/snespsp.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-20T14:22:30Z</dc:date>
+<dc:subject>psp snes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/snes" />
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://projects.elsallia.com/der-langrisser/downloads">
+<title>Langrisser Projects &#xBB; Downloads</title>
+<link>http://projects.elsallia.com/der-langrisser/downloads</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-19T12:15:25Z</dc:date>
+<dc:subject>gaming snes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/snes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

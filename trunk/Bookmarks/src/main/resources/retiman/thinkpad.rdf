@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/thinkpad">
+<title>del.icio.us/retiman/thinkpad</title>
+<link>http://del.icio.us/retiman/thinkpad</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control" />
+  <rdf:li rdf:resource="http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control#Install_using_repository_.28recommended.29" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=81622" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=118132" />
+  <rdf:li rdf:resource="http://www.thinkwiki.org/wiki/KMilo" />
+  <rdf:li rdf:resource="http://thomasgersdorf.com/linux/index.php/Gentoo_Linux_on_IBM_ThinkPad_T60" />
+  <rdf:li rdf:resource="http://www-307.ibm.com/pc/support/site.wss/document.do?lndocid=MIGR-63024" />
+  <rdf:li rdf:resource="http://ati.amd.com/support/drivers/linux/linux-radeon.html" />
+  <rdf:li rdf:resource="http://www.thinkwiki.org/wiki/Problem_with_hard_drive_clicking#Another_Possible_Solution" />
+  <rdf:li rdf:resource="http://www.nongnu.org/tpb/" />
+  <rdf:li rdf:resource="http://www.kraus.tk/installnotes/T60/ThinkPad-T60.htm" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=523022" />
+  <rdf:li rdf:resource="http://www.thinkwiki.org/wiki/Installing_Ubuntu_7.10_(Gutsy_Gibbon)_Release_Candidate_on_a_ThinkPad_T61#Volume_keys" />
+  <rdf:li rdf:resource="https://help.ubuntu.com/community/RadeonDriver" />
+  <rdf:li rdf:resource="https://bugs.launchpad.net/ubuntu/+source/linux-source-2.6.20/+bug/116752" />
+  <rdf:li rdf:resource="http://www.thinkwiki.org/wiki/ThinkWiki" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control">
+<title>ThinkPad Fan Control - Gambit Chess Wiki</title>
+<link>http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-18T02:14:31Z</dc:date>
+<dc:subject>fan ibm linux thinkpad ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fan" />
+    <rdf:li resource="http://del.icio.us/tag/ibm" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control#Install_using_repository_.28recommended.29">
+<title>ThinkPad Fan Control - Gambit Chess Wiki</title>
+<link>http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control#Install_using_repository_.28recommended.29</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-17T14:38:01Z</dc:date>
+<dc:subject>fan ibm linux thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ibm" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/fan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=81622">
+<title>ThinkPad buttons and on-screen display: a How-To with questions - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=81622</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-10T17:25:52Z</dc:date>
+<dc:subject>kde linux thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/kde" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=118132">
+<title>kmilo functionality (IBM Thinkpad sound)? - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=118132</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-10T17:25:40Z</dc:date>
+<dc:subject>kde linux thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/kde" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinkwiki.org/wiki/KMilo">
+<title>KMilo - ThinkWiki</title>
+<link>http://www.thinkwiki.org/wiki/KMilo</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-10T17:25:26Z</dc:date>
+<dc:subject>kde linux thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/kde" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thomasgersdorf.com/linux/index.php/Gentoo_Linux_on_IBM_ThinkPad_T60">
+<title>Gentoo Linux on IBM ThinkPad T60 - Wiki</title>
+<link>http://thomasgersdorf.com/linux/index.php/Gentoo_Linux_on_IBM_ThinkPad_T60</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-10T00:07:47Z</dc:date>
+<dc:subject>gentoo thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gentoo" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-307.ibm.com/pc/support/site.wss/document.do?lndocid=MIGR-63024">
+<title>Lenovo Support &#x26; downloads - BIOS update utility - ThinkPad T60, T60p</title>
+<link>http://www-307.ibm.com/pc/support/site.wss/document.do?lndocid=MIGR-63024</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-18T22:03:47Z</dc:date>
+<dc:subject>thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ati.amd.com/support/drivers/linux/linux-radeon.html">
+<title>ATI Proprietary Linux x86 Display Driver 8.42.3</title>
+<link>http://ati.amd.com/support/drivers/linux/linux-radeon.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-04T00:28:44Z</dc:date>
+<dc:subject>ati hardware linux thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinkwiki.org/wiki/Problem_with_hard_drive_clicking#Another_Possible_Solution">
+<title>Problem with hard drive clicking - ThinkWiki</title>
+<link>http://www.thinkwiki.org/wiki/Problem_with_hard_drive_clicking#Another_Possible_Solution</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-31T16:00:22Z</dc:date>
+<dc:subject>hardware laptop linux thinkpad ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/laptop" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nongnu.org/tpb/">
+<title>TPB - ThinkPad Buttons</title>
+<link>http://www.nongnu.org/tpb/</link>
+<description>dfadsafsad</description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-21T20:30:02Z</dc:date>
+<dc:subject>linux software thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kraus.tk/installnotes/T60/ThinkPad-T60.htm">
+<title>ThinkPad T60 - Installation Guide for Linux</title>
+<link>http://www.kraus.tk/installnotes/T60/ThinkPad-T60.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-21T20:27:06Z</dc:date>
+<dc:subject>linux thinkpad ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=523022">
+<title>Thinkpad X61 in Gutsy - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=523022</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-21T01:23:17Z</dc:date>
+<dc:subject>linux thinkpad ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinkwiki.org/wiki/Installing_Ubuntu_7.10_(Gutsy_Gibbon)_Release_Candidate_on_a_ThinkPad_T61#Volume_keys">
+<title>Installing Ubuntu 7.10 (Gutsy Gibbon) on a ThinkPad T61 - ThinkWiki</title>
+<link>http://www.thinkwiki.org/wiki/Installing_Ubuntu_7.10_(Gutsy_Gibbon)_Release_Candidate_on_a_ThinkPad_T61#Volume_keys</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-21T01:22:54Z</dc:date>
+<dc:subject>linux thinkpad ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://help.ubuntu.com/community/RadeonDriver">
+<title>RadeonDriver - Community Ubuntu Documentation</title>
+<link>https://help.ubuntu.com/community/RadeonDriver</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-30T07:57:47Z</dc:date>
+<dc:subject>hardware linux thinkpad ubuntu video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://bugs.launchpad.net/ubuntu/+source/linux-source-2.6.20/+bug/116752">
+<title>Bug #116752 in linux-source-2.6.20 (Ubuntu): &#x201C;Uhhuh. NMI received for unknown reason a0 on CPU 0&#x201D;</title>
+<link>https://bugs.launchpad.net/ubuntu/+source/linux-source-2.6.20/+bug/116752</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-13T23:59:26Z</dc:date>
+<dc:subject>thinkpad ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinkwiki.org/wiki/ThinkWiki">
+<title>Thinkwiki</title>
+<link>http://www.thinkwiki.org/wiki/ThinkWiki</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:13:44Z</dc:date>
+<dc:subject>linux thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

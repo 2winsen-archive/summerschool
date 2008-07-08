@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/ajax">
+<title>del.icio.us/retiman/ajax</title>
+<link>http://del.icio.us/retiman/ajax</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/" />
+  <rdf:li rdf:resource="http://code.google.com/p/syntaxhighlighter/" />
+  <rdf:li rdf:resource="http://www.internetnews.com/dev-news/article.php/3676226" />
+  <rdf:li rdf:resource="http://www.ddj.com/199203087;jsessionid=O0HNJBO5D5J1SQSNDLRSKH0CJUNN2JVN?_requestid=1369140" />
+  <rdf:li rdf:resource="http://www.javaworld.com/javaworld/jw-04-2007/jw-04-gwt.html?fsrc=rss-index" />
+  <rdf:li rdf:resource="http://books.slashdot.org/article.pl?sid=07/03/28/1349219&#x26;from=rss" />
+  <rdf:li rdf:resource="http://flexjson.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.miniajax.com/" />
+  <rdf:li rdf:resource="http://www.webcodr.com/6/15-javascript-snippets-you-cant-live-without/" />
+  <rdf:li rdf:resource="http://tutorialblog.org/25-code-snippets-for-web-designers-part3/" />
+  <rdf:li rdf:resource="http://www.roundedcornr.com/" />
+  <rdf:li rdf:resource="http://developer.yahoo.com/yui/" />
+  <rdf:li rdf:resource="http://script.aculo.us/" />
+  <rdf:li rdf:resource="http://the-stickman.com/web-development/javascript/upload-multiple-files-with-a-single-file-element/" />
+  <rdf:li rdf:resource="http://php5.bluga.net/UploadProgressMeter/demo.php?debug=true" />
+  <rdf:li rdf:resource="http://mochikit.com/examples/interpreter/index.html" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/01/26/tutorials-round-up-ajax-css-javascript-php-mysql-and-more/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/">
+<title>Time-Savers: Code Beautifier And Formatter</title>
+<link>http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:15:16Z</dc:date>
+<dc:subject>ajax cool css javascript scripting web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/syntaxhighlighter/">
+<title>syntaxhighlighter - Google Code</title>
+<link>http://code.google.com/p/syntaxhighlighter/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T21:18:21Z</dc:date>
+<dc:subject>ajax cool development javascript software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.internetnews.com/dev-news/article.php/3676226">
+<title>Does JavaFX Spell The End Of AJAX?</title>
+<link>http://www.internetnews.com/dev-news/article.php/3676226</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-09T06:10:36Z</dc:date>
+<dc:subject>ajax java javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ddj.com/199203087;jsessionid=O0HNJBO5D5J1SQSNDLRSKH0CJUNN2JVN?_requestid=1369140">
+<title>Dr. Dobb's | AJAX: Selecting the Framework that Fits | May 1, 2007</title>
+<link>http://www.ddj.com/199203087;jsessionid=O0HNJBO5D5J1SQSNDLRSKH0CJUNN2JVN?_requestid=1369140</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-03T05:09:16Z</dc:date>
+<dc:subject>ajax</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javaworld.com/javaworld/jw-04-2007/jw-04-gwt.html?fsrc=rss-index">
+<title>Some Recipes to Improve Your Google Web Toolkit Development - Java World</title>
+<link>http://www.javaworld.com/javaworld/jw-04-2007/jw-04-gwt.html?fsrc=rss-index</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-30T05:22:58Z</dc:date>
+<dc:subject>ajax google java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://books.slashdot.org/article.pl?sid=07/03/28/1349219&#x26;from=rss">
+<title>Slashdot | GWT Java AJAX Programming</title>
+<link>http://books.slashdot.org/article.pl?sid=07/03/28/1349219&#x26;from=rss</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:17:03Z</dc:date>
+<dc:subject>ajax google java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://flexjson.sourceforge.net/">
+<title>JSON Serialization Usage</title>
+<link>http://flexjson.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:16:05Z</dc:date>
+<dc:subject>ajax java javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.miniajax.com/">
+<title>MiniAjax.com / A showroom of nice looking simple downloadable DHTML and AJAX scripts</title>
+<link>http://www.miniajax.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:00:16Z</dc:date>
+<dc:subject>ajax javascript web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.webcodr.com/6/15-javascript-snippets-you-cant-live-without/">
+<title>WebCodr.com &#xBB; Blog Archive &#xBB; 15 Javascript Snippets You Can&#x2019;t Live Without</title>
+<link>http://www.webcodr.com/6/15-javascript-snippets-you-cant-live-without/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T04:32:48Z</dc:date>
+<dc:subject>ajax javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tutorialblog.org/25-code-snippets-for-web-designers-part3/">
+<title>25 Code Snippets for Web Designers (Part3)</title>
+<link>http://tutorialblog.org/25-code-snippets-for-web-designers-part3/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T04:31:40Z</dc:date>
+<dc:subject>ajax css javascript web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.roundedcornr.com/">
+<title>Rounded corners</title>
+<link>http://www.roundedcornr.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:17:55Z</dc:date>
+<dc:subject>ajax css javascript web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://developer.yahoo.com/yui/">
+<title>Yahoo! UI</title>
+<link>http://developer.yahoo.com/yui/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:16:40Z</dc:date>
+<dc:subject>ajax javascript web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://script.aculo.us/">
+<title>script.aculo.us</title>
+<link>http://script.aculo.us/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:16:11Z</dc:date>
+<dc:subject>ajax javascript web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://the-stickman.com/web-development/javascript/upload-multiple-files-with-a-single-file-element/">
+<title>Upload multiple files with a single post</title>
+<link>http://the-stickman.com/web-development/javascript/upload-multiple-files-with-a-single-file-element/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T20:25:58Z</dc:date>
+<dc:subject>ajax javascript upload</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/upload" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://php5.bluga.net/UploadProgressMeter/demo.php?debug=true">
+<title>PHP Ajax upload meter</title>
+<link>http://php5.bluga.net/UploadProgressMeter/demo.php?debug=true</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T20:25:27Z</dc:date>
+<dc:subject>ajax php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mochikit.com/examples/interpreter/index.html">
+<title>Mochikit Javascript interpreter</title>
+<link>http://mochikit.com/examples/interpreter/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T20:24:43Z</dc:date>
+<dc:subject>ajax javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/01/26/tutorials-round-up-ajax-css-javascript-php-mysql-and-more/">
+<title>Tutorials roundup: Ajax, CSS, Javascript</title>
+<link>http://www.smashingmagazine.com/2007/01/26/tutorials-round-up-ajax-css-javascript-php-mysql-and-more/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T07:14:18Z</dc:date>
+<dc:subject>ajax css javascript php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

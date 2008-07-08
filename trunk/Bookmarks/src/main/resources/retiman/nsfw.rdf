@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/nsfw">
+<title>del.icio.us/retiman/nsfw</title>
+<link>http://del.icio.us/retiman/nsfw</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.officialdatingresource.com/dating/beware-the-dreaded-myspace-angles-pics/" />
+  <rdf:li rdf:resource="http://gizmodo.com/gadgets/oooooh/honey-doll-has-touch-sensors-moans-has-fake-orgasms-288234.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.officialdatingresource.com/dating/beware-the-dreaded-myspace-angles-pics/">
+<title>Beware the dreaded &#x201C;MySpace Angles&#x201D;! (PICS)</title>
+<link>http://www.officialdatingresource.com/dating/beware-the-dreaded-myspace-angles-pics/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-24T22:07:35Z</dc:date>
+<dc:subject>funny nsfw</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/nsfw" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gizmodo.com/gadgets/oooooh/honey-doll-has-touch-sensors-moans-has-fake-orgasms-288234.php">
+<title>Oooooh: Honey Doll Has Touch Sensors, Moans, Has Fake Orgasms - Gizmodo</title>
+<link>http://gizmodo.com/gadgets/oooooh/honey-doll-has-touch-sensors-moans-has-fake-orgasms-288234.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-12T20:36:36Z</dc:date>
+<dc:subject>nsfw wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/nsfw" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

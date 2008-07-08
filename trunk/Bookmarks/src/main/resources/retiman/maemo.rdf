@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/maemo">
+<title>del.icio.us/retiman/maemo</title>
+<link>http://del.icio.us/retiman/maemo</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://maemo.org/development/documentation/how-tos/3-x/howto_customization_bora.html" />
+  <rdf:li rdf:resource="http://maemo.org/community/wiki/ApplicationCatalog2006#5dc83fa04b1bd6c3e90d22164f2bcf15" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://maemo.org/development/documentation/how-tos/3-x/howto_customization_bora.html">
+<title>maemo.org - Maemo 3.x: How-to: Customizing and theming maemo</title>
+<link>http://maemo.org/development/documentation/how-tos/3-x/howto_customization_bora.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-04T18:51:02Z</dc:date>
+<dc:subject>maemo n810</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maemo" />
+    <rdf:li resource="http://del.icio.us/tag/n810" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://maemo.org/community/wiki/ApplicationCatalog2006#5dc83fa04b1bd6c3e90d22164f2bcf15">
+<title>maemo.org - ApplicationCatalog2006</title>
+<link>http://maemo.org/community/wiki/ApplicationCatalog2006#5dc83fa04b1bd6c3e90d22164f2bcf15</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-06T20:43:36Z</dc:date>
+<dc:subject>maemo n810</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/n810" />
+    <rdf:li resource="http://del.icio.us/tag/maemo" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

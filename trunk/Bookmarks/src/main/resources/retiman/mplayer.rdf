@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/mplayer">
+<title>del.icio.us/retiman/mplayer</title>
+<link>http://del.icio.us/retiman/mplayer</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://dekorte.homeip.net/download/gnome-mplayer/" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/archive/index.php/t-568071.html" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=636277&#x26;highlight=mplayer+compiz" />
+  <rdf:li rdf:resource="http://m.domaindlx.com/LinuxHelp/installs/mplayer.htm" />
+  <rdf:li rdf:resource="http://www.keyxl.com/aaa2fa5/302/MPlayer-keyboard-shortcuts.htm" />
+  <rdf:li rdf:resource="http://smplayer.sourceforge.net/" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=351890&#x26;highlight=mplayer+crash+xserver" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://dekorte.homeip.net/download/gnome-mplayer/">
+<title>GNOME MPlayer Home</title>
+<link>http://dekorte.homeip.net/download/gnome-mplayer/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-17T11:23:55Z</dc:date>
+<dc:subject>gnome mplayer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mplayer" />
+    <rdf:li resource="http://del.icio.us/tag/gnome" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/archive/index.php/t-568071.html">
+<title>Gnome always on top - how to set media player to auto open as always on top [Archive] - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/archive/index.php/t-568071.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-17T11:03:31Z</dc:date>
+<dc:subject>gnome mplayer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mplayer" />
+    <rdf:li resource="http://del.icio.us/tag/gnome" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=636277&#x26;highlight=mplayer+compiz">
+<title>[How To] No more flickering video in Compiz-Fusion - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=636277&#x26;highlight=mplayer+compiz</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-17T11:03:21Z</dc:date>
+<dc:subject>compiz gnome mplayer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mplayer" />
+    <rdf:li resource="http://del.icio.us/tag/gnome" />
+    <rdf:li resource="http://del.icio.us/tag/compiz" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://m.domaindlx.com/LinuxHelp/installs/mplayer.htm">
+<title>Installing Mplayer.</title>
+<link>http://m.domaindlx.com/LinuxHelp/installs/mplayer.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-14T19:29:15Z</dc:date>
+<dc:subject>mplayer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mplayer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.keyxl.com/aaa2fa5/302/MPlayer-keyboard-shortcuts.htm">
+<title>MPlayer Keyboard Shortcuts</title>
+<link>http://www.keyxl.com/aaa2fa5/302/MPlayer-keyboard-shortcuts.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-30T07:06:21Z</dc:date>
+<dc:subject>mplayer</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mplayer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://smplayer.sourceforge.net/">
+<title>SMPlayer</title>
+<link>http://smplayer.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-20T20:42:46Z</dc:date>
+<dc:subject>linux mplayer ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mplayer" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=351890&#x26;highlight=mplayer+crash+xserver">
+<title>Launching any media causes xserver to crash/reboot - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=351890&#x26;highlight=mplayer+crash+xserver</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-20T20:22:16Z</dc:date>
+<dc:subject>linux mplayer ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mplayer" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

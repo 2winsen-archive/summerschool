@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/news">
+<title>del.icio.us/retiman/news</title>
+<link>http://del.icio.us/retiman/news</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.foxnews.com/story/0,2933,373341,00.html" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20080625-japanese-isp-institutes-upload-caps-of-30gb-daily.html" />
+  <rdf:li rdf:resource="http://blog.wired.com/27bstroke6/2008/06/hans-reiser-off.html" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20080323-rick-rolled-to-child-porn-youre-a-pedophile-says-fbi.html" />
+  <rdf:li rdf:resource="http://scienceblogs.com/authority/2007/11/james_watson_westboro_baptist.php" />
+  <rdf:li rdf:resource="http://scienceblogs.com/aetiology/2007/10/mail_harmless_bacteria_go_to_j.php" />
+  <rdf:li rdf:resource="http://www.cbsnews.com/stories/2007/08/23/eveningnews/main3199062.shtml" />
+  <rdf:li rdf:resource="http://weirdworldstuff.blogspot.com/2007/08/images-that-changed-world.html" />
+  <rdf:li rdf:resource="http://www.livescience.com/strangenews/top10_unexplained_phenomena.html" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/asia-pacific/6932801.stm" />
+  <rdf:li rdf:resource="http://rixstep.com/1/20060708,00.shtml" />
+  <rdf:li rdf:resource="http://www.engadget.com/2007/07/17/the-engadget-interview-sean-mccarthy-ceo-of-steorn/" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20070718-new-trojans-give-us-300-or-the-data-gets-it.html" />
+  <rdf:li rdf:resource="http://www.sgvtribune.com/news/ci_6475567" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.foxnews.com/story/0,2933,373341,00.html">
+<title>FOXNews.com - Teen Decapitated by Batman Ride at Georgia Six Flags - Local News | News Articles | National News | US News</title>
+<link>http://www.foxnews.com/story/0,2933,373341,00.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-29T12:48:07Z</dc:date>
+<dc:subject>news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20080625-japanese-isp-institutes-upload-caps-of-30gb-daily.html">
+<title>Japanese telco institutes upload caps... of 30GB... daily</title>
+<link>http://arstechnica.com/news.ars/post/20080625-japanese-isp-institutes-upload-caps-of-30gb-daily.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-26T12:52:30Z</dc:date>
+<dc:subject>internet japan news p2p</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/japan" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/27bstroke6/2008/06/hans-reiser-off.html">
+<title>Hans Reiser Offers To Lead Cops to Nina's Body | Threat Level from Wired.com</title>
+<link>http://blog.wired.com/27bstroke6/2008/06/hans-reiser-off.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-17T11:29:26Z</dc:date>
+<dc:subject>linux news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20080323-rick-rolled-to-child-porn-youre-a-pedophile-says-fbi.html">
+<title>Rick Rolled to child porn = you're a pedophile, says FBI</title>
+<link>http://arstechnica.com/news.ars/post/20080323-rick-rolled-to-child-porn-youre-a-pedophile-says-fbi.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-23T21:23:13Z</dc:date>
+<dc:subject>fbi news wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fbi" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scienceblogs.com/authority/2007/11/james_watson_westboro_baptist.php">
+<title>The Questionable Authority : James Watson, Westboro Baptist Church, The Right to be Vile, and the Edges of Free Speech</title>
+<link>http://scienceblogs.com/authority/2007/11/james_watson_westboro_baptist.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-02T00:21:06Z</dc:date>
+<dc:subject>news politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scienceblogs.com/aetiology/2007/10/mail_harmless_bacteria_go_to_j.php">
+<title>Aetiology: Mail harmless bacteria, go to jail</title>
+<link>http://scienceblogs.com/aetiology/2007/10/mail_harmless_bacteria_go_to_j.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-25T03:55:42Z</dc:date>
+<dc:subject>biology news wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cbsnews.com/stories/2007/08/23/eveningnews/main3199062.shtml">
+<title>Letters Reveal Mother Teresa's Secret, Book Of Iconic Nun's Letters Shows She Was Tormented By Her Doubts In Her Faith - CBS News</title>
+<link>http://www.cbsnews.com/stories/2007/08/23/eveningnews/main3199062.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T18:43:56Z</dc:date>
+<dc:subject>atheism history news religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weirdworldstuff.blogspot.com/2007/08/images-that-changed-world.html">
+<title>Weird World::Weird Things-Articles, Pictures, Videos, Stories, Animals, Sex</title>
+<link>http://weirdworldstuff.blogspot.com/2007/08/images-that-changed-world.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T06:07:45Z</dc:date>
+<dc:subject>history news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/strangenews/top10_unexplained_phenomena.html">
+<title>Top Ten Unexplained Phenomena | LiveScience</title>
+<link>http://www.livescience.com/strangenews/top10_unexplained_phenomena.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:31:48Z</dc:date>
+<dc:subject>news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/asia-pacific/6932801.stm">
+<title>BBC NEWS | Asia-Pacific | Thai cops punished by Hello Kitty</title>
+<link>http://news.bbc.co.uk/2/hi/asia-pacific/6932801.stm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-06T18:24:52Z</dc:date>
+<dc:subject>news wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rixstep.com/1/20060708,00.shtml">
+<title>Rixstep</title>
+<link>http://rixstep.com/1/20060708,00.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T21:29:37Z</dc:date>
+<dc:subject>bittorrent news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.engadget.com/2007/07/17/the-engadget-interview-sean-mccarthy-ceo-of-steorn/">
+<title>The Engadget Interview: Sean McCarthy, CEO of Steorn - Engadget</title>
+<link>http://www.engadget.com/2007/07/17/the-engadget-interview-sean-mccarthy-ceo-of-steorn/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-01T03:31:26Z</dc:date>
+<dc:subject>news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20070718-new-trojans-give-us-300-or-the-data-gets-it.html">
+<title>New Trojans: give us $300, or the data gets it!</title>
+<link>http://arstechnica.com/news.ars/post/20070718-new-trojans-give-us-300-or-the-data-gets-it.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-01T01:44:38Z</dc:date>
+<dc:subject>funny news software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sgvtribune.com/news/ci_6475567">
+<title>SGVTribune.com - Teen dies in drive-by shooting</title>
+<link>http://www.sgvtribune.com/news/ci_6475567</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-29T02:40:44Z</dc:date>
+<dc:subject>local news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/local" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/apache">
+<title>del.icio.us/retiman/apache</title>
+<link>http://del.icio.us/retiman/apache</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://ws.apache.org/commons/tcpmon/" />
+  <rdf:li rdf:resource="http://jackrabbit.apache.org/" />
+  <rdf:li rdf:resource="http://www.theregister.co.uk/security/security_report_windows_vs_linux/" />
+  <rdf:li rdf:resource="http://www.howtoforge.com/subversion_web_access_apache?s=518d5a6a3a7039504116739e7ca35b42&#x26;" />
+  <rdf:li rdf:resource="http://www.yolinux.com/TUTORIALS/LinuxTutorialWebSiteConfig.html#HTTPD" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://ws.apache.org/commons/tcpmon/">
+<title>Web Services Commons : TCPMon - Apache TCPMon</title>
+<link>http://ws.apache.org/commons/tcpmon/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-06T19:21:22Z</dc:date>
+<dc:subject>apache java software testing web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jackrabbit.apache.org/">
+<title>Apache Jackrabbit - Welcome to Apache Jackrabbit</title>
+<link>http://jackrabbit.apache.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-14T00:03:28Z</dc:date>
+<dc:subject>apache cms java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theregister.co.uk/security/security_report_windows_vs_linux/">
+<title>Security Report: Windows vs Linux | The Register</title>
+<link>http://www.theregister.co.uk/security/security_report_windows_vs_linux/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-27T23:17:25Z</dc:date>
+<dc:subject>apache linux security windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howtoforge.com/subversion_web_access_apache?s=518d5a6a3a7039504116739e7ca35b42&#x26;">
+<title>How To Configure Web Access To Subversion Repositories Using Apache | HowtoForge - Linux Howtos and Tutorials</title>
+<link>http://www.howtoforge.com/subversion_web_access_apache?s=518d5a6a3a7039504116739e7ca35b42&#x26;</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:26:42Z</dc:date>
+<dc:subject>apache linux subversion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.yolinux.com/TUTORIALS/LinuxTutorialWebSiteConfig.html#HTTPD">
+<title>Linux web server and domain configuration tutorial</title>
+<link>http://www.yolinux.com/TUTORIALS/LinuxTutorialWebSiteConfig.html#HTTPD</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:12:25Z</dc:date>
+<dc:subject>apache linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

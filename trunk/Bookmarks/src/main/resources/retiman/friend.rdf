@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/friend">
+<title>del.icio.us/retiman/friend</title>
+<link>http://del.icio.us/retiman/friend</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.xanga.com/Cair_Paravel" />
+  <rdf:li rdf:resource="http://www.xanga.com/home.aspx?user=Cair_Paravel" />
+  <rdf:li rdf:resource="http://hanishling.com/" />
+  <rdf:li rdf:resource="http://julialing.com/" />
+  <rdf:li rdf:resource="http://debu.gs/" />
+  <rdf:li rdf:resource="http://reverso.be/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.xanga.com/Cair_Paravel">
+<title>cair_paravel's Xanga Site</title>
+<link>http://www.xanga.com/Cair_Paravel</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-19T23:19:04Z</dc:date>
+<dc:subject>friend</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/friend" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.xanga.com/home.aspx?user=Cair_Paravel">
+<title>Cair_Paravel's Xanga Site</title>
+<link>http://www.xanga.com/home.aspx?user=Cair_Paravel</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-17T20:29:58Z</dc:date>
+<dc:subject>friend</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/friend" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hanishling.com/">
+<title>Hanz's Homepage</title>
+<link>http://hanishling.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-02T03:51:54Z</dc:date>
+<dc:subject>friend</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/friend" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://julialing.com/">
+<title>Welcome to the official site of Julia Ling</title>
+<link>http://julialing.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-02T03:51:25Z</dc:date>
+<dc:subject>friend</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/friend" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://debu.gs/">
+<title>Debu.gs</title>
+<link>http://debu.gs/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-01T18:42:05Z</dc:date>
+<dc:subject>friend</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/friend" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://reverso.be/">
+<title>BE REVERSO -- REVERSO.BE</title>
+<link>http://reverso.be/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-01T18:41:36Z</dc:date>
+<dc:subject>friend</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/friend" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

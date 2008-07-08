@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/investing">
+<title>del.icio.us/retiman/investing</title>
+<link>http://del.icio.us/retiman/investing</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://finance.yahoo.com/taxes/article/104297/The-13-Most-Overlooked-Tax-Deductions" />
+  <rdf:li rdf:resource="http://www.aarpmagazine.org/money/avoid_money_traps.html" />
+  <rdf:li rdf:resource="http://www.getrichslowly.org/blog/2007/09/26/12-investing-mistakes-ive-made-and-how-you-can-learn-from-them/" />
+  <rdf:li rdf:resource="http://money.howstuffworks.com/online-trading.htm" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/personal-finance/to-do-open-a-roth-ira-at-ing-directcom-156683.php" />
+  <rdf:li rdf:resource="http://www.getrichslowly.org/blog/2007/06/07/how-to-start-a-roth-ira-and-where-to-do-it/" />
+  <rdf:li rdf:resource="http://www.howstuffworks.com/401k.htm" />
+  <rdf:li rdf:resource="http://www.howstuffworks.com/529.htm" />
+  <rdf:li rdf:resource="http://www.investorguide.com/links-dir-trading.html" />
+  <rdf:li rdf:resource="http://www.nyse.com/" />
+  <rdf:li rdf:resource="http://money.howstuffworks.com/stock.htm" />
+  <rdf:li rdf:resource="http://money.cnn.com/2006/06/13/magazines/fortune/forty1_retirementguide_fortune/index.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://finance.yahoo.com/taxes/article/104297/The-13-Most-Overlooked-Tax-Deductions">
+<title>http://finance.yahoo.com/taxes/article/104297/The-13-Most-Overlooked-Tax-Deductions</title>
+<link>http://finance.yahoo.com/taxes/article/104297/The-13-Most-Overlooked-Tax-Deductions</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-06T01:29:47Z</dc:date>
+<dc:subject>investing money taxes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/taxes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.aarpmagazine.org/money/avoid_money_traps.html">
+<title>Avoid These Money Traps</title>
+<link>http://www.aarpmagazine.org/money/avoid_money_traps.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-04T20:55:50Z</dc:date>
+<dc:subject>investing money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.getrichslowly.org/blog/2007/09/26/12-investing-mistakes-ive-made-and-how-you-can-learn-from-them/">
+<title>12 Investing Mistakes I&#x2019;ve Made (and How You Can Learn From Them) &#x221E; Get Rich Slowly</title>
+<link>http://www.getrichslowly.org/blog/2007/09/26/12-investing-mistakes-ive-made-and-how-you-can-learn-from-them/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-27T23:22:28Z</dc:date>
+<dc:subject>investing money stocks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/stocks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.howstuffworks.com/online-trading.htm">
+<title>Howstuffworks &#x22;How Online Trading Works&#x22;</title>
+<link>http://money.howstuffworks.com/online-trading.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-29T00:05:04Z</dc:date>
+<dc:subject>howstuffworks investing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howstuffworks" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/personal-finance/to-do-open-a-roth-ira-at-ing-directcom-156683.php">
+<title>To do: Open a Roth IRA at ING Direct.com - Lifehacker</title>
+<link>http://lifehacker.com/software/personal-finance/to-do-open-a-roth-ira-at-ing-directcom-156683.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:55:43Z</dc:date>
+<dc:subject>howto investing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.getrichslowly.org/blog/2007/06/07/how-to-start-a-roth-ira-and-where-to-do-it/">
+<title>How to Start a Roth IRA (and Where to Do It) &#x221E; Get Rich Slowly</title>
+<link>http://www.getrichslowly.org/blog/2007/06/07/how-to-start-a-roth-ira-and-where-to-do-it/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:52:15Z</dc:date>
+<dc:subject>howto investing money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howstuffworks.com/401k.htm">
+<title>Howstuffworks &#x22;How 401(k) Plans Work&#x22;</title>
+<link>http://www.howstuffworks.com/401k.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T21:10:52Z</dc:date>
+<dc:subject>401k investing money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/401k" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howstuffworks.com/529.htm">
+<title>Howstuffworks &#x22;How 529 Plans Work&#x22;</title>
+<link>http://www.howstuffworks.com/529.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T21:10:35Z</dc:date>
+<dc:subject>investing money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.investorguide.com/links-dir-trading.html">
+<title>Stocks, Other Investments and Personal Finance Resources</title>
+<link>http://www.investorguide.com/links-dir-trading.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T21:07:22Z</dc:date>
+<dc:subject>howto investing stocks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stocks" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nyse.com/">
+<title>NYSE, New York Stock Exchange</title>
+<link>http://www.nyse.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T20:56:35Z</dc:date>
+<dc:subject>investing stocks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/stocks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.howstuffworks.com/stock.htm">
+<title>Howstuffworks &#x22;How Stocks and the Stock Market Work&#x22;</title>
+<link>http://money.howstuffworks.com/stock.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T20:47:08Z</dc:date>
+<dc:subject>howstuffworks howto investing money stocks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stocks" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/howstuffworks" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.cnn.com/2006/06/13/magazines/fortune/forty1_retirementguide_fortune/index.htm">
+<title>The Fortune 40: The best stocks to buy now - Jun. 15, 2006</title>
+<link>http://money.cnn.com/2006/06/13/magazines/fortune/forty1_retirementguide_fortune/index.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T20:46:31Z</dc:date>
+<dc:subject>investing money stocks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/stocks" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

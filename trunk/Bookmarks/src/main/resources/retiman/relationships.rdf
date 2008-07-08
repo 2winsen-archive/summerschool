@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/relationships">
+<title>del.icio.us/retiman/relationships</title>
+<link>http://del.icio.us/retiman/relationships</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://bobcat.name/2007/07/she-hates-that.html" />
+  <rdf:li rdf:resource="http://www.scq.ubc.ca/the-social-norm-of-leaving-the-toilet-seat-down-a-game-theoretic-analysis/" />
+  <rdf:li rdf:resource="http://daily.stanford.edu/article/2007/5/24/imposterCaught" />
+  <rdf:li rdf:resource="http://www.news.com.au/story/0,23599,21754273-1702,00.html" />
+  <rdf:li rdf:resource="http://www.ibnlive.com/news/india/05_2007/adultery-saving-marriages-40901.html" />
+  <rdf:li rdf:resource="http://www.csulb.edu/~mfiebert/assault.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://bobcat.name/2007/07/she-hates-that.html">
+<title>Brainstorming George: She hates that!</title>
+<link>http://bobcat.name/2007/07/she-hates-that.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-20T22:48:36Z</dc:date>
+<dc:subject>relationships</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.scq.ubc.ca/the-social-norm-of-leaving-the-toilet-seat-down-a-game-theoretic-analysis/">
+<title>The Science Creative Quarterly &#xBB; THE SOCIAL NORM OF LEAVING THE TOILET SEAT DOWN: A GAME THEORETIC ANALYSIS</title>
+<link>http://www.scq.ubc.ca/the-social-norm-of-leaving-the-toilet-seat-down-a-game-theoretic-analysis/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-03T21:32:01Z</dc:date>
+<dc:subject>funny relationships science women</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/women" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://daily.stanford.edu/article/2007/5/24/imposterCaught">
+<title>IMPOSTER CAUGHT - The Stanford Daily Online</title>
+<link>http://daily.stanford.edu/article/2007/5/24/imposterCaught</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-24T22:37:09Z</dc:date>
+<dc:subject>asian relationships</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+    <rdf:li resource="http://del.icio.us/tag/asian" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.news.com.au/story/0,23599,21754273-1702,00.html">
+<title>Engagement rings are men's property | NEWS.com.au</title>
+<link>http://www.news.com.au/story/0,23599,21754273-1702,00.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-22T20:54:31Z</dc:date>
+<dc:subject>relationships</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibnlive.com/news/india/05_2007/adultery-saving-marriages-40901.html">
+<title>Special: Can adultery save marriages? : relationship, study, India, polygamy, adultery, marriages : IBNLive.com : CNN-IBN</title>
+<link>http://www.ibnlive.com/news/india/05_2007/adultery-saving-marriages-40901.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-21T21:31:08Z</dc:date>
+<dc:subject>relationships</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.csulb.edu/~mfiebert/assault.htm">
+<title>REFERENCES EXAMINING ASSAULTS BY WOMEN ON THEIR SPOUSES OR MALE PARTNERS: AN ANNOTATED BIBLIOGRAPHY</title>
+<link>http://www.csulb.edu/~mfiebert/assault.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-13T21:18:31Z</dc:date>
+<dc:subject>gender relationships women</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gender" />
+    <rdf:li resource="http://del.icio.us/tag/relationships" />
+    <rdf:li resource="http://del.icio.us/tag/women" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

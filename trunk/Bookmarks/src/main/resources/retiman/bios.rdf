@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/bios">
+<title>del.icio.us/retiman/bios</title>
+<link>http://del.icio.us/retiman/bios</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://gentoo-wiki.com/HOWTO_Create_a_DOS_boot_USB_flash_drive#Formatting_in_harddisk_mode" />
+  <rdf:li rdf:resource="http://www.biosmods.com/download.php" />
+  <rdf:li rdf:resource="http://linux.inet.hr/how-to-flash-motherboard-bios-from-linux-no-dos-windows-no-floppy-drive.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://gentoo-wiki.com/HOWTO_Create_a_DOS_boot_USB_flash_drive#Formatting_in_harddisk_mode">
+<title>HOWTO Create a DOS boot USB flash drive - Gentoo Linux Wiki</title>
+<link>http://gentoo-wiki.com/HOWTO_Create_a_DOS_boot_USB_flash_drive#Formatting_in_harddisk_mode</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-04-16T21:32:04Z</dc:date>
+<dc:subject>bios dos</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dos" />
+    <rdf:li resource="http://del.icio.us/tag/bios" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.biosmods.com/download.php">
+<title>BIOSMods.com</title>
+<link>http://www.biosmods.com/download.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-04-16T19:52:24Z</dc:date>
+<dc:subject>bios</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bios" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linux.inet.hr/how-to-flash-motherboard-bios-from-linux-no-dos-windows-no-floppy-drive.html">
+<title>How to flash motherboard BIOS from Linux (no DOS/Windows, no floppy drive)? | linux.inet.hr</title>
+<link>http://linux.inet.hr/how-to-flash-motherboard-bios-from-linux-no-dos-windows-no-floppy-drive.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:28:49Z</dc:date>
+<dc:subject>bios linux windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/bios" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

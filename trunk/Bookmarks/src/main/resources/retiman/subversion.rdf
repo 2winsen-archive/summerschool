@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/subversion">
+<title>del.icio.us/retiman/subversion</title>
+<link>http://del.icio.us/retiman/subversion</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://mjtsai.com/blog/2007/07/15/subversion-to-git/" />
+  <rdf:li rdf:resource="http://www.howtoforge.com/subversion_web_access_apache?s=518d5a6a3a7039504116739e7ca35b42&#x26;" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://mjtsai.com/blog/2007/07/15/subversion-to-git/">
+<title>Michael Tsai - Blog - Subversion to Git</title>
+<link>http://mjtsai.com/blog/2007/07/15/subversion-to-git/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T20:20:15Z</dc:date>
+<dc:subject>development git scm software subversion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/scm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howtoforge.com/subversion_web_access_apache?s=518d5a6a3a7039504116739e7ca35b42&#x26;">
+<title>How To Configure Web Access To Subversion Repositories Using Apache | HowtoForge - Linux Howtos and Tutorials</title>
+<link>http://www.howtoforge.com/subversion_web_access_apache?s=518d5a6a3a7039504116739e7ca35b42&#x26;</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:26:42Z</dc:date>
+<dc:subject>apache linux subversion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/technology">
+<title>del.icio.us/retiman/technology</title>
+<link>http://del.icio.us/retiman/technology</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.thestar.com/News/GTA/article/309855" />
+  <rdf:li rdf:resource="http://www.howardforums.com/announcement.php?f=181" />
+  <rdf:li rdf:resource="http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled" />
+  <rdf:li rdf:resource="http://cosmiclog.msnbc.msn.com/archive/2007/07/17/274531.aspx" />
+  <rdf:li rdf:resource="http://www.youtube.com/user/lockergnome" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.thestar.com/News/GTA/article/309855">
+<title>TheStar.com | GTA | Student faces Facebook consequences</title>
+<link>http://www.thestar.com/News/GTA/article/309855</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-07T21:29:22Z</dc:date>
+<dc:subject>dumbass education technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howardforums.com/announcement.php?f=181">
+<title>HowardForums: Your Mobile Phone Community &#x26; Resource - Announcements in Forum: Windows Mobile Professional (Pocket PC)</title>
+<link>http://www.howardforums.com/announcement.php?f=181</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-07T21:29:09Z</dc:date>
+<dc:subject>dumbass technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled">
+<title>Innovation | Don&#x2019;t invent, evolve | Economist.com</title>
+<link>http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-24T21:50:30Z</dc:date>
+<dc:subject>design evolution science software technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cosmiclog.msnbc.msn.com/archive/2007/07/17/274531.aspx">
+<title>Cosmic Log : Backward research goes forward</title>
+<link>http://cosmiclog.msnbc.msn.com/archive/2007/07/17/274531.aspx</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-20T22:23:44Z</dc:date>
+<dc:subject>science technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/user/lockergnome">
+<title>YouTube - Broadcast Yourself.</title>
+<link>http://www.youtube.com/user/lockergnome</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-17T00:23:55Z</dc:date>
+<dc:subject>funny technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

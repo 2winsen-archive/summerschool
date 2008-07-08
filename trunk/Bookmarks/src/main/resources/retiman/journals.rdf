@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/journals">
+<title>del.icio.us/retiman/journals</title>
+<link>http://del.icio.us/retiman/journals</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.acm.org/pubs/journals.html" />
+  <rdf:li rdf:resource="http://www.ieee.org/portal/site/mainsite/menuitem.818c0c39e85ef176fb2275875bac26c8/index.jsp?&#x26;pName=corp_level1&#x26;path=pubs/transactions&#x26;file=index.xml&#x26;xsl=generic.xsl" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.acm.org/pubs/journals.html">
+<title>ACM: Journals and Magazines</title>
+<link>http://www.acm.org/pubs/journals.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-04-06T07:17:09Z</dc:date>
+<dc:subject>journals</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/journals" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ieee.org/portal/site/mainsite/menuitem.818c0c39e85ef176fb2275875bac26c8/index.jsp?&#x26;pName=corp_level1&#x26;path=pubs/transactions&#x26;file=index.xml&#x26;xsl=generic.xsl">
+<title>IEEE Transactions, Journals, and Letters</title>
+<link>http://www.ieee.org/portal/site/mainsite/menuitem.818c0c39e85ef176fb2275875bac26c8/index.jsp?&#x26;pName=corp_level1&#x26;path=pubs/transactions&#x26;file=index.xml&#x26;xsl=generic.xsl</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-04-06T06:24:22Z</dc:date>
+<dc:subject>journals</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/journals" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>
