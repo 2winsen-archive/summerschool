@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/ipod">
+<title>del.icio.us/retiman/ipod</title>
+<link>http://del.icio.us/retiman/ipod</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://discussions.apple.com/thread.jspa?threadID=1095417&#x26;tstart=0" />
+  <rdf:li rdf:resource="http://docs.info.apple.com/article.html?artnum=61705" />
+  <rdf:li rdf:resource="http://handbrake.m0k.org/" />
+  <rdf:li rdf:resource="http://encyclopodia.sourceforge.net/en/index.html" />
+  <rdf:li rdf:resource="http://ipodlinux.org/Main_Page" />
+  <rdf:li rdf:resource="http://www.podcastawards.com/" />
+  <rdf:li rdf:resource="http://store.ifixipodsfast.com/ipod-parts-/-installation/ipod-video/ipod-video-lcd-screen-5-5-gen-/-60-brighter-/prod_8.html" />
+  <rdf:li rdf:resource="http://diveintomark.org/archives/2007/06/07/howto-batch-encode-video-for-ipod-under-linux-2007-edition" />
+  <rdf:li rdf:resource="http://www.linuxjournal.com/article/9266" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://discussions.apple.com/thread.jspa?threadID=1095417&#x26;tstart=0">
+<title>Apple - Support - Discussions - Ipod Video (5th Gen) No Sound / Heavy ...</title>
+<link>http://discussions.apple.com/thread.jspa?threadID=1095417&#x26;tstart=0</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-02T06:07:38Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://docs.info.apple.com/article.html?artnum=61705">
+<title>How to reset iPod</title>
+<link>http://docs.info.apple.com/article.html?artnum=61705</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-26T21:16:49Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://handbrake.m0k.org/">
+<title>HandBrake</title>
+<link>http://handbrake.m0k.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-01T04:01:51Z</dc:date>
+<dc:subject>ipod linux music software video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://encyclopodia.sourceforge.net/en/index.html">
+<title>Encyclopodia - the encyclopedia on your iPod</title>
+<link>http://encyclopodia.sourceforge.net/en/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T00:45:00Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ipodlinux.org/Main_Page">
+<title>iPod Linux - Linux for your iPod</title>
+<link>http://ipodlinux.org/Main_Page</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-09T23:24:30Z</dc:date>
+<dc:subject>ipod linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.podcastawards.com/">
+<title>PodCastAwards.com</title>
+<link>http://www.podcastawards.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-04T17:16:54Z</dc:date>
+<dc:subject>ipod music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://store.ifixipodsfast.com/ipod-parts-/-installation/ipod-video/ipod-video-lcd-screen-5-5-gen-/-60-brighter-/prod_8.html">
+<title>iPod Parts / Installation - iPod Video - iPod Video LCD Screen (5.5 Gen / 60% Brighter!)</title>
+<link>http://store.ifixipodsfast.com/ipod-parts-/-installation/ipod-video/ipod-video-lcd-screen-5-5-gen-/-60-brighter-/prod_8.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-22T18:49:58Z</dc:date>
+<dc:subject>ipod</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://diveintomark.org/archives/2007/06/07/howto-batch-encode-video-for-ipod-under-linux-2007-edition">
+<title>HOWTO batch encode video for iPod under Linux (2007 edition) [dive into mark]</title>
+<link>http://diveintomark.org/archives/2007/06/07/howto-batch-encode-video-for-ipod-under-linux-2007-edition</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T22:59:31Z</dc:date>
+<dc:subject>ipod linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linuxjournal.com/article/9266">
+<title>Chapter 16: Ubuntu and Your iPod | Linux Journal</title>
+<link>http://www.linuxjournal.com/article/9266</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T22:50:22Z</dc:date>
+<dc:subject>ipod linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/mtg">
+<title>del.icio.us/retiman/mtg</title>
+<link>http://del.icio.us/retiman/mtg</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://magicseteditor.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.wizards.com/default.asp?x=mtgcom/daily/mf170" />
+  <rdf:li rdf:resource="http://www.mtgiowa.com/viewtopic.php?t=7770" />
+  <rdf:li rdf:resource="http://sales.starcitygames.com/deckdatabase/displaydeck.php?DeckID=21486" />
+  <rdf:li rdf:resource="http://sales.starcitygames.com/deckdatabase/displaydeck.php?DeckID=22380" />
+  <rdf:li rdf:resource="http://www.magicdeckvortex.com/CONTEST_double_dragon.htm#subsonic%20dragon" />
+  <rdf:li rdf:resource="http://www.magicdeckvortex.com/DDB/cloud_nein.htm" />
+  <rdf:li rdf:resource="http://www.wizards.com/default.asp?x=mtgcom/daily/bd284" />
+  <rdf:li rdf:resource="http://www.magicdeckvortex.com/DDB/savage_ride.htm" />
+  <rdf:li rdf:resource="http://www.magicdeckvortex.com/DDB/megamana.htm" />
+  <rdf:li rdf:resource="http://sales.starcitygames.com/deckdatabase/displaydeck.php?DeckID=16189" />
+  <rdf:li rdf:resource="http://www.magicdeckvortex.com/DDB/tamanoan_meditation_technique.htm" />
+  <rdf:li rdf:resource="http://www.cardshark.com/content/view_article.asp?article_id=4070" />
+  <rdf:li rdf:resource="http://www.essentialmagic.com/Decks/View.asp?ID=552602" />
+  <rdf:li rdf:resource="http://www.magicdeckvortex.com/mdvarticle0212.htm" />
+  <rdf:li rdf:resource="http://boards1.wizards.com/showthread.php?t=456567" />
+  <rdf:li rdf:resource="http://boards1.wizards.com/showpost.php?p=6643779" />
+  <rdf:li rdf:resource="http://boards1.wizards.com/showpost.php?p=9710380" />
+  <rdf:li rdf:resource="http://www.magicdeckvortex.com/DDB/diesel_cloud.htm" />
+  <rdf:li rdf:resource="http://forums.mtgsalvation.com/showthread.php?t=45540" />
+  <rdf:li rdf:resource="http://www.wizards.com/default.asp?x=mtgcom/daily/nh56" />
+  <rdf:li rdf:resource="http://www.magicdeckvortex.com/DDB_TYPE_alternate_win.htm" />
+  <rdf:li rdf:resource="http://boards1.wizards.com/showthread.php?t=605705" />
+  <rdf:li rdf:resource="http://www.wizards.com/default.asp?x=mtgcom/daily/bb107" />
+  <rdf:li rdf:resource="http://magic.tcgplayer.com/db/article.asp?id=6002" />
+  <rdf:li rdf:resource="http://essentialmagic.com/Decks/View.asp?ID=398825" />
+  <rdf:li rdf:resource="http://boards1.wizards.com/showthread.php?p=12499029" />
+  <rdf:li rdf:resource="http://mtgsalvation.com/238-finding-the-solution.html" />
+  <rdf:li rdf:resource="http://www.wizards.com/sideboard/article.asp?x=sb20010223c" />
+  <rdf:li rdf:resource="http://www.wizards.com/default.asp?x=mtgcom/academy/39" />
+  <rdf:li rdf:resource="http://www.starcitygames.com/php/news/article/10789.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://magicseteditor.sourceforge.net/">
+<title>Welcome | Magic Set Editor</title>
+<link>http://magicseteditor.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-29T00:05:32Z</dc:date>
+<dc:subject>design gaming mtg software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wizards.com/default.asp?x=mtgcom/daily/mf170">
+<title>Too Many Archetypes!</title>
+<link>http://www.wizards.com/default.asp?x=mtgcom/daily/mf170</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-08T00:52:42Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mtgiowa.com/viewtopic.php?t=7770">
+<title>mtgiowa :: View topic - Don't laugh too hard (stormbind)</title>
+<link>http://www.mtgiowa.com/viewtopic.php?t=7770</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T06:51:10Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sales.starcitygames.com/deckdatabase/displaydeck.php?DeckID=21486">
+<title>R/G Stormbind, by Osamu Fujita</title>
+<link>http://sales.starcitygames.com/deckdatabase/displaydeck.php?DeckID=21486</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T06:47:29Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sales.starcitygames.com/deckdatabase/displaydeck.php?DeckID=22380">
+<title>G/U/r Stormbind, by Simon Gilgenbach</title>
+<link>http://sales.starcitygames.com/deckdatabase/displaydeck.php?DeckID=22380</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T06:41:46Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.magicdeckvortex.com/CONTEST_double_dragon.htm#subsonic%20dragon">
+<title>Magic Deck Vortex: Double Dragon</title>
+<link>http://www.magicdeckvortex.com/CONTEST_double_dragon.htm#subsonic%20dragon</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-13T00:53:38Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.magicdeckvortex.com/DDB/cloud_nein.htm">
+<title>Magic Deck Vortex: Cloud Nein</title>
+<link>http://www.magicdeckvortex.com/DDB/cloud_nein.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-16T09:55:21Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wizards.com/default.asp?x=mtgcom/daily/bd284">
+<title>Strange Zoo deck</title>
+<link>http://www.wizards.com/default.asp?x=mtgcom/daily/bd284</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T22:21:25Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.magicdeckvortex.com/DDB/savage_ride.htm">
+<title>Magic Deck Vortex: Savage Ride</title>
+<link>http://www.magicdeckvortex.com/DDB/savage_ride.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T06:49:33Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.magicdeckvortex.com/DDB/megamana.htm">
+<title>Magic Deck Vortex: Megamana</title>
+<link>http://www.magicdeckvortex.com/DDB/megamana.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T06:47:07Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://sales.starcitygames.com/deckdatabase/displaydeck.php?DeckID=16189">
+<title>Ghost Dad, by Ben Goodman</title>
+<link>http://sales.starcitygames.com/deckdatabase/displaydeck.php?DeckID=16189</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-12T06:38:53Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.magicdeckvortex.com/DDB/tamanoan_meditation_technique.htm">
+<title>Magic Deck Vortex: Tamanoan Meditation Technique</title>
+<link>http://www.magicdeckvortex.com/DDB/tamanoan_meditation_technique.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T00:18:29Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cardshark.com/content/view_article.asp?article_id=4070">
+<title>CardShark (Breaking the Locket Revisited with Sprout Swarm by &#x3C;A HREF=/content/default.asp?action=view_author&#x26;author=Billy+Moreau&#x3E;Billy Moreau&#x3C;/A&#x3E; &#x3C;font size=1&#x3E;(5/21/2007)&#x3C;/font&#x3E;)</title>
+<link>http://www.cardshark.com/content/view_article.asp?article_id=4070</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-08T05:05:42Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.essentialmagic.com/Decks/View.asp?ID=552602">
+<title>Essential Magic - Deck Overview</title>
+<link>http://www.essentialmagic.com/Decks/View.asp?ID=552602</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-08T00:12:07Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.magicdeckvortex.com/mdvarticle0212.htm">
+<title>Magic Deck Vortex: Going Blind: A First Look at Lands.</title>
+<link>http://www.magicdeckvortex.com/mdvarticle0212.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-07T23:52:41Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://boards1.wizards.com/showthread.php?t=456567">
+<title>The Dictionary Deck-O-Pedia - Wizards Community</title>
+<link>http://boards1.wizards.com/showthread.php?t=456567</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-07T16:40:31Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://boards1.wizards.com/showpost.php?p=6643779">
+<title>Wizards Community - View Single Post - The Dictionary Deck-O-Pedia</title>
+<link>http://boards1.wizards.com/showpost.php?p=6643779</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-07T11:20:10Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://boards1.wizards.com/showpost.php?p=9710380">
+<title>Wizards Community - View Single Post - The Dictionary Deck-O-Pedia</title>
+<link>http://boards1.wizards.com/showpost.php?p=9710380</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-07T11:18:15Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.magicdeckvortex.com/DDB/diesel_cloud.htm">
+<title>Magic Deck Vortex: Diesel Cloud</title>
+<link>http://www.magicdeckvortex.com/DDB/diesel_cloud.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-04T09:18:34Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.mtgsalvation.com/showthread.php?t=45540">
+<title>Tamanoa Deck - MTG Salvation Forums</title>
+<link>http://forums.mtgsalvation.com/showthread.php?t=45540</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-03T03:16:01Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wizards.com/default.asp?x=mtgcom/daily/nh56">
+<title>Charge it!</title>
+<link>http://www.wizards.com/default.asp?x=mtgcom/daily/nh56</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-02T03:37:22Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.magicdeckvortex.com/DDB_TYPE_alternate_win.htm">
+<title>Magic Deck Vortex: Alternative Win</title>
+<link>http://www.magicdeckvortex.com/DDB_TYPE_alternate_win.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-01T17:59:26Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://boards1.wizards.com/showthread.php?t=605705">
+<title>URW Firemane Wierding - Wizards Community</title>
+<link>http://boards1.wizards.com/showthread.php?t=605705</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-01T08:51:38Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wizards.com/default.asp?x=mtgcom/daily/bb107">
+<title>10 Decks in 10 Weeks: A Blink in Time</title>
+<link>http://www.wizards.com/default.asp?x=mtgcom/daily/bb107</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-31T09:43:21Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://magic.tcgplayer.com/db/article.asp?id=6002">
+<title>Magic TCG Article - Searing on the Inside by Laura Mills</title>
+<link>http://magic.tcgplayer.com/db/article.asp?id=6002</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-31T08:31:30Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://essentialmagic.com/Decks/View.asp?ID=398825">
+<title>Essential Magic - Deck Overview</title>
+<link>http://essentialmagic.com/Decks/View.asp?ID=398825</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-30T18:06:10Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://boards1.wizards.com/showthread.php?p=12499029">
+<title>Zombie Regen Deck Idea - Wizards Community</title>
+<link>http://boards1.wizards.com/showthread.php?p=12499029</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-30T17:53:39Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mtgsalvation.com/238-finding-the-solution.html">
+<title>Finding the Solution</title>
+<link>http://mtgsalvation.com/238-finding-the-solution.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-30T10:47:27Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wizards.com/sideboard/article.asp?x=sb20010223c">
+<title>Booster Draft Primer</title>
+<link>http://www.wizards.com/sideboard/article.asp?x=sb20010223c</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T00:20:36Z</dc:date>
+<dc:subject>draft mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+    <rdf:li resource="http://del.icio.us/tag/draft" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wizards.com/default.asp?x=mtgcom/academy/39">
+<title>Strategies and Techniques for Booster Draft</title>
+<link>http://www.wizards.com/default.asp?x=mtgcom/academy/39</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T00:20:14Z</dc:date>
+<dc:subject>draft mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+    <rdf:li resource="http://del.icio.us/tag/draft" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.starcitygames.com/php/news/article/10789.html">
+<title>Life From The Loam's Good In Other Formats, Too: Wild Zombies Wins A Mox Ruby!, by Andrew Oyen - a Magic: the Gathering Vintage / Type 1 article</title>
+<link>http://www.starcitygames.com/php/news/article/10789.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-28T06:34:47Z</dc:date>
+<dc:subject>mtg</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/mtg" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

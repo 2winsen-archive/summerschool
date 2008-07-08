@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/python">
+<title>del.icio.us/retiman/python</title>
+<link>http://del.icio.us/retiman/python</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.poromenos.org/tutorials/python" />
+  <rdf:li rdf:resource="http://dis.4chan.org/read/prog/1180084983/" />
+  <rdf:li rdf:resource="http://blog.cbcg.net/articles/2007/04/22/python-up-ruby-down-if-that-runtime-dont-work-then-its-bound-to-drizzown" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.poromenos.org/tutorials/python">
+<title>Learn Python in 10 minutes | Poromenos' Stuff</title>
+<link>http://www.poromenos.org/tutorials/python</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T05:31:12Z</dc:date>
+<dc:subject>python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dis.4chan.org/read/prog/1180084983/">
+<title>4chan BBS - Evolution of a Python programmer</title>
+<link>http://dis.4chan.org/read/prog/1180084983/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-25T20:00:30Z</dc:date>
+<dc:subject>funny python</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.cbcg.net/articles/2007/04/22/python-up-ruby-down-if-that-runtime-dont-work-then-its-bound-to-drizzown">
+<title>Python up, Ruby down: If that runtime don't work, then its bound to drizzown</title>
+<link>http://blog.cbcg.net/articles/2007/04/22/python-up-ruby-down-if-that-runtime-dont-work-then-its-bound-to-drizzown</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-24T18:33:20Z</dc:date>
+<dc:subject>python ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

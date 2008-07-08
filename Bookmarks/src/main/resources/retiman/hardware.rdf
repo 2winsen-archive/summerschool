@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/hardware">
+<title>del.icio.us/retiman/hardware</title>
+<link>http://del.icio.us/retiman/hardware</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://ati.amd.com/support/drivers/linux/linux-radeon.html" />
+  <rdf:li rdf:resource="http://www.thinkwiki.org/wiki/Problem_with_hard_drive_clicking#Another_Possible_Solution" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/article.pl?sid=07/10/30/1742258&#x26;from=rss" />
+  <rdf:li rdf:resource="http://gentoo-wiki.com/HOWTO_Dual_Monitors" />
+  <rdf:li rdf:resource="http://alsa.opensrc.org/index.php?page=DmixPlugin" />
+  <rdf:li rdf:resource="http://www.sonystyle.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10551&#x26;storeId=10151&#x26;langId=-1&#x26;productId=11040884" />
+  <rdf:li rdf:resource="https://help.ubuntu.com/community/RadeonDriver" />
+  <rdf:li rdf:resource="http://www.bit-tech.net/hardware/2007/06/11/understanding_raid/1" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://ati.amd.com/support/drivers/linux/linux-radeon.html">
+<title>ATI Proprietary Linux x86 Display Driver 8.42.3</title>
+<link>http://ati.amd.com/support/drivers/linux/linux-radeon.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-04T00:28:44Z</dc:date>
+<dc:subject>ati hardware linux thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinkwiki.org/wiki/Problem_with_hard_drive_clicking#Another_Possible_Solution">
+<title>Problem with hard drive clicking - ThinkWiki</title>
+<link>http://www.thinkwiki.org/wiki/Problem_with_hard_drive_clicking#Another_Possible_Solution</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-31T16:00:22Z</dc:date>
+<dc:subject>hardware laptop linux thinkpad ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/laptop" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hardware.slashdot.org/article.pl?sid=07/10/30/1742258&#x26;from=rss">
+<title>Slashdot | Ubuntu May Be Killing Your Laptop's Hard Drive</title>
+<link>http://hardware.slashdot.org/article.pl?sid=07/10/30/1742258&#x26;from=rss</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-31T16:00:05Z</dc:date>
+<dc:subject>hardware laptop linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/laptop" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gentoo-wiki.com/HOWTO_Dual_Monitors">
+<title>HOWTO Dual Monitors - Gentoo Linux Wiki</title>
+<link>http://gentoo-wiki.com/HOWTO_Dual_Monitors</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-10T18:43:58Z</dc:date>
+<dc:subject>ati gentoo hardware howto linux video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gentoo" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alsa.opensrc.org/index.php?page=DmixPlugin">
+<title>Main Page - ALSA wiki</title>
+<link>http://alsa.opensrc.org/index.php?page=DmixPlugin</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-26T17:59:06Z</dc:date>
+<dc:subject>hardware linux music ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sonystyle.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10551&#x26;storeId=10151&#x26;langId=-1&#x26;productId=11040884">
+<title>SonyStyle.com | 40&#x22; BRAVIA&#xAE; V series LCD Flat Panel HDTV</title>
+<link>http://www.sonystyle.com/webapp/wcs/stores/servlet/ProductDisplay?catalogId=10551&#x26;storeId=10151&#x26;langId=-1&#x26;productId=11040884</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-26T17:39:13Z</dc:date>
+<dc:subject>hardware sony tv</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/tv" />
+    <rdf:li resource="http://del.icio.us/tag/sony" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://help.ubuntu.com/community/RadeonDriver">
+<title>RadeonDriver - Community Ubuntu Documentation</title>
+<link>https://help.ubuntu.com/community/RadeonDriver</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-30T07:57:47Z</dc:date>
+<dc:subject>hardware linux thinkpad ubuntu video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bit-tech.net/hardware/2007/06/11/understanding_raid/1">
+<title>bit-tech.net | Understanding RAID</title>
+<link>http://www.bit-tech.net/hardware/2007/06/11/understanding_raid/1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-12T18:57:20Z</dc:date>
+<dc:subject>hardware raid</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/raid" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

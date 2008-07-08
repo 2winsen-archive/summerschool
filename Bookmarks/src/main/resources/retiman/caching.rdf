@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/caching">
+<title>del.icio.us/retiman/caching</title>
+<link>http://del.icio.us/retiman/caching</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.mnot.net/cache_docs/" />
+  <rdf:li rdf:resource="http://weblogs.java.net/blog/tomwhite/archive/2007/11/consistent_hash.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.mnot.net/cache_docs/">
+<title>Caching Tutorial for Web Authors and Webmasters</title>
+<link>http://www.mnot.net/cache_docs/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-09T08:03:01Z</dc:date>
+<dc:subject>caching development web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/caching" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.java.net/blog/tomwhite/archive/2007/11/consistent_hash.html">
+<title>Tom White's Blog: Consistent Hashing</title>
+<link>http://weblogs.java.net/blog/tomwhite/archive/2007/11/consistent_hash.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-28T20:04:30Z</dc:date>
+<dc:subject>caching java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/caching" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

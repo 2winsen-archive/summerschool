@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/php">
+<title>del.icio.us/retiman/php</title>
+<link>http://del.icio.us/retiman/php</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="https://wiki.ubuntu.com/Lighttpd+PHP" />
+  <rdf:li rdf:resource="http://www.bitstorm.org/edwin/en/php/" />
+  <rdf:li rdf:resource="http://fosterburgess.com/kimsal/?p=390" />
+  <rdf:li rdf:resource="http://www.oreillynet.com/onlamp/blog/2006/04/digg_phps_scalability_and_perf.html" />
+  <rdf:li rdf:resource="http://www.oreillynet.com/onjava/blog/2006/11/language_syntaxs_performance_p.html" />
+  <rdf:li rdf:resource="http://php5.bluga.net/UploadProgressMeter/demo.php?debug=true" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/01/26/tutorials-round-up-ajax-css-javascript-php-mysql-and-more/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="https://wiki.ubuntu.com/Lighttpd+PHP">
+<title>Lighttpd+PHP - Ubuntu Wiki</title>
+<link>https://wiki.ubuntu.com/Lighttpd+PHP</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-28T07:00:35Z</dc:date>
+<dc:subject>lighttpd php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/lighttpd" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bitstorm.org/edwin/en/php/">
+<title>What I don't like about PHP</title>
+<link>http://www.bitstorm.org/edwin/en/php/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-22T17:59:28Z</dc:date>
+<dc:subject>php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fosterburgess.com/kimsal/?p=390">
+<title>Michael Kimsal&#x2019;s weblog &#xBB; Continued sad state of PHP development</title>
+<link>http://fosterburgess.com/kimsal/?p=390</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-26T07:21:32Z</dc:date>
+<dc:subject>php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oreillynet.com/onlamp/blog/2006/04/digg_phps_scalability_and_perf.html">
+<title>Digg PHP's Scalability and Performance - O'Reilly ONLamp Blog</title>
+<link>http://www.oreillynet.com/onlamp/blog/2006/04/digg_phps_scalability_and_perf.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-14T00:14:46Z</dc:date>
+<dc:subject>php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oreillynet.com/onjava/blog/2006/11/language_syntaxs_performance_p.html">
+<title>Language syntax's, performance, PHP, Ruby, Java and who's better? Ahhhh! - O'Reilly ONJava Blog</title>
+<link>http://www.oreillynet.com/onjava/blog/2006/11/language_syntaxs_performance_p.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:18:55Z</dc:date>
+<dc:subject>development java php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://php5.bluga.net/UploadProgressMeter/demo.php?debug=true">
+<title>PHP Ajax upload meter</title>
+<link>http://php5.bluga.net/UploadProgressMeter/demo.php?debug=true</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T20:25:27Z</dc:date>
+<dc:subject>ajax php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/php" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/01/26/tutorials-round-up-ajax-css-javascript-php-mysql-and-more/">
+<title>Tutorials roundup: Ajax, CSS, Javascript</title>
+<link>http://www.smashingmagazine.com/2007/01/26/tutorials-round-up-ajax-css-javascript-php-mysql-and-more/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T07:14:18Z</dc:date>
+<dc:subject>ajax css javascript php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

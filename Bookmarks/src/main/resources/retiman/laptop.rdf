@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/laptop">
+<title>del.icio.us/retiman/laptop</title>
+<link>http://del.icio.us/retiman/laptop</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.thinkwiki.org/wiki/Problem_with_hard_drive_clicking#Another_Possible_Solution" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/article.pl?sid=07/10/30/1742258&#x26;from=rss" />
+  <rdf:li rdf:resource="http://www.techeblog.com/index.php/tech-gadget/strange-laptops-you-dont-see-everyday" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.thinkwiki.org/wiki/Problem_with_hard_drive_clicking#Another_Possible_Solution">
+<title>Problem with hard drive clicking - ThinkWiki</title>
+<link>http://www.thinkwiki.org/wiki/Problem_with_hard_drive_clicking#Another_Possible_Solution</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-31T16:00:22Z</dc:date>
+<dc:subject>hardware laptop linux thinkpad ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/laptop" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hardware.slashdot.org/article.pl?sid=07/10/30/1742258&#x26;from=rss">
+<title>Slashdot | Ubuntu May Be Killing Your Laptop's Hard Drive</title>
+<link>http://hardware.slashdot.org/article.pl?sid=07/10/30/1742258&#x26;from=rss</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-31T16:00:05Z</dc:date>
+<dc:subject>hardware laptop linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/laptop" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techeblog.com/index.php/tech-gadget/strange-laptops-you-dont-see-everyday">
+<title>Strange laptops you don't see everyday</title>
+<link>http://www.techeblog.com/index.php/tech-gadget/strange-laptops-you-dont-see-everyday</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T07:03:32Z</dc:date>
+<dc:subject>cool laptop</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/laptop" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

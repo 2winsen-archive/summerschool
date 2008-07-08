@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/ubuntu">
+<title>del.icio.us/retiman/ubuntu</title>
+<link>http://del.icio.us/retiman/ubuntu</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=275856" />
+  <rdf:li rdf:resource="http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=779934" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=601613" />
+  <rdf:li rdf:resource="https://help.ubuntu.com/community/ConsoleFramebuffer" />
+  <rdf:li rdf:resource="http://psubuntu.com/installation-instructions/" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=343113" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/linux-tip/one+click-video-conversion-in-kde-menus-327305.php" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/linux-tip/give-gedit-the-power-of-textmate-321945.php" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=304131&#x26;highlight=xubuntu" />
+  <rdf:li rdf:resource="http://xubuntu.wordpress.com/2007/10/23/howto-remove-the-brown-background-during-login/" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=89491" />
+  <rdf:li rdf:resource="http://www.thinkwiki.org/wiki/Problem_with_hard_drive_clicking#Another_Possible_Solution" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/article.pl?sid=07/10/30/1742258&#x26;from=rss" />
+  <rdf:li rdf:resource="http://wiki.cchtml.com/index.php/Main_Page" />
+  <rdf:li rdf:resource="http://www.kraus.tk/installnotes/T60/ThinkPad-T60.htm" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=523022" />
+  <rdf:li rdf:resource="http://www.thinkwiki.org/wiki/Installing_Ubuntu_7.10_(Gutsy_Gibbon)_Release_Candidate_on_a_ThinkPad_T61#Volume_keys" />
+  <rdf:li rdf:resource="http://tldp.org/HOWTO/html_single/Debian-Binary-Package-Building-HOWTO/" />
+  <rdf:li rdf:resource="http://alsa.opensrc.org/index.php?page=DmixPlugin" />
+  <rdf:li rdf:resource="http://oss.codepoet.no/revelation/screenshots/" />
+  <rdf:li rdf:resource="http://linuxmint.com/index.html" />
+  <rdf:li rdf:resource="http://www.venturecake.com/how-to-use-apple-remote-desktop-from-ubuntu/" />
+  <rdf:li rdf:resource="http://www.linux.com/articles/60383" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/archive/index.php/t-85841.html" />
+  <rdf:li rdf:resource="http://www.ubuntugeek.com/local-dns-cache-for-faster-browsing-on-ubuntu-machine.html" />
+  <rdf:li rdf:resource="http://www.psychocats.net/ubuntu/index" />
+  <rdf:li rdf:resource="https://help.ubuntu.com/community/RestrictedFormats/Flash" />
+  <rdf:li rdf:resource="http://ubuntu.wordpress.com/2006/01/31/configuring-network-interfaces/" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=84478&#x26;highlight=gdm+kdm+default" />
+  <rdf:li rdf:resource="http://www.psychocats.net/ubuntu/security" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=275856">
+<title>HOWTO: sshfs (mounting remote directories trough ssh) - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=275856</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-21T09:34:17Z</dc:date>
+<dc:subject>linux networking ssh ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ssh" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control">
+<title>ThinkPad Fan Control - Gambit Chess Wiki</title>
+<link>http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-18T02:14:31Z</dc:date>
+<dc:subject>fan ibm linux thinkpad ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fan" />
+    <rdf:li resource="http://del.icio.us/tag/ibm" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=779934">
+<title>How to VMWare in Ubuntu 8.04 - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=779934</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-18T14:57:48Z</dc:date>
+<dc:subject>hardy ubuntu vmware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vmware" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/hardy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=601613">
+<title>VMWare USB - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=601613</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-25T12:14:17Z</dc:date>
+<dc:subject>ubuntu vmware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/vmware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://help.ubuntu.com/community/ConsoleFramebuffer">
+<title>ConsoleFramebuffer - Community Ubuntu Documentation</title>
+<link>https://help.ubuntu.com/community/ConsoleFramebuffer</link>
+<description>?</description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-11T17:57:40Z</dc:date>
+<dc:subject>console linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/console" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://psubuntu.com/installation-instructions/">
+<title>psubuntu.com | Ubuntu on a Playstation 3 &#xBB; Instructions</title>
+<link>http://psubuntu.com/installation-instructions/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-17T21:15:10Z</dc:date>
+<dc:subject>gaming ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=343113">
+<title>HOWTO: Install Ubuntu on PS3 from Live CD - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=343113</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-17T21:14:37Z</dc:date>
+<dc:subject>gaming linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/linux-tip/one+click-video-conversion-in-kde-menus-327305.php">
+<title>Linux Tip: One-Click Video Conversion in KDE Menus</title>
+<link>http://lifehacker.com/software/linux-tip/one+click-video-conversion-in-kde-menus-327305.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-28T21:27:06Z</dc:date>
+<dc:subject>kde ubuntu video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/kde" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/linux-tip/give-gedit-the-power-of-textmate-321945.php">
+<title>Linux Tip: Give gedit the Power of TextMate</title>
+<link>http://lifehacker.com/software/linux-tip/give-gedit-the-power-of-textmate-321945.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-19T03:33:32Z</dc:date>
+<dc:subject>howto linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=304131&#x26;highlight=xubuntu">
+<title>How to: Xubuntu - Thunar Native Windows Network Browsing - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=304131&#x26;highlight=xubuntu</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-15T20:39:36Z</dc:date>
+<dc:subject>linux networking samba ubuntu windows xfce</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xfce" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/samba" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://xubuntu.wordpress.com/2007/10/23/howto-remove-the-brown-background-during-login/">
+<title>Howto: Remove the brown background color during login &#xAB; Xubuntu Blog</title>
+<link>http://xubuntu.wordpress.com/2007/10/23/howto-remove-the-brown-background-during-login/</link>
+<description>wget http://ubuntu.freehostia.com/Default</description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-04T07:48:44Z</dc:date>
+<dc:subject>gutsy ubuntu xfce</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xfce" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/gutsy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=89491">
+<title>HowTo: Speed up ubuntu boot process - the way you can feel it. - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=89491</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-31T20:42:14Z</dc:date>
+<dc:subject>linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinkwiki.org/wiki/Problem_with_hard_drive_clicking#Another_Possible_Solution">
+<title>Problem with hard drive clicking - ThinkWiki</title>
+<link>http://www.thinkwiki.org/wiki/Problem_with_hard_drive_clicking#Another_Possible_Solution</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-31T16:00:22Z</dc:date>
+<dc:subject>hardware laptop linux thinkpad ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/laptop" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hardware.slashdot.org/article.pl?sid=07/10/30/1742258&#x26;from=rss">
+<title>Slashdot | Ubuntu May Be Killing Your Laptop's Hard Drive</title>
+<link>http://hardware.slashdot.org/article.pl?sid=07/10/30/1742258&#x26;from=rss</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-31T16:00:05Z</dc:date>
+<dc:subject>hardware laptop linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/laptop" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.cchtml.com/index.php/Main_Page">
+<title>Main Page - cchtml.com</title>
+<link>http://wiki.cchtml.com/index.php/Main_Page</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-24T18:55:38Z</dc:date>
+<dc:subject>ati linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kraus.tk/installnotes/T60/ThinkPad-T60.htm">
+<title>ThinkPad T60 - Installation Guide for Linux</title>
+<link>http://www.kraus.tk/installnotes/T60/ThinkPad-T60.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-21T20:27:06Z</dc:date>
+<dc:subject>linux thinkpad ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=523022">
+<title>Thinkpad X61 in Gutsy - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=523022</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-21T01:23:17Z</dc:date>
+<dc:subject>linux thinkpad ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinkwiki.org/wiki/Installing_Ubuntu_7.10_(Gutsy_Gibbon)_Release_Candidate_on_a_ThinkPad_T61#Volume_keys">
+<title>Installing Ubuntu 7.10 (Gutsy Gibbon) on a ThinkPad T61 - ThinkWiki</title>
+<link>http://www.thinkwiki.org/wiki/Installing_Ubuntu_7.10_(Gutsy_Gibbon)_Release_Candidate_on_a_ThinkPad_T61#Volume_keys</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-21T01:22:54Z</dc:date>
+<dc:subject>linux thinkpad ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tldp.org/HOWTO/html_single/Debian-Binary-Package-Building-HOWTO/">
+<title>Debian Binary Package Building HOWTO</title>
+<link>http://tldp.org/HOWTO/html_single/Debian-Binary-Package-Building-HOWTO/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-04T19:16:17Z</dc:date>
+<dc:subject>development linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alsa.opensrc.org/index.php?page=DmixPlugin">
+<title>Main Page - ALSA wiki</title>
+<link>http://alsa.opensrc.org/index.php?page=DmixPlugin</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-26T17:59:06Z</dc:date>
+<dc:subject>hardware linux music ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://oss.codepoet.no/revelation/screenshots/">
+<title>Screenshots - Revelation</title>
+<link>http://oss.codepoet.no/revelation/screenshots/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-17T22:34:18Z</dc:date>
+<dc:subject>linux software ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linuxmint.com/index.html">
+<title>Linux Mint: Linux for the Desktop</title>
+<link>http://linuxmint.com/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-12T21:40:57Z</dc:date>
+<dc:subject>linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.venturecake.com/how-to-use-apple-remote-desktop-from-ubuntu/">
+<title>VentureCake &#xBB; Blog Archive &#xBB; How to use Apple Remote Desktop from Ubuntu</title>
+<link>http://www.venturecake.com/how-to-use-apple-remote-desktop-from-ubuntu/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-06T21:04:19Z</dc:date>
+<dc:subject>apple linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/apple" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/articles/60383">
+<title>Linux.com :: Make your own packages for Debian-based systems</title>
+<link>http://www.linux.com/articles/60383</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-30T00:17:44Z</dc:date>
+<dc:subject>howto ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/archive/index.php/t-85841.html">
+<title>Connecting to Ubuntu shared folders [Archive] - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/archive/index.php/t-85841.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-23T06:57:38Z</dc:date>
+<dc:subject>linux samba ubuntu windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/samba" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ubuntugeek.com/local-dns-cache-for-faster-browsing-on-ubuntu-machine.html">
+<title>Local DNS Cache for Faster Browsing on Ubuntu Machine -- Ubuntu Geek</title>
+<link>http://www.ubuntugeek.com/local-dns-cache-for-faster-browsing-on-ubuntu-machine.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-22T19:06:45Z</dc:date>
+<dc:subject>dns linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dns" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.psychocats.net/ubuntu/index">
+<title>Ubuntu Linux Resources</title>
+<link>http://www.psychocats.net/ubuntu/index</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-21T05:55:27Z</dc:date>
+<dc:subject>howto ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://help.ubuntu.com/community/RestrictedFormats/Flash">
+<title>RestrictedFormats/Flash - Community Ubuntu Documentation</title>
+<link>https://help.ubuntu.com/community/RestrictedFormats/Flash</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-20T08:30:38Z</dc:date>
+<dc:subject>firefox swiftfox ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/swiftfox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntu.wordpress.com/2006/01/31/configuring-network-interfaces/">
+<title>Configuring Network Interfaces&#x2026; &#xAB; Ubuntu Blog</title>
+<link>http://ubuntu.wordpress.com/2006/01/31/configuring-network-interfaces/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-18T05:53:31Z</dc:date>
+<dc:subject>howto ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=84478&#x26;highlight=gdm+kdm+default">
+<title>kdm back to gdm - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=84478&#x26;highlight=gdm+kdm+default</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-15T08:59:16Z</dc:date>
+<dc:subject>gdm kde kdm linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/kde" />
+    <rdf:li resource="http://del.icio.us/tag/gdm" />
+    <rdf:li resource="http://del.icio.us/tag/kdm" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.psychocats.net/ubuntu/security">
+<title>Security on Ubuntu</title>
+<link>http://www.psychocats.net/ubuntu/security</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-14T04:18:19Z</dc:date>
+<dc:subject>linux security ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

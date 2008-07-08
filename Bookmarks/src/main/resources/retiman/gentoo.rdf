@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/gentoo">
+<title>del.icio.us/retiman/gentoo</title>
+<link>http://del.icio.us/retiman/gentoo</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://ps3wiki.qj.net/index.php/Gentoo_Howto" />
+  <rdf:li rdf:resource="http://gentoo-wiki.com/HOWTO_ATI_Drivers" />
+  <rdf:li rdf:resource="http://thomasgersdorf.com/linux/index.php/Gentoo_Linux_on_IBM_ThinkPad_T60" />
+  <rdf:li rdf:resource="http://gentoo-wiki.com/HOWTO_Dual_Monitors" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://ps3wiki.qj.net/index.php/Gentoo_Howto">
+<title>Gentoo Howto - PS3 Wiki</title>
+<link>http://ps3wiki.qj.net/index.php/Gentoo_Howto</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-06T01:43:28Z</dc:date>
+<dc:subject>gentoo ps3</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gentoo" />
+    <rdf:li resource="http://del.icio.us/tag/ps3" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gentoo-wiki.com/HOWTO_ATI_Drivers">
+<title>HOWTO ATI Drivers - Gentoo Linux Wiki</title>
+<link>http://gentoo-wiki.com/HOWTO_ATI_Drivers</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-30T02:13:41Z</dc:date>
+<dc:subject>ati gentoo</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gentoo" />
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thomasgersdorf.com/linux/index.php/Gentoo_Linux_on_IBM_ThinkPad_T60">
+<title>Gentoo Linux on IBM ThinkPad T60 - Wiki</title>
+<link>http://thomasgersdorf.com/linux/index.php/Gentoo_Linux_on_IBM_ThinkPad_T60</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-10T00:07:47Z</dc:date>
+<dc:subject>gentoo thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gentoo" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gentoo-wiki.com/HOWTO_Dual_Monitors">
+<title>HOWTO Dual Monitors - Gentoo Linux Wiki</title>
+<link>http://gentoo-wiki.com/HOWTO_Dual_Monitors</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-10T18:43:58Z</dc:date>
+<dc:subject>ati gentoo hardware howto linux video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gentoo" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

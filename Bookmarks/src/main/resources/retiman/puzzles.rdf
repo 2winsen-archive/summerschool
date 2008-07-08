@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/puzzles">
+<title>del.icio.us/retiman/puzzles</title>
+<link>http://del.icio.us/retiman/puzzles</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://thinkzone.wlonk.com/index.htm" />
+  <rdf:li rdf:resource="http://graphics.stanford.edu/~seander/bithacks.html" />
+  <rdf:li rdf:resource="http://www.itasoftware.com/careers/puzzles07.html" />
+  <rdf:li rdf:resource="http://tihomir.org/crazy-questions-at-google-job-interview/" />
+  <rdf:li rdf:resource="http://xkcd.com/blue_eyes.html" />
+  <rdf:li rdf:resource="http://money.cnn.com/2007/08/29/technology/brain_teasers.biz2/" />
+  <rdf:li rdf:resource="http://www.cut-the-knot.org/index.shtml" />
+  <rdf:li rdf:resource="http://www.greylabyrinth.com/puzzles/puzzle.php?puzzle_id=puzzle106" />
+  <rdf:li rdf:resource="http://www.greylabyrinth.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://thinkzone.wlonk.com/index.htm">
+<title>Keith Enevoldsen's Think Zone</title>
+<link>http://thinkzone.wlonk.com/index.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-07T01:41:43Z</dc:date>
+<dc:subject>puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://graphics.stanford.edu/~seander/bithacks.html">
+<title>Bit Twiddling Hacks</title>
+<link>http://graphics.stanford.edu/~seander/bithacks.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-01T23:36:45Z</dc:date>
+<dc:subject>cool development java puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itasoftware.com/careers/puzzles07.html">
+<title>ITA Software - Puzzle Archive</title>
+<link>http://www.itasoftware.com/careers/puzzles07.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-12T20:40:16Z</dc:date>
+<dc:subject>math puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tihomir.org/crazy-questions-at-google-job-interview/">
+<title>Crazy Questions at Google Job Interview - Blog Tips by Tihomir - Make Money Blogging</title>
+<link>http://tihomir.org/crazy-questions-at-google-job-interview/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-07T06:31:42Z</dc:date>
+<dc:subject>google puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://xkcd.com/blue_eyes.html">
+<title>Blue Eyes - A Logic Puzzle</title>
+<link>http://xkcd.com/blue_eyes.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-26T00:28:31Z</dc:date>
+<dc:subject>funny math puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.cnn.com/2007/08/29/technology/brain_teasers.biz2/">
+<title>Job interview brainteasers - Aug. 30, 2007</title>
+<link>http://money.cnn.com/2007/08/29/technology/brain_teasers.biz2/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-31T22:34:19Z</dc:date>
+<dc:subject>google puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cut-the-knot.org/index.shtml">
+<title>Interactive Mathematics Miscellany and Puzzles, Index</title>
+<link>http://www.cut-the-knot.org/index.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-26T18:34:39Z</dc:date>
+<dc:subject>education math puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.greylabyrinth.com/puzzles/puzzle.php?puzzle_id=puzzle106">
+<title>The Doomsday Argument</title>
+<link>http://www.greylabyrinth.com/puzzles/puzzle.php?puzzle_id=puzzle106</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-06T00:25:18Z</dc:date>
+<dc:subject>puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.greylabyrinth.com/">
+<title>The Grey Labyrinth</title>
+<link>http://www.greylabyrinth.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-05T22:53:55Z</dc:date>
+<dc:subject>math puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

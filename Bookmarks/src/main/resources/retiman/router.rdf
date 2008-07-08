@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/router">
+<title>del.icio.us/retiman/router</title>
+<link>http://del.icio.us/retiman/router</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://lifehacker.com/software/feature/ensure-a-fast-internet-connection-when-you-need-it-326543.php" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/router/hack-attack-turn-your-60-router-into-a-600-router-178132.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://lifehacker.com/software/feature/ensure-a-fast-internet-connection-when-you-need-it-326543.php">
+<title>Feature: Ensure a Fast Internet Connection When You Need It</title>
+<link>http://lifehacker.com/software/feature/ensure-a-fast-internet-connection-when-you-need-it-326543.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-28T22:28:02Z</dc:date>
+<dc:subject>hack linux router</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/router" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/router/hack-attack-turn-your-60-router-into-a-600-router-178132.php">
+<title>Hack Attack: Turn your $60 router into a $600 router</title>
+<link>http://lifehacker.com/software/router/hack-attack-turn-your-60-router-into-a-600-router-178132.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-28T22:27:53Z</dc:date>
+<dc:subject>hack linux router</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/router" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

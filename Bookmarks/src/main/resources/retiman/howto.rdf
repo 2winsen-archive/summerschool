@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/howto">
+<title>del.icio.us/retiman/howto</title>
+<link>http://del.icio.us/retiman/howto</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.nintendo-hacks.com/forums/t464.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/linux-tip/give-gedit-the-power-of-textmate-321945.php" />
+  <rdf:li rdf:resource="http://gentoo-wiki.com/AIGLX" />
+  <rdf:li rdf:resource="http://people.howstuffworks.com/becoming-a-doctor.htm" />
+  <rdf:li rdf:resource="http://mitpress.mit.edu/sicp/full-text/book/book.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/linux-tip/use-a-screensaver-as-desktop-wallpaper-299410.php" />
+  <rdf:li rdf:resource="http://gentoo-wiki.com/HOWTO_Dual_Monitors" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/first-aid/printable-chart-of-first+aid-procedures-292962.php" />
+  <rdf:li rdf:resource="http://www.linux.com/articles/60383" />
+  <rdf:li rdf:resource="http://www.psychocats.net/ubuntu/index" />
+  <rdf:li rdf:resource="http://ubuntu.wordpress.com/2006/01/31/configuring-network-interfaces/" />
+  <rdf:li rdf:resource="http://chrismetcalf.net/blog/archives/2007/08/07/how-to-repairing-faulty-headphones/" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/116693" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=35087" />
+  <rdf:li rdf:resource="http://xubuntuguide.org/tiki-index.php?page=En:Feisty&#x26;redirectpage=HomePage" />
+  <rdf:li rdf:resource="http://www.system666.net/want-free-internet-heres-how" />
+  <rdf:li rdf:resource="http://www-acs.ucsd.edu/info/vi_tutorial.php" />
+  <rdf:li rdf:resource="http://www.survivaltopics.com/survival/the-5-basic-survival-skills/" />
+  <rdf:li rdf:resource="http://consumerist.com/consumer/insiders/22-confessions-of-a-former-dell-sales-manager-268831.php" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/how-to/create-iso-disk-images-and-generate-md5-checksums-268304.php" />
+  <rdf:li rdf:resource="http://math-blog.com/2007/06/04/a-10-minute-tutorial-for-solving-math-problems-with-maxima/" />
+  <rdf:li rdf:resource="http://money.howstuffworks.com/house-buying.htm" />
+  <rdf:li rdf:resource="http://money.howstuffworks.com/swiss-bank-account.htm" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/personal-finance/to-do-open-a-roth-ira-at-ing-directcom-156683.php" />
+  <rdf:li rdf:resource="http://www.getrichslowly.org/blog/2007/06/07/how-to-start-a-roth-ira-and-where-to-do-it/" />
+  <rdf:li rdf:resource="http://www.wikihow.com/Pick-a-Lock" />
+  <rdf:li rdf:resource="http://www.gotapi.com/" />
+  <rdf:li rdf:resource="http://www.digilife.be/quickreferences/quickrefs.htm" />
+  <rdf:li rdf:resource="http://www.investorguide.com/links-dir-trading.html" />
+  <rdf:li rdf:resource="http://money.howstuffworks.com/stock.htm" />
+  <rdf:li rdf:resource="http://michaelbluejay.com/house/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.nintendo-hacks.com/forums/t464.html">
+<title>Wii Hacks - Nintendo-Hacks.com Forums</title>
+<link>http://www.nintendo-hacks.com/forums/t464.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-23T08:36:00Z</dc:date>
+<dc:subject>gaming hack howto wii</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wii" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/linux-tip/give-gedit-the-power-of-textmate-321945.php">
+<title>Linux Tip: Give gedit the Power of TextMate</title>
+<link>http://lifehacker.com/software/linux-tip/give-gedit-the-power-of-textmate-321945.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-19T03:33:32Z</dc:date>
+<dc:subject>howto linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gentoo-wiki.com/AIGLX">
+<title>HOWTO AIGLX - Gentoo Linux Wiki</title>
+<link>http://gentoo-wiki.com/AIGLX</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-30T22:48:20Z</dc:date>
+<dc:subject>ati howto linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://people.howstuffworks.com/becoming-a-doctor.htm">
+<title>Howstuffworks &#x22;How Becoming a Doctor Works&#x22;</title>
+<link>http://people.howstuffworks.com/becoming-a-doctor.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-29T23:23:00Z</dc:date>
+<dc:subject>howstuffworks howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howstuffworks" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mitpress.mit.edu/sicp/full-text/book/book.html">
+<title>Structure and Interpretation of Computer Programs</title>
+<link>http://mitpress.mit.edu/sicp/full-text/book/book.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:51:06Z</dc:date>
+<dc:subject>design development haskell howto reference software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/haskell" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/linux-tip/use-a-screensaver-as-desktop-wallpaper-299410.php">
+<title>Linux Tip: Use a Screensaver as Desktop Wallpaper - Lifehacker</title>
+<link>http://lifehacker.com/software/linux-tip/use-a-screensaver-as-desktop-wallpaper-299410.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T07:13:26Z</dc:date>
+<dc:subject>howto linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gentoo-wiki.com/HOWTO_Dual_Monitors">
+<title>HOWTO Dual Monitors - Gentoo Linux Wiki</title>
+<link>http://gentoo-wiki.com/HOWTO_Dual_Monitors</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-10T18:43:58Z</dc:date>
+<dc:subject>ati gentoo hardware howto linux video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gentoo" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/first-aid/printable-chart-of-first+aid-procedures-292962.php">
+<title>First Aid: Printable Chart of First-Aid Procedures - Lifehacker</title>
+<link>http://lifehacker.com/software/first-aid/printable-chart-of-first+aid-procedures-292962.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T06:07:29Z</dc:date>
+<dc:subject>health howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/articles/60383">
+<title>Linux.com :: Make your own packages for Debian-based systems</title>
+<link>http://www.linux.com/articles/60383</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-30T00:17:44Z</dc:date>
+<dc:subject>howto ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.psychocats.net/ubuntu/index">
+<title>Ubuntu Linux Resources</title>
+<link>http://www.psychocats.net/ubuntu/index</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-21T05:55:27Z</dc:date>
+<dc:subject>howto ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntu.wordpress.com/2006/01/31/configuring-network-interfaces/">
+<title>Configuring Network Interfaces&#x2026; &#xAB; Ubuntu Blog</title>
+<link>http://ubuntu.wordpress.com/2006/01/31/configuring-network-interfaces/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-18T05:53:31Z</dc:date>
+<dc:subject>howto ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://chrismetcalf.net/blog/archives/2007/08/07/how-to-repairing-faulty-headphones/">
+<title>chrismetcalf.net - blog &#xBB; How-To: Repairing Faulty Headphones</title>
+<link>http://chrismetcalf.net/blog/archives/2007/08/07/how-to-repairing-faulty-headphones/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-12T22:13:24Z</dc:date>
+<dc:subject>howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/116693">
+<title>Linux.com :: A three-pronged attack on performance</title>
+<link>http://www.linux.com/feature/116693</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-01T08:45:35Z</dc:date>
+<dc:subject>howto linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=35087">
+<title>Howto: Backup and restore your system! - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=35087</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-29T05:24:53Z</dc:date>
+<dc:subject>howto linux software ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://xubuntuguide.org/tiki-index.php?page=En:Feisty&#x26;redirectpage=HomePage">
+<title>Xubuntuguide.org : En:Feisty</title>
+<link>http://xubuntuguide.org/tiki-index.php?page=En:Feisty&#x26;redirectpage=HomePage</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-20T19:55:25Z</dc:date>
+<dc:subject>howto ubuntu xfce</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/xfce" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.system666.net/want-free-internet-heres-how">
+<title>Want free internet? Heres how&#x2026; at System 666</title>
+<link>http://www.system666.net/want-free-internet-heres-how</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T08:13:08Z</dc:date>
+<dc:subject>howto reference security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-acs.ucsd.edu/info/vi_tutorial.php">
+<title>Beginner's Guide to the Vi editor</title>
+<link>http://www-acs.ucsd.edu/info/vi_tutorial.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-08T03:07:34Z</dc:date>
+<dc:subject>howto linux vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.survivaltopics.com/survival/the-5-basic-survival-skills/">
+<title>The 5 Basic Survival Skills</title>
+<link>http://www.survivaltopics.com/survival/the-5-basic-survival-skills/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-29T00:05:11Z</dc:date>
+<dc:subject>health howto reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://consumerist.com/consumer/insiders/22-confessions-of-a-former-dell-sales-manager-268831.php">
+<title>Insiders: 22 Confessions Of A Former Dell Sales Manager - Consumerist</title>
+<link>http://consumerist.com/consumer/insiders/22-confessions-of-a-former-dell-sales-manager-268831.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-18T19:16:47Z</dc:date>
+<dc:subject>howto reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/how-to/create-iso-disk-images-and-generate-md5-checksums-268304.php">
+<title>How To: Create .iso disk images and generate MD5 checksums - Lifehacker</title>
+<link>http://lifehacker.com/software/how-to/create-iso-disk-images-and-generate-md5-checksums-268304.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T04:43:29Z</dc:date>
+<dc:subject>howto reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://math-blog.com/2007/06/04/a-10-minute-tutorial-for-solving-math-problems-with-maxima/">
+<title>A 10 minute tutorial for solving Math problems with Maxima</title>
+<link>http://math-blog.com/2007/06/04/a-10-minute-tutorial-for-solving-math-problems-with-maxima/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-12T19:17:10Z</dc:date>
+<dc:subject>howto math maxima science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/maxima" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.howstuffworks.com/house-buying.htm">
+<title>Howstuffworks &#x22;How Buying a House Works&#x22;</title>
+<link>http://money.howstuffworks.com/house-buying.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:58:09Z</dc:date>
+<dc:subject>home howto reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/home" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.howstuffworks.com/swiss-bank-account.htm">
+<title>Howstuffworks &#x22;How Swiss Bank Accounts Work&#x22;</title>
+<link>http://money.howstuffworks.com/swiss-bank-account.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:57:55Z</dc:date>
+<dc:subject>howstuffworks howto money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howstuffworks" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/personal-finance/to-do-open-a-roth-ira-at-ing-directcom-156683.php">
+<title>To do: Open a Roth IRA at ING Direct.com - Lifehacker</title>
+<link>http://lifehacker.com/software/personal-finance/to-do-open-a-roth-ira-at-ing-directcom-156683.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:55:43Z</dc:date>
+<dc:subject>howto investing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.getrichslowly.org/blog/2007/06/07/how-to-start-a-roth-ira-and-where-to-do-it/">
+<title>How to Start a Roth IRA (and Where to Do It) &#x221E; Get Rich Slowly</title>
+<link>http://www.getrichslowly.org/blog/2007/06/07/how-to-start-a-roth-ira-and-where-to-do-it/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:52:15Z</dc:date>
+<dc:subject>howto investing money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wikihow.com/Pick-a-Lock">
+<title>How to Pick a Lock - wikiHow</title>
+<link>http://www.wikihow.com/Pick-a-Lock</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T04:22:03Z</dc:date>
+<dc:subject>howto lockpicking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/lockpicking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gotapi.com/">
+<title>gotAPI.com - Quick search for HTML/CSS/JavaScript, PHP, AJAX, SQL and more</title>
+<link>http://www.gotapi.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T03:15:18Z</dc:date>
+<dc:subject>development howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.digilife.be/quickreferences/quickrefs.htm">
+<title>Quick Reference Cards</title>
+<link>http://www.digilife.be/quickreferences/quickrefs.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T03:14:52Z</dc:date>
+<dc:subject>development howto reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.investorguide.com/links-dir-trading.html">
+<title>Stocks, Other Investments and Personal Finance Resources</title>
+<link>http://www.investorguide.com/links-dir-trading.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T21:07:22Z</dc:date>
+<dc:subject>howto investing stocks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stocks" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.howstuffworks.com/stock.htm">
+<title>Howstuffworks &#x22;How Stocks and the Stock Market Work&#x22;</title>
+<link>http://money.howstuffworks.com/stock.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T20:47:08Z</dc:date>
+<dc:subject>howstuffworks howto investing money stocks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stocks" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/howstuffworks" />
+    <rdf:li resource="http://del.icio.us/tag/investing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://michaelbluejay.com/house/">
+<title>How to Buy a House -- A guide for first-time home buyers</title>
+<link>http://michaelbluejay.com/house/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T20:30:38Z</dc:date>
+<dc:subject>home howto money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/home" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

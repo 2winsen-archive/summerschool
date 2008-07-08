@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/cool">
+<title>del.icio.us/retiman/cool</title>
+<link>http://del.icio.us/retiman/cool</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.shell-fu.org/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/List_of_misconceptions?" />
+  <rdf:li rdf:resource="http://popurls.com/" />
+  <rdf:li rdf:resource="http://www.cs.huji.ac.il/~yweiss/Colorization/" />
+  <rdf:li rdf:resource="http://graphics.stanford.edu/~seander/bithacks.html" />
+  <rdf:li rdf:resource="http://www.zompist.com/yingzi/yingzi.htm?" />
+  <rdf:li rdf:resource="http://listverse.com/miscellaneous/20-amazing-optical-illusions/" />
+  <rdf:li rdf:resource="http://www.arrakis.es/~rggi3/youtube-dl/" />
+  <rdf:li rdf:resource="http://www.bearsandbuds.com/July2007/Veggie-Art-July07.asp" />
+  <rdf:li rdf:resource="http://www.damninteresting.com/?p=246" />
+  <rdf:li rdf:resource="http://godplaysdice.blogspot.com/" />
+  <rdf:li rdf:resource="http://www.weirdasianews.com/2007/08/31/weird-asian-martial-arts-weapons/" />
+  <rdf:li rdf:resource="http://dodgit.com/" />
+  <rdf:li rdf:resource="http://www.livescience.com/animals/top10_species_success.html" />
+  <rdf:li rdf:resource="http://www.livescience.com/animals/top10_animal_senses.html" />
+  <rdf:li rdf:resource="http://www.axolotl.org/" />
+  <rdf:li rdf:resource="http://www.bountyfishing.com/blog/2007/08/07/27-aquatic-lifeforms-you-never-caught-while-fishing/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/" />
+  <rdf:li rdf:resource="http://www.skepdic.com/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/technophilia/where-to-find-public-records-online-280785.php" />
+  <rdf:li rdf:resource="http://www.marcandangel.com/2007/07/25/7-clever-google-tricks-worth-knowing/" />
+  <rdf:li rdf:resource="http://www.careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?IPath=JRGCM&#x26;ff=21&#x26;APath=2.21.0.0.0&#x26;job_did=J8E27R758MWRHR3QTG9&#x26;cbRecursionCnt=1&#x26;cbsid=3da6fac3d9c04350961b216c9808136c-238774506-RG-4&#x26;ns_siteid=" />
+  <rdf:li rdf:resource="http://swik.net/" />
+  <rdf:li rdf:resource="http://people.howstuffworks.com/human-blockhead.htm" />
+  <rdf:li rdf:resource="http://consumerist.com/consumer/irs/man-dodges-taxes-for-10-years-wins-in-federal-district-court-279978.php" />
+  <rdf:li rdf:resource="http://code.google.com/p/syntaxhighlighter/" />
+  <rdf:li rdf:resource="http://www7.nationalgeographic.com/ngm/0707/feature5/index.html" />
+  <rdf:li rdf:resource="http://www.geekarmy.com/Science/Crazy-Vision-Test.html" />
+  <rdf:li rdf:resource="http://www.thedigitalbeat.com/2007/05/10-strangest-weapons-through-history.html/#/blank" />
+  <rdf:li rdf:resource="http://www.x-entertainment.com/articles/sodas/" />
+  <rdf:li rdf:resource="http://www.miniaturecube.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.shell-fu.org/">
+<title>[shell-fu:home]$</title>
+<link>http://www.shell-fu.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-24T01:54:25Z</dc:date>
+<dc:subject>bash cool scripting shell tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/List_of_misconceptions?">
+<title>List of common misconceptions - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/List_of_misconceptions?</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-07T22:46:27Z</dc:date>
+<dc:subject>cool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://popurls.com/">
+<title>popurls&#xAE; | popular urls to the latest web buzz</title>
+<link>http://popurls.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-26T15:48:01Z</dc:date>
+<dc:subject>cool internet</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/internet" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.huji.ac.il/~yweiss/Colorization/">
+<title>Colorization Using Optimization</title>
+<link>http://www.cs.huji.ac.il/~yweiss/Colorization/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-05T21:23:17Z</dc:date>
+<dc:subject>cool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://graphics.stanford.edu/~seander/bithacks.html">
+<title>Bit Twiddling Hacks</title>
+<link>http://graphics.stanford.edu/~seander/bithacks.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-01T23:36:45Z</dc:date>
+<dc:subject>cool development java puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zompist.com/yingzi/yingzi.htm?">
+<title>Yingzi</title>
+<link>http://www.zompist.com/yingzi/yingzi.htm?</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-25T06:34:08Z</dc:date>
+<dc:subject>china cool linguistics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/linguistics" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://listverse.com/miscellaneous/20-amazing-optical-illusions/">
+<title>20 Amazing Optical Illusions - The List Universe</title>
+<link>http://listverse.com/miscellaneous/20-amazing-optical-illusions/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T21:31:39Z</dc:date>
+<dc:subject>cool education image math psychology reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.arrakis.es/~rggi3/youtube-dl/">
+<title>youtube-dl: Download videos from YouTube.com</title>
+<link>http://www.arrakis.es/~rggi3/youtube-dl/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-25T19:41:32Z</dc:date>
+<dc:subject>cool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bearsandbuds.com/July2007/Veggie-Art-July07.asp">
+<title>Veggie-Art-July07</title>
+<link>http://www.bearsandbuds.com/July2007/Veggie-Art-July07.asp</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-24T03:28:50Z</dc:date>
+<dc:subject>cool funny weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.damninteresting.com/?p=246">
+<title>Damn Interesting &#xBB; The Longest-Standing Math Problem</title>
+<link>http://www.damninteresting.com/?p=246</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-24T01:08:44Z</dc:date>
+<dc:subject>cool history math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://godplaysdice.blogspot.com/">
+<title>God Plays Dice</title>
+<link>http://godplaysdice.blogspot.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-16T08:45:23Z</dc:date>
+<dc:subject>cool math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.weirdasianews.com/2007/08/31/weird-asian-martial-arts-weapons/">
+<title>Weird Asian Martial Arts Weapons | Weird Asia News</title>
+<link>http://www.weirdasianews.com/2007/08/31/weird-asian-martial-arts-weapons/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T03:42:16Z</dc:date>
+<dc:subject>cool history weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dodgit.com/">
+<title>dodgit - free. receive-only. email. no set up. rss.</title>
+<link>http://dodgit.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-14T00:57:56Z</dc:date>
+<dc:subject>cool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/animals/top10_species_success.html">
+<title>Ten Species Success Stories | LiveScience</title>
+<link>http://www.livescience.com/animals/top10_species_success.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:31:39Z</dc:date>
+<dc:subject>cool evolution science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/animals/top10_animal_senses.html">
+<title>Amazing Animal Abilities | LiveScience</title>
+<link>http://www.livescience.com/animals/top10_animal_senses.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:31:19Z</dc:date>
+<dc:subject>biology cool science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.axolotl.org/">
+<title>Axolotls: The Fascinating Mexican Axolotl and the Tiger Salamander</title>
+<link>http://www.axolotl.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-08T00:17:40Z</dc:date>
+<dc:subject>cool evolution</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bountyfishing.com/blog/2007/08/07/27-aquatic-lifeforms-you-never-caught-while-fishing/">
+<title>Bounty Fishing Blog &#xBB; 27 Aquatic lifeforms you never caught while fishing</title>
+<link>http://www.bountyfishing.com/blog/2007/08/07/27-aquatic-lifeforms-you-never-caught-while-fishing/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-08T00:17:30Z</dc:date>
+<dc:subject>cool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/">
+<title>Time-Savers: Code Beautifier And Formatter</title>
+<link>http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:15:16Z</dc:date>
+<dc:subject>ajax cool css javascript scripting web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.skepdic.com/">
+<title>The Skeptic's Dictionary</title>
+<link>http://www.skepdic.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-30T17:45:02Z</dc:date>
+<dc:subject>cool funny reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/technophilia/where-to-find-public-records-online-280785.php">
+<title>Technophilia: Where to find public records online - Lifehacker</title>
+<link>http://lifehacker.com/software/technophilia/where-to-find-public-records-online-280785.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-30T08:46:05Z</dc:date>
+<dc:subject>cool law reference web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.marcandangel.com/2007/07/25/7-clever-google-tricks-worth-knowing/">
+<title>7 Clever Google Tricks Worth Knowing | Marc and Angel</title>
+<link>http://www.marcandangel.com/2007/07/25/7-clever-google-tricks-worth-knowing/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-26T22:19:04Z</dc:date>
+<dc:subject>cool google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?IPath=JRGCM&#x26;ff=21&#x26;APath=2.21.0.0.0&#x26;job_did=J8E27R758MWRHR3QTG9&#x26;cbRecursionCnt=1&#x26;cbsid=3da6fac3d9c04350961b216c9808136c-238774506-RG-4&#x26;ns_siteid=">
+<title>Find Jobs - Web Development Software Engineer Jobs in Fairfax, VA</title>
+<link>http://www.careerbuilder.com/JobSeeker/Jobs/JobDetails.aspx?IPath=JRGCM&#x26;ff=21&#x26;APath=2.21.0.0.0&#x26;job_did=J8E27R758MWRHR3QTG9&#x26;cbRecursionCnt=1&#x26;cbsid=3da6fac3d9c04350961b216c9808136c-238774506-RG-4&#x26;ns_siteid=</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-26T21:56:24Z</dc:date>
+<dc:subject>cool</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://swik.net/">
+<title>The Open Software Wiki - SWiK</title>
+<link>http://swik.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-25T18:24:54Z</dc:date>
+<dc:subject>cool software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://people.howstuffworks.com/human-blockhead.htm">
+<title>Howstuffworks &#x22;How the Human Blockhead Works&#x22;</title>
+<link>http://people.howstuffworks.com/human-blockhead.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-24T23:24:22Z</dc:date>
+<dc:subject>cool howstuffworks</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/howstuffworks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://consumerist.com/consumer/irs/man-dodges-taxes-for-10-years-wins-in-federal-district-court-279978.php">
+<title>IRS: Man Dodges Taxes For 10 Years, Wins In Federal District Court - Consumerist</title>
+<link>http://consumerist.com/consumer/irs/man-dodges-taxes-for-10-years-wins-in-federal-district-court-279978.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-21T02:59:28Z</dc:date>
+<dc:subject>cool law money taxes</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/taxes" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/syntaxhighlighter/">
+<title>syntaxhighlighter - Google Code</title>
+<link>http://code.google.com/p/syntaxhighlighter/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T21:18:21Z</dc:date>
+<dc:subject>ajax cool development javascript software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www7.nationalgeographic.com/ngm/0707/feature5/index.html">
+<title>Swarm Behavior - National Geographic Magazine</title>
+<link>http://www7.nationalgeographic.com/ngm/0707/feature5/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-06T22:05:58Z</dc:date>
+<dc:subject>cool science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geekarmy.com/Science/Crazy-Vision-Test.html">
+<title>Geek Army: Science - Crazy Vision Test</title>
+<link>http://www.geekarmy.com/Science/Crazy-Vision-Test.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-28T23:04:40Z</dc:date>
+<dc:subject>cool funny science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thedigitalbeat.com/2007/05/10-strangest-weapons-through-history.html/#/blank">
+<title>10 Strangest Weapons through History - 10 Things You Never Knew About</title>
+<link>http://www.thedigitalbeat.com/2007/05/10-strangest-weapons-through-history.html/#/blank</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-28T08:10:32Z</dc:date>
+<dc:subject>cool history weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.x-entertainment.com/articles/sodas/">
+<title>X-Entertainment: Dead Sodas.</title>
+<link>http://www.x-entertainment.com/articles/sodas/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-25T17:54:17Z</dc:date>
+<dc:subject>cool history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.miniaturecube.com/">
+<title>Miniature Cube :: Restaurant decisions made easy</title>
+<link>http://www.miniaturecube.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T23:34:46Z</dc:date>
+<dc:subject>cool web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

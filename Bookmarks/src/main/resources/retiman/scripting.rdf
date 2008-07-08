@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/scripting">
+<title>del.icio.us/retiman/scripting</title>
+<link>http://del.icio.us/retiman/scripting</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.shell-fu.org/" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/aix/library/au-satbuildscript.html" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/" />
+  <rdf:li rdf:resource="http://csdir.org/tutorials/bash-tutorial/" />
+  <rdf:li rdf:resource="http://www.builderau.com.au/program/linux/soa/10-shortcuts-to-master-bash/0,339028299,339279043,00.htm" />
+  <rdf:li rdf:resource="http://pegasus.rutgers.edu/~elflord/unix/bash-tute.html" />
+  <rdf:li rdf:resource="http://tldp.org/LDP/abs/html/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.shell-fu.org/">
+<title>[shell-fu:home]$</title>
+<link>http://www.shell-fu.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-24T01:54:25Z</dc:date>
+<dc:subject>bash cool scripting shell tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/aix/library/au-satbuildscript.html">
+<title>System Administration Toolkit: Build intelligent, unattended scripts</title>
+<link>http://www.ibm.com/developerworks/aix/library/au-satbuildscript.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:30:48Z</dc:date>
+<dc:subject>bash development linux scripting shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/">
+<title>Time-Savers: Code Beautifier And Formatter</title>
+<link>http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:15:16Z</dc:date>
+<dc:subject>ajax cool css javascript scripting web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://csdir.org/tutorials/bash-tutorial/">
+<title>Bash tutorial | Programming tutorials</title>
+<link>http://csdir.org/tutorials/bash-tutorial/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-24T00:37:31Z</dc:date>
+<dc:subject>bash linux scripting shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.builderau.com.au/program/linux/soa/10-shortcuts-to-master-bash/0,339028299,339279043,00.htm">
+<title>10 shortcuts to master bash - Program - Linux - Builder AU</title>
+<link>http://www.builderau.com.au/program/linux/soa/10-shortcuts-to-master-bash/0,339028299,339279043,00.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-27T03:56:04Z</dc:date>
+<dc:subject>bash linux scripting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pegasus.rutgers.edu/~elflord/unix/bash-tute.html">
+<title>bash tutorial</title>
+<link>http://pegasus.rutgers.edu/~elflord/unix/bash-tute.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-03T02:04:18Z</dc:date>
+<dc:subject>bash linux scripting shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tldp.org/LDP/abs/html/">
+<title>Advanced Bash-Scripting Guide</title>
+<link>http://tldp.org/LDP/abs/html/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-22T19:06:27Z</dc:date>
+<dc:subject>bash linux scripting</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/bluray">
+<title>del.icio.us/retiman/bluray</title>
+<link>http://del.icio.us/retiman/bluray</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.ps3forums.com/showthread.php?t=55880" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.ps3forums.com/showthread.php?t=55880">
+<title>An explanation on film grain, or graininess on Blu-ray - PS3Forums</title>
+<link>http://www.ps3forums.com/showthread.php?t=55880</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-06T06:45:06Z</dc:date>
+<dc:subject>bluray hdmi ps3</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ps3" />
+    <rdf:li resource="http://del.icio.us/tag/hdmi" />
+    <rdf:li resource="http://del.icio.us/tag/bluray" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/health">
+<title>del.icio.us/retiman/health</title>
+<link>http://del.icio.us/retiman/health</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?currentPage=all" />
+  <rdf:li rdf:resource="http://health.howstuffworks.com/choose-insurance-plan.htm" />
+  <rdf:li rdf:resource="http://health.howstuffworks.com/vaccine.htm" />
+  <rdf:li rdf:resource="http://www.health-sky.com/html/8-foods-you-should-eat-every-day.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/first-aid/printable-chart-of-first+aid-procedures-292962.php" />
+  <rdf:li rdf:resource="http://g333k.glimpsr.com/geek-living-8-easy-things-you-can-do-to-lose-fat/" />
+  <rdf:li rdf:resource="http://www.livescience.com/health/top10_mysteriesofthemind.html" />
+  <rdf:li rdf:resource="http://www.livescience.com/health/top_10_diseases.html" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2007/07/29/weekinreview/29berenson.html?ex=1343361600&#x26;en=65968899b9fc96ca&#x26;ei=5090&#x26;partner=rssuserland&#x26;emc=rss" />
+  <rdf:li rdf:resource="http://pressesc.com/news/80931072007/atheist-doctors-more-likely-care-poor-religious-ones" />
+  <rdf:li rdf:resource="http://www.dailyexhumation.com/index.php?subaction=showfull&#x26;id=1185248690&#x26;archive=&#x26;start_from=&#x26;ucat=&#x26;" />
+  <rdf:li rdf:resource="http://www.dailykos.com/storyonly/2007/7/22/9334/83825" />
+  <rdf:li rdf:resource="http://www.survivaltopics.com/survival/the-5-basic-survival-skills/" />
+  <rdf:li rdf:resource="http://ririanproject.com/2006/10/25/10-useless-or-even-dangerous-first-aid-myths/" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/health/6240048.stm" />
+  <rdf:li rdf:resource="http://ririanproject.com/2007/06/21/how-to-sleep-more-effectively-starting-tonight/" />
+  <rdf:li rdf:resource="http://www.thesimpledollar.com/2007/03/11/what-you-need-to-know-about-farmers-markets-and-ten-tips-for-maximizing-your-money-there/" />
+  <rdf:li rdf:resource="http://www.canada.com/edmontonjournal/news/story.html?id=bacd6509-177b-44b4-acb9-e9fb9990d962" />
+  <rdf:li rdf:resource="http://ririanproject.com/2007/04/21/15-useless-or-even-dangerous-eyesight-myths/" />
+  <rdf:li rdf:resource="http://www.newscientist.com/channel/health/mg19426043.900-bipolar-children--is-the-us-overdiagnosing.html" />
+  <rdf:li rdf:resource="http://seattletimes.nwsource.com/html/foodwine/2003702435_petfood10.html" />
+  <rdf:li rdf:resource="http://www.msnbc.msn.com/id/18368186" />
+  <rdf:li rdf:resource="http://www.fourhourworkweek.com/blog/2007/04/29/from-geek-to-freak-how-i-gained-34-lbs-of-muscle-in-4-weeks/" />
+  <rdf:li rdf:resource="http://www.carotids.com/lifestyle/health-problems-related-to-the-geek-lifestyle/" />
+  <rdf:li rdf:resource="http://health.wikia.com/index.php?title=Ten_Ailments_Effecting_IT_Workers" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?currentPage=all">
+<title>Annals of Medicine: The Itch: Reporting &#x26; Essays: The New Yorker</title>
+<link>http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?currentPage=all</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-28T02:53:18Z</dc:date>
+<dc:subject>health science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://health.howstuffworks.com/choose-insurance-plan.htm">
+<title>Howstuffworks &#x22;How to Choose a Health Insurance Plan&#x22;</title>
+<link>http://health.howstuffworks.com/choose-insurance-plan.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-31T00:35:30Z</dc:date>
+<dc:subject>health insurance</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/insurance" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://health.howstuffworks.com/vaccine.htm">
+<title>Howstuffworks &#x22;How Vaccines Work&#x22;</title>
+<link>http://health.howstuffworks.com/vaccine.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-26T19:52:37Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.health-sky.com/html/8-foods-you-should-eat-every-day.html">
+<title>8 Foods You Should Eat Every Day</title>
+<link>http://www.health-sky.com/html/8-foods-you-should-eat-every-day.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-08T20:24:11Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/first-aid/printable-chart-of-first+aid-procedures-292962.php">
+<title>First Aid: Printable Chart of First-Aid Procedures - Lifehacker</title>
+<link>http://lifehacker.com/software/first-aid/printable-chart-of-first+aid-procedures-292962.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T06:07:29Z</dc:date>
+<dc:subject>health howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://g333k.glimpsr.com/geek-living-8-easy-things-you-can-do-to-lose-fat/">
+<title>g333k &#xBB; Blog Archive &#xBB; Geek living: 8 easy things you can do to lose fat</title>
+<link>http://g333k.glimpsr.com/geek-living-8-easy-things-you-can-do-to-lose-fat/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-12T09:46:59Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/health/top10_mysteriesofthemind.html">
+<title>Top 10 Mysteries of the Mind | LiveScience</title>
+<link>http://www.livescience.com/health/top10_mysteriesofthemind.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:31:27Z</dc:date>
+<dc:subject>health psychology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/health/top_10_diseases.html">
+<title>Top 10 Mysterious Diseases | LiveScience</title>
+<link>http://www.livescience.com/health/top_10_diseases.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:31:08Z</dc:date>
+<dc:subject>health science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2007/07/29/weekinreview/29berenson.html?ex=1343361600&#x26;en=65968899b9fc96ca&#x26;ei=5090&#x26;partner=rssuserland&#x26;emc=rss">
+<title>Doctors - Managed Care and Health Insurance - Medicine and Health - Wages and Salaries - New York Times</title>
+<link>http://www.nytimes.com/2007/07/29/weekinreview/29berenson.html?ex=1343361600&#x26;en=65968899b9fc96ca&#x26;ei=5090&#x26;partner=rssuserland&#x26;emc=rss</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T22:28:40Z</dc:date>
+<dc:subject>health politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pressesc.com/news/80931072007/atheist-doctors-more-likely-care-poor-religious-ones">
+<title>Atheist doctors more likely to care for the poor than religious ones | Press Esc</title>
+<link>http://pressesc.com/news/80931072007/atheist-doctors-more-likely-care-poor-religious-ones</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T22:00:24Z</dc:date>
+<dc:subject>health religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dailyexhumation.com/index.php?subaction=showfull&#x26;id=1185248690&#x26;archive=&#x26;start_from=&#x26;ucat=&#x26;">
+<title>DailyExhumation.com - President Bush suggests uninsured children go to hospital emergency rooms for their care</title>
+<link>http://www.dailyexhumation.com/index.php?subaction=showfull&#x26;id=1185248690&#x26;archive=&#x26;start_from=&#x26;ucat=&#x26;</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-27T08:22:05Z</dc:date>
+<dc:subject>health politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dailykos.com/storyonly/2007/7/22/9334/83825">
+<title>Daily Kos: &#x22;The Only Moral Abortion Is My Abortion&#x22;</title>
+<link>http://www.dailykos.com/storyonly/2007/7/22/9334/83825</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-27T08:11:37Z</dc:date>
+<dc:subject>health politics psychology religion women wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/women" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.survivaltopics.com/survival/the-5-basic-survival-skills/">
+<title>The 5 Basic Survival Skills</title>
+<link>http://www.survivaltopics.com/survival/the-5-basic-survival-skills/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-29T00:05:11Z</dc:date>
+<dc:subject>health howto reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ririanproject.com/2006/10/25/10-useless-or-even-dangerous-first-aid-myths/">
+<title>10 Useless or Even Dangerous First Aid Myths at Personal Development with Ririan Project</title>
+<link>http://ririanproject.com/2006/10/25/10-useless-or-even-dangerous-first-aid-myths/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-26T19:22:59Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/health/6240048.stm">
+<title>BBC NEWS | Health | High bleach levels in tooth kits</title>
+<link>http://news.bbc.co.uk/2/hi/health/6240048.stm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-26T18:54:28Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ririanproject.com/2007/06/21/how-to-sleep-more-effectively-starting-tonight/">
+<title>How to Sleep More Effectively, Starting Tonight at Personal Development with Ririan Project</title>
+<link>http://ririanproject.com/2007/06/21/how-to-sleep-more-effectively-starting-tonight/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-23T01:06:01Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thesimpledollar.com/2007/03/11/what-you-need-to-know-about-farmers-markets-and-ten-tips-for-maximizing-your-money-there/">
+<title>The Simple Dollar &#xBB; What You Need To Know About Farmer&#x2019;s Markets - And Ten Tips For Maximizing Your Money There</title>
+<link>http://www.thesimpledollar.com/2007/03/11/what-you-need-to-know-about-farmers-markets-and-ten-tips-for-maximizing-your-money-there/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-27T22:46:17Z</dc:date>
+<dc:subject>health money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.canada.com/edmontonjournal/news/story.html?id=bacd6509-177b-44b4-acb9-e9fb9990d962">
+<title>African bacteria ate holes in girl's eyes</title>
+<link>http://www.canada.com/edmontonjournal/news/story.html?id=bacd6509-177b-44b4-acb9-e9fb9990d962</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-21T19:12:28Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ririanproject.com/2007/04/21/15-useless-or-even-dangerous-eyesight-myths/">
+<title>15 Useless or Even Dangerous Eyesight Myths at Ririan Project</title>
+<link>http://ririanproject.com/2007/04/21/15-useless-or-even-dangerous-eyesight-myths/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-20T03:30:45Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newscientist.com/channel/health/mg19426043.900-bipolar-children--is-the-us-overdiagnosing.html">
+<title>Bipolar children - is the US overdiagnosing? - health - 16 May 2007 - New Scientist</title>
+<link>http://www.newscientist.com/channel/health/mg19426043.900-bipolar-children--is-the-us-overdiagnosing.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-18T19:42:34Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://seattletimes.nwsource.com/html/foodwine/2003702435_petfood10.html">
+<title>Food &#x26; wine | Factory linked to tainted food found closed | Seattle Times Newspaper</title>
+<link>http://seattletimes.nwsource.com/html/foodwine/2003702435_petfood10.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-13T21:20:02Z</dc:date>
+<dc:subject>china health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.msnbc.msn.com/id/18368186">
+<title>Doctors Change the Way They Think About Death - Newsweek Health - MSNBC.com</title>
+<link>http://www.msnbc.msn.com/id/18368186</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-02T03:50:53Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fourhourworkweek.com/blog/2007/04/29/from-geek-to-freak-how-i-gained-34-lbs-of-muscle-in-4-weeks/">
+<title>&#xBB; From Geek to Freak: How I Gained 34 lbs. of Muscle in 4 Weeks</title>
+<link>http://www.fourhourworkweek.com/blog/2007/04/29/from-geek-to-freak-how-i-gained-34-lbs-of-muscle-in-4-weeks/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-01T22:26:41Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.carotids.com/lifestyle/health-problems-related-to-the-geek-lifestyle/">
+<title>Health Problems Related to the Geek Lifestyle &#xBB; Carotids.Com</title>
+<link>http://www.carotids.com/lifestyle/health-problems-related-to-the-geek-lifestyle/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:43:39Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://health.wikia.com/index.php?title=Ten_Ailments_Effecting_IT_Workers">
+<title>Ten Ailments Affecting IT Workers - Health.Wikia | A Wikia Wiki</title>
+<link>http://health.wikia.com/index.php?title=Ten_Ailments_Effecting_IT_Workers</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:42:43Z</dc:date>
+<dc:subject>health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

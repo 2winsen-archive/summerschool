@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/google">
+<title>del.icio.us/retiman/google</title>
+<link>http://del.icio.us/retiman/google</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html" />
+  <rdf:li rdf:resource="http://webworkerdaily.com/2007/09/05/top-igoogle-gadgets-for-web-worker-productivity/" />
+  <rdf:li rdf:resource="http://tihomir.org/crazy-questions-at-google-job-interview/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/gmail/geek-to-live--back-up-gmail-with-fetchmail-235207.php" />
+  <rdf:li rdf:resource="http://money.cnn.com/2007/08/29/technology/brain_teasers.biz2/" />
+  <rdf:li rdf:resource="http://code.google.com/p/google-singleton-detector/" />
+  <rdf:li rdf:resource="http://news.yahoo.com/s/pcworld/20070808/tc_pcworld/135686" />
+  <rdf:li rdf:resource="http://www.javabeat.net/articles/google-guice/2007/08/google-guice-introduction/" />
+  <rdf:li rdf:resource="http://quicksilverscreen.com/ipb/index.php?showtopic=29115" />
+  <rdf:li rdf:resource="http://www.marcandangel.com/2007/07/25/7-clever-google-tricks-worth-knowing/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/gmail/lifehacker-code-better-gmail-firefox-extension-251923.php" />
+  <rdf:li rdf:resource="http://userscripts.org/scripts/show/9455" />
+  <rdf:li rdf:resource="http://userscripts.org/scripts/show/7062" />
+  <rdf:li rdf:resource="http://www.jwebnet.net/advancedgooglesearch.html" />
+  <rdf:li rdf:resource="http://video.google.com/videosearch?q=user%3A%22Google+engEDU%22" />
+  <rdf:li rdf:resource="http://www.techinterviews.com/?p=325#comments" />
+  <rdf:li rdf:resource="http://googlesightseeing.com/2007/06/16/street-fight/" />
+  <rdf:li rdf:resource="http://www.shmula.com/31/my-interview-job-offer-from-google" />
+  <rdf:li rdf:resource="http://alien.dowling.edu/~rohit/wiki/index.php/Google_Interview_Questions" />
+  <rdf:li rdf:resource="http://www.techinterviews.com/?p=325" />
+  <rdf:li rdf:resource="http://weblogs.asp.net/jasonsalas/archive/2005/09/04/424378.aspx" />
+  <rdf:li rdf:resource="http://www.fastcompany.com/magazine/69/google.html" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2007/05/29/technology/29antitrust.html?_r=2&#x26;ref=business&#x26;oref=slogin&#x26;oref=slogin" />
+  <rdf:li rdf:resource="http://code.google.com/webtoolkit/makinggwtbetter.html" />
+  <rdf:li rdf:resource="http://www.ryandoherty.net/2007/04/29/why-google-web-toolkit-rots-your-brain/" />
+  <rdf:li rdf:resource="http://news.wired.com/dynamic/stories/M/MICROSOFT_AQUANTIVE?SITE=WIRE&#x26;SECTION=HOME&#x26;TEMPLATE=DEFAULT" />
+  <rdf:li rdf:resource="http://www.google.com/corporate/today.html" />
+  <rdf:li rdf:resource="http://www.google.com/technology/pigeonrank.html" />
+  <rdf:li rdf:resource="http://video.google.com/videoplay?docid=-4167170843018186532&#x26;q=user%3A%22Google+engEDU%22&#x26;hl=en" />
+  <rdf:li rdf:resource="http://www.theserverside.com/news/thread.tss?thread_id=45174" />
+  <rdf:li rdf:resource="http://www.javaworld.com/javaworld/jw-04-2007/jw-04-gwt.html?fsrc=rss-index" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html">
+<title>Twin Sunset: This Word, &#x22;Scaling&#x22;</title>
+<link>http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-05T07:16:27Z</dc:date>
+<dc:subject>development google ruby web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webworkerdaily.com/2007/09/05/top-igoogle-gadgets-for-web-worker-productivity/">
+<title>15 iGoogle Gadgets for Web Worker Productivity &#xAB; Web Worker Daily</title>
+<link>http://webworkerdaily.com/2007/09/05/top-igoogle-gadgets-for-web-worker-productivity/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-07T06:55:55Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tihomir.org/crazy-questions-at-google-job-interview/">
+<title>Crazy Questions at Google Job Interview - Blog Tips by Tihomir - Make Money Blogging</title>
+<link>http://tihomir.org/crazy-questions-at-google-job-interview/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-07T06:31:42Z</dc:date>
+<dc:subject>google puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/gmail/geek-to-live--back-up-gmail-with-fetchmail-235207.php">
+<title>Geek to Live: Back up Gmail with fetchmail - Lifehacker</title>
+<link>http://lifehacker.com/software/gmail/geek-to-live--back-up-gmail-with-fetchmail-235207.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-26T23:13:19Z</dc:date>
+<dc:subject>google shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.cnn.com/2007/08/29/technology/brain_teasers.biz2/">
+<title>Job interview brainteasers - Aug. 30, 2007</title>
+<link>http://money.cnn.com/2007/08/29/technology/brain_teasers.biz2/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-31T22:34:19Z</dc:date>
+<dc:subject>google puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/google-singleton-detector/">
+<title>google-singleton-detector - Google Code</title>
+<link>http://code.google.com/p/google-singleton-detector/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-15T00:27:06Z</dc:date>
+<dc:subject>codeanalysis google java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/codeanalysis" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.yahoo.com/s/pcworld/20070808/tc_pcworld/135686">
+<title>Google Mistakes Own Blog for Spam, Deletes it - Yahoo! News</title>
+<link>http://news.yahoo.com/s/pcworld/20070808/tc_pcworld/135686</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T00:49:50Z</dc:date>
+<dc:subject>funny google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javabeat.net/articles/google-guice/2007/08/google-guice-introduction/">
+<title>Introduction to Google Guice</title>
+<link>http://www.javabeat.net/articles/google-guice/2007/08/google-guice-introduction/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-05T04:46:48Z</dc:date>
+<dc:subject>google guice java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/guice" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://quicksilverscreen.com/ipb/index.php?showtopic=29115">
+<title>Disguise Yourself As Google Bot - Quicksilverscreen Forum!</title>
+<link>http://quicksilverscreen.com/ipb/index.php?showtopic=29115</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:24:03Z</dc:date>
+<dc:subject>google security web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.marcandangel.com/2007/07/25/7-clever-google-tricks-worth-knowing/">
+<title>7 Clever Google Tricks Worth Knowing | Marc and Angel</title>
+<link>http://www.marcandangel.com/2007/07/25/7-clever-google-tricks-worth-knowing/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-26T22:19:04Z</dc:date>
+<dc:subject>cool google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/gmail/lifehacker-code-better-gmail-firefox-extension-251923.php">
+<title>Lifehacker Code: Better Gmail (Firefox extension) - Lifehacker</title>
+<link>http://lifehacker.com/software/gmail/lifehacker-code-better-gmail-firefox-extension-251923.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-24T00:06:47Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://userscripts.org/scripts/show/9455">
+<title>Google Reader Preview Enhanced v1.07a &#x2013; Userscripts.org</title>
+<link>http://userscripts.org/scripts/show/9455</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-23T23:33:05Z</dc:date>
+<dc:subject>firefox google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://userscripts.org/scripts/show/7062">
+<title>Google Reader Search &#x2013; Userscripts.org</title>
+<link>http://userscripts.org/scripts/show/7062</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-23T23:32:20Z</dc:date>
+<dc:subject>firefox google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jwebnet.net/advancedgooglesearch.html">
+<title>Unofficial Google Advanced Search</title>
+<link>http://www.jwebnet.net/advancedgooglesearch.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-23T22:54:56Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://video.google.com/videosearch?q=user%3A%22Google+engEDU%22">
+<title>user:&#x22;Google engEDU&#x22; - Google Video</title>
+<link>http://video.google.com/videosearch?q=user%3A%22Google+engEDU%22</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T20:38:13Z</dc:date>
+<dc:subject>education google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techinterviews.com/?p=325#comments">
+<title>Google interview questions | TechInterviews.com | &#xAB; Interview questions for tech companies</title>
+<link>http://www.techinterviews.com/?p=325#comments</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-09T17:54:07Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://googlesightseeing.com/2007/06/16/street-fight/">
+<title>Street Fight &#xAB; Google Sightseeing</title>
+<link>http://googlesightseeing.com/2007/06/16/street-fight/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-17T07:19:20Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shmula.com/31/my-interview-job-offer-from-google">
+<title>shmula &#xBB; my interview &#x26; job offer from google : Business, Technology, and Stuff in Between</title>
+<link>http://www.shmula.com/31/my-interview-job-offer-from-google</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-06T03:15:26Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://alien.dowling.edu/~rohit/wiki/index.php/Google_Interview_Questions">
+<title>Google Interview Questions - Job Interview Wiki</title>
+<link>http://alien.dowling.edu/~rohit/wiki/index.php/Google_Interview_Questions</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-05T09:00:41Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.techinterviews.com/?p=325">
+<title>Google interview questions | TechInterviews.com | &#xAB; Interview questions for tech companies</title>
+<link>http://www.techinterviews.com/?p=325</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-05T08:58:13Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.asp.net/jasonsalas/archive/2005/09/04/424378.aspx">
+<title>How tough is Google's interview process? - Jason Salas' WebLog</title>
+<link>http://weblogs.asp.net/jasonsalas/archive/2005/09/04/424378.aspx</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-31T18:39:00Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fastcompany.com/magazine/69/google.html">
+<title>How Google Grows...and Grows...and Grows</title>
+<link>http://www.fastcompany.com/magazine/69/google.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-31T18:14:39Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2007/05/29/technology/29antitrust.html?_r=2&#x26;ref=business&#x26;oref=slogin&#x26;oref=slogin">
+<title>Google Deal Said to Bring U.S. Scrutiny - New York Times</title>
+<link>http://www.nytimes.com/2007/05/29/technology/29antitrust.html?_r=2&#x26;ref=business&#x26;oref=slogin&#x26;oref=slogin</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T19:03:13Z</dc:date>
+<dc:subject>antitrust google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/antitrust" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/webtoolkit/makinggwtbetter.html">
+<title>Google Web Toolkit - Making GWT Better</title>
+<link>http://code.google.com/webtoolkit/makinggwtbetter.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-24T18:45:43Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ryandoherty.net/2007/04/29/why-google-web-toolkit-rots-your-brain/">
+<title>RyanDoherty.net &#xBB; Blog Archive &#xBB; Why Google Web Toolkit Rots Your Brain</title>
+<link>http://www.ryandoherty.net/2007/04/29/why-google-web-toolkit-rots-your-brain/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-24T18:40:05Z</dc:date>
+<dc:subject>funny google java javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.wired.com/dynamic/stories/M/MICROSOFT_AQUANTIVE?SITE=WIRE&#x26;SECTION=HOME&#x26;TEMPLATE=DEFAULT">
+<title>Wired News - AP News</title>
+<link>http://news.wired.com/dynamic/stories/M/MICROSOFT_AQUANTIVE?SITE=WIRE&#x26;SECTION=HOME&#x26;TEMPLATE=DEFAULT</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-19T22:03:01Z</dc:date>
+<dc:subject>google microsoft</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/corporate/today.html">
+<title>Google Corporate Information: Our Philosophy</title>
+<link>http://www.google.com/corporate/today.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-16T09:06:42Z</dc:date>
+<dc:subject>google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.google.com/technology/pigeonrank.html">
+<title>Google Technology</title>
+<link>http://www.google.com/technology/pigeonrank.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-16T08:35:41Z</dc:date>
+<dc:subject>funny google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://video.google.com/videoplay?docid=-4167170843018186532&#x26;q=user%3A%22Google+engEDU%22&#x26;hl=en">
+<title>Faith, Evolution, and Programming Languages - Google Video</title>
+<link>http://video.google.com/videoplay?docid=-4167170843018186532&#x26;q=user%3A%22Google+engEDU%22&#x26;hl=en</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-03T23:58:09Z</dc:date>
+<dc:subject>development google software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/news/thread.tss?thread_id=45174">
+<title>Learn about Google Guice via a Google EDU Tech Talk</title>
+<link>http://www.theserverside.com/news/thread.tss?thread_id=45174</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-30T19:03:00Z</dc:date>
+<dc:subject>google java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javaworld.com/javaworld/jw-04-2007/jw-04-gwt.html?fsrc=rss-index">
+<title>Some Recipes to Improve Your Google Web Toolkit Development - Java World</title>
+<link>http://www.javaworld.com/javaworld/jw-04-2007/jw-04-gwt.html?fsrc=rss-index</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-30T05:22:58Z</dc:date>
+<dc:subject>ajax google java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

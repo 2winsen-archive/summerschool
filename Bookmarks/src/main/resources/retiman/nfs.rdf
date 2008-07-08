@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/nfs">
+<title>del.icio.us/retiman/nfs</title>
+<link>http://del.icio.us/retiman/nfs</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.ubuntugeek.com/nfs-server-and-client-configuration-in-ubuntu.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.ubuntugeek.com/nfs-server-and-client-configuration-in-ubuntu.html">
+<title>NFS Server and Client Configuration in Ubuntu -- Ubuntu Geek</title>
+<link>http://www.ubuntugeek.com/nfs-server-and-client-configuration-in-ubuntu.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-18T07:59:53Z</dc:date>
+<dc:subject>linux nfs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nfs" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

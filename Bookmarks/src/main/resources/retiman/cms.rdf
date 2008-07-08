@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/cms">
+<title>del.icio.us/retiman/cms</title>
+<link>http://del.icio.us/retiman/cms</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://rubricks.org/index_en.html" />
+  <rdf:li rdf:resource="http://www.railfrog.com/" />
+  <rdf:li rdf:resource="http://www.blandware.com/" />
+  <rdf:li rdf:resource="http://movabletype.org/" />
+  <rdf:li rdf:resource="http://jackrabbit.apache.org/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://rubricks.org/index_en.html">
+<title>Rubricks - CMS on Rails</title>
+<link>http://rubricks.org/index_en.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-06T02:28:59Z</dc:date>
+<dc:subject>cms ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.railfrog.com/">
+<title>Railfrog - CMS Ridin&#x2019; on Rails / Ruby on Rails CMS</title>
+<link>http://www.railfrog.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-06T02:28:51Z</dc:date>
+<dc:subject>cms ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blandware.com/">
+<title>Blandware - custom offshore software development company in Russia</title>
+<link>http://www.blandware.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T19:21:59Z</dc:date>
+<dc:subject>cms java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://movabletype.org/">
+<title>MovableType.org - Home for the MT Community</title>
+<link>http://movabletype.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-11T20:56:45Z</dc:date>
+<dc:subject>cms software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jackrabbit.apache.org/">
+<title>Apache Jackrabbit - Welcome to Apache Jackrabbit</title>
+<link>http://jackrabbit.apache.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-14T00:03:28Z</dc:date>
+<dc:subject>apache cms java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

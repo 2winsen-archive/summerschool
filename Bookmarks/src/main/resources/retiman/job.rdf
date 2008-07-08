@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/job">
+<title>del.icio.us/retiman/job</title>
+<link>http://del.icio.us/retiman/job</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://crackinterview.info/64Answers.htm" />
+  <rdf:li rdf:resource="http://studentsreview.com/" />
+  <rdf:li rdf:resource="http://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/career/making-the-most-of-walking-away-from-your-job-283092.php" />
+  <rdf:li rdf:resource="http://weblog.infoworld.com/headhunter/archives/2007/07/how_do_i_convin.html" />
+  <rdf:li rdf:resource="http://www.mindtools.com/stress/Brn/BurnoutSelfTest.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://crackinterview.info/64Answers.htm">
+<title>64 Interview answers you need to know</title>
+<link>http://crackinterview.info/64Answers.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-29T19:36:04Z</dc:date>
+<dc:subject>interviews job</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/job" />
+    <rdf:li resource="http://del.icio.us/tag/interviews" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://studentsreview.com/">
+<title>College Reviews: StudentsReview : Over 51400 College Reviews! (3,156 schools reviewed)</title>
+<link>http://studentsreview.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-08T22:54:30Z</dc:date>
+<dc:subject>graduate job</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/job" />
+    <rdf:li resource="http://del.icio.us/tag/graduate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html">
+<title>Stevey's Blog Rants: Ten Tips for a (Slightly) Less Awful Resume</title>
+<link>http://steve-yegge.blogspot.com/2007/09/ten-tips-for-slightly-less-awful-resume.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-27T01:28:53Z</dc:date>
+<dc:subject>job reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/job" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/career/making-the-most-of-walking-away-from-your-job-283092.php">
+<title>Career: Making the most of walking away from your job - Lifehacker</title>
+<link>http://lifehacker.com/software/career/making-the-most-of-walking-away-from-your-job-283092.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-04T02:42:59Z</dc:date>
+<dc:subject>job</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/job" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblog.infoworld.com/headhunter/archives/2007/07/how_do_i_convin.html">
+<title>Ask the Headhunter&#xAE; | InfoWorld | How do I convince the manager to take a chance on me? | July 19, 2007 08:58 AM | By Nick Corcodilos</title>
+<link>http://weblog.infoworld.com/headhunter/archives/2007/07/how_do_i_convin.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-04T02:40:31Z</dc:date>
+<dc:subject>job</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/job" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mindtools.com/stress/Brn/BurnoutSelfTest.htm">
+<title>Burnout Self-Test - Stress Management Techniques from Mind Tools</title>
+<link>http://www.mindtools.com/stress/Brn/BurnoutSelfTest.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-04T02:36:28Z</dc:date>
+<dc:subject>job psychology stress</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/job" />
+    <rdf:li resource="http://del.icio.us/tag/stress" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

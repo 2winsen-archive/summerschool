@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/idea">
+<title>del.icio.us/retiman/idea</title>
+<link>http://del.icio.us/retiman/idea</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://ideavim.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.servlets.com/blog/archives/000040.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://ideavim.sourceforge.net/">
+<title>VIM Emulator Plugin for IntelliJ IDEA</title>
+<link>http://ideavim.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-21T17:44:37Z</dc:date>
+<dc:subject>idea java vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/idea" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.servlets.com/blog/archives/000040.html">
+<title>Servlets.com Weblog: Why I stopped using vim and started using IntelliJ</title>
+<link>http://www.servlets.com/blog/archives/000040.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-20T22:33:27Z</dc:date>
+<dc:subject>eclipse idea vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/idea" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

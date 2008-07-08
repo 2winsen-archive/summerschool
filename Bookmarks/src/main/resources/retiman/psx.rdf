@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/psx">
+<title>del.icio.us/retiman/psx</title>
+<link>http://del.icio.us/retiman/psx</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.gamerspress.com/index.php?title=PSX_on_PSP_-_Memory_Card_Handling" />
+  <rdf:li rdf:resource="http://forums.maxconsole.net/showthread.php?t=42026" />
+  <rdf:li rdf:resource="http://www.kde-apps.org/content/show.php?content=51374" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.gamerspress.com/index.php?title=PSX_on_PSP_-_Memory_Card_Handling">
+<title>PSX on PSP - Memory Card Handling - TheGamersPress</title>
+<link>http://www.gamerspress.com/index.php?title=PSX_on_PSP_-_Memory_Card_Handling</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-19T08:22:39Z</dc:date>
+<dc:subject>psp psx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psx" />
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forums.maxconsole.net/showthread.php?t=42026">
+<title>PSX Save Game For PSP POST HERE - MaxConsole Forums</title>
+<link>http://forums.maxconsole.net/showthread.php?t=42026</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-19T08:22:24Z</dc:date>
+<dc:subject>psp psx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psx" />
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kde-apps.org/content/show.php?content=51374">
+<title> PSX2PSP KDE-Apps.org</title>
+<link>http://www.kde-apps.org/content/show.php?content=51374</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-14T05:52:06Z</dc:date>
+<dc:subject>kde psp psx</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/kde" />
+    <rdf:li resource="http://del.icio.us/tag/psx" />
+    <rdf:li resource="http://del.icio.us/tag/psp" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

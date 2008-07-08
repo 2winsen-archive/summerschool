@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/shell">
+<title>del.icio.us/retiman/shell</title>
+<link>http://del.icio.us/retiman/shell</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.pixelbeat.org/programming/shell_script_mistakes.html" />
+  <rdf:li rdf:resource="http://www.shell-fu.org/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/gmail/geek-to-live--back-up-gmail-with-fetchmail-235207.php" />
+  <rdf:li rdf:resource="http://www-acs.ucsd.edu/info/vi_tutorial.shtml" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/aix/library/au-satbuildscript.html" />
+  <rdf:li rdf:resource="http://csdir.org/tutorials/bash-tutorial/" />
+  <rdf:li rdf:resource="http://www.venturecake.com/10-linux-shell-tricks-you-dont-already-know-for-once/" />
+  <rdf:li rdf:resource="http://www.terminally-incoherent.com/blog/2007/05/21/a-day-without-x/" />
+  <rdf:li rdf:resource="http://blog.lxpages.com/ultimate_linux.html" />
+  <rdf:li rdf:resource="http://pegasus.rutgers.edu/~elflord/unix/bash-tute.html" />
+  <rdf:li rdf:resource="http://linuxgazette.net/133/cherian.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.pixelbeat.org/programming/shell_script_mistakes.html">
+<title>Common shell script mistakes</title>
+<link>http://www.pixelbeat.org/programming/shell_script_mistakes.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-25T21:15:54Z</dc:date>
+<dc:subject>bash linux shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.shell-fu.org/">
+<title>[shell-fu:home]$</title>
+<link>http://www.shell-fu.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-24T01:54:25Z</dc:date>
+<dc:subject>bash cool scripting shell tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/gmail/geek-to-live--back-up-gmail-with-fetchmail-235207.php">
+<title>Geek to Live: Back up Gmail with fetchmail - Lifehacker</title>
+<link>http://lifehacker.com/software/gmail/geek-to-live--back-up-gmail-with-fetchmail-235207.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-26T23:13:19Z</dc:date>
+<dc:subject>google shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-acs.ucsd.edu/info/vi_tutorial.shtml">
+<title>ACS - Beginner's Guide to the Vi editor</title>
+<link>http://www-acs.ucsd.edu/info/vi_tutorial.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:33:23Z</dc:date>
+<dc:subject>development linux shell vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/aix/library/au-satbuildscript.html">
+<title>System Administration Toolkit: Build intelligent, unattended scripts</title>
+<link>http://www.ibm.com/developerworks/aix/library/au-satbuildscript.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:30:48Z</dc:date>
+<dc:subject>bash development linux scripting shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://csdir.org/tutorials/bash-tutorial/">
+<title>Bash tutorial | Programming tutorials</title>
+<link>http://csdir.org/tutorials/bash-tutorial/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-24T00:37:31Z</dc:date>
+<dc:subject>bash linux scripting shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.venturecake.com/10-linux-shell-tricks-you-dont-already-know-for-once/">
+<title>VentureCake &#xBB; Blog Archive &#xBB; 10 Linux Shell Tricks You Don't Already Know. Really, we swear.</title>
+<link>http://www.venturecake.com/10-linux-shell-tricks-you-dont-already-know-for-once/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-18T07:35:17Z</dc:date>
+<dc:subject>linux shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.terminally-incoherent.com/blog/2007/05/21/a-day-without-x/">
+<title>Terminally Incoherent &#xBB; Blog Archive &#xBB; A day without X</title>
+<link>http://www.terminally-incoherent.com/blog/2007/05/21/a-day-without-x/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-22T18:54:03Z</dc:date>
+<dc:subject>linux shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.lxpages.com/ultimate_linux.html">
+<title>The Ultimate Linux Reference Guide for Newbies</title>
+<link>http://blog.lxpages.com/ultimate_linux.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-20T23:47:53Z</dc:date>
+<dc:subject>linux shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pegasus.rutgers.edu/~elflord/unix/bash-tute.html">
+<title>bash tutorial</title>
+<link>http://pegasus.rutgers.edu/~elflord/unix/bash-tute.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-03T02:04:18Z</dc:date>
+<dc:subject>bash linux scripting shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linuxgazette.net/133/cherian.html">
+<title>Easy shell scripting</title>
+<link>http://linuxgazette.net/133/cherian.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T20:23:26Z</dc:date>
+<dc:subject>bash linux shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

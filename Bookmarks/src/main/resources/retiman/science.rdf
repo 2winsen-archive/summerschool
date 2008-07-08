@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/science">
+<title>del.icio.us/retiman/science</title>
+<link>http://del.icio.us/retiman/science</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://listverse.com/science/9-extraordinary-human-abilities/" />
+  <rdf:li rdf:resource="http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?currentPage=all" />
+  <rdf:li rdf:resource="http://www.slate.com/id/2192211" />
+  <rdf:li rdf:resource="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures" />
+  <rdf:li rdf:resource="http://www.sciencenews.org/view/generic/id/33082/title/Accidental_astrophysicists" />
+  <rdf:li rdf:resource="http://www.newscientist.com/article/mg19626252.800" />
+  <rdf:li rdf:resource="http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled" />
+  <rdf:li rdf:resource="http://listverse.com/miscellaneous/20-amazing-optical-illusions/" />
+  <rdf:li rdf:resource="http://www.skepdic.com/pseudosymmetry.html" />
+  <rdf:li rdf:resource="http://www.hunterthinks.com/studyguide/" />
+  <rdf:li rdf:resource="http://www.pbs.org/wgbh/nova/elegant/program.html" />
+  <rdf:li rdf:resource="http://www.damninteresting.com/?p=246" />
+  <rdf:li rdf:resource="http://scienceblogs.com/insolence/2007/09/jenny_mccarthy_and_oprah_winfrey_two_cra.php" />
+  <rdf:li rdf:resource="http://godplaysdice.blogspot.com/" />
+  <rdf:li rdf:resource="http://godplaysdice.blogspot.com/2007/09/why-g-2.html" />
+  <rdf:li rdf:resource="http://science.howstuffworks.com/cockroach.htm" />
+  <rdf:li rdf:resource="http://www.pensitoreview.com/2007/09/10/neuroscience-study-smart-brains-have-liberal-bias/" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2007/08/23/science/23cnd-body.html?hp" />
+  <rdf:li rdf:resource="http://www.cbsnews.com/stories/2007/08/09/tech/main3151006.shtml" />
+  <rdf:li rdf:resource="http://www.ocellated.com/2006/04/13/bill-nye-in-waco/" />
+  <rdf:li rdf:resource="http://www.livescience.com/animals/top10_species_success.html" />
+  <rdf:li rdf:resource="http://www.livescience.com/animals/top10_animal_senses.html" />
+  <rdf:li rdf:resource="http://www.livescience.com/health/top_10_diseases.html" />
+  <rdf:li rdf:resource="http://www.livescience.com/animals/top10_vestigial_organs-1.html" />
+  <rdf:li rdf:resource="http://itre.cis.upenn.edu/~myl/languagelog/archives/004767.html" />
+  <rdf:li rdf:resource="http://www.msnbc.msn.com/id/19956961/" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/List_of_open_problems_in_computer_science" />
+  <rdf:li rdf:resource="http://www.research.ibm.com/quantuminfo/teleportation/" />
+  <rdf:li rdf:resource="http://cosmiclog.msnbc.msn.com/archive/2007/07/17/274531.aspx" />
+  <rdf:li rdf:resource="http://blog.newsweek.com/blogs/labnotes/archive/2007/06/27/why-doesn-t-evolution-get-rid-of-ugly-people.aspx" />
+  <rdf:li rdf:resource="http://cosmicvariance.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://listverse.com/science/9-extraordinary-human-abilities/">
+<title>9 Extraordinary Human Abilities - The List Universe</title>
+<link>http://listverse.com/science/9-extraordinary-human-abilities/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-29T15:56:19Z</dc:date>
+<dc:subject>biology evolution science weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?currentPage=all">
+<title>Annals of Medicine: The Itch: Reporting &#x26; Essays: The New Yorker</title>
+<link>http://www.newyorker.com/reporting/2008/06/30/080630fa_fact_gawande?currentPage=all</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-28T02:53:18Z</dc:date>
+<dc:subject>health science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slate.com/id/2192211">
+<title>How smart is the octopus? - By Carl Zimmer - Slate Magazine</title>
+<link>http://www.slate.com/id/2192211</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-25T22:02:52Z</dc:date>
+<dc:subject>biology evolution octopus science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/octopus" />
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures">
+<title>LinkMingle.com &#xBB; 30+ List of Computer Science Video Lectures (Over 200 Videos)</title>
+<link>http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-24T02:42:33Z</dc:date>
+<dc:subject>computer math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sciencenews.org/view/generic/id/33082/title/Accidental_astrophysicists">
+<title>Science News / Accidental Astrophysicists</title>
+<link>http://www.sciencenews.org/view/generic/id/33082/title/Accidental_astrophysicists</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-17T07:12:31Z</dc:date>
+<dc:subject>math physics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newscientist.com/article/mg19626252.800">
+<title>Death special: How does it feel to die? - being-human - 13 October 2007 - New Scientist</title>
+<link>http://www.newscientist.com/article/mg19626252.800</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-24T23:11:38Z</dc:date>
+<dc:subject>science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled">
+<title>Innovation | Don&#x2019;t invent, evolve | Economist.com</title>
+<link>http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&#x26;retitled</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-24T21:50:30Z</dc:date>
+<dc:subject>design evolution science software technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://listverse.com/miscellaneous/20-amazing-optical-illusions/">
+<title>20 Amazing Optical Illusions - The List Universe</title>
+<link>http://listverse.com/miscellaneous/20-amazing-optical-illusions/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T21:31:39Z</dc:date>
+<dc:subject>cool education image math psychology reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.skepdic.com/pseudosymmetry.html">
+<title>pseudosymmetry</title>
+<link>http://www.skepdic.com/pseudosymmetry.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T19:54:55Z</dc:date>
+<dc:subject>politics psychology science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hunterthinks.com/studyguide/">
+<title>HunterThinks.com - Computer Science GRE Study Guide and Excelsior College Ethics Exam Study Guide</title>
+<link>http://www.hunterthinks.com/studyguide/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-08T17:59:06Z</dc:date>
+<dc:subject>graduate gre science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/graduate" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/gre" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pbs.org/wgbh/nova/elegant/program.html">
+<title>NOVA | The Elegant Universe | Watch the Program | PBS</title>
+<link>http://www.pbs.org/wgbh/nova/elegant/program.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-28T00:03:11Z</dc:date>
+<dc:subject>physics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.damninteresting.com/?p=246">
+<title>Damn Interesting &#xBB; The Longest-Standing Math Problem</title>
+<link>http://www.damninteresting.com/?p=246</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-24T01:08:44Z</dc:date>
+<dc:subject>cool history math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scienceblogs.com/insolence/2007/09/jenny_mccarthy_and_oprah_winfrey_two_cra.php">
+<title>Respectful Insolence: Jenny McCarthy and Oprah Winfrey: Two crappy tastes that taste crappy together on autism</title>
+<link>http://scienceblogs.com/insolence/2007/09/jenny_mccarthy_and_oprah_winfrey_two_cra.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-22T18:56:12Z</dc:date>
+<dc:subject>science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://godplaysdice.blogspot.com/">
+<title>God Plays Dice</title>
+<link>http://godplaysdice.blogspot.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-16T08:45:23Z</dc:date>
+<dc:subject>cool math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://godplaysdice.blogspot.com/2007/09/why-g-2.html">
+<title>God Plays Dice: Why g ~ &#x3C0;&#x3C;sup&#x3E;2&#x3C;/sup&#x3E;</title>
+<link>http://godplaysdice.blogspot.com/2007/09/why-g-2.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-16T08:42:04Z</dc:date>
+<dc:subject>math physics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://science.howstuffworks.com/cockroach.htm">
+<title>Howstuffworks &#x22;How Cockroaches Work&#x22;</title>
+<link>http://science.howstuffworks.com/cockroach.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T20:06:26Z</dc:date>
+<dc:subject>science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pensitoreview.com/2007/09/10/neuroscience-study-smart-brains-have-liberal-bias/">
+<title>Pensito Review &#xBB; Neuroscience Study: Smart Brains Have Liberal Bias</title>
+<link>http://www.pensitoreview.com/2007/09/10/neuroscience-study-smart-brains-have-liberal-bias/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-10T19:51:48Z</dc:date>
+<dc:subject>politics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2007/08/23/science/23cnd-body.html?hp">
+<title>Scientists Induce Out-of-Body Sensation - New York Times</title>
+<link>http://www.nytimes.com/2007/08/23/science/23cnd-body.html?hp</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-23T21:08:33Z</dc:date>
+<dc:subject>science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cbsnews.com/stories/2007/08/09/tech/main3151006.shtml">
+<title>Evolutionary Theory Challenged By Fossils, Discovery In Africa Suggests Two Early Species Of Man Lived Side By Side For Half-Million Years - CBS News</title>
+<link>http://www.cbsnews.com/stories/2007/08/09/tech/main3151006.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-12T21:55:05Z</dc:date>
+<dc:subject>evolution science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ocellated.com/2006/04/13/bill-nye-in-waco/">
+<title>Ocellated &#xBB; Bill Nye in Waco</title>
+<link>http://www.ocellated.com/2006/04/13/bill-nye-in-waco/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-12T08:36:47Z</dc:date>
+<dc:subject>bible dumbass religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/animals/top10_species_success.html">
+<title>Ten Species Success Stories | LiveScience</title>
+<link>http://www.livescience.com/animals/top10_species_success.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:31:39Z</dc:date>
+<dc:subject>cool evolution science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/animals/top10_animal_senses.html">
+<title>Amazing Animal Abilities | LiveScience</title>
+<link>http://www.livescience.com/animals/top10_animal_senses.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:31:19Z</dc:date>
+<dc:subject>biology cool science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/health/top_10_diseases.html">
+<title>Top 10 Mysterious Diseases | LiveScience</title>
+<link>http://www.livescience.com/health/top_10_diseases.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:31:08Z</dc:date>
+<dc:subject>health science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/health" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.livescience.com/animals/top10_vestigial_organs-1.html">
+<title>Top 10 Useless Limbs (and Other Vestigial Organs) | LiveScience</title>
+<link>http://www.livescience.com/animals/top10_vestigial_organs-1.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T01:29:04Z</dc:date>
+<dc:subject>evolution science weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://itre.cis.upenn.edu/~myl/languagelog/archives/004767.html">
+<title>Language Log: Thou shalt not report odds ratios</title>
+<link>http://itre.cis.upenn.edu/~myl/languagelog/archives/004767.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-04T01:50:40Z</dc:date>
+<dc:subject>education innumeracy science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/innumeracy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.msnbc.msn.com/id/19956961/">
+<title>Pope: Creation vs. evolution an &#x2018;absurdity&#x2019; - Focus on the Vatican - MSNBC.com</title>
+<link>http://www.msnbc.msn.com/id/19956961/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-26T22:17:27Z</dc:date>
+<dc:subject>creationism evolution politics religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/List_of_open_problems_in_computer_science">
+<title>List of open problems in computer science - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/List_of_open_problems_in_computer_science</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-25T00:51:25Z</dc:date>
+<dc:subject>math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.research.ibm.com/quantuminfo/teleportation/">
+<title>Teleportation</title>
+<link>http://www.research.ibm.com/quantuminfo/teleportation/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-22T00:24:28Z</dc:date>
+<dc:subject>physics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cosmiclog.msnbc.msn.com/archive/2007/07/17/274531.aspx">
+<title>Cosmic Log : Backward research goes forward</title>
+<link>http://cosmiclog.msnbc.msn.com/archive/2007/07/17/274531.aspx</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-20T22:23:44Z</dc:date>
+<dc:subject>science technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.newsweek.com/blogs/labnotes/archive/2007/06/27/why-doesn-t-evolution-get-rid-of-ugly-people.aspx">
+<title>Lab Notes : Why Doesn't Evolution Get Rid of Ugly People?</title>
+<link>http://blog.newsweek.com/blogs/labnotes/archive/2007/06/27/why-doesn-t-evolution-get-rid-of-ugly-people.aspx</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T06:02:28Z</dc:date>
+<dc:subject>evolution science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cosmicvariance.com/">
+<title>Cosmic Variance</title>
+<link>http://cosmicvariance.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-15T21:41:22Z</dc:date>
+<dc:subject>education math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

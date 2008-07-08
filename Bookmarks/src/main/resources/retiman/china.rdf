@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/china">
+<title>del.icio.us/retiman/china</title>
+<link>http://del.icio.us/retiman/china</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.zompist.com/yingzi/yingzi.htm?" />
+  <rdf:li rdf:resource="http://www.mass-age.com/print.php?id=506" />
+  <rdf:li rdf:resource="http://www.bearth.com/bbs/zboard.php?id=music&#x26;page=1&#x26;sn1=&#x26;divpage=1&#x26;sn=off&#x26;ss=on&#x26;sc=on&#x26;select_arrange=headnum&#x26;desc=asc&#x26;no=18" />
+  <rdf:li rdf:resource="http://www.fixedgeargallery.com/articles/evanmarks/china/EvanMarks.htm" />
+  <rdf:li rdf:resource="http://jay-chou.net/lyrics.php" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/6286698.stm?lsm" />
+  <rdf:li rdf:resource="http://news.wired.com/dynamic/stories/C/CHINA_DINOSAUR_MEDICINE?SITE=WIRE&#x26;SECTION=HOME&#x26;TEMPLATE=DEFAULT" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2007/06/17/magazine/17lootfarmers-t.html?ei=5088&#x26;en=a6282d1ddf608fc1&#x26;ex=1339732800&#x26;partner=rssnyt&#x26;emc=rss&#x26;pagewanted=all" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/asia-pacific/6742293.stm" />
+  <rdf:li rdf:resource="http://www.reuters.com/article/oddlyEnoughNews/idUSPEK3449620070528?feedType=RSS" />
+  <rdf:li rdf:resource="http://hvattum.net/index.php/2007/05/19/chinese-foot-binding/" />
+  <rdf:li rdf:resource="http://seattletimes.nwsource.com/html/foodwine/2003702435_petfood10.html" />
+  <rdf:li rdf:resource="http://www.learn-chinese-through-music.com/index.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.zompist.com/yingzi/yingzi.htm?">
+<title>Yingzi</title>
+<link>http://www.zompist.com/yingzi/yingzi.htm?</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-25T06:34:08Z</dc:date>
+<dc:subject>china cool linguistics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/linguistics" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mass-age.com/print.php?id=506">
+<title>Mass-age &#x3010;&#x5927;&#x5BB6;&#x4F86;&#x62B9;&#x7D05;&#x7CFB;&#x5217;&#x7CBE;&#x9078;&#x3011; &#x8AB0;&#x5728;&#x5D07;&#x62DC;&#x6BDB;&#x4E3B;&#x5E2D;&#xFF1F;</title>
+<link>http://www.mass-age.com/print.php?id=506</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-27T20:51:37Z</dc:date>
+<dc:subject>china funny music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bearth.com/bbs/zboard.php?id=music&#x26;page=1&#x26;sn1=&#x26;divpage=1&#x26;sn=off&#x26;ss=on&#x26;sc=on&#x26;select_arrange=headnum&#x26;desc=asc&#x26;no=18">
+<title>Bearth.com [Ver.6]</title>
+<link>http://www.bearth.com/bbs/zboard.php?id=music&#x26;page=1&#x26;sn1=&#x26;divpage=1&#x26;sn=off&#x26;ss=on&#x26;sc=on&#x26;select_arrange=headnum&#x26;desc=asc&#x26;no=18</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-25T20:30:40Z</dc:date>
+<dc:subject>china music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fixedgeargallery.com/articles/evanmarks/china/EvanMarks.htm">
+<title>Fixed Gear Gallery :: Fwd: Skills only found in China</title>
+<link>http://www.fixedgeargallery.com/articles/evanmarks/china/EvanMarks.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-15T00:46:05Z</dc:date>
+<dc:subject>china funny weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jay-chou.net/lyrics.php">
+<title>Jay-Chou.net :: Lyrics</title>
+<link>http://jay-chou.net/lyrics.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-24T22:25:22Z</dc:date>
+<dc:subject>china music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/6286698.stm?lsm">
+<title>BBC NEWS | Asia-Pacific | China food safety head executed</title>
+<link>http://news.bbc.co.uk/2/hi/6286698.stm?lsm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-21T10:17:07Z</dc:date>
+<dc:subject>china politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.wired.com/dynamic/stories/C/CHINA_DINOSAUR_MEDICINE?SITE=WIRE&#x26;SECTION=HOME&#x26;TEMPLATE=DEFAULT">
+<title>Wired News - AP News</title>
+<link>http://news.wired.com/dynamic/stories/C/CHINA_DINOSAUR_MEDICINE?SITE=WIRE&#x26;SECTION=HOME&#x26;TEMPLATE=DEFAULT</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-06T01:56:45Z</dc:date>
+<dc:subject>china science weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2007/06/17/magazine/17lootfarmers-t.html?ei=5088&#x26;en=a6282d1ddf608fc1&#x26;ex=1339732800&#x26;partner=rssnyt&#x26;emc=rss&#x26;pagewanted=all">
+<title>Video Games - China - Money - Online Games - New York Times</title>
+<link>http://www.nytimes.com/2007/06/17/magazine/17lootfarmers-t.html?ei=5088&#x26;en=a6282d1ddf608fc1&#x26;ex=1339732800&#x26;partner=rssnyt&#x26;emc=rss&#x26;pagewanted=all</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-20T20:15:45Z</dc:date>
+<dc:subject>china gaming money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/asia-pacific/6742293.stm">
+<title>BBC NEWS | Asia-Pacific | Chinese hospitals used fake drips</title>
+<link>http://news.bbc.co.uk/2/hi/asia-pacific/6742293.stm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T18:39:22Z</dc:date>
+<dc:subject>china wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.reuters.com/article/oddlyEnoughNews/idUSPEK3449620070528?feedType=RSS">
+<title>Woman seeks fame as face of Chairman Mao | Oddly Enough | Reuters</title>
+<link>http://www.reuters.com/article/oddlyEnoughNews/idUSPEK3449620070528?feedType=RSS</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-29T19:25:05Z</dc:date>
+<dc:subject>china funny weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hvattum.net/index.php/2007/05/19/chinese-foot-binding/">
+<title>Chinese Foot Binding at hvattum.net</title>
+<link>http://hvattum.net/index.php/2007/05/19/chinese-foot-binding/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-19T22:31:18Z</dc:date>
+<dc:subject>china women</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/women" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://seattletimes.nwsource.com/html/foodwine/2003702435_petfood10.html">
+<title>Food &#x26; wine | Factory linked to tainted food found closed | Seattle Times Newspaper</title>
+<link>http://seattletimes.nwsource.com/html/foodwine/2003702435_petfood10.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-13T21:20:02Z</dc:date>
+<dc:subject>china health</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.learn-chinese-through-music.com/index.html">
+<title>Learn chinese through music</title>
+<link>http://www.learn-chinese-through-music.com/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:30:22Z</dc:date>
+<dc:subject>china music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

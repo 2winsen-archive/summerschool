@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/politics">
+<title>del.icio.us/retiman/politics</title>
+<link>http://del.icio.us/retiman/politics</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.alternet.org/election08/89686/?page=1" />
+  <rdf:li rdf:resource="http://www.smh.com.au/news/perspectives/digital-copyright-its-all-wrong/2008/06/09/1212863545123.html" />
+  <rdf:li rdf:resource="http://torrentfreak.com/swedish-left-party-wants-to-legalize-piracy-080609/" />
+  <rdf:li rdf:resource="http://blog.wired.com/27bstroke6/2008/06/house-grants-te.html" />
+  <rdf:li rdf:resource="http://www.washingtonpost.com/wp-dyn/content/article/2008/01/17/AR2008011703582_pf.html" />
+  <rdf:li rdf:resource="http://people.howstuffworks.com/question472.htm" />
+  <rdf:li rdf:resource="http://www.cnn.com/2007/US/05/18/martin/index.html" />
+  <rdf:li rdf:resource="http://www.slate.com/id/7103" />
+  <rdf:li rdf:resource="http://www.hud.gov/news/speeches/presremarks.cfm" />
+  <rdf:li rdf:resource="http://scienceblogs.com/authority/2007/11/james_watson_westboro_baptist.php" />
+  <rdf:li rdf:resource="http://thewaronbullshit.com/2007/09/14/ronpaul/" />
+  <rdf:li rdf:resource="http://www.skepdic.com/pseudosymmetry.html" />
+  <rdf:li rdf:resource="http://dmiessler.com/blogarchive/ron-paul-is-not-a-great-candidate-were-just-so-in-love-with-him-that-were-not-paying-attention" />
+  <rdf:li rdf:resource="http://www.lewrockwell.com/paul/paul148.html" />
+  <rdf:li rdf:resource="http://video.google.com/videoplay?docid=891776135764757633&#x26;q=god+is+not+great+debate&#x26;total=151&#x26;start=0&#x26;num=10&#x26;so=0&#x26;type=search&#x26;plindex=1" />
+  <rdf:li rdf:resource="http://www.pensitoreview.com/2007/09/10/neuroscience-study-smart-brains-have-liberal-bias/" />
+  <rdf:li rdf:resource="http://www.thenation.com/blogs/actnow?bid=4&#x26;pid=221949" />
+  <rdf:li rdf:resource="http://www.atheistnation.net/news/?atheist/article,00090" />
+  <rdf:li rdf:resource="http://reddit.com/info/260bj/comments" />
+  <rdf:li rdf:resource="http://www.msnbc.msn.com/id/20122975/site/newsweek/" />
+  <rdf:li rdf:resource="http://www.nytimes.com/2007/07/29/weekinreview/29berenson.html?ex=1343361600&#x26;en=65968899b9fc96ca&#x26;ei=5090&#x26;partner=rssuserland&#x26;emc=rss" />
+  <rdf:li rdf:resource="http://www.dailyexhumation.com/index.php?subaction=showfull&#x26;id=1185248690&#x26;archive=&#x26;start_from=&#x26;ucat=&#x26;" />
+  <rdf:li rdf:resource="http://www.dailykos.com/storyonly/2007/7/22/9334/83825" />
+  <rdf:li rdf:resource="http://www.msnbc.msn.com/id/19956961/" />
+  <rdf:li rdf:resource="http://www.2decide.com/table.htm" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/2/hi/6286698.stm?lsm" />
+  <rdf:li rdf:resource="http://video1.washingtontimes.com/fishwrap/2007/07/a_question_for_president_bush.html" />
+  <rdf:li rdf:resource="http://www.functionalisminaction.com/2007/07/what-you-know-it-just-aint-so-why-facts.html" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20070627-ftc-shoots-down-net-neutrality-says-it-is-not-needed.html" />
+  <rdf:li rdf:resource="http://www.theregister.co.uk/2007/06/25/id_not_science/" />
+  <rdf:li rdf:resource="http://www.msnbc.msn.com/id/19375611/site/newsweek/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.alternet.org/election08/89686/?page=1">
+<title>The 10 Most Awesomely Bad Moments of the Bush Presidency | Election 2008 | AlterNet</title>
+<link>http://www.alternet.org/election08/89686/?page=1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-01T16:08:00Z</dc:date>
+<dc:subject>politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smh.com.au/news/perspectives/digital-copyright-its-all-wrong/2008/06/09/1212863545123.html">
+<title>Digital copyright: it's all wrong - Perspectives - Opinion - Technology</title>
+<link>http://www.smh.com.au/news/perspectives/digital-copyright-its-all-wrong/2008/06/09/1212863545123.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-28T12:44:24Z</dc:date>
+<dc:subject>law politics privacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://torrentfreak.com/swedish-left-party-wants-to-legalize-piracy-080609/">
+<title>Swedish Left Party Wants to Legalize Piracy | TorrentFreak</title>
+<link>http://torrentfreak.com/swedish-left-party-wants-to-legalize-piracy-080609/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-28T12:44:13Z</dc:date>
+<dc:subject>law p2p piracy politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/piracy" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/27bstroke6/2008/06/house-grants-te.html">
+<title>House Grants Telecom Amnesty, Expands Spying Powers | Threat Level from Wired.com</title>
+<link>http://blog.wired.com/27bstroke6/2008/06/house-grants-te.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-23T12:33:53Z</dc:date>
+<dc:subject>politics privacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.washingtonpost.com/wp-dyn/content/article/2008/01/17/AR2008011703582_pf.html">
+<title>Dirty Tricks Without Illusions</title>
+<link>http://www.washingtonpost.com/wp-dyn/content/article/2008/01/17/AR2008011703582_pf.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-22T23:55:16Z</dc:date>
+<dc:subject>politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://people.howstuffworks.com/question472.htm">
+<title>Howstuffworks &#x22;How does the Electoral College work?&#x22;</title>
+<link>http://people.howstuffworks.com/question472.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-16T00:39:37Z</dc:date>
+<dc:subject>politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnn.com/2007/US/05/18/martin/index.html">
+<title>Martin: Paul's 9/11 explanation deserves to be debated - CNN.com</title>
+<link>http://www.cnn.com/2007/US/05/18/martin/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-11T02:12:15Z</dc:date>
+<dc:subject>history politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slate.com/id/7103">
+<title>Party Tricks - By Steven E. Landsburg - Slate Magazine</title>
+<link>http://www.slate.com/id/7103</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-07T17:09:02Z</dc:date>
+<dc:subject>politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hud.gov/news/speeches/presremarks.cfm">
+<title>Remarks by the President on Homeownership - HUD</title>
+<link>http://www.hud.gov/news/speeches/presremarks.cfm</link>
+<description>I want to thank the choir for coming, the youngsters for being here. I just want you to know that, when we talk about war, we're really talking about peace. W</description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-02T15:44:15Z</dc:date>
+<dc:subject>funny politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scienceblogs.com/authority/2007/11/james_watson_westboro_baptist.php">
+<title>The Questionable Authority : James Watson, Westboro Baptist Church, The Right to be Vile, and the Edges of Free Speech</title>
+<link>http://scienceblogs.com/authority/2007/11/james_watson_westboro_baptist.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-02T00:21:06Z</dc:date>
+<dc:subject>news politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thewaronbullshit.com/2007/09/14/ronpaul/">
+<title>The War On Bullshit &#xBB; Blog Archive &#xBB; Ron Paul&#x2019;s Ten Most Disturbing Positions</title>
+<link>http://thewaronbullshit.com/2007/09/14/ronpaul/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T21:13:41Z</dc:date>
+<dc:subject>politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.skepdic.com/pseudosymmetry.html">
+<title>pseudosymmetry</title>
+<link>http://www.skepdic.com/pseudosymmetry.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T19:54:55Z</dc:date>
+<dc:subject>politics psychology science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dmiessler.com/blogarchive/ron-paul-is-not-a-great-candidate-were-just-so-in-love-with-him-that-were-not-paying-attention">
+<title>dmiessler.com | Ron Paul is Seriously Flawed as a Candidate; We&#x2019;re Just So in Love With Him That We&#x2019;re Not Paying Attention</title>
+<link>http://dmiessler.com/blogarchive/ron-paul-is-not-a-great-candidate-were-just-so-in-love-with-him-that-were-not-paying-attention</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-10T21:58:13Z</dc:date>
+<dc:subject>politics ronpaul</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/ronpaul" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.lewrockwell.com/paul/paul148.html">
+<title>The War on Religion by Rep. Ron Paul</title>
+<link>http://www.lewrockwell.com/paul/paul148.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-10T21:57:58Z</dc:date>
+<dc:subject>politics religion ronpaul</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/ronpaul" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://video.google.com/videoplay?docid=891776135764757633&#x26;q=god+is+not+great+debate&#x26;total=151&#x26;start=0&#x26;num=10&#x26;so=0&#x26;type=search&#x26;plindex=1">
+<title>Christopher Hitchens vs Al Sharpton on Atheism and God - The Full Debate</title>
+<link>http://video.google.com/videoplay?docid=891776135764757633&#x26;q=god+is+not+great+debate&#x26;total=151&#x26;start=0&#x26;num=10&#x26;so=0&#x26;type=search&#x26;plindex=1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T05:07:21Z</dc:date>
+<dc:subject>atheism history politics religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pensitoreview.com/2007/09/10/neuroscience-study-smart-brains-have-liberal-bias/">
+<title>Pensito Review &#xBB; Neuroscience Study: Smart Brains Have Liberal Bias</title>
+<link>http://www.pensitoreview.com/2007/09/10/neuroscience-study-smart-brains-have-liberal-bias/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-10T19:51:48Z</dc:date>
+<dc:subject>politics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thenation.com/blogs/actnow?bid=4&#x26;pid=221949">
+<title>Kenneth Foster's Fate</title>
+<link>http://www.thenation.com/blogs/actnow?bid=4&#x26;pid=221949</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-13T05:50:25Z</dc:date>
+<dc:subject>politics wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.atheistnation.net/news/?atheist/article,00090">
+<title>Atheist Nation | Atheist News | &#x22;Convert Or Die&#x22; Game Sent To Troops In Iraq w/Pentagon Blessing | Article 00090</title>
+<link>http://www.atheistnation.net/news/?atheist/article,00090</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-08T18:29:54Z</dc:date>
+<dc:subject>politics religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://reddit.com/info/260bj/comments">
+<title>Ask Reddit: What's wrong with Kucinich? (reddit.com)</title>
+<link>http://reddit.com/info/260bj/comments</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-06T21:21:34Z</dc:date>
+<dc:subject>politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.msnbc.msn.com/id/20122975/site/newsweek/">
+<title>Global-Warming Deniers: A Well-Funded Machine - Newsweek Technology - MSNBC.com</title>
+<link>http://www.msnbc.msn.com/id/20122975/site/newsweek/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-06T03:40:18Z</dc:date>
+<dc:subject>politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nytimes.com/2007/07/29/weekinreview/29berenson.html?ex=1343361600&#x26;en=65968899b9fc96ca&#x26;ei=5090&#x26;partner=rssuserland&#x26;emc=rss">
+<title>Doctors - Managed Care and Health Insurance - Medicine and Health - Wages and Salaries - New York Times</title>
+<link>http://www.nytimes.com/2007/07/29/weekinreview/29berenson.html?ex=1343361600&#x26;en=65968899b9fc96ca&#x26;ei=5090&#x26;partner=rssuserland&#x26;emc=rss</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T22:28:40Z</dc:date>
+<dc:subject>health politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dailyexhumation.com/index.php?subaction=showfull&#x26;id=1185248690&#x26;archive=&#x26;start_from=&#x26;ucat=&#x26;">
+<title>DailyExhumation.com - President Bush suggests uninsured children go to hospital emergency rooms for their care</title>
+<link>http://www.dailyexhumation.com/index.php?subaction=showfull&#x26;id=1185248690&#x26;archive=&#x26;start_from=&#x26;ucat=&#x26;</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-27T08:22:05Z</dc:date>
+<dc:subject>health politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dailykos.com/storyonly/2007/7/22/9334/83825">
+<title>Daily Kos: &#x22;The Only Moral Abortion Is My Abortion&#x22;</title>
+<link>http://www.dailykos.com/storyonly/2007/7/22/9334/83825</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-27T08:11:37Z</dc:date>
+<dc:subject>health politics psychology religion women wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/health" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/women" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.msnbc.msn.com/id/19956961/">
+<title>Pope: Creation vs. evolution an &#x2018;absurdity&#x2019; - Focus on the Vatican - MSNBC.com</title>
+<link>http://www.msnbc.msn.com/id/19956961/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-26T22:17:27Z</dc:date>
+<dc:subject>creationism evolution politics religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.2decide.com/table.htm">
+<title>2008 Presidential Election Candidates on the Issues</title>
+<link>http://www.2decide.com/table.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-23T22:41:55Z</dc:date>
+<dc:subject>history politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/2/hi/6286698.stm?lsm">
+<title>BBC NEWS | Asia-Pacific | China food safety head executed</title>
+<link>http://news.bbc.co.uk/2/hi/6286698.stm?lsm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-21T10:17:07Z</dc:date>
+<dc:subject>china politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://video1.washingtontimes.com/fishwrap/2007/07/a_question_for_president_bush.html">
+<title>The Washington Times, America's Newspaper</title>
+<link>http://video1.washingtontimes.com/fishwrap/2007/07/a_question_for_president_bush.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-19T00:04:39Z</dc:date>
+<dc:subject>funny politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.functionalisminaction.com/2007/07/what-you-know-it-just-aint-so-why-facts.html">
+<title>Functionalism In Action: What You Know -- It Just Ain't So: Why Facts Can't Win Arguments</title>
+<link>http://www.functionalisminaction.com/2007/07/what-you-know-it-just-aint-so-why-facts.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T22:31:55Z</dc:date>
+<dc:subject>politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20070627-ftc-shoots-down-net-neutrality-says-it-is-not-needed.html">
+<title>FTC shoots down Net Neutrality, says it is not needed</title>
+<link>http://arstechnica.com/news.ars/post/20070627-ftc-shoots-down-net-neutrality-says-it-is-not-needed.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-28T04:22:17Z</dc:date>
+<dc:subject>politics wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theregister.co.uk/2007/06/25/id_not_science/">
+<title>UK Gov boots intelligent design back into 'religious' margins | The Register</title>
+<link>http://www.theregister.co.uk/2007/06/25/id_not_science/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-26T00:39:14Z</dc:date>
+<dc:subject>politics religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.msnbc.msn.com/id/19375611/site/newsweek/">
+<title>Newsweek Poll: What America Knows - Newsweek Society - MSNBC.com</title>
+<link>http://www.msnbc.msn.com/id/19375611/site/newsweek/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-25T18:09:54Z</dc:date>
+<dc:subject>politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/database">
+<title>del.icio.us/retiman/database</title>
+<link>http://del.icio.us/retiman/database</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.liquibase.org/manual/latest/ant.html" />
+  <rdf:li rdf:resource="http://www.p6spy.com/" />
+  <rdf:li rdf:resource="http://www.pervasivecode.com/blog/2007/08/02/rails-and-the-notion-of-stupid-databases-being-a-good-idea/" />
+  <rdf:li rdf:resource="http://users.sdsc.edu/~jrowley/db2/howto.html" />
+  <rdf:li rdf:resource="http://www.onjava.com/pub/a/onjava/2007/06/07/agile-database-refactoring-with-hibernate.html" />
+  <rdf:li rdf:resource="http://www.security-hacks.com/2007/05/18/top-15-free-sql-injection-scanners" />
+  <rdf:li rdf:resource="http://www.orthogonalthought.com/blog/index.php/2007/05/mysql-database-migration-and-special-characters/" />
+  <rdf:li rdf:resource="http://www.liquibase.org/" />
+  <rdf:li rdf:resource="http://www.whenpenguinsattack.com/2007/04/09/10-tips-for-optimizing-mysql-queries/" />
+  <rdf:li rdf:resource="http://databases.aspfaq.com/database/what-should-i-choose-for-my-primary-key.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.liquibase.org/manual/latest/ant.html">
+<title>LiquiBase: Ant Task</title>
+<link>http://www.liquibase.org/manual/latest/ant.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-21T01:48:49Z</dc:date>
+<dc:subject>database</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.p6spy.com/">
+<title>P6Spy Open Source Software</title>
+<link>http://www.p6spy.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-18T04:25:22Z</dc:date>
+<dc:subject>database hibernate java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/hibernate" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pervasivecode.com/blog/2007/08/02/rails-and-the-notion-of-stupid-databases-being-a-good-idea/">
+<title>Pervasive Code &#xBB; Blog Archive &#xBB; Rails and the notion of Stupid Databases Being a Good Idea</title>
+<link>http://www.pervasivecode.com/blog/2007/08/02/rails-and-the-notion-of-stupid-databases-being-a-good-idea/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-04T01:52:57Z</dc:date>
+<dc:subject>database ruby web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://users.sdsc.edu/~jrowley/db2/howto.html">
+<title>DB2 Basics</title>
+<link>http://users.sdsc.edu/~jrowley/db2/howto.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T23:41:09Z</dc:date>
+<dc:subject>database db2 sql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/db2" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.onjava.com/pub/a/onjava/2007/06/07/agile-database-refactoring-with-hibernate.html">
+<title>ONJava.com -- Agile Database Refactoring with Hibernate</title>
+<link>http://www.onjava.com/pub/a/onjava/2007/06/07/agile-database-refactoring-with-hibernate.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:37:45Z</dc:date>
+<dc:subject>database hibernate java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/hibernate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.security-hacks.com/2007/05/18/top-15-free-sql-injection-scanners">
+<title>Top 15 free SQL Injection Scanners - Security-Hacks.com</title>
+<link>http://www.security-hacks.com/2007/05/18/top-15-free-sql-injection-scanners</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-20T09:16:02Z</dc:date>
+<dc:subject>database security sql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.orthogonalthought.com/blog/index.php/2007/05/mysql-database-migration-and-special-characters/">
+<title>Mysql database migration and special characters | Orthogonal Thought</title>
+<link>http://www.orthogonalthought.com/blog/index.php/2007/05/mysql-database-migration-and-special-characters/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-07T07:47:23Z</dc:date>
+<dc:subject>database mysql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/mysql" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.liquibase.org/">
+<title>LiquiBase: Database Refactoring</title>
+<link>http://www.liquibase.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-23T16:40:27Z</dc:date>
+<dc:subject>database development java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.whenpenguinsattack.com/2007/04/09/10-tips-for-optimizing-mysql-queries/">
+<title>&#xBB; 10 tips for optimizing mysql queries? - Jaslabs: High performance php</title>
+<link>http://www.whenpenguinsattack.com/2007/04/09/10-tips-for-optimizing-mysql-queries/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:44:40Z</dc:date>
+<dc:subject>database sql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+    <rdf:li resource="http://del.icio.us/tag/database" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://databases.aspfaq.com/database/what-should-i-choose-for-my-primary-key.html">
+<title>What should I choose for my primary key?</title>
+<link>http://databases.aspfaq.com/database/what-should-i-choose-for-my-primary-key.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T06:20:30Z</dc:date>
+<dc:subject>database sql</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/sql" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

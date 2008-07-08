@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/wtf">
+<title>del.icio.us/retiman/wtf</title>
+<link>http://del.icio.us/retiman/wtf</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.programeter.com/" />
+  <rdf:li rdf:resource="http://blog.wired.com/27bstroke6/2008/06/recording-indus.html" />
+  <rdf:li rdf:resource="http://www.telegraph.co.uk/news/worldnews/europe/czechrepublic/2162250/'Cannibal-relatives-ate-boy-alive'.html" />
+  <rdf:li rdf:resource="http://www.newsvine.com/_news/2008/06/22/1600351-texas-town-reels-from-horrific-abuse-in-its-midst" />
+  <rdf:li rdf:resource="http://www.infidelguy.com/article-print-62.html" />
+  <rdf:li rdf:resource="http://www.photogenicmask.com/" />
+  <rdf:li rdf:resource="http://blog.wired.com/27bstroke6/2008/04/government-to-s.html" />
+  <rdf:li rdf:resource="http://blog.wired.com/27bstroke6/2008/04/feds-charge-por.html" />
+  <rdf:li rdf:resource="http://news.yahoo.com/s/ap/20080328/ap_on_hi_te/mukasey_intellectual_property" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20080323-rick-rolled-to-child-porn-youre-a-pedophile-says-fbi.html" />
+  <rdf:li rdf:resource="http://jssp.sourceforge.net/" />
+  <rdf:li rdf:resource="http://news.aol.ca/article/Jury-Dad-Killed-Baby-Over-Broken-Xbox/73578/" />
+  <rdf:li rdf:resource="http://slashdot.org/article.pl?sid=08/01/17/1413221&#x26;from=rss" />
+  <rdf:li rdf:resource="http://www.cnn.com/2008/US/01/09/hand.cut.off.ap/index.html?eref=rss_topstories" />
+  <rdf:li rdf:resource="http://www.viceland.com/int/v14n10/htdocs/yo1.php?country=us?reddit=betterTits" />
+  <rdf:li rdf:resource="http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria" />
+  <rdf:li rdf:resource="http://www.smirkingchimp.com/thread/10664" />
+  <rdf:li rdf:resource="http://www2.oprah.com/money/credit/slide/200710/credit_20071018_284_101.jhtml" />
+  <rdf:li rdf:resource="http://scienceblogs.com/aetiology/2007/10/mail_harmless_bacteria_go_to_j.php" />
+  <rdf:li rdf:resource="http://www.cnn.com/2007/US/09/27/immigrant.money/index.html" />
+  <rdf:li rdf:resource="http://www.desmoinesregister.com/apps/pbcs.dll/article?AID=2007709220333" />
+  <rdf:li rdf:resource="http://machinist.salon.com/blog/2007/09/21/star_simpson/index.html" />
+  <rdf:li rdf:resource="http://www.collegeotr.com/university_of_florida/police_report_gives_false_information_3770" />
+  <rdf:li rdf:resource="http://news.bbc.co.uk/1/hi/england/tees/7002627.stm" />
+  <rdf:li rdf:resource="http://scienceblogs.com/pharyngula/2007/05/another_christian_science_fair.php?stupid=true" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Lick_Me_in_the_Ass" />
+  <rdf:li rdf:resource="http://www.theage.com.au/news/world/lesson-in-life-and-death-pupils-build-dying-teachers-coffin/2007/02/13/1171128974213.html" />
+  <rdf:li rdf:resource="http://www.washingtoncitypaper.com/display.php?id=2497&#x26;comments=show" />
+  <rdf:li rdf:resource="http://www.cnn.com/2007/US/law/10/09/boysfound.devlin.ap/index.html" />
+  <rdf:li rdf:resource="http://www.suntimes.com/news/nation/549213,worker090907.article" />
+  <rdf:li rdf:resource="http://www.signonsandiego.com/news/nation/20070907-1516-sawedleg.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.programeter.com/">
+<title>Programeter &#x3E; Home</title>
+<link>http://www.programeter.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-04T06:02:35Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/27bstroke6/2008/06/recording-indus.html">
+<title>Recording Industry Decries AM-FM Broadcasting as 'A Form of Piracy' | Threat Level from Wired.com</title>
+<link>http://blog.wired.com/27bstroke6/2008/06/recording-indus.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-26T06:08:54Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.telegraph.co.uk/news/worldnews/europe/czechrepublic/2162250/'Cannibal-relatives-ate-boy-alive'.html">
+<title>'Cannibal relatives ate boy alive' - Telegraph</title>
+<link>http://www.telegraph.co.uk/news/worldnews/europe/czechrepublic/2162250/'Cannibal-relatives-ate-boy-alive'.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-26T06:08:49Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newsvine.com/_news/2008/06/22/1600351-texas-town-reels-from-horrific-abuse-in-its-midst">
+<title>Newsvine - Texas town reels from horrific abuse in its midst</title>
+<link>http://www.newsvine.com/_news/2008/06/22/1600351-texas-town-reels-from-horrific-abuse-in-its-midst</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-24T01:41:09Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infidelguy.com/article-print-62.html">
+<title>The Infidel Guy Show - A Former Psychic Tells All</title>
+<link>http://www.infidelguy.com/article-print-62.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-20T16:10:32Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.photogenicmask.com/">
+<title>photogenicmask natori mask female mask rubber mask doll torso tv masker kigurumi transgender</title>
+<link>http://www.photogenicmask.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-18T23:48:39Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/27bstroke6/2008/04/government-to-s.html">
+<title>Government to Seek Terrorists in World of Warcraft: The Full Proposal | Threat Level from Wired.com</title>
+<link>http://blog.wired.com/27bstroke6/2008/04/government-to-s.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-04-13T19:20:43Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/27bstroke6/2008/04/feds-charge-por.html">
+<title>Feds Charge Porn Producer With Selling Adult Content to Adults | Threat Level from Wired.com</title>
+<link>http://blog.wired.com/27bstroke6/2008/04/feds-charge-por.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-04-13T19:20:10Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.yahoo.com/s/ap/20080328/ap_on_hi_te/mukasey_intellectual_property">
+<title>Mukasey: piracy funding terror - Yahoo! News</title>
+<link>http://news.yahoo.com/s/ap/20080328/ap_on_hi_te/mukasey_intellectual_property</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-30T08:17:43Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20080323-rick-rolled-to-child-porn-youre-a-pedophile-says-fbi.html">
+<title>Rick Rolled to child porn = you're a pedophile, says FBI</title>
+<link>http://arstechnica.com/news.ars/post/20080323-rick-rolled-to-child-porn-youre-a-pedophile-says-fbi.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-23T21:23:13Z</dc:date>
+<dc:subject>fbi news wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fbi" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jssp.sourceforge.net/">
+<title>JSSP - JavaScript Server Pages Home</title>
+<link>http://jssp.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-10T23:55:25Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.aol.ca/article/Jury-Dad-Killed-Baby-Over-Broken-Xbox/73578/">
+<title>Jury: Dad Killed Baby Over Broken Xbox - AOL News Canada</title>
+<link>http://news.aol.ca/article/Jury-Dad-Killed-Baby-Over-Broken-Xbox/73578/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-31T00:12:16Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://slashdot.org/article.pl?sid=08/01/17/1413221&#x26;from=rss">
+<title>Slashdot | AT&#x26;T's Plan to Play Internet Cop</title>
+<link>http://slashdot.org/article.pl?sid=08/01/17/1413221&#x26;from=rss</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-17T19:45:53Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnn.com/2008/US/01/09/hand.cut.off.ap/index.html?eref=rss_topstories">
+<title>Man sees 'mark,' cuts off hand - CNN.com</title>
+<link>http://www.cnn.com/2008/US/01/09/hand.cut.off.ap/index.html?eref=rss_topstories</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-09T19:38:48Z</dc:date>
+<dc:subject>religion wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.viceland.com/int/v14n10/htdocs/yo1.php?country=us?reddit=betterTits">
+<title>Viceland - STUFF LIKE THAT - PART 1 - Conclusive Proof - That There Is No God and Humans Are Essentially Evil</title>
+<link>http://www.viceland.com/int/v14n10/htdocs/yo1.php?country=us?reddit=betterTits</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-18T07:21:23Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria">
+<title>Antibiotic Resistance of Bacteria: An Example of Evolution in Action? - Answers in Genesis</title>
+<link>http://www.answersingenesis.org/articles/am/v2/n3/antibiotic-resistance-of-bacteria</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-16T04:18:46Z</dc:date>
+<dc:subject>atheism creationism design evolution idiocy religion wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/idiocy" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smirkingchimp.com/thread/10664">
+<title>About those burned-down houses in California - The Smirking Chimp</title>
+<link>http://www.smirkingchimp.com/thread/10664</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-26T19:36:49Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www2.oprah.com/money/credit/slide/200710/credit_20071018_284_101.jhtml">
+<title>Keeping Up With the Joneses</title>
+<link>http://www2.oprah.com/money/credit/slide/200710/credit_20071018_284_101.jhtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-26T03:13:14Z</dc:date>
+<dc:subject>dumbass money retard wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/retard" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scienceblogs.com/aetiology/2007/10/mail_harmless_bacteria_go_to_j.php">
+<title>Aetiology: Mail harmless bacteria, go to jail</title>
+<link>http://scienceblogs.com/aetiology/2007/10/mail_harmless_bacteria_go_to_j.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-25T03:55:42Z</dc:date>
+<dc:subject>biology news wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/biology" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnn.com/2007/US/09/27/immigrant.money/index.html">
+<title>Mistake costs dishwasher $59,000 - CNN.com</title>
+<link>http://www.cnn.com/2007/US/09/27/immigrant.money/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-23T04:34:56Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.desmoinesregister.com/apps/pbcs.dll/article?AID=2007709220333">
+<title>DesMoinesRegister.com</title>
+<link>http://www.desmoinesregister.com/apps/pbcs.dll/article?AID=2007709220333</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-23T00:29:21Z</dc:date>
+<dc:subject>creationism education wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://machinist.salon.com/blog/2007/09/21/star_simpson/index.html">
+<title>Machinist: Tech Blog, Tech News, Technology Articles - Salon</title>
+<link>http://machinist.salon.com/blog/2007/09/21/star_simpson/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-16T20:17:26Z</dc:date>
+<dc:subject>security wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.collegeotr.com/university_of_florida/police_report_gives_false_information_3770">
+<title>UNIVERSITY OF FLORIDA OTR: Police Report: Officer Mallo Gives False Information... an Attempt to Cover Her Ass?</title>
+<link>http://www.collegeotr.com/university_of_florida/police_report_gives_false_information_3770</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-14T02:50:34Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.bbc.co.uk/1/hi/england/tees/7002627.stm">
+<title>BBC NEWS | England | Tees | Man admits urinating on ill woman</title>
+<link>http://news.bbc.co.uk/1/hi/england/tees/7002627.stm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-12T20:22:24Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scienceblogs.com/pharyngula/2007/05/another_christian_science_fair.php?stupid=true">
+<title>Pharyngula: Another Christian Science Fair embarrasses itself</title>
+<link>http://scienceblogs.com/pharyngula/2007/05/another_christian_science_fair.php?stupid=true</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T22:07:38Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Lick_Me_in_the_Ass">
+<title>Leck mich im Arsch - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Lick_Me_in_the_Ass</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-10T22:10:13Z</dc:date>
+<dc:subject>funny history wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theage.com.au/news/world/lesson-in-life-and-death-pupils-build-dying-teachers-coffin/2007/02/13/1171128974213.html">
+<title>Lesson in life and death: pupils build dying teacher's coffin - World</title>
+<link>http://www.theage.com.au/news/world/lesson-in-life-and-death-pupils-build-dying-teachers-coffin/2007/02/13/1171128974213.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-09T22:54:20Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.washingtoncitypaper.com/display.php?id=2497&#x26;comments=show">
+<title>Washington City Paper: Cover Story: Wanted: Gullible Lawyers</title>
+<link>http://www.washingtoncitypaper.com/display.php?id=2497&#x26;comments=show</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-09T20:29:29Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cnn.com/2007/US/law/10/09/boysfound.devlin.ap/index.html">
+<title>Captor: Boy talked me out of killing him - CNN.com</title>
+<link>http://www.cnn.com/2007/US/law/10/09/boysfound.devlin.ap/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-09T19:15:34Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.suntimes.com/news/nation/549213,worker090907.article">
+<title>McDonald's employee who over salted burger jailed :: CHICAGO SUN-TIMES :: Nation</title>
+<link>http://www.suntimes.com/news/nation/549213,worker090907.article</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-08T20:31:23Z</dc:date>
+<dc:subject>wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.signonsandiego.com/news/nation/20070907-1516-sawedleg.html">
+<title>SignOnSanDiego.com &#x3E; News &#x3E; Nation -- Ark. man charged with rape, exploiting children saws halfway through his leg before trial</title>
+<link>http://www.signonsandiego.com/news/nation/20070907-1516-sawedleg.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-07T06:40:51Z</dc:date>
+<dc:subject>weird wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

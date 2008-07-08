@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/firefox">
+<title>del.icio.us/retiman/firefox</title>
+<link>http://del.icio.us/retiman/firefox</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://blog.bubble.ro/how-to-have-the-old-address-bar-in-firefox-3/" />
+  <rdf:li rdf:resource="http://nancib.wordpress.com/2008/03/04/regain-the-persistent-go-button-in-firefox-3/" />
+  <rdf:li rdf:resource="http://definr.com/" />
+  <rdf:li rdf:resource="http://www.informationweek.com/news/showArticle.jhtml?articleID=201802175" />
+  <rdf:li rdf:resource="http://userstyles.org/styles/2456" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showpost.php?p=520822&#x26;postcount=2" />
+  <rdf:li rdf:resource="http://clear.com.ua/en/projects/firefox/winterfox" />
+  <rdf:li rdf:resource="http://emps.l-c-n.com/articles/94/" />
+  <rdf:li rdf:resource="http://keepvid.com/" />
+  <rdf:li rdf:resource="https://help.ubuntu.com/community/RestrictedFormats/Flash" />
+  <rdf:li rdf:resource="http://userscripts.org/scripts/show/10747" />
+  <rdf:li rdf:resource="http://wiki.serios.net/wiki/Debian_Java_JRE/JDK_installation%2C_browser_plugin" />
+  <rdf:li rdf:resource="http://greasemonkey.mozdev.org/authoring.html" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=369596&#x26;highlight=firefox+style" />
+  <rdf:li rdf:resource="http://gentoo-wiki.com/HOWTO_Xorg_and_Fonts" />
+  <rdf:li rdf:resource="http://userscripts.org/scripts/show/9455" />
+  <rdf:li rdf:resource="http://userscripts.org/scripts/show/7062" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=202896" />
+  <rdf:li rdf:resource="http://technology.desktopnexus.com/cat/firefox/" />
+  <rdf:li rdf:resource="http://www.makeuseof.com/tag/20-must-see-greasemonkey-addonsno-technical-knowledge-req/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/firefox-extensions/lh-top-10--must+have-firefox-extensions-246127.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://blog.bubble.ro/how-to-have-the-old-address-bar-in-firefox-3/">
+<title>How to have the old address bar in Firefox 3 | Indy&#x2019;s Blog</title>
+<link>http://blog.bubble.ro/how-to-have-the-old-address-bar-in-firefox-3/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-22T23:39:12Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://nancib.wordpress.com/2008/03/04/regain-the-persistent-go-button-in-firefox-3/">
+<title>Regain the persistent Go button in Firefox 3 &#xAB; I&#x2019;m Just an Avatar</title>
+<link>http://nancib.wordpress.com/2008/03/04/regain-the-persistent-go-button-in-firefox-3/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-09T02:24:17Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://definr.com/">
+<title>definr - incredibly fast dictionary</title>
+<link>http://definr.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-25T23:28:12Z</dc:date>
+<dc:subject>education firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.informationweek.com/news/showArticle.jhtml?articleID=201802175">
+<title>Those Cross-Browser Blues: How To Develop Web Sites For Both Internet Explorer And Firefox -- Browser Compatability</title>
+<link>http://www.informationweek.com/news/showArticle.jhtml?articleID=201802175</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T05:30:18Z</dc:date>
+<dc:subject>firefox software testing web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://userstyles.org/styles/2456">
+<title>Nice Firefox forms | userstyles.org</title>
+<link>http://userstyles.org/styles/2456</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-11T05:58:25Z</dc:date>
+<dc:subject>firefox widgets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/widgets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showpost.php?p=520822&#x26;postcount=2">
+<title>Ubuntu Forums - View Single Post - HOWTO: Nicer Firefox Form Widgets</title>
+<link>http://ubuntuforums.org/showpost.php?p=520822&#x26;postcount=2</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-11T04:35:07Z</dc:date>
+<dc:subject>firefox widgets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/widgets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://clear.com.ua/en/projects/firefox/winterfox">
+<title>Winterfox Forms</title>
+<link>http://clear.com.ua/en/projects/firefox/winterfox</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-11T04:34:56Z</dc:date>
+<dc:subject>firefox widgets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/widgets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://emps.l-c-n.com/articles/94/">
+<title>Pretty Form Widgets for Firefox, the next step | ::[ Empty Spaces ]::</title>
+<link>http://emps.l-c-n.com/articles/94/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-11T04:34:26Z</dc:date>
+<dc:subject>firefox widgets</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/widgets" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://keepvid.com/">
+<title>KeepVid: Download videos from Google, Youtube, iFilm, Putfile, Metacafe, DailyMotion!</title>
+<link>http://keepvid.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-30T06:35:31Z</dc:date>
+<dc:subject>firefox linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://help.ubuntu.com/community/RestrictedFormats/Flash">
+<title>RestrictedFormats/Flash - Community Ubuntu Documentation</title>
+<link>https://help.ubuntu.com/community/RestrictedFormats/Flash</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-20T08:30:38Z</dc:date>
+<dc:subject>firefox swiftfox ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/swiftfox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://userscripts.org/scripts/show/10747">
+<title>Expert Exchange &#x2013; Userscripts.org</title>
+<link>http://userscripts.org/scripts/show/10747</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-13T09:12:49Z</dc:date>
+<dc:subject>firefox greasemonkey javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/greasemonkey" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.serios.net/wiki/Debian_Java_JRE/JDK_installation%2C_browser_plugin">
+<title>Debian Java JRE/JDK installation, browser plugin - SeriosWiki</title>
+<link>http://wiki.serios.net/wiki/Debian_Java_JRE/JDK_installation%2C_browser_plugin</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-11T00:52:02Z</dc:date>
+<dc:subject>firefox java ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://greasemonkey.mozdev.org/authoring.html">
+<title>mozdev.org - greasemonkey: authoring</title>
+<link>http://greasemonkey.mozdev.org/authoring.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-06T20:38:44Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=369596&#x26;highlight=firefox+style">
+<title>Firefox Widgets - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=369596&#x26;highlight=firefox+style</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-05T22:30:57Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gentoo-wiki.com/HOWTO_Xorg_and_Fonts">
+<title>HOWTO Xorg and Fonts - Gentoo Linux Wiki</title>
+<link>http://gentoo-wiki.com/HOWTO_Xorg_and_Fonts</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-30T20:12:22Z</dc:date>
+<dc:subject>firefox font ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/font" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://userscripts.org/scripts/show/9455">
+<title>Google Reader Preview Enhanced v1.07a &#x2013; Userscripts.org</title>
+<link>http://userscripts.org/scripts/show/9455</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-23T23:33:05Z</dc:date>
+<dc:subject>firefox google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://userscripts.org/scripts/show/7062">
+<title>Google Reader Search &#x2013; Userscripts.org</title>
+<link>http://userscripts.org/scripts/show/7062</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-23T23:32:20Z</dc:date>
+<dc:subject>firefox google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=202896">
+<title>Simple Roboform (password manager) Replacement - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=202896</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-04T10:54:24Z</dc:date>
+<dc:subject>firefox linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://technology.desktopnexus.com/cat/firefox/">
+<title>Browse Firefox Wallpapers - Desktop Nexus Technology</title>
+<link>http://technology.desktopnexus.com/cat/firefox/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-17T01:35:28Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.makeuseof.com/tag/20-must-see-greasemonkey-addonsno-technical-knowledge-req/">
+<title>20 must-see Greasemonkey Addons(No Technical Knowledge Req.) &#xBB; MakeUseOf.com</title>
+<link>http://www.makeuseof.com/tag/20-must-see-greasemonkey-addonsno-technical-knowledge-req/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:13:19Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/firefox-extensions/lh-top-10--must+have-firefox-extensions-246127.php">
+<title>LH Top 10: Must-have Firefox extensions - Lifehacker</title>
+<link>http://lifehacker.com/software/firefox-extensions/lh-top-10--must+have-firefox-extensions-246127.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:12:36Z</dc:date>
+<dc:subject>firefox</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

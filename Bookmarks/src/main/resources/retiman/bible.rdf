@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/bible">
+<title>del.icio.us/retiman/bible</title>
+<link>http://del.icio.us/retiman/bible</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://pbfcomics.com/" />
+  <rdf:li rdf:resource="http://www.biblegateway.com/passage/?search=Isaiah%2045:7;&#x26;version=9;" />
+  <rdf:li rdf:resource="http://www.ocellated.com/2006/04/13/bill-nye-in-waco/" />
+  <rdf:li rdf:resource="http://www.powells.com/review/2007_07_14" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Isaiah_7:14" />
+  <rdf:li rdf:resource="http://www.biblegateway.com/passage/?search=Psalm%2051;&#x26;version=49;" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://pbfcomics.com/">
+<title>The Perry Bible Fellowship</title>
+<link>http://pbfcomics.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-10T22:59:54Z</dc:date>
+<dc:subject>bible funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.biblegateway.com/passage/?search=Isaiah%2045:7;&#x26;version=9;">
+<title>BibleGateway.com - Passage Lookup: Isaiah 45:7;</title>
+<link>http://www.biblegateway.com/passage/?search=Isaiah%2045:7;&#x26;version=9;</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-30T21:16:28Z</dc:date>
+<dc:subject>bible evil</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+    <rdf:li resource="http://del.icio.us/tag/evil" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ocellated.com/2006/04/13/bill-nye-in-waco/">
+<title>Ocellated &#xBB; Bill Nye in Waco</title>
+<link>http://www.ocellated.com/2006/04/13/bill-nye-in-waco/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-12T08:36:47Z</dc:date>
+<dc:subject>bible dumbass religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+    <rdf:li resource="http://del.icio.us/tag/dumbass" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.powells.com/review/2007_07_14">
+<title>Powell's Books - Review-a-Day - Misquoting Jesus: The Story Behind Who Changed the Bible and Why by Bart D. Ehrman, reviewed by Powells.com</title>
+<link>http://www.powells.com/review/2007_07_14</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T08:23:18Z</dc:date>
+<dc:subject>atheism bible history religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Isaiah_7:14">
+<title>Isaiah 7:14 - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Isaiah_7:14</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-10T18:23:42Z</dc:date>
+<dc:subject>bible religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.biblegateway.com/passage/?search=Psalm%2051;&#x26;version=49;">
+<title>BibleGateway.com - Passage Lookup: Psalm 51;</title>
+<link>http://www.biblegateway.com/passage/?search=Psalm%2051;&#x26;version=49;</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-10T18:19:26Z</dc:date>
+<dc:subject>bible</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

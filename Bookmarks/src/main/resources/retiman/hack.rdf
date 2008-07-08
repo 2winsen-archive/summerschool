@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/hack">
+<title>del.icio.us/retiman/hack</title>
+<link>http://del.icio.us/retiman/hack</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.nintendo-hacks.com/forums/t464.html" />
+  <rdf:li rdf:resource="http://www.ethicalhacker.net/content/view/66/24/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/feature/ensure-a-fast-internet-connection-when-you-need-it-326543.php" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/router/hack-attack-turn-your-60-router-into-a-600-router-178132.php" />
+  <rdf:li rdf:resource="http://www.dd-wrt.com/wiki/index.php?title=Installation" />
+  <rdf:li rdf:resource="http://www.wired.com/techbiz/media/news/2007/11/doubleclick" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/linux-tip/gently-restart-a-frozen-system-298891.php" />
+  <rdf:li rdf:resource="http://guicide.com/cars/2006civic/nav/hacks/" />
+  <rdf:li rdf:resource="http://72.14.253.104/search?q=cache:MtgsjwEQGwsJ:linuxkiddies.com/bysin/navi/+honda+navi+dvd&#x26;hl=en&#x26;ct=clnk&#x26;cd=2&#x26;gl=us" />
+  <rdf:li rdf:resource="http://tsx.acurazine.com/forums/showthread.php?t=21434" />
+  <rdf:li rdf:resource="http://www.farecompare.com/articles/discount-first-class-y-up/how_to_buy_a_cheap_airline_ticket_in_first_class.html" />
+  <rdf:li rdf:resource="http://www.engadget.com/2007/09/12/first-free-open-gui-iphone-unlock-software-tested-it-works/" />
+  <rdf:li rdf:resource="http://www.engadget.com/2007/09/11/iunlock-released-the-first-free-open-source-iphone-sim-unlock/" />
+  <rdf:li rdf:resource="http://forum.rorta.net/showthread.php?t=1134" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.nintendo-hacks.com/forums/t464.html">
+<title>Wii Hacks - Nintendo-Hacks.com Forums</title>
+<link>http://www.nintendo-hacks.com/forums/t464.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-23T08:36:00Z</dc:date>
+<dc:subject>gaming hack howto wii</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wii" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ethicalhacker.net/content/view/66/24/">
+<title>The Ethical Hacker Network - Cool and Illegal Wireless Hotspot Hacks</title>
+<link>http://www.ethicalhacker.net/content/view/66/24/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-07T08:13:35Z</dc:date>
+<dc:subject>hack</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/feature/ensure-a-fast-internet-connection-when-you-need-it-326543.php">
+<title>Feature: Ensure a Fast Internet Connection When You Need It</title>
+<link>http://lifehacker.com/software/feature/ensure-a-fast-internet-connection-when-you-need-it-326543.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-28T22:28:02Z</dc:date>
+<dc:subject>hack linux router</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/router" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/router/hack-attack-turn-your-60-router-into-a-600-router-178132.php">
+<title>Hack Attack: Turn your $60 router into a $600 router</title>
+<link>http://lifehacker.com/software/router/hack-attack-turn-your-60-router-into-a-600-router-178132.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-28T22:27:53Z</dc:date>
+<dc:subject>hack linux router</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/router" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dd-wrt.com/wiki/index.php?title=Installation">
+<title>Installation - DD-WRT Wiki</title>
+<link>http://www.dd-wrt.com/wiki/index.php?title=Installation</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-28T22:27:40Z</dc:date>
+<dc:subject>ddwrt hack linux networking software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/ddwrt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wired.com/techbiz/media/news/2007/11/doubleclick">
+<title>Hackers Use Banner Ads on Major Sites to Hijack Your PC</title>
+<link>http://www.wired.com/techbiz/media/news/2007/11/doubleclick</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-19T22:46:02Z</dc:date>
+<dc:subject>hack windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/linux-tip/gently-restart-a-frozen-system-298891.php">
+<title>Linux Tip: Gently Restart a Frozen System - Lifehacker</title>
+<link>http://lifehacker.com/software/linux-tip/gently-restart-a-frozen-system-298891.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T00:43:37Z</dc:date>
+<dc:subject>hack linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://guicide.com/cars/2006civic/nav/hacks/">
+<title>guicide's Nav Hacks</title>
+<link>http://guicide.com/cars/2006civic/nav/hacks/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-16T20:24:33Z</dc:date>
+<dc:subject>hack honda navi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/honda" />
+    <rdf:li resource="http://del.icio.us/tag/navi" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://72.14.253.104/search?q=cache:MtgsjwEQGwsJ:linuxkiddies.com/bysin/navi/+honda+navi+dvd&#x26;hl=en&#x26;ct=clnk&#x26;cd=2&#x26;gl=us">
+<title>DumpNAVI by bysin</title>
+<link>http://72.14.253.104/search?q=cache:MtgsjwEQGwsJ:linuxkiddies.com/bysin/navi/+honda+navi+dvd&#x26;hl=en&#x26;ct=clnk&#x26;cd=2&#x26;gl=us</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-16T20:18:32Z</dc:date>
+<dc:subject>hack honda navi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/honda" />
+    <rdf:li resource="http://del.icio.us/tag/navi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tsx.acurazine.com/forums/showthread.php?t=21434">
+<title>Acura TSX Community - Modify your navigation system</title>
+<link>http://tsx.acurazine.com/forums/showthread.php?t=21434</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-16T20:18:05Z</dc:date>
+<dc:subject>hack honda navi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/honda" />
+    <rdf:li resource="http://del.icio.us/tag/navi" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.farecompare.com/articles/discount-first-class-y-up/how_to_buy_a_cheap_airline_ticket_in_first_class.html">
+<title>How to Buy a Cheap Airline Ticket in First Class</title>
+<link>http://www.farecompare.com/articles/discount-first-class-y-up/how_to_buy_a_cheap_airline_ticket_in_first_class.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T18:48:58Z</dc:date>
+<dc:subject>hack web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.engadget.com/2007/09/12/first-free-open-gui-iphone-unlock-software-tested-it-works/">
+<title>First free, open, GUI iPhone unlock software tested: it works! - Engadget</title>
+<link>http://www.engadget.com/2007/09/12/first-free-open-gui-iphone-unlock-software-tested-it-works/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-12T19:19:03Z</dc:date>
+<dc:subject>hack iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.engadget.com/2007/09/11/iunlock-released-the-first-free-open-source-iphone-sim-unlock/">
+<title>iUnlock released: the first free, open source iPhone SIM unlock software - Engadget</title>
+<link>http://www.engadget.com/2007/09/11/iunlock-released-the-first-free-open-source-iphone-sim-unlock/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-12T06:47:19Z</dc:date>
+<dc:subject>hack iphone</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/iphone" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://forum.rorta.net/showthread.php?t=1134">
+<title>How to Rip Netflix 'Watch Now' Movies - Rorta</title>
+<link>http://forum.rorta.net/showthread.php?t=1134</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-07T19:22:04Z</dc:date>
+<dc:subject>drm hack netflix security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/drm" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/netflix" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/funny">
+<title>del.icio.us/retiman/funny</title>
+<link>http://del.icio.us/retiman/funny</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://badprogrammer.infogami.com/" />
+  <rdf:li rdf:resource="http://www.kpao.org/2008/03/stunningly-dumb-windows-design.html" />
+  <rdf:li rdf:resource="http://www.w3.org/blog/systeam/2008/02/08/w3c_s_excessive_dtd_traffic" />
+  <rdf:li rdf:resource="http://419eater.com/html/okorie.htm" />
+  <rdf:li rdf:resource="http://abcnews.go.com/US/wireStory?id=3939822" />
+  <rdf:li rdf:resource="http://www.hud.gov/news/speeches/presremarks.cfm" />
+  <rdf:li rdf:resource="http://www.officialdatingresource.com/dating/beware-the-dreaded-myspace-angles-pics/" />
+  <rdf:li rdf:resource="http://governmentdirt.com/10_things_to_remember_when_confronted_by_the_police_avoid_the_bro_dont_tase_me_moment" />
+  <rdf:li rdf:resource="http://www.pickthebrain.com/blog/art-of-writing/?" />
+  <rdf:li rdf:resource="http://www.fortunewatch.com/how-a-millionaires-brain-works/" />
+  <rdf:li rdf:resource="http://pbfcomics.com/" />
+  <rdf:li rdf:resource="http://www.dailymail.co.uk/pages/live/articles/news/worldnews.html?in_article_id=481200&#x26;in_page_id=1811" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Lick_Me_in_the_Ass" />
+  <rdf:li rdf:resource="http://www.mass-age.com/print.php?id=506" />
+  <rdf:li rdf:resource="http://xkcd.com/blue_eyes.html" />
+  <rdf:li rdf:resource="http://chinesemusicblog.com/forum/viewtopic.php?pid=33659" />
+  <rdf:li rdf:resource="http://www.bearsandbuds.com/July2007/Veggie-Art-July07.asp" />
+  <rdf:li rdf:resource="http://www.theregister.co.uk/2007/09/18/blizzard_disbands_roleplay_guild/" />
+  <rdf:li rdf:resource="http://www.engadget.com/2007/09/18/switched-on-touched-by-a-hacker/" />
+  <rdf:li rdf:resource="http://www.fixedgeargallery.com/articles/evanmarks/china/EvanMarks.htm" />
+  <rdf:li rdf:resource="http://www.ftlauderdalelimo.com/car-spoilers-limos.php" />
+  <rdf:li rdf:resource="http://news.yahoo.com/s/pcworld/20070808/tc_pcworld/135686" />
+  <rdf:li rdf:resource="http://arstechnica.com/news.ars/post/20070718-new-trojans-give-us-300-or-the-data-gets-it.html" />
+  <rdf:li rdf:resource="http://www.skepdic.com/" />
+  <rdf:li rdf:resource="http://video1.washingtontimes.com/fishwrap/2007/07/a_question_for_president_bush.html" />
+  <rdf:li rdf:resource="http://www.youtube.com/user/lockergnome" />
+  <rdf:li rdf:resource="http://www.msnbc.msn.com/id/19740787/" />
+  <rdf:li rdf:resource="http://www.badastronomy.com/" />
+  <rdf:li rdf:resource="http://www.365tomorrows.com/06/23/37-hands/" />
+  <rdf:li rdf:resource="http://www.geekarmy.com/Science/Crazy-Vision-Test.html" />
+  <rdf:li rdf:resource="http://www.cs.elte.hu/~ewkiss/education.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://badprogrammer.infogami.com/">
+<title>Signs that you are a bad programmer (Bad Programmers)</title>
+<link>http://badprogrammer.infogami.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-05T00:04:48Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kpao.org/2008/03/stunningly-dumb-windows-design.html">
+<title>Stunningly Dumb Windows Design - KPAO!</title>
+<link>http://www.kpao.org/2008/03/stunningly-dumb-windows-design.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-30T08:34:08Z</dc:date>
+<dc:subject>funny windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.w3.org/blog/systeam/2008/02/08/w3c_s_excessive_dtd_traffic">
+<title>W3C Systeam's blog - W3C's Excessive DTD Traffic</title>
+<link>http://www.w3.org/blog/systeam/2008/02/08/w3c_s_excessive_dtd_traffic</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-09T04:36:47Z</dc:date>
+<dc:subject>funny w3c</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/w3c" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://419eater.com/html/okorie.htm">
+<title>Welcome to the 419 Eater</title>
+<link>http://419eater.com/html/okorie.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-12T01:00:14Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://abcnews.go.com/US/wireStory?id=3939822">
+<title>ABC News: Police: Hershey Candy Looks Like Drugs</title>
+<link>http://abcnews.go.com/US/wireStory?id=3939822</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-01T08:58:55Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.hud.gov/news/speeches/presremarks.cfm">
+<title>Remarks by the President on Homeownership - HUD</title>
+<link>http://www.hud.gov/news/speeches/presremarks.cfm</link>
+<description>I want to thank the choir for coming, the youngsters for being here. I just want you to know that, when we talk about war, we're really talking about peace. W</description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-02T15:44:15Z</dc:date>
+<dc:subject>funny politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.officialdatingresource.com/dating/beware-the-dreaded-myspace-angles-pics/">
+<title>Beware the dreaded &#x201C;MySpace Angles&#x201D;! (PICS)</title>
+<link>http://www.officialdatingresource.com/dating/beware-the-dreaded-myspace-angles-pics/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-24T22:07:35Z</dc:date>
+<dc:subject>funny nsfw</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/nsfw" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://governmentdirt.com/10_things_to_remember_when_confronted_by_the_police_avoid_the_bro_dont_tase_me_moment">
+<title>10 Things to Remember When Confronted By The Police - Avoid the &#x22;Bro, Don't Tase Me&#x22; Moment! | Government Dirt</title>
+<link>http://governmentdirt.com/10_things_to_remember_when_confronted_by_the_police_avoid_the_bro_dont_tase_me_moment</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-14T18:59:29Z</dc:date>
+<dc:subject>funny law</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pickthebrain.com/blog/art-of-writing/?">
+<title>Art of Writing - Writing Tips</title>
+<link>http://www.pickthebrain.com/blog/art-of-writing/?</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-14T05:36:31Z</dc:date>
+<dc:subject>education funny reference writing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/writing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fortunewatch.com/how-a-millionaires-brain-works/">
+<title>Fortune Watch &#xBB; How a Millionaire&#x2019;s Brain Works&#x2026;</title>
+<link>http://www.fortunewatch.com/how-a-millionaires-brain-works/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T19:22:43Z</dc:date>
+<dc:subject>funny money</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://pbfcomics.com/">
+<title>The Perry Bible Fellowship</title>
+<link>http://pbfcomics.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-10T22:59:54Z</dc:date>
+<dc:subject>bible funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dailymail.co.uk/pages/live/articles/news/worldnews.html?in_article_id=481200&#x26;in_page_id=1811">
+<title>Mugger attacks blind man... who turns out to be a judo world champion | the Daily Mail</title>
+<link>http://www.dailymail.co.uk/pages/live/articles/news/worldnews.html?in_article_id=481200&#x26;in_page_id=1811</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-10T22:16:55Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Lick_Me_in_the_Ass">
+<title>Leck mich im Arsch - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Lick_Me_in_the_Ass</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-10T22:10:13Z</dc:date>
+<dc:subject>funny history wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mass-age.com/print.php?id=506">
+<title>Mass-age &#x3010;&#x5927;&#x5BB6;&#x4F86;&#x62B9;&#x7D05;&#x7CFB;&#x5217;&#x7CBE;&#x9078;&#x3011; &#x8AB0;&#x5728;&#x5D07;&#x62DC;&#x6BDB;&#x4E3B;&#x5E2D;&#xFF1F;</title>
+<link>http://www.mass-age.com/print.php?id=506</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-27T20:51:37Z</dc:date>
+<dc:subject>china funny music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/china" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://xkcd.com/blue_eyes.html">
+<title>Blue Eyes - A Logic Puzzle</title>
+<link>http://xkcd.com/blue_eyes.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-26T00:28:31Z</dc:date>
+<dc:subject>funny math puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://chinesemusicblog.com/forum/viewtopic.php?pid=33659">
+<title>Chinese Music Forum / [Request] Jie Kou - S.H.E</title>
+<link>http://chinesemusicblog.com/forum/viewtopic.php?pid=33659</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-25T19:10:07Z</dc:date>
+<dc:subject>funny music</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/music" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bearsandbuds.com/July2007/Veggie-Art-July07.asp">
+<title>Veggie-Art-July07</title>
+<link>http://www.bearsandbuds.com/July2007/Veggie-Art-July07.asp</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-24T03:28:50Z</dc:date>
+<dc:subject>cool funny weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theregister.co.uk/2007/09/18/blizzard_disbands_roleplay_guild/">
+<title>World of Warcraft smites den of orc and elf sexual delinquency | The Register</title>
+<link>http://www.theregister.co.uk/2007/09/18/blizzard_disbands_roleplay_guild/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-19T23:27:55Z</dc:date>
+<dc:subject>funny weird wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.engadget.com/2007/09/18/switched-on-touched-by-a-hacker/">
+<title>Switched On: Touched by a hacker - Engadget</title>
+<link>http://www.engadget.com/2007/09/18/switched-on-touched-by-a-hacker/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-18T22:39:33Z</dc:date>
+<dc:subject>funny</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.fixedgeargallery.com/articles/evanmarks/china/EvanMarks.htm">
+<title>Fixed Gear Gallery :: Fwd: Skills only found in China</title>
+<link>http://www.fixedgeargallery.com/articles/evanmarks/china/EvanMarks.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-15T00:46:05Z</dc:date>
+<dc:subject>china funny weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/china" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ftlauderdalelimo.com/car-spoilers-limos.php">
+<title>Limo Service South Florida | Car Spoilers</title>
+<link>http://www.ftlauderdalelimo.com/car-spoilers-limos.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-07T18:31:38Z</dc:date>
+<dc:subject>funny wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.yahoo.com/s/pcworld/20070808/tc_pcworld/135686">
+<title>Google Mistakes Own Blog for Spam, Deletes it - Yahoo! News</title>
+<link>http://news.yahoo.com/s/pcworld/20070808/tc_pcworld/135686</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-09T00:49:50Z</dc:date>
+<dc:subject>funny google</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://arstechnica.com/news.ars/post/20070718-new-trojans-give-us-300-or-the-data-gets-it.html">
+<title>New Trojans: give us $300, or the data gets it!</title>
+<link>http://arstechnica.com/news.ars/post/20070718-new-trojans-give-us-300-or-the-data-gets-it.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-01T01:44:38Z</dc:date>
+<dc:subject>funny news software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.skepdic.com/">
+<title>The Skeptic's Dictionary</title>
+<link>http://www.skepdic.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-30T17:45:02Z</dc:date>
+<dc:subject>cool funny reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://video1.washingtontimes.com/fishwrap/2007/07/a_question_for_president_bush.html">
+<title>The Washington Times, America's Newspaper</title>
+<link>http://video1.washingtontimes.com/fishwrap/2007/07/a_question_for_president_bush.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-19T00:04:39Z</dc:date>
+<dc:subject>funny politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.youtube.com/user/lockergnome">
+<title>YouTube - Broadcast Yourself.</title>
+<link>http://www.youtube.com/user/lockergnome</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-17T00:23:55Z</dc:date>
+<dc:subject>funny technology</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/technology" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.msnbc.msn.com/id/19740787/">
+<title>Gunman crashes party, gets hugs - Criminal Peculiarity - MSNBC.com</title>
+<link>http://www.msnbc.msn.com/id/19740787/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-15T00:32:35Z</dc:date>
+<dc:subject>funny weird wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.badastronomy.com/">
+<title>Bad Astronomy Blog</title>
+<link>http://www.badastronomy.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-06T22:33:07Z</dc:date>
+<dc:subject>atheism funny science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.365tomorrows.com/06/23/37-hands/">
+<title>365 tomorrows &#xBB; 37 Hands</title>
+<link>http://www.365tomorrows.com/06/23/37-hands/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-06T22:14:46Z</dc:date>
+<dc:subject>evolution funny science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.geekarmy.com/Science/Crazy-Vision-Test.html">
+<title>Geek Army: Science - Crazy Vision Test</title>
+<link>http://www.geekarmy.com/Science/Crazy-Vision-Test.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-28T23:04:40Z</dc:date>
+<dc:subject>cool funny science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.elte.hu/~ewkiss/education.html">
+<title>Can the level of math education sink any lower?</title>
+<link>http://www.cs.elte.hu/~ewkiss/education.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-23T01:40:24Z</dc:date>
+<dc:subject>education funny math wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

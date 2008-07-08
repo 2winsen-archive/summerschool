@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/linux">
+<title>del.icio.us/retiman/linux</title>
+<link>http://del.icio.us/retiman/linux</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html" />
+  <rdf:li rdf:resource="http://duartes.org/gustavo/blog/post/kernel-boot-process" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=275856" />
+  <rdf:li rdf:resource="http://www.ubuntugeek.com/nfs-server-and-client-configuration-in-ubuntu.html" />
+  <rdf:li rdf:resource="http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control" />
+  <rdf:li rdf:resource="http://blog.wired.com/27bstroke6/2008/06/hans-reiser-off.html" />
+  <rdf:li rdf:resource="http://gentoo-wiki.com/HOWTO_Backup_a_DVD" />
+  <rdf:li rdf:resource="http://www.pixelbeat.org/programming/shell_script_mistakes.html" />
+  <rdf:li rdf:resource="http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control#Install_using_repository_.28recommended.29" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=197102&#x26;highlight=broadcom+4318+ndiswrapper" />
+  <rdf:li rdf:resource="https://help.ubuntu.com/community/ConsoleFramebuffer" />
+  <rdf:li rdf:resource="http://www.debian-administration.org/articles/33" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=81622" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=118132" />
+  <rdf:li rdf:resource="http://www.thinkwiki.org/wiki/KMilo" />
+  <rdf:li rdf:resource="http://www.phoronix.com/scan.php?page=article&#x26;item=675&#x26;num=1" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/124908" />
+  <rdf:li rdf:resource="http://glomek.blogspot.com/2007/12/unix-makes-computer-science-easy.html" />
+  <rdf:li rdf:resource="http://micrux.net/?p=66" />
+  <rdf:li rdf:resource="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=343113" />
+  <rdf:li rdf:resource="http://linuxhelp.blogspot.com/2007/10/install-linux-on-sony-playstation-ps3.html" />
+  <rdf:li rdf:resource="http://shinyblue.net/itybits/vim/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/feature/ensure-a-fast-internet-connection-when-you-need-it-326543.php" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/router/hack-attack-turn-your-60-router-into-a-600-router-178132.php" />
+  <rdf:li rdf:resource="http://www.dd-wrt.com/wiki/index.php?title=Installation" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/linux-tip/give-gedit-the-power-of-textmate-321945.php" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=304131&#x26;highlight=xubuntu" />
+  <rdf:li rdf:resource="http://ati.amd.com/support/drivers/linux/linux-radeon.html" />
+  <rdf:li rdf:resource="http://handbrake.m0k.org/" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=89491" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html">
+<title>ATOzTOA: Linux Commands I Hardly Knew</title>
+<link>http://atoztoa.blogspot.com/2008/06/linux-commands-i-hardly-knew.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-30T18:52:07Z</dc:date>
+<dc:subject>bash linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://duartes.org/gustavo/blog/post/kernel-boot-process">
+<title>The Kernel Boot Process : Gustavo Duarte</title>
+<link>http://duartes.org/gustavo/blog/post/kernel-boot-process</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-25T22:04:42Z</dc:date>
+<dc:subject>linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=275856">
+<title>HOWTO: sshfs (mounting remote directories trough ssh) - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=275856</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-21T09:34:17Z</dc:date>
+<dc:subject>linux networking ssh ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ssh" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ubuntugeek.com/nfs-server-and-client-configuration-in-ubuntu.html">
+<title>NFS Server and Client Configuration in Ubuntu -- Ubuntu Geek</title>
+<link>http://www.ubuntugeek.com/nfs-server-and-client-configuration-in-ubuntu.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-18T07:59:53Z</dc:date>
+<dc:subject>linux nfs</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/nfs" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control">
+<title>ThinkPad Fan Control - Gambit Chess Wiki</title>
+<link>http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-18T02:14:31Z</dc:date>
+<dc:subject>fan ibm linux thinkpad ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/fan" />
+    <rdf:li resource="http://del.icio.us/tag/ibm" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.wired.com/27bstroke6/2008/06/hans-reiser-off.html">
+<title>Hans Reiser Offers To Lead Cops to Nina's Body | Threat Level from Wired.com</title>
+<link>http://blog.wired.com/27bstroke6/2008/06/hans-reiser-off.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-17T11:29:26Z</dc:date>
+<dc:subject>linux news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gentoo-wiki.com/HOWTO_Backup_a_DVD">
+<title>HOWTO Backup a DVD - Gentoo Linux Wiki</title>
+<link>http://gentoo-wiki.com/HOWTO_Backup_a_DVD</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-08T20:29:32Z</dc:date>
+<dc:subject>backup dvd linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pixelbeat.org/programming/shell_script_mistakes.html">
+<title>Common shell script mistakes</title>
+<link>http://www.pixelbeat.org/programming/shell_script_mistakes.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-25T21:15:54Z</dc:date>
+<dc:subject>bash linux shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control#Install_using_repository_.28recommended.29">
+<title>ThinkPad Fan Control - Gambit Chess Wiki</title>
+<link>http://www.gambitchess.org/mediawiki/index.php/ThinkPad_Fan_Control#Install_using_repository_.28recommended.29</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-17T14:38:01Z</dc:date>
+<dc:subject>fan ibm linux thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ibm" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/fan" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=197102&#x26;highlight=broadcom+4318+ndiswrapper">
+<title>HOWTO: Broadcom 4318 Wireless Cards - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=197102&#x26;highlight=broadcom+4318+ndiswrapper</link>
+<description>If the light doesn't come on, try:</description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-04-12T20:41:35Z</dc:date>
+<dc:subject>broadcom linux wifi</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/wifi" />
+    <rdf:li resource="http://del.icio.us/tag/broadcom" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://help.ubuntu.com/community/ConsoleFramebuffer">
+<title>ConsoleFramebuffer - Community Ubuntu Documentation</title>
+<link>https://help.ubuntu.com/community/ConsoleFramebuffer</link>
+<description>?</description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-11T17:57:40Z</dc:date>
+<dc:subject>console linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/console" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.debian-administration.org/articles/33">
+<title>Giving ordinary users root privileges, selectively</title>
+<link>http://www.debian-administration.org/articles/33</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-11T05:36:32Z</dc:date>
+<dc:subject>linux security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=81622">
+<title>ThinkPad buttons and on-screen display: a How-To with questions - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=81622</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-10T17:25:52Z</dc:date>
+<dc:subject>kde linux thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/kde" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=118132">
+<title>kmilo functionality (IBM Thinkpad sound)? - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=118132</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-10T17:25:40Z</dc:date>
+<dc:subject>kde linux thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/kde" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thinkwiki.org/wiki/KMilo">
+<title>KMilo - ThinkWiki</title>
+<link>http://www.thinkwiki.org/wiki/KMilo</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-10T17:25:26Z</dc:date>
+<dc:subject>kde linux thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+    <rdf:li resource="http://del.icio.us/tag/kde" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.phoronix.com/scan.php?page=article&#x26;item=675&#x26;num=1">
+<title>[Phoronix] ATIpower: ATI Linux GPU Overclocking</title>
+<link>http://www.phoronix.com/scan.php?page=article&#x26;item=675&#x26;num=1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-04T23:31:44Z</dc:date>
+<dc:subject>ati linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/124908">
+<title>Linux.com :: Seamlessly integrate XP into Linux with SeamlessRDP</title>
+<link>http://www.linux.com/feature/124908</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-02T08:19:31Z</dc:date>
+<dc:subject>linux vmware windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/vmware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://glomek.blogspot.com/2007/12/unix-makes-computer-science-easy.html">
+<title>Glomek's Blog: Unix makes Computer Science easy</title>
+<link>http://glomek.blogspot.com/2007/12/unix-makes-computer-science-easy.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-14T04:13:23Z</dc:date>
+<dc:subject>linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://micrux.net/?p=66">
+<title>Linux Kernel Source Code Screensaver | micrux.net</title>
+<link>http://micrux.net/?p=66</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-10T21:41:21Z</dc:date>
+<dc:subject>linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported">
+<title>WifiDocs/WirelessCardsSupported - Community Ubuntu Documentation</title>
+<link>https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-18T05:59:44Z</dc:date>
+<dc:subject>linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=343113">
+<title>HOWTO: Install Ubuntu on PS3 from Live CD - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=343113</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-17T21:14:37Z</dc:date>
+<dc:subject>gaming linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linuxhelp.blogspot.com/2007/10/install-linux-on-sony-playstation-ps3.html">
+<title>All about Linux: Install Linux on Sony Playstation PS3 - a collection of tutorials</title>
+<link>http://linuxhelp.blogspot.com/2007/10/install-linux-on-sony-playstation-ps3.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-16T07:56:18Z</dc:date>
+<dc:subject>gaming linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://shinyblue.net/itybits/vim/">
+<title>s h i n y b l u e Vim tips</title>
+<link>http://shinyblue.net/itybits/vim/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-11T23:29:16Z</dc:date>
+<dc:subject>linux vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/feature/ensure-a-fast-internet-connection-when-you-need-it-326543.php">
+<title>Feature: Ensure a Fast Internet Connection When You Need It</title>
+<link>http://lifehacker.com/software/feature/ensure-a-fast-internet-connection-when-you-need-it-326543.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-28T22:28:02Z</dc:date>
+<dc:subject>hack linux router</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/router" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/router/hack-attack-turn-your-60-router-into-a-600-router-178132.php">
+<title>Hack Attack: Turn your $60 router into a $600 router</title>
+<link>http://lifehacker.com/software/router/hack-attack-turn-your-60-router-into-a-600-router-178132.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-28T22:27:53Z</dc:date>
+<dc:subject>hack linux router</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/router" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dd-wrt.com/wiki/index.php?title=Installation">
+<title>Installation - DD-WRT Wiki</title>
+<link>http://www.dd-wrt.com/wiki/index.php?title=Installation</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-28T22:27:40Z</dc:date>
+<dc:subject>ddwrt hack linux networking software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/ddwrt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/linux-tip/give-gedit-the-power-of-textmate-321945.php">
+<title>Linux Tip: Give gedit the Power of TextMate</title>
+<link>http://lifehacker.com/software/linux-tip/give-gedit-the-power-of-textmate-321945.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-19T03:33:32Z</dc:date>
+<dc:subject>howto linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=304131&#x26;highlight=xubuntu">
+<title>How to: Xubuntu - Thunar Native Windows Network Browsing - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=304131&#x26;highlight=xubuntu</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-15T20:39:36Z</dc:date>
+<dc:subject>linux networking samba ubuntu windows xfce</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xfce" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/samba" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ati.amd.com/support/drivers/linux/linux-radeon.html">
+<title>ATI Proprietary Linux x86 Display Driver 8.42.3</title>
+<link>http://ati.amd.com/support/drivers/linux/linux-radeon.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-04T00:28:44Z</dc:date>
+<dc:subject>ati hardware linux thinkpad</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ati" />
+    <rdf:li resource="http://del.icio.us/tag/hardware" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/thinkpad" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://handbrake.m0k.org/">
+<title>HandBrake</title>
+<link>http://handbrake.m0k.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-01T04:01:51Z</dc:date>
+<dc:subject>ipod linux music software video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/music" />
+    <rdf:li resource="http://del.icio.us/tag/ipod" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=89491">
+<title>HowTo: Speed up ubuntu boot process - the way you can feel it. - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=89491</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-31T20:42:14Z</dc:date>
+<dc:subject>linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

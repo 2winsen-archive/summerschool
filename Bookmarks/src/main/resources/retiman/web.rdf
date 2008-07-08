@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/web">
+<title>del.icio.us/retiman/web</title>
+<link>http://del.icio.us/retiman/web</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html" />
+  <rdf:li rdf:resource="http://erikengbrecht.blogspot.com/2008/04/multiprocess-versus-multithreaded.html" />
+  <rdf:li rdf:resource="http://www.mnot.net/cache_docs/" />
+  <rdf:li rdf:resource="http://www.kirit.com/Blog:/2007-12-05/Internationalised%20URLs" />
+  <rdf:li rdf:resource="https://addons.mozilla.org/en-US/firefox/addon/2354" />
+  <rdf:li rdf:resource="http://www.monsur.com/projects/readeroo/" />
+  <rdf:li rdf:resource="http://www.jroller.com/javelotinfo/entry/trolling_with_java_web_frameworks" />
+  <rdf:li rdf:resource="http://fishbowl.pastiche.org/2004/01/19/persistent_login_cookie_best_practice" />
+  <rdf:li rdf:resource="http://code.google.com/p/spring-on-rails/" />
+  <rdf:li rdf:resource="http://www.farecompare.com/articles/discount-first-class-y-up/how_to_buy_a_cheap_airline_ticket_in_first_class.html" />
+  <rdf:li rdf:resource="http://www.informationweek.com/news/showArticle.jhtml?articleID=201802175" />
+  <rdf:li rdf:resource="http://webjmx.sourceforge.net/" />
+  <rdf:li rdf:resource="http://htmlunit.sourceforge.net/gettingStarted.html" />
+  <rdf:li rdf:resource="http://www.pervasivecode.com/blog/2007/08/02/rails-and-the-notion-of-stupid-databases-being-a-good-idea/" />
+  <rdf:li rdf:resource="http://quicksilverscreen.com/ipb/index.php?showtopic=29115" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/technophilia/where-to-find-public-records-online-280785.php" />
+  <rdf:li rdf:resource="http://www.mailbucket.org/" />
+  <rdf:li rdf:resource="http://someonewhocares.org/hosts/" />
+  <rdf:li rdf:resource="http://ws.apache.org/commons/tcpmon/" />
+  <rdf:li rdf:resource="http://www.miniaturecube.com/" />
+  <rdf:li rdf:resource="https://www.expensr.com/" />
+  <rdf:li rdf:resource="http://thinkvitamin.com/features/design/web-design-isms-7-surefire-styles-that-work" />
+  <rdf:li rdf:resource="http://money.cnn.com/magazines/business2/business2_archive/2007/06/01/100050989/index.htm?postversion=2007052205" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/05/10/70-expert-ideas-for-better-css-coding/" />
+  <rdf:li rdf:resource="http://www.restlet.org/" />
+  <rdf:li rdf:resource="http://www.degreetutor.com/library/career-starter/115-secrets" />
+  <rdf:li rdf:resource="http://www.solutionwatch.com/578/a-roundup-for-developers-developers-developers/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/03/10/web-20-tutorials-round-up/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/03/19/40-designtech-magazines-to-read/" />
+  <rdf:li rdf:resource="http://webworkerdaily.com/2007/04/12/web-worker-emergency-survival-kit/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html">
+<title>Twin Sunset: This Word, &#x22;Scaling&#x22;</title>
+<link>http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-05T07:16:27Z</dc:date>
+<dc:subject>development google ruby web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://erikengbrecht.blogspot.com/2008/04/multiprocess-versus-multithreaded.html">
+<title>Erik Engbrecht's Blog: Multiprocess versus Multithreaded...</title>
+<link>http://erikengbrecht.blogspot.com/2008/04/multiprocess-versus-multithreaded.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-04-10T21:31:37Z</dc:date>
+<dc:subject>development java web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mnot.net/cache_docs/">
+<title>Caching Tutorial for Web Authors and Webmasters</title>
+<link>http://www.mnot.net/cache_docs/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-09T08:03:01Z</dc:date>
+<dc:subject>caching development web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/caching" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kirit.com/Blog:/2007-12-05/Internationalised%20URLs">
+<title>Internationalised URLs &#x2014; 2007-12-05 &#x2014; kirit.com</title>
+<link>http://www.kirit.com/Blog:/2007-12-05/Internationalised%20URLs</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-17T07:22:20Z</dc:date>
+<dc:subject>development url web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/url" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://addons.mozilla.org/en-US/firefox/addon/2354">
+<title>del.icio.us Complete :: Firefox Add-ons</title>
+<link>https://addons.mozilla.org/en-US/firefox/addon/2354</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-26T19:48:05Z</dc:date>
+<dc:subject>web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.monsur.com/projects/readeroo/">
+<title>Readeroo</title>
+<link>http://www.monsur.com/projects/readeroo/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-26T19:45:01Z</dc:date>
+<dc:subject>web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jroller.com/javelotinfo/entry/trolling_with_java_web_frameworks">
+<title>Fred Daoud's Weblog : Weblog</title>
+<link>http://www.jroller.com/javelotinfo/entry/trolling_with_java_web_frameworks</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-25T17:56:45Z</dc:date>
+<dc:subject>frameworks java web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/frameworks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://fishbowl.pastiche.org/2004/01/19/persistent_login_cookie_best_practice">
+<title>The Fishbowl: Persistent Login Cookie Best Practice</title>
+<link>http://fishbowl.pastiche.org/2004/01/19/persistent_login_cookie_best_practice</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-08T21:22:04Z</dc:date>
+<dc:subject>security web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/spring-on-rails/">
+<title>spring-on-rails - Google Code</title>
+<link>http://code.google.com/p/spring-on-rails/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-04T18:48:10Z</dc:date>
+<dc:subject>hibernate java rails ruby web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/hibernate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.farecompare.com/articles/discount-first-class-y-up/how_to_buy_a_cheap_airline_ticket_in_first_class.html">
+<title>How to Buy a Cheap Airline Ticket in First Class</title>
+<link>http://www.farecompare.com/articles/discount-first-class-y-up/how_to_buy_a_cheap_airline_ticket_in_first_class.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T18:48:58Z</dc:date>
+<dc:subject>hack web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.informationweek.com/news/showArticle.jhtml?articleID=201802175">
+<title>Those Cross-Browser Blues: How To Develop Web Sites For Both Internet Explorer And Firefox -- Browser Compatability</title>
+<link>http://www.informationweek.com/news/showArticle.jhtml?articleID=201802175</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T05:30:18Z</dc:date>
+<dc:subject>firefox software testing web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webjmx.sourceforge.net/">
+<title>WebJMX Tag Library</title>
+<link>http://webjmx.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-27T07:35:15Z</dc:date>
+<dc:subject>java jmx web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/jmx" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://htmlunit.sourceforge.net/gettingStarted.html">
+<title>htmlunit - Getting Started with HtmlUnit</title>
+<link>http://htmlunit.sourceforge.net/gettingStarted.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-15T00:11:50Z</dc:date>
+<dc:subject>java testing web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pervasivecode.com/blog/2007/08/02/rails-and-the-notion-of-stupid-databases-being-a-good-idea/">
+<title>Pervasive Code &#xBB; Blog Archive &#xBB; Rails and the notion of Stupid Databases Being a Good Idea</title>
+<link>http://www.pervasivecode.com/blog/2007/08/02/rails-and-the-notion-of-stupid-databases-being-a-good-idea/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-04T01:52:57Z</dc:date>
+<dc:subject>database ruby web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://quicksilverscreen.com/ipb/index.php?showtopic=29115">
+<title>Disguise Yourself As Google Bot - Quicksilverscreen Forum!</title>
+<link>http://quicksilverscreen.com/ipb/index.php?showtopic=29115</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:24:03Z</dc:date>
+<dc:subject>google security web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/google" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/">
+<title>Time-Savers: Code Beautifier And Formatter</title>
+<link>http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:15:16Z</dc:date>
+<dc:subject>ajax cool css javascript scripting web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/technophilia/where-to-find-public-records-online-280785.php">
+<title>Technophilia: Where to find public records online - Lifehacker</title>
+<link>http://lifehacker.com/software/technophilia/where-to-find-public-records-online-280785.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-30T08:46:05Z</dc:date>
+<dc:subject>cool law reference web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mailbucket.org/">
+<title>MailBucket</title>
+<link>http://www.mailbucket.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-28T08:43:55Z</dc:date>
+<dc:subject>privacy software web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://someonewhocares.org/hosts/">
+<title>Using a Hosts File To Make The Internet Not Suck (as much)</title>
+<link>http://someonewhocares.org/hosts/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-25T17:58:22Z</dc:date>
+<dc:subject>privacy security web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ws.apache.org/commons/tcpmon/">
+<title>Web Services Commons : TCPMon - Apache TCPMon</title>
+<link>http://ws.apache.org/commons/tcpmon/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-06T19:21:22Z</dc:date>
+<dc:subject>apache java software testing web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.miniaturecube.com/">
+<title>Miniature Cube :: Restaurant decisions made easy</title>
+<link>http://www.miniaturecube.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T23:34:46Z</dc:date>
+<dc:subject>cool web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://www.expensr.com/">
+<title>expensr.com - Where did all my money go?</title>
+<link>https://www.expensr.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T04:43:12Z</dc:date>
+<dc:subject>money web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/money" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinkvitamin.com/features/design/web-design-isms-7-surefire-styles-that-work">
+<title>Vitamin Features &#xBB; Web Design-isms: 7 Surefire Styles that Work</title>
+<link>http://thinkvitamin.com/features/design/web-design-isms-7-surefire-styles-that-work</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-12T18:58:16Z</dc:date>
+<dc:subject>css design web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://money.cnn.com/magazines/business2/business2_archive/2007/06/01/100050989/index.htm?postversion=2007052205">
+<title>Kevin Ham, the $300 million master of Web domains - June 1, 2007</title>
+<link>http://money.cnn.com/magazines/business2/business2_archive/2007/06/01/100050989/index.htm?postversion=2007052205</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-23T00:26:32Z</dc:date>
+<dc:subject>stickinbutt web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/stickinbutt" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/05/10/70-expert-ideas-for-better-css-coding/">
+<title>70 Expert Ideas For Better CSS Coding | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2007/05/10/70-expert-ideas-for-better-css-coding/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-11T08:16:10Z</dc:date>
+<dc:subject>css development web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.restlet.org/">
+<title>Restlet - Lightweight REST framework for Java</title>
+<link>http://www.restlet.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-30T05:23:37Z</dc:date>
+<dc:subject>java web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.degreetutor.com/library/career-starter/115-secrets">
+<title>Secrets of Self Taught Web Developers - DegreeTutor.com</title>
+<link>http://www.degreetutor.com/library/career-starter/115-secrets</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:50:15Z</dc:date>
+<dc:subject>development web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.solutionwatch.com/578/a-roundup-for-developers-developers-developers/">
+<title>A Roundup for &#x201C;Developers, Developers, Developers&#x2026;&#x201D;</title>
+<link>http://www.solutionwatch.com/578/a-roundup-for-developers-developers-developers/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:50:03Z</dc:date>
+<dc:subject>development web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/03/10/web-20-tutorials-round-up/">
+<title>Web 2.0 Tutorials Round-Up | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2007/03/10/web-20-tutorials-round-up/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:47:59Z</dc:date>
+<dc:subject>css web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/03/19/40-designtech-magazines-to-read/">
+<title>42 Design/Tech Magazines To Read | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2007/03/19/40-designtech-magazines-to-read/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:46:52Z</dc:date>
+<dc:subject>css development web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://webworkerdaily.com/2007/04/12/web-worker-emergency-survival-kit/">
+<title>Web Worker Daily &#xBB; Blog Archive Web Worker Emergency Survival Kit &#xAB;</title>
+<link>http://webworkerdaily.com/2007/04/12/web-worker-emergency-survival-kit/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:10:31Z</dc:date>
+<dc:subject>development web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

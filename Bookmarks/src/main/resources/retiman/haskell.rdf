@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/haskell">
+<title>del.icio.us/retiman/haskell</title>
+<link>http://del.icio.us/retiman/haskell</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://haskell.org/tutorial/index.html" />
+  <rdf:li rdf:resource="http://en.wikibooks.org/wiki/Haskell/The_Curry-Howard_isomorphism" />
+  <rdf:li rdf:resource="http://notes-on-haskell.blogspot.com/2007/02/whats-wrong-with-for-loop.html?reposted" />
+  <rdf:li rdf:resource="http://mitpress.mit.edu/sicp/full-text/book/book.html" />
+  <rdf:li rdf:resource="http://www.defmacro.org/ramblings/haskell-web.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://haskell.org/tutorial/index.html">
+<title>A Gentle Introduction to Haskell, Version 98</title>
+<link>http://haskell.org/tutorial/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-19T12:07:40Z</dc:date>
+<dc:subject>haskell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/haskell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikibooks.org/wiki/Haskell/The_Curry-Howard_isomorphism">
+<title>Haskell/The Curry-Howard isomorphism - Wikibooks, collection of open-content textbooks</title>
+<link>http://en.wikibooks.org/wiki/Haskell/The_Curry-Howard_isomorphism</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-13T04:00:47Z</dc:date>
+<dc:subject>haskell math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/haskell" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://notes-on-haskell.blogspot.com/2007/02/whats-wrong-with-for-loop.html?reposted">
+<title>Notes on Haskell: What's Wrong with the For Loop</title>
+<link>http://notes-on-haskell.blogspot.com/2007/02/whats-wrong-with-for-loop.html?reposted</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-18T17:18:16Z</dc:date>
+<dc:subject>haskell languages programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/haskell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mitpress.mit.edu/sicp/full-text/book/book.html">
+<title>Structure and Interpretation of Computer Programs</title>
+<link>http://mitpress.mit.edu/sicp/full-text/book/book.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:51:06Z</dc:date>
+<dc:subject>design development haskell howto reference software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/haskell" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.defmacro.org/ramblings/haskell-web.html">
+<title>Haskell and Web Applications</title>
+<link>http://www.defmacro.org/ramblings/haskell-web.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:15:26Z</dc:date>
+<dc:subject>haskell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/haskell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

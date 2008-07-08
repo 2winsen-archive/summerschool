@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/ruby">
+<title>del.icio.us/retiman/ruby</title>
+<link>http://del.icio.us/retiman/ruby</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.artima.com/intv/craft.html" />
+  <rdf:li rdf:resource="http://www.artima.com/intv/closures.html" />
+  <rdf:li rdf:resource="http://www.artima.com/intv/rubyP.html" />
+  <rdf:li rdf:resource="http://www.artima.com/intv/tuesday.html" />
+  <rdf:li rdf:resource="http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html" />
+  <rdf:li rdf:resource="http://weblog.raganwald.com/2008/06/my-mixed-feelings-about-ruby.html" />
+  <rdf:li rdf:resource="http://weblog.raganwald.com/2007/12/why-rubinius-matters-to-rubys-future.html" />
+  <rdf:li rdf:resource="http://www.cincomsmalltalk.com/userblogs/avi/blogView?showComments=true&#x26;entry=3284695382" />
+  <rdf:li rdf:resource="http://weblog.raganwald.com/2008/06/what-does-do-when-used-as-unary.html" />
+  <rdf:li rdf:resource="http://rubricks.org/index_en.html" />
+  <rdf:li rdf:resource="http://www.railfrog.com/" />
+  <rdf:li rdf:resource="http://techpolesen.blogspot.com/2007/10/10-areas-where-rails-fails.html" />
+  <rdf:li rdf:resource="http://railsjitsu.com/programming-beautiful-ruby-on-rails-code-part-1" />
+  <rdf:li rdf:resource="http://www.crummy.com/software/RubyfulSoup/" />
+  <rdf:li rdf:resource="http://code.google.com/p/spring-on-rails/" />
+  <rdf:li rdf:resource="http://rails.vim.tpope.net/#demonstrations" />
+  <rdf:li rdf:resource="http://phrogz.net/ProgrammingRuby/rubyworld.html" />
+  <rdf:li rdf:resource="http://wiki.rubyonrails.org/rails/pages/HowtoUseVimWithRails" />
+  <rdf:li rdf:resource="http://www.vim.org/scripts/script.php?script_id=1662" />
+  <rdf:li rdf:resource="http://rails.vim.tpope.net/#features" />
+  <rdf:li rdf:resource="http://hasno.info/2006/04/10/vim-7-ruby-omni-completion" />
+  <rdf:li rdf:resource="http://www.pervasivecode.com/blog/2007/08/02/rails-and-the-notion-of-stupid-databases-being-a-good-idea/" />
+  <rdf:li rdf:resource="http://buildr.rubyforge.org/" />
+  <rdf:li rdf:resource="http://blade.nagaokaut.ac.jp/~sinara/ruby/math/combinatorics/" />
+  <rdf:li rdf:resource="http://www.railsenvy.com/2007/5/14/ruby-on-rails-commercial" />
+  <rdf:li rdf:resource="http://blog.cbcg.net/articles/2007/04/22/python-up-ruby-down-if-that-runtime-dont-work-then-its-bound-to-drizzown" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.artima.com/intv/craft.html">
+<title>Matz on Craftsmanship</title>
+<link>http://www.artima.com/intv/craft.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-07T04:14:23Z</dc:date>
+<dc:subject>ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artima.com/intv/closures.html">
+<title>Blocks and Closures in Ruby</title>
+<link>http://www.artima.com/intv/closures.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-07T04:14:23Z</dc:date>
+<dc:subject>ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artima.com/intv/rubyP.html">
+<title>The Philosophy of Ruby</title>
+<link>http://www.artima.com/intv/rubyP.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-07T03:36:47Z</dc:date>
+<dc:subject>ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artima.com/intv/tuesday.html">
+<title>Dynamic Productivity with Ruby</title>
+<link>http://www.artima.com/intv/tuesday.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-07T03:36:37Z</dc:date>
+<dc:subject>ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html">
+<title>Twin Sunset: This Word, &#x22;Scaling&#x22;</title>
+<link>http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-05T07:16:27Z</dc:date>
+<dc:subject>development google ruby web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblog.raganwald.com/2008/06/my-mixed-feelings-about-ruby.html">
+<title>My Mixed Feelings about Ruby</title>
+<link>http://weblog.raganwald.com/2008/06/my-mixed-feelings-about-ruby.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-05T06:45:16Z</dc:date>
+<dc:subject>ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblog.raganwald.com/2007/12/why-rubinius-matters-to-rubys-future.html">
+<title>Why Rubinius Matters to Ruby's Future</title>
+<link>http://weblog.raganwald.com/2007/12/why-rubinius-matters-to-rubys-future.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-05T06:37:01Z</dc:date>
+<dc:subject>ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cincomsmalltalk.com/userblogs/avi/blogView?showComments=true&#x26;entry=3284695382">
+<title>Turtles all the way down</title>
+<link>http://www.cincomsmalltalk.com/userblogs/avi/blogView?showComments=true&#x26;entry=3284695382</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-05T06:30:16Z</dc:date>
+<dc:subject>ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblog.raganwald.com/2008/06/what-does-do-when-used-as-unary.html">
+<title>The unary ampersand in Ruby</title>
+<link>http://weblog.raganwald.com/2008/06/what-does-do-when-used-as-unary.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-05T06:23:41Z</dc:date>
+<dc:subject>ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rubricks.org/index_en.html">
+<title>Rubricks - CMS on Rails</title>
+<link>http://rubricks.org/index_en.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-06T02:28:59Z</dc:date>
+<dc:subject>cms ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.railfrog.com/">
+<title>Railfrog - CMS Ridin&#x2019; on Rails / Ruby on Rails CMS</title>
+<link>http://www.railfrog.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-06T02:28:51Z</dc:date>
+<dc:subject>cms ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/cms" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://techpolesen.blogspot.com/2007/10/10-areas-where-rails-fails.html">
+<title>Old Tech Per: 10 Areas Where Rails Fails</title>
+<link>http://techpolesen.blogspot.com/2007/10/10-areas-where-rails-fails.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-08T06:26:44Z</dc:date>
+<dc:subject>java rails ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://railsjitsu.com/programming-beautiful-ruby-on-rails-code-part-1">
+<title>RailsJitsu - Programming Beautiful Ruby on Rails Code Part 1</title>
+<link>http://railsjitsu.com/programming-beautiful-ruby-on-rails-code-part-1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-27T01:26:47Z</dc:date>
+<dc:subject>rails ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.crummy.com/software/RubyfulSoup/">
+<title>Rubyful Soup: &#x22;The brush has got entangled in it!&#x22;</title>
+<link>http://www.crummy.com/software/RubyfulSoup/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-01T02:58:28Z</dc:date>
+<dc:subject>ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/spring-on-rails/">
+<title>spring-on-rails - Google Code</title>
+<link>http://code.google.com/p/spring-on-rails/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-04T18:48:10Z</dc:date>
+<dc:subject>hibernate java rails ruby web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/hibernate" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rails.vim.tpope.net/#demonstrations">
+<title>rails.vim</title>
+<link>http://rails.vim.tpope.net/#demonstrations</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-24T21:55:00Z</dc:date>
+<dc:subject>rails ruby vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://phrogz.net/ProgrammingRuby/rubyworld.html">
+<title>Ruby and Its World @ Programming Ruby</title>
+<link>http://phrogz.net/ProgrammingRuby/rubyworld.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-21T05:01:47Z</dc:date>
+<dc:subject>ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.rubyonrails.org/rails/pages/HowtoUseVimWithRails">
+<title>HowtoUseVimWithRails in Ruby on Rails</title>
+<link>http://wiki.rubyonrails.org/rails/pages/HowtoUseVimWithRails</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-20T23:24:44Z</dc:date>
+<dc:subject>rails ruby vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.vim.org/scripts/script.php?script_id=1662">
+<title>rubycomplete.vim - ruby omni-completion : vim online</title>
+<link>http://www.vim.org/scripts/script.php?script_id=1662</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-20T22:50:01Z</dc:date>
+<dc:subject>ruby vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://rails.vim.tpope.net/#features">
+<title>rails.vim</title>
+<link>http://rails.vim.tpope.net/#features</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-20T22:49:52Z</dc:date>
+<dc:subject>rails ruby vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hasno.info/2006/04/10/vim-7-ruby-omni-completion">
+<title>tech addict - vim 7 ruby omni completion</title>
+<link>http://hasno.info/2006/04/10/vim-7-ruby-omni-completion</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-19T07:04:43Z</dc:date>
+<dc:subject>development ruby vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pervasivecode.com/blog/2007/08/02/rails-and-the-notion-of-stupid-databases-being-a-good-idea/">
+<title>Pervasive Code &#xBB; Blog Archive &#xBB; Rails and the notion of Stupid Databases Being a Good Idea</title>
+<link>http://www.pervasivecode.com/blog/2007/08/02/rails-and-the-notion-of-stupid-databases-being-a-good-idea/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-04T01:52:57Z</dc:date>
+<dc:subject>database ruby web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/database" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://buildr.rubyforge.org/">
+<title>Buildr &#x2013; Welcome</title>
+<link>http://buildr.rubyforge.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-22T00:39:14Z</dc:date>
+<dc:subject>ant development java maven ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/ant" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blade.nagaokaut.ac.jp/~sinara/ruby/math/combinatorics/">
+<title>Combinatorics</title>
+<link>http://blade.nagaokaut.ac.jp/~sinara/ruby/math/combinatorics/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-11T22:32:03Z</dc:date>
+<dc:subject>ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.railsenvy.com/2007/5/14/ruby-on-rails-commercial">
+<title>Rails Envy: Hi, I'm Ruby on Rails...</title>
+<link>http://www.railsenvy.com/2007/5/14/ruby-on-rails-commercial</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-16T09:02:14Z</dc:date>
+<dc:subject>funny java ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.cbcg.net/articles/2007/04/22/python-up-ruby-down-if-that-runtime-dont-work-then-its-bound-to-drizzown">
+<title>Python up, Ruby down: If that runtime don't work, then its bound to drizzown</title>
+<link>http://blog.cbcg.net/articles/2007/04/22/python-up-ruby-down-if-that-runtime-dont-work-then-its-bound-to-drizzown</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-24T18:33:20Z</dc:date>
+<dc:subject>python ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/python" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

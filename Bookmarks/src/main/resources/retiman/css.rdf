@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/css">
+<title>del.icio.us/retiman/css</title>
+<link>http://del.icio.us/retiman/css</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://htmlhelp.com/reference/html40/entities/symbols.html" />
+  <rdf:li rdf:resource="http://www.dyn-web.com/dhtml/sizefont/index.php" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/" />
+  <rdf:li rdf:resource="http://archivist.incutio.com/viewlist/css-discuss/68515" />
+  <rdf:li rdf:resource="http://thinkvitamin.com/features/design/web-design-isms-7-surefire-styles-that-work" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/05/10/70-expert-ideas-for-better-css-coding/" />
+  <rdf:li rdf:resource="http://www.roscripts.com/Best_CSS_tools_of_the_month-130.html" />
+  <rdf:li rdf:resource="http://www.freecsstemplates.org/" />
+  <rdf:li rdf:resource="http://www.seomoz.org/blog/css-properties-you-probably-never-use" />
+  <rdf:li rdf:resource="http://razvan.seopedia.ro/2006/07/19/71-de-meniuri-css-utopic/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/03/10/web-20-tutorials-round-up/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/03/14/css-based-navigation-menus-modern-solutions/" />
+  <rdf:li rdf:resource="http://www.nuff-respec.com/technology/css-gallery-roundup" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/03/19/40-designtech-magazines-to-read/" />
+  <rdf:li rdf:resource="http://www.search-this.com/2007/03/26/10-quick-tips-for-an-easier-css-life/" />
+  <rdf:li rdf:resource="http://tutorialblog.org/25-code-snippets-for-web-designers-part3/" />
+  <rdf:li rdf:resource="http://www.cssplay.co.uk/menus/final_drop.html" />
+  <rdf:li rdf:resource="http://www.jakpsatweb.cz/css/css-vertical-center-solution.html" />
+  <rdf:li rdf:resource="http://ghettocooler.net/2005/11/13/image-floats-without-the-text-wrap/" />
+  <rdf:li rdf:resource="http://www.456bereastreet.com/lab/teaser/" />
+  <rdf:li rdf:resource="http://www.roundedcornr.com/" />
+  <rdf:li rdf:resource="http://lab.arc90.com/" />
+  <rdf:li rdf:resource="http://www.positioniseverything.net/" />
+  <rdf:li rdf:resource="http://css.maxdesign.com.au/floatutorial/" />
+  <rdf:li rdf:resource="http://communitymx.com/content/article.cfm?cid=3B56F&#x26;print=true" />
+  <rdf:li rdf:resource="http://csstinderbox.raykonline.com/" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/01/19/53-css-techniques-you-couldnt-live-without" />
+  <rdf:li rdf:resource="http://www.smashingmagazine.com/2007/01/26/tutorials-round-up-ajax-css-javascript-php-mysql-and-more/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://htmlhelp.com/reference/html40/entities/symbols.html">
+<title>HTML 4.0 Entities for Symbols and Greek Letters</title>
+<link>http://htmlhelp.com/reference/html40/entities/symbols.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-28T02:02:11Z</dc:date>
+<dc:subject>css design html</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/html" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dyn-web.com/dhtml/sizefont/index.php">
+<title>Change Font Size OnClick: Font Sizer DX</title>
+<link>http://www.dyn-web.com/dhtml/sizefont/index.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-08T22:35:59Z</dc:date>
+<dc:subject>css font javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/font" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/">
+<title>Time-Savers: Code Beautifier And Formatter</title>
+<link>http://www.smashingmagazine.com/2007/07/12/time-savers-code-beautifier-and-formatter/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:15:16Z</dc:date>
+<dc:subject>ajax cool css javascript scripting web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://archivist.incutio.com/viewlist/css-discuss/68515">
+<title>css &#x26; fonts</title>
+<link>http://archivist.incutio.com/viewlist/css-discuss/68515</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-30T22:38:21Z</dc:date>
+<dc:subject>css history video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinkvitamin.com/features/design/web-design-isms-7-surefire-styles-that-work">
+<title>Vitamin Features &#xBB; Web Design-isms: 7 Surefire Styles that Work</title>
+<link>http://thinkvitamin.com/features/design/web-design-isms-7-surefire-styles-that-work</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-12T18:58:16Z</dc:date>
+<dc:subject>css design web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/05/10/70-expert-ideas-for-better-css-coding/">
+<title>70 Expert Ideas For Better CSS Coding | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2007/05/10/70-expert-ideas-for-better-css-coding/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-11T08:16:10Z</dc:date>
+<dc:subject>css development web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.roscripts.com/Best_CSS_tools_of_the_month-130.html">
+<title>Best CSS tools of the month</title>
+<link>http://www.roscripts.com/Best_CSS_tools_of_the_month-130.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-30T07:58:29Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freecsstemplates.org/">
+<title>Download free CSS templates - Free CSS Templates</title>
+<link>http://www.freecsstemplates.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:50:39Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.seomoz.org/blog/css-properties-you-probably-never-use">
+<title>SEOmoz | 15 CSS Properties You Probably Never Use (but perhaps should)</title>
+<link>http://www.seomoz.org/blog/css-properties-you-probably-never-use</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:50:28Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://razvan.seopedia.ro/2006/07/19/71-de-meniuri-css-utopic/">
+<title>71 de meniuri CSS - Utopic | Razvan's Nerve</title>
+<link>http://razvan.seopedia.ro/2006/07/19/71-de-meniuri-css-utopic/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:48:09Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/03/10/web-20-tutorials-round-up/">
+<title>Web 2.0 Tutorials Round-Up | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2007/03/10/web-20-tutorials-round-up/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:47:59Z</dc:date>
+<dc:subject>css web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/03/14/css-based-navigation-menus-modern-solutions/">
+<title>CSS-Based Navigation Menus: Modern Solutions | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2007/03/14/css-based-navigation-menus-modern-solutions/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:47:16Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nuff-respec.com/technology/css-gallery-roundup">
+<title>74 CSS Gallery Roundup | technology | nuff-respec.com</title>
+<link>http://www.nuff-respec.com/technology/css-gallery-roundup</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:47:07Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/03/19/40-designtech-magazines-to-read/">
+<title>42 Design/Tech Magazines To Read | Smashing Magazine</title>
+<link>http://www.smashingmagazine.com/2007/03/19/40-designtech-magazines-to-read/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:46:52Z</dc:date>
+<dc:subject>css development web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.search-this.com/2007/03/26/10-quick-tips-for-an-easier-css-life/">
+<title>10 Quick Tips for an Easier CSS Life</title>
+<link>http://www.search-this.com/2007/03/26/10-quick-tips-for-an-easier-css-life/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:46:35Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tutorialblog.org/25-code-snippets-for-web-designers-part3/">
+<title>25 Code Snippets for Web Designers (Part3)</title>
+<link>http://tutorialblog.org/25-code-snippets-for-web-designers-part3/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T04:31:40Z</dc:date>
+<dc:subject>ajax css javascript web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cssplay.co.uk/menus/final_drop.html">
+<title>css dropdown menu</title>
+<link>http://www.cssplay.co.uk/menus/final_drop.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:19:42Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jakpsatweb.cz/css/css-vertical-center-solution.html">
+<title>CSS Vertical centering</title>
+<link>http://www.jakpsatweb.cz/css/css-vertical-center-solution.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:19:20Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ghettocooler.net/2005/11/13/image-floats-without-the-text-wrap/">
+<title>Image floats without text wrap</title>
+<link>http://ghettocooler.net/2005/11/13/image-floats-without-the-text-wrap/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:18:59Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.456bereastreet.com/lab/teaser/">
+<title>CSS Teaser box</title>
+<link>http://www.456bereastreet.com/lab/teaser/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:18:22Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.roundedcornr.com/">
+<title>Rounded corners</title>
+<link>http://www.roundedcornr.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:17:55Z</dc:date>
+<dc:subject>ajax css javascript web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lab.arc90.com/">
+<title>Arc 90</title>
+<link>http://lab.arc90.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:17:37Z</dc:date>
+<dc:subject>css javascript web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.positioniseverything.net/">
+<title>Position is everything</title>
+<link>http://www.positioniseverything.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:17:00Z</dc:date>
+<dc:subject>css web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://css.maxdesign.com.au/floatutorial/">
+<title>Float tutorial</title>
+<link>http://css.maxdesign.com.au/floatutorial/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:15:40Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://communitymx.com/content/article.cfm?cid=3B56F&#x26;print=true">
+<title>CSS: An introduction</title>
+<link>http://communitymx.com/content/article.cfm?cid=3B56F&#x26;print=true</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:15:21Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://csstinderbox.raykonline.com/">
+<title>CSS Tinderbox</title>
+<link>http://csstinderbox.raykonline.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T05:03:18Z</dc:date>
+<dc:subject>css web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/01/19/53-css-techniques-you-couldnt-live-without">
+<title>53 CSS techniques you couldn't live without</title>
+<link>http://www.smashingmagazine.com/2007/01/19/53-css-techniques-you-couldnt-live-without</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T07:14:57Z</dc:date>
+<dc:subject>css</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smashingmagazine.com/2007/01/26/tutorials-round-up-ajax-css-javascript-php-mysql-and-more/">
+<title>Tutorials roundup: Ajax, CSS, Javascript</title>
+<link>http://www.smashingmagazine.com/2007/01/26/tutorials-round-up-ajax-css-javascript-php-mysql-and-more/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T07:14:18Z</dc:date>
+<dc:subject>ajax css javascript php</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/php" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

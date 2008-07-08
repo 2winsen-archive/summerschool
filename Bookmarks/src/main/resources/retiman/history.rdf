@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/history">
+<title>del.icio.us/retiman/history</title>
+<link>http://del.icio.us/retiman/history</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.cnn.com/2007/US/05/18/martin/index.html" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Lick_Me_in_the_Ass" />
+  <rdf:li rdf:resource="http://bestdocumentaries.blogspot.com/2007/09/dangerous-knowledge-full-documentary.html" />
+  <rdf:li rdf:resource="http://www.damninteresting.com/?p=246" />
+  <rdf:li rdf:resource="http://people.howstuffworks.com/social-security-number.htm" />
+  <rdf:li rdf:resource="http://www.cbsnews.com/stories/2007/08/23/eveningnews/main3199062.shtml" />
+  <rdf:li rdf:resource="http://weirdworldstuff.blogspot.com/2007/08/images-that-changed-world.html" />
+  <rdf:li rdf:resource="http://video.google.com/videoplay?docid=891776135764757633&#x26;q=god+is+not+great+debate&#x26;total=151&#x26;start=0&#x26;num=10&#x26;so=0&#x26;type=search&#x26;plindex=1" />
+  <rdf:li rdf:resource="http://www.weirdasianews.com/2007/08/31/weird-asian-martial-arts-weapons/" />
+  <rdf:li rdf:resource="http://www.neo-tech.com/pleasures/history.html" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/fontblog/archive/2005/11/08/490490.aspx" />
+  <rdf:li rdf:resource="http://archivist.incutio.com/viewlist/css-discuss/68515" />
+  <rdf:li rdf:resource="http://www.2decide.com/table.htm" />
+  <rdf:li rdf:resource="http://www.iht.com/articles/2007/07/09/news/korea.php?page=1" />
+  <rdf:li rdf:resource="http://www.powells.com/review/2007_07_14" />
+  <rdf:li rdf:resource="http://throughweb.net/?p=217" />
+  <rdf:li rdf:resource="http://www.thedigitalbeat.com/2007/05/10-strangest-weapons-through-history.html/#/blank" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Betel_nut_beauty" />
+  <rdf:li rdf:resource="http://www.x-entertainment.com/articles/sodas/" />
+  <rdf:li rdf:resource="http://www.smirkingchimp.com/thread/8128" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/George_W._Bush#September_11.2C_2001" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/September_11%2C_2001_attacks" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.cnn.com/2007/US/05/18/martin/index.html">
+<title>Martin: Paul's 9/11 explanation deserves to be debated - CNN.com</title>
+<link>http://www.cnn.com/2007/US/05/18/martin/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-11T02:12:15Z</dc:date>
+<dc:subject>history politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Lick_Me_in_the_Ass">
+<title>Leck mich im Arsch - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Lick_Me_in_the_Ass</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-10T22:10:13Z</dc:date>
+<dc:subject>funny history wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bestdocumentaries.blogspot.com/2007/09/dangerous-knowledge-full-documentary.html">
+<title>Best Free Documentaries: Dangerous Knowledge - Full Documentary</title>
+<link>http://bestdocumentaries.blogspot.com/2007/09/dangerous-knowledge-full-documentary.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-04T04:42:00Z</dc:date>
+<dc:subject>history math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.damninteresting.com/?p=246">
+<title>Damn Interesting &#xBB; The Longest-Standing Math Problem</title>
+<link>http://www.damninteresting.com/?p=246</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-24T01:08:44Z</dc:date>
+<dc:subject>cool history math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://people.howstuffworks.com/social-security-number.htm">
+<title>Howstuffworks &#x22;How Social Security Numbers Work&#x22;</title>
+<link>http://people.howstuffworks.com/social-security-number.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T20:29:29Z</dc:date>
+<dc:subject>history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cbsnews.com/stories/2007/08/23/eveningnews/main3199062.shtml">
+<title>Letters Reveal Mother Teresa's Secret, Book Of Iconic Nun's Letters Shows She Was Tormented By Her Doubts In Her Faith - CBS News</title>
+<link>http://www.cbsnews.com/stories/2007/08/23/eveningnews/main3199062.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T18:43:56Z</dc:date>
+<dc:subject>atheism history news religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/news" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weirdworldstuff.blogspot.com/2007/08/images-that-changed-world.html">
+<title>Weird World::Weird Things-Articles, Pictures, Videos, Stories, Animals, Sex</title>
+<link>http://weirdworldstuff.blogspot.com/2007/08/images-that-changed-world.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T06:07:45Z</dc:date>
+<dc:subject>history news</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/news" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://video.google.com/videoplay?docid=891776135764757633&#x26;q=god+is+not+great+debate&#x26;total=151&#x26;start=0&#x26;num=10&#x26;so=0&#x26;type=search&#x26;plindex=1">
+<title>Christopher Hitchens vs Al Sharpton on Atheism and God - The Full Debate</title>
+<link>http://video.google.com/videoplay?docid=891776135764757633&#x26;q=god+is+not+great+debate&#x26;total=151&#x26;start=0&#x26;num=10&#x26;so=0&#x26;type=search&#x26;plindex=1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T05:07:21Z</dc:date>
+<dc:subject>atheism history politics religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.weirdasianews.com/2007/08/31/weird-asian-martial-arts-weapons/">
+<title>Weird Asian Martial Arts Weapons | Weird Asia News</title>
+<link>http://www.weirdasianews.com/2007/08/31/weird-asian-martial-arts-weapons/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T03:42:16Z</dc:date>
+<dc:subject>cool history weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.neo-tech.com/pleasures/history.html">
+<title>The History of Love</title>
+<link>http://www.neo-tech.com/pleasures/history.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-07T00:08:14Z</dc:date>
+<dc:subject>gender history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/gender" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/fontblog/archive/2005/11/08/490490.aspx">
+<title>fontblog : Where does 96 DPI come from in Windows?</title>
+<link>http://blogs.msdn.com/fontblog/archive/2005/11/08/490490.aspx</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T22:10:06Z</dc:date>
+<dc:subject>history software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://archivist.incutio.com/viewlist/css-discuss/68515">
+<title>css &#x26; fonts</title>
+<link>http://archivist.incutio.com/viewlist/css-discuss/68515</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-30T22:38:21Z</dc:date>
+<dc:subject>css history video</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/css" />
+    <rdf:li resource="http://del.icio.us/tag/video" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.2decide.com/table.htm">
+<title>2008 Presidential Election Candidates on the Issues</title>
+<link>http://www.2decide.com/table.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-23T22:41:55Z</dc:date>
+<dc:subject>history politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.iht.com/articles/2007/07/09/news/korea.php?page=1">
+<title>Born and raised in a North Korean gulag - International Herald Tribune</title>
+<link>http://www.iht.com/articles/2007/07/09/news/korea.php?page=1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-21T19:50:16Z</dc:date>
+<dc:subject>history korea</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/korea" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.powells.com/review/2007_07_14">
+<title>Powell's Books - Review-a-Day - Misquoting Jesus: The Story Behind Who Changed the Bible and Why by Bart D. Ehrman, reviewed by Powells.com</title>
+<link>http://www.powells.com/review/2007_07_14</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T08:23:18Z</dc:date>
+<dc:subject>atheism bible history religion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/atheism" />
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://throughweb.net/?p=217">
+<title>Tortures Devices (St. Petersburg museum, Russia) | Through Web</title>
+<link>http://throughweb.net/?p=217</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-28T22:57:03Z</dc:date>
+<dc:subject>history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.thedigitalbeat.com/2007/05/10-strangest-weapons-through-history.html/#/blank">
+<title>10 Strangest Weapons through History - 10 Things You Never Knew About</title>
+<link>http://www.thedigitalbeat.com/2007/05/10-strangest-weapons-through-history.html/#/blank</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-28T08:10:32Z</dc:date>
+<dc:subject>cool history weird</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/weird" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Betel_nut_beauty">
+<title>Betel nut beauty - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Betel_nut_beauty</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-25T17:59:55Z</dc:date>
+<dc:subject>history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.x-entertainment.com/articles/sodas/">
+<title>X-Entertainment: Dead Sodas.</title>
+<link>http://www.x-entertainment.com/articles/sodas/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-25T17:54:17Z</dc:date>
+<dc:subject>cool history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.smirkingchimp.com/thread/8128">
+<title>What Every American Should Know About Iraq - The Smirking Chimp</title>
+<link>http://www.smirkingchimp.com/thread/8128</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-16T20:48:08Z</dc:date>
+<dc:subject>history politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/George_W._Bush#September_11.2C_2001">
+<title>George W. Bush - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/George_W._Bush#September_11.2C_2001</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-22T22:32:03Z</dc:date>
+<dc:subject>history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/September_11%2C_2001_attacks">
+<title>September 11, 2001 attacks - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/September_11%2C_2001_attacks</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-22T22:31:48Z</dc:date>
+<dc:subject>history</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

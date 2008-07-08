@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/gifts">
+<title>del.icio.us/retiman/gifts</title>
+<link>http://del.icio.us/retiman/gifts</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://controversy.wearscience.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://controversy.wearscience.com/">
+<title>Teach the Controversy - Intelligently designed t-shirts urging you to show both sides of every story</title>
+<link>http://controversy.wearscience.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-23T05:02:53Z</dc:date>
+<dc:subject>gifts</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gifts" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

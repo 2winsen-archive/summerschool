@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/math">
+<title>del.icio.us/retiman/math</title>
+<link>http://del.icio.us/retiman/math</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures" />
+  <rdf:li rdf:resource="http://www.sciencenews.org/view/generic/id/33082/title/Accidental_astrophysicists" />
+  <rdf:li rdf:resource="http://www.alpertron.com.ar/ECM.HTM" />
+  <rdf:li rdf:resource="http://blog.sciencenews.org/mathtrek/2008/04/creeping_up_on_riemann.html#more" />
+  <rdf:li rdf:resource="http://en.wikibooks.org/wiki/Haskell/The_Curry-Howard_isomorphism" />
+  <rdf:li rdf:resource="http://projecteuler.net/index.php?section=top" />
+  <rdf:li rdf:resource="http://www.itasoftware.com/careers/puzzles07.html" />
+  <rdf:li rdf:resource="http://www.jakevoytko.com/blog/2007/09/16/number-theory-for-programmers-part-1/" />
+  <rdf:li rdf:resource="http://listverse.com/miscellaneous/20-amazing-optical-illusions/" />
+  <rdf:li rdf:resource="http://bestdocumentaries.blogspot.com/2007/09/dangerous-knowledge-full-documentary.html" />
+  <rdf:li rdf:resource="http://xkcd.com/blue_eyes.html" />
+  <rdf:li rdf:resource="http://www.damninteresting.com/?p=246" />
+  <rdf:li rdf:resource="http://godplaysdice.blogspot.com/" />
+  <rdf:li rdf:resource="http://godplaysdice.blogspot.com/2007/09/why-g-2.html" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/List_of_open_problems_in_computer_science" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Unsolved_problems_in_mathematics" />
+  <rdf:li rdf:resource="http://cosmicvariance.com/" />
+  <rdf:li rdf:resource="http://www.stetson.edu/~efriedma/numbers.html" />
+  <rdf:li rdf:resource="http://www.nizkor.org/features/fallacies/" />
+  <rdf:li rdf:resource="http://www.itwire.com.au/content/view/13339/53/" />
+  <rdf:li rdf:resource="http://www.cut-the-knot.org/index.shtml" />
+  <rdf:li rdf:resource="http://www.cs.elte.hu/~ewkiss/education.html" />
+  <rdf:li rdf:resource="http://gospelofreason.wordpress.com/2007/06/13/god-said-pi-3-stand-by-your-beliefs-dammit/" />
+  <rdf:li rdf:resource="http://math-blog.com/2007/06/04/a-10-minute-tutorial-for-solving-math-problems-with-maxima/" />
+  <rdf:li rdf:resource="http://www.cigital.com/papers/download/developer_gambling.php" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Almost_surely" />
+  <rdf:li rdf:resource="http://www.greylabyrinth.com/" />
+  <rdf:li rdf:resource="http://mathforum.org/dr.math/faq/faq.3utilities.html" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Induction_puzzles" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/The_hardest_logic_puzzle_ever" />
+  <rdf:li rdf:resource="http://www.physorg.com/news98962171.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures">
+<title>LinkMingle.com &#xBB; 30+ List of Computer Science Video Lectures (Over 200 Videos)</title>
+<link>http://linkmingle.com/list/30-plus-List-of-Computer-Science-Video-Lectures-Over-200-Videos-video-lectures</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-24T02:42:33Z</dc:date>
+<dc:subject>computer math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sciencenews.org/view/generic/id/33082/title/Accidental_astrophysicists">
+<title>Science News / Accidental Astrophysicists</title>
+<link>http://www.sciencenews.org/view/generic/id/33082/title/Accidental_astrophysicists</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-17T07:12:31Z</dc:date>
+<dc:subject>math physics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alpertron.com.ar/ECM.HTM">
+<title>Factorization using the Elliptic Curve Method</title>
+<link>http://www.alpertron.com.ar/ECM.HTM</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-19T16:14:33Z</dc:date>
+<dc:subject>java math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.sciencenews.org/mathtrek/2008/04/creeping_up_on_riemann.html#more">
+<title>MathTrek: Creeping Up on Riemann</title>
+<link>http://blog.sciencenews.org/mathtrek/2008/04/creeping_up_on_riemann.html#more</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-04-11T11:03:43Z</dc:date>
+<dc:subject>math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikibooks.org/wiki/Haskell/The_Curry-Howard_isomorphism">
+<title>Haskell/The Curry-Howard isomorphism - Wikibooks, collection of open-content textbooks</title>
+<link>http://en.wikibooks.org/wiki/Haskell/The_Curry-Howard_isomorphism</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-13T04:00:47Z</dc:date>
+<dc:subject>haskell math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/haskell" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://projecteuler.net/index.php?section=top">
+<title>Project Euler</title>
+<link>http://projecteuler.net/index.php?section=top</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-13T10:11:54Z</dc:date>
+<dc:subject>math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itasoftware.com/careers/puzzles07.html">
+<title>ITA Software - Puzzle Archive</title>
+<link>http://www.itasoftware.com/careers/puzzles07.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-12T20:40:16Z</dc:date>
+<dc:subject>math puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jakevoytko.com/blog/2007/09/16/number-theory-for-programmers-part-1/">
+<title>Number Theory for Programmers, Part 1 : So Jake Says:</title>
+<link>http://www.jakevoytko.com/blog/2007/09/16/number-theory-for-programmers-part-1/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T22:54:30Z</dc:date>
+<dc:subject>math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://listverse.com/miscellaneous/20-amazing-optical-illusions/">
+<title>20 Amazing Optical Illusions - The List Universe</title>
+<link>http://listverse.com/miscellaneous/20-amazing-optical-illusions/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-11T21:31:39Z</dc:date>
+<dc:subject>cool education image math psychology reference science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/psychology" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/image" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://bestdocumentaries.blogspot.com/2007/09/dangerous-knowledge-full-documentary.html">
+<title>Best Free Documentaries: Dangerous Knowledge - Full Documentary</title>
+<link>http://bestdocumentaries.blogspot.com/2007/09/dangerous-knowledge-full-documentary.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-04T04:42:00Z</dc:date>
+<dc:subject>history math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://xkcd.com/blue_eyes.html">
+<title>Blue Eyes - A Logic Puzzle</title>
+<link>http://xkcd.com/blue_eyes.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-26T00:28:31Z</dc:date>
+<dc:subject>funny math puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.damninteresting.com/?p=246">
+<title>Damn Interesting &#xBB; The Longest-Standing Math Problem</title>
+<link>http://www.damninteresting.com/?p=246</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-24T01:08:44Z</dc:date>
+<dc:subject>cool history math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://godplaysdice.blogspot.com/">
+<title>God Plays Dice</title>
+<link>http://godplaysdice.blogspot.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-16T08:45:23Z</dc:date>
+<dc:subject>cool math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://godplaysdice.blogspot.com/2007/09/why-g-2.html">
+<title>God Plays Dice: Why g ~ &#x3C0;&#x3C;sup&#x3E;2&#x3C;/sup&#x3E;</title>
+<link>http://godplaysdice.blogspot.com/2007/09/why-g-2.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-16T08:42:04Z</dc:date>
+<dc:subject>math physics science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/physics" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/List_of_open_problems_in_computer_science">
+<title>List of open problems in computer science - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/List_of_open_problems_in_computer_science</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-25T00:51:25Z</dc:date>
+<dc:subject>math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Unsolved_problems_in_mathematics">
+<title>Unsolved problems in mathematics - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Unsolved_problems_in_mathematics</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-25T00:49:13Z</dc:date>
+<dc:subject>math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://cosmicvariance.com/">
+<title>Cosmic Variance</title>
+<link>http://cosmicvariance.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-15T21:41:22Z</dc:date>
+<dc:subject>education math science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.stetson.edu/~efriedma/numbers.html">
+<title>What's Special About This Number?</title>
+<link>http://www.stetson.edu/~efriedma/numbers.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-11T22:32:28Z</dc:date>
+<dc:subject>math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nizkor.org/features/fallacies/">
+<title>Fallacies</title>
+<link>http://www.nizkor.org/features/fallacies/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-10T20:09:39Z</dc:date>
+<dc:subject>education math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.itwire.com.au/content/view/13339/53/">
+<title>iTWire - Want to be a computer scientist? Forget maths</title>
+<link>http://www.itwire.com.au/content/view/13339/53/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-08T23:55:43Z</dc:date>
+<dc:subject>math science wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cut-the-knot.org/index.shtml">
+<title>Interactive Mathematics Miscellany and Puzzles, Index</title>
+<link>http://www.cut-the-knot.org/index.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-26T18:34:39Z</dc:date>
+<dc:subject>education math puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cs.elte.hu/~ewkiss/education.html">
+<title>Can the level of math education sink any lower?</title>
+<link>http://www.cs.elte.hu/~ewkiss/education.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-23T01:40:24Z</dc:date>
+<dc:subject>education funny math wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/education" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gospelofreason.wordpress.com/2007/06/13/god-said-pi-3-stand-by-your-beliefs-dammit/">
+<title>God Said Pi = 3; Stand By Your Beliefs Dammit &#xAB; Gospel of Reason</title>
+<link>http://gospelofreason.wordpress.com/2007/06/13/god-said-pi-3-stand-by-your-beliefs-dammit/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-15T03:23:41Z</dc:date>
+<dc:subject>creationism math religion science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/creationism" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/religion" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://math-blog.com/2007/06/04/a-10-minute-tutorial-for-solving-math-problems-with-maxima/">
+<title>A 10 minute tutorial for solving Math problems with Maxima</title>
+<link>http://math-blog.com/2007/06/04/a-10-minute-tutorial-for-solving-math-problems-with-maxima/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-12T19:17:10Z</dc:date>
+<dc:subject>howto math maxima science</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/maxima" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.cigital.com/papers/download/developer_gambling.php">
+<title>How We Learned to Cheat at Online Poker: A Study in Software Security [Cigital]</title>
+<link>http://www.cigital.com/papers/download/developer_gambling.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-06T19:04:56Z</dc:date>
+<dc:subject>gaming math poker security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/poker" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Almost_surely">
+<title>Almost surely - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Almost_surely</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-06T02:40:55Z</dc:date>
+<dc:subject>math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.greylabyrinth.com/">
+<title>The Grey Labyrinth</title>
+<link>http://www.greylabyrinth.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-05T22:53:55Z</dc:date>
+<dc:subject>math puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mathforum.org/dr.math/faq/faq.3utilities.html">
+<title>Math Forum: Ask Dr. Math FAQ: Three Houses, Three Utilities</title>
+<link>http://mathforum.org/dr.math/faq/faq.3utilities.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-05T20:08:08Z</dc:date>
+<dc:subject>math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Induction_puzzles">
+<title>Induction puzzles - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Induction_puzzles</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-24T21:47:21Z</dc:date>
+<dc:subject>math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/The_hardest_logic_puzzle_ever">
+<title>The hardest logic puzzle ever - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/The_hardest_logic_puzzle_ever</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-23T06:07:01Z</dc:date>
+<dc:subject>gaming math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.physorg.com/news98962171.html">
+<title>A mighty number falls</title>
+<link>http://www.physorg.com/news98962171.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-21T19:02:16Z</dc:date>
+<dc:subject>math security</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

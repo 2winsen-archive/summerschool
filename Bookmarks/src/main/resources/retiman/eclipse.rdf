@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/eclipse">
+<title>del.icio.us/retiman/eclipse</title>
+<link>http://del.icio.us/retiman/eclipse</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://eclim.sourceforge.net/" />
+  <rdf:li rdf:resource="http://vimplugin.sourceforge.net/wiki/pmwiki.php" />
+  <rdf:li rdf:resource="http://viclipse.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.satokar.com/viplugin/" />
+  <rdf:li rdf:resource="http://www.servlets.com/blog/archives/000040.html" />
+  <rdf:li rdf:resource="http://www.eclipseplugincentral.com/modules.php?op=modload&#x26;name=Web_Links&#x26;file=index&#x26;req=viewlink&#x26;cid=115" />
+  <rdf:li rdf:resource="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-520.html" />
+  <rdf:li rdf:resource="http://eclipsezone.com/" />
+  <rdf:li rdf:resource="http://blog.xam.dk/index.php?url=archives/68-Eclipse-and-memory-settings.html&#x26;serendipity%5Bcview%5D=linear" />
+  <rdf:li rdf:resource="http://colorer.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www-128.ibm.com/developerworks/java/library/j-subversion/index.html" />
+  <rdf:li rdf:resource="http://www.bastian-bergerhoff.com/eclipse/features/web/QuickREx/toc.html" />
+  <rdf:li rdf:resource="http://log4e.jayefem.de/index.php/Main_Page" />
+  <rdf:li rdf:resource="http://hibernatesynch.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.oxygenxml.com/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://eclim.sourceforge.net/">
+<title>Welcome to Eclim</title>
+<link>http://eclim.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-21T17:41:48Z</dc:date>
+<dc:subject>eclipse vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vimplugin.sourceforge.net/wiki/pmwiki.php">
+<title>Vimplugin Wiki : Home Page</title>
+<link>http://vimplugin.sourceforge.net/wiki/pmwiki.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-21T17:39:34Z</dc:date>
+<dc:subject>eclipse vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://viclipse.sourceforge.net/">
+<title>Viclipse</title>
+<link>http://viclipse.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-21T17:39:29Z</dc:date>
+<dc:subject>eclipse vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.satokar.com/viplugin/">
+<title>viPlugin for Eclipse | ... 'cause editing still is the way to code</title>
+<link>http://www.satokar.com/viplugin/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-21T17:22:47Z</dc:date>
+<dc:subject>eclipse java rails vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.servlets.com/blog/archives/000040.html">
+<title>Servlets.com Weblog: Why I stopped using vim and started using IntelliJ</title>
+<link>http://www.servlets.com/blog/archives/000040.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-20T22:33:27Z</dc:date>
+<dc:subject>eclipse idea vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+    <rdf:li resource="http://del.icio.us/tag/idea" />
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eclipseplugincentral.com/modules.php?op=modload&#x26;name=Web_Links&#x26;file=index&#x26;req=viewlink&#x26;cid=115">
+<title>Eclipse Plugin Central :: Eclipse plugin resource center and marketplace for Eclipse and Plugin Ecosystem</title>
+<link>http://www.eclipseplugincentral.com/modules.php?op=modload&#x26;name=Web_Links&#x26;file=index&#x26;req=viewlink&#x26;cid=115</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-18T02:16:14Z</dc:date>
+<dc:subject>eclipse</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-520.html">
+<title>Eclipse Plugin Central :: Eclipse plugin resource center and marketplace for Eclipse and Plugin Ecosystem</title>
+<link>http://www.eclipseplugincentral.com/Web_Links-index-req-viewlink-cid-520.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-18T00:49:48Z</dc:date>
+<dc:subject>eclipse</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://eclipsezone.com/">
+<title>EclipseZone - An online community by and for Eclipse users everywhere</title>
+<link>http://eclipsezone.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T03:02:56Z</dc:date>
+<dc:subject>eclipse java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.xam.dk/index.php?url=archives/68-Eclipse-and-memory-settings.html&#x26;serendipity%5Bcview%5D=linear">
+<title>Eclipse and memory settings - Max's blog</title>
+<link>http://blog.xam.dk/index.php?url=archives/68-Eclipse-and-memory-settings.html&#x26;serendipity%5Bcview%5D=linear</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-29T23:32:02Z</dc:date>
+<dc:subject>eclipse java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://colorer.sourceforge.net/">
+<title>Colorer-take5 library</title>
+<link>http://colorer.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-19T19:18:59Z</dc:date>
+<dc:subject>eclipse</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-128.ibm.com/developerworks/java/library/j-subversion/index.html">
+<title>Introducing Subversion</title>
+<link>http://www-128.ibm.com/developerworks/java/library/j-subversion/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-08T08:09:04Z</dc:date>
+<dc:subject>eclipse java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.bastian-bergerhoff.com/eclipse/features/web/QuickREx/toc.html">
+<title>Table of Contents</title>
+<link>http://www.bastian-bergerhoff.com/eclipse/features/web/QuickREx/toc.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-03T21:32:28Z</dc:date>
+<dc:subject>eclipse</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://log4e.jayefem.de/index.php/Main_Page">
+<title>Main Page - Log4E</title>
+<link>http://log4e.jayefem.de/index.php/Main_Page</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-03T21:31:59Z</dc:date>
+<dc:subject>eclipse</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hibernatesynch.sourceforge.net/">
+<title>hibernate synchronizer</title>
+<link>http://hibernatesynch.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-03T21:30:51Z</dc:date>
+<dc:subject>eclipse</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oxygenxml.com/">
+<title>&#x3C;oXygen/&#x3E; XML Editor &#x26; XSLT Debugger</title>
+<link>http://www.oxygenxml.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-03T21:30:13Z</dc:date>
+<dc:subject>eclipse</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/eclipse" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

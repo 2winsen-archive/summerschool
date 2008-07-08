@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/java">
+<title>del.icio.us/retiman/java</title>
+<link>http://del.icio.us/retiman/java</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.reddit.com/r/programming/info/6qci0/comments/" />
+  <rdf:li rdf:resource="http://dlwh.blogspot.com/2008/05/dynamic-code-reloading-in-scala.html" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/java/library/j-jtp07018.html?ca=drs-" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/java/library/j-jtp04298.html" />
+  <rdf:li rdf:resource="http://blog.tmorris.net/just-what-the-funk-is-a-functor-anyway/" />
+  <rdf:li rdf:resource="http://blog.lostlake.org/index.php?/archives/73-For-all-you-know,-its-just-another-Java-library.html" />
+  <rdf:li rdf:resource="http://littletutorials.com/2008/05/28/13-reasons-java-die-old-age/" />
+  <rdf:li rdf:resource="http://blogs.sonatype.com/brian/2008/05/22/1211510197004.html" />
+  <rdf:li rdf:resource="http://weblogs.java.net/blog/inder/archive/2008/05/teaching_maven2_1.html" />
+  <rdf:li rdf:resource="http://www.alpertron.com.ar/ECM.HTM" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/java/jdk/linux/6/sdkandruntimeguide.lnx.html" />
+  <rdf:li rdf:resource="http://erikengbrecht.blogspot.com/2008/04/multiprocess-versus-multithreaded.html" />
+  <rdf:li rdf:resource="http://lucumr.pocoo.org/articles/vim-as-development-environment" />
+  <rdf:li rdf:resource="http://vim.sourceforge.net/tips/tip.php?tip_id=385" />
+  <rdf:li rdf:resource="http://everything101.sourceforge.net/docs/papers/java_and_vim.html" />
+  <rdf:li rdf:resource="http://dgoodwin.dangerouslyinc.com/replacing-eclipse-vim-java-development" />
+  <rdf:li rdf:resource="http://en.wikipedia.org/wiki/Generics_in_Java#Type_erasure" />
+  <rdf:li rdf:resource="http://www.nabble.com/Mixed-Java-Scala-Project-Organization-td9054773s177.html#a9054773" />
+  <rdf:li rdf:resource="http://thread.gmane.org/gmane.comp.lang.scala/3189" />
+  <rdf:li rdf:resource="http://blogtrader.net/page/dcaoyuan/" />
+  <rdf:li rdf:resource="http://scala-blogs.org/2008/01/maven-for-scala.html" />
+  <rdf:li rdf:resource="http://techpolesen.blogspot.com/2007/10/10-areas-where-rails-fails.html" />
+  <rdf:li rdf:resource="http://www.javaworld.com/javaworld/jw-05-2006/jw-0529-maven.html?page=2" />
+  <rdf:li rdf:resource="http://www.saager.org/2007/12/16/java-should-stay-java.html" />
+  <rdf:li rdf:resource="http://maven.apache.org/pom.html#Introduction" />
+  <rdf:li rdf:resource="http://weblogs.java.net/blog/tomwhite/archive/2007/11/consistent_hash.html" />
+  <rdf:li rdf:resource="http://communitygrids.blogspot.com/2005/11/using-maven-2-part-1.html" />
+  <rdf:li rdf:resource="http://graphics.stanford.edu/~seander/bithacks.html" />
+  <rdf:li rdf:resource="http://www.jroller.com/javelotinfo/entry/trolling_with_java_web_frameworks" />
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=IntrotoSpring25" />
+  <rdf:li rdf:resource="http://www.spinellis.gr/codequality/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.reddit.com/r/programming/info/6qci0/comments/">
+<title>programming: No, inheritance is not the way to achieve code reuse!</title>
+<link>http://www.reddit.com/r/programming/info/6qci0/comments/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-07T01:25:01Z</dc:date>
+<dc:subject>java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dlwh.blogspot.com/2008/05/dynamic-code-reloading-in-scala.html">
+<title>:dlwh: Dynamic Code Reloading in the Scala Interpreter</title>
+<link>http://dlwh.blogspot.com/2008/05/dynamic-code-reloading-in-scala.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-06T20:17:28Z</dc:date>
+<dc:subject>java scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/java/library/j-jtp07018.html?ca=drs-">
+<title>Java theory and practice: Going wild with generics, Part 2</title>
+<link>http://www.ibm.com/developerworks/java/library/j-jtp07018.html?ca=drs-</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-06T19:52:36Z</dc:date>
+<dc:subject>generics java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/generics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/java/library/j-jtp04298.html">
+<title>Java theory and practice: Going wild with generics, Part 1</title>
+<link>http://www.ibm.com/developerworks/java/library/j-jtp04298.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-06T19:52:30Z</dc:date>
+<dc:subject>generics java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/generics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.tmorris.net/just-what-the-funk-is-a-functor-anyway/">
+<title>&#x3BB; Tony&#x2019;s blog &#x3BB; &#xBB; Blog Archive &#xBB; Just what the funk is a Functor anyway?</title>
+<link>http://blog.tmorris.net/just-what-the-funk-is-a-functor-anyway/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-29T05:12:16Z</dc:date>
+<dc:subject>java scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blog.lostlake.org/index.php?/archives/73-For-all-you-know,-its-just-another-Java-library.html">
+<title>For all you know, it's just another Java library - David Pollak's Blog</title>
+<link>http://blog.lostlake.org/index.php?/archives/73-For-all-you-know,-its-just-another-Java-library.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-02T06:58:34Z</dc:date>
+<dc:subject>java lift maven scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/lift" />
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://littletutorials.com/2008/05/28/13-reasons-java-die-old-age/">
+<title>13 reasons why Ruby, Python and the gang will push Java to die&#x2026; of old age | Little Tutorials</title>
+<link>http://littletutorials.com/2008/05/28/13-reasons-java-die-old-age/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-31T02:28:40Z</dc:date>
+<dc:subject>java programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.sonatype.com/brian/2008/05/22/1211510197004.html">
+<title>Adding additional source folders to your Maven build - Brian's Enterprise Blog</title>
+<link>http://blogs.sonatype.com/brian/2008/05/22/1211510197004.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-23T12:07:27Z</dc:date>
+<dc:subject>java maven</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.java.net/blog/inder/archive/2008/05/teaching_maven2_1.html">
+<title>Inderjeet Singh's Blog: Teaching Maven2 to use multiple source directories</title>
+<link>http://weblogs.java.net/blog/inder/archive/2008/05/teaching_maven2_1.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-23T12:03:37Z</dc:date>
+<dc:subject>java maven</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.alpertron.com.ar/ECM.HTM">
+<title>Factorization using the Elliptic Curve Method</title>
+<link>http://www.alpertron.com.ar/ECM.HTM</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-19T16:14:33Z</dc:date>
+<dc:subject>java math</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/math" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/java/jdk/linux/6/sdkandruntimeguide.lnx.html">
+<title>developerWorks : Java&#x2122; technology : IBM developer kits : Linux</title>
+<link>http://www.ibm.com/developerworks/java/jdk/linux/6/sdkandruntimeguide.lnx.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-07T20:38:55Z</dc:date>
+<dc:subject>ibm java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ibm" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://erikengbrecht.blogspot.com/2008/04/multiprocess-versus-multithreaded.html">
+<title>Erik Engbrecht's Blog: Multiprocess versus Multithreaded...</title>
+<link>http://erikengbrecht.blogspot.com/2008/04/multiprocess-versus-multithreaded.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-04-10T21:31:37Z</dc:date>
+<dc:subject>development java web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lucumr.pocoo.org/articles/vim-as-development-environment">
+<title>Vim as Development Environment &#xBB; Articles &#xBB; Lucumr</title>
+<link>http://lucumr.pocoo.org/articles/vim-as-development-environment</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-15T08:41:30Z</dc:date>
+<dc:subject>java vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://vim.sourceforge.net/tips/tip.php?tip_id=385">
+<title>Tip #385 - some java &#x26; vim tips : vim online</title>
+<link>http://vim.sourceforge.net/tips/tip.php?tip_id=385</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-15T05:24:03Z</dc:date>
+<dc:subject>java vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://everything101.sourceforge.net/docs/papers/java_and_vim.html">
+<title>ophinity :: papers :: java and vim</title>
+<link>http://everything101.sourceforge.net/docs/papers/java_and_vim.html</link>
+<description>map F :let &#x26;amp;fen = !&#x26;amp;fen</description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-15T04:48:25Z</dc:date>
+<dc:subject>java vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://dgoodwin.dangerouslyinc.com/replacing-eclipse-vim-java-development">
+<title>Replacing Eclipse With Vim For Java Development | dgoodwin's blog</title>
+<link>http://dgoodwin.dangerouslyinc.com/replacing-eclipse-vim-java-development</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-15T04:47:45Z</dc:date>
+<dc:subject>java vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://en.wikipedia.org/wiki/Generics_in_Java#Type_erasure">
+<title>Generics in Java - Wikipedia, the free encyclopedia</title>
+<link>http://en.wikipedia.org/wiki/Generics_in_Java#Type_erasure</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-14T05:15:43Z</dc:date>
+<dc:subject>generics java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/generics" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nabble.com/Mixed-Java-Scala-Project-Organization-td9054773s177.html#a9054773">
+<title>Nabble - Scala - Mixed Java Scala Project Organization</title>
+<link>http://www.nabble.com/Mixed-Java-Scala-Project-Organization-td9054773s177.html#a9054773</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-10T09:59:56Z</dc:date>
+<dc:subject>java scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thread.gmane.org/gmane.comp.lang.scala/3189">
+<title>Mixed-language project builds</title>
+<link>http://thread.gmane.org/gmane.comp.lang.scala/3189</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-10T09:59:47Z</dc:date>
+<dc:subject>java scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogtrader.net/page/dcaoyuan/">
+<title>Caoyuan's Blog</title>
+<link>http://blogtrader.net/page/dcaoyuan/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-10T05:12:08Z</dc:date>
+<dc:subject>java netbeans scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/netbeans" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scala-blogs.org/2008/01/maven-for-scala.html">
+<title>Scala Blog: maven for scala</title>
+<link>http://scala-blogs.org/2008/01/maven-for-scala.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-07T06:50:59Z</dc:date>
+<dc:subject>java maven scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://techpolesen.blogspot.com/2007/10/10-areas-where-rails-fails.html">
+<title>Old Tech Per: 10 Areas Where Rails Fails</title>
+<link>http://techpolesen.blogspot.com/2007/10/10-areas-where-rails-fails.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-08T06:26:44Z</dc:date>
+<dc:subject>java rails ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/rails" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javaworld.com/javaworld/jw-05-2006/jw-0529-maven.html?page=2">
+<title>The Maven 2 POM demystified - Java World</title>
+<link>http://www.javaworld.com/javaworld/jw-05-2006/jw-0529-maven.html?page=2</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-18T06:09:26Z</dc:date>
+<dc:subject>java maven</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.saager.org/2007/12/16/java-should-stay-java.html">
+<title>Carsten&#xE2;&#x20AC;&#x2122;s Blog &#xBB; Blog Archive &#xBB; Java should stay Java (?|!)</title>
+<link>http://www.saager.org/2007/12/16/java-should-stay-java.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-17T16:53:23Z</dc:date>
+<dc:subject>java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://maven.apache.org/pom.html#Introduction">
+<title>Maven - POM Reference</title>
+<link>http://maven.apache.org/pom.html#Introduction</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-15T08:02:07Z</dc:date>
+<dc:subject>java maven</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.java.net/blog/tomwhite/archive/2007/11/consistent_hash.html">
+<title>Tom White's Blog: Consistent Hashing</title>
+<link>http://weblogs.java.net/blog/tomwhite/archive/2007/11/consistent_hash.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-28T20:04:30Z</dc:date>
+<dc:subject>caching java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/caching" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://communitygrids.blogspot.com/2005/11/using-maven-2-part-1.html">
+<title>Marlon Pierce's Community Grids Lab Blog: Using Maven 2, Part 1</title>
+<link>http://communitygrids.blogspot.com/2005/11/using-maven-2-part-1.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-21T01:48:36Z</dc:date>
+<dc:subject>java maven</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://graphics.stanford.edu/~seander/bithacks.html">
+<title>Bit Twiddling Hacks</title>
+<link>http://graphics.stanford.edu/~seander/bithacks.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-01T23:36:45Z</dc:date>
+<dc:subject>cool development java puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.jroller.com/javelotinfo/entry/trolling_with_java_web_frameworks">
+<title>Fred Daoud's Weblog : Weblog</title>
+<link>http://www.jroller.com/javelotinfo/entry/trolling_with_java_web_frameworks</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-25T17:56:45Z</dc:date>
+<dc:subject>frameworks java web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/frameworks" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=IntrotoSpring25">
+<title>Enterprise Java Community: Introduction to the Spring Framework 2.5</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=IntrotoSpring25</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-22T05:30:18Z</dc:date>
+<dc:subject>java spring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/spring" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spinellis.gr/codequality/">
+<title>Spinellis: Code Quality: The Open Source Perspective</title>
+<link>http://www.spinellis.gr/codequality/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:48:56Z</dc:date>
+<dc:subject>java software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/cpu">
+<title>del.icio.us/retiman/cpu</title>
+<link>http://del.icio.us/retiman/cpu</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.informit.com/articles/article.aspx?p=1165036&#x26;seqNum=1" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.informit.com/articles/article.aspx?p=1165036&#x26;seqNum=1">
+<title>InformIT: Inside Your OS: What is a Process Scheduler, and How Does it Work? &#x3E; Virtual Virtualization</title>
+<link>http://www.informit.com/articles/article.aspx?p=1165036&#x26;seqNum=1</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-30T20:14:23Z</dc:date>
+<dc:subject>cpu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cpu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/testing">
+<title>del.icio.us/retiman/testing</title>
+<link>http://del.icio.us/retiman/testing</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.artima.com/scalatest/doc-0.9.1/org/scalatest/Suite.html" />
+  <rdf:li rdf:resource="http://www.artima.com/scalatest/" />
+  <rdf:li rdf:resource="http://www.informationweek.com/news/showArticle.jhtml?articleID=201802175" />
+  <rdf:li rdf:resource="http://htmlunit.sourceforge.net/gettingStarted.html" />
+  <rdf:li rdf:resource="http://ws.apache.org/commons/tcpmon/" />
+  <rdf:li rdf:resource="http://www.oreillynet.com/onjava/blog/2006/10/how_do_you_test.html" />
+  <rdf:li rdf:resource="http://www.philosophe.com/testing/testing.html" />
+  <rdf:li rdf:resource="http://www.mailinator.com/" />
+  <rdf:li rdf:resource="http://jfunc.sourceforge.net/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.artima.com/scalatest/doc-0.9.1/org/scalatest/Suite.html">
+<title>trait Suite in org.scalatest</title>
+<link>http://www.artima.com/scalatest/doc-0.9.1/org/scalatest/Suite.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-15T10:41:47Z</dc:date>
+<dc:subject>scala testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.artima.com/scalatest/">
+<title>ScalaTest</title>
+<link>http://www.artima.com/scalatest/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-12T04:56:06Z</dc:date>
+<dc:subject>scala testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.informationweek.com/news/showArticle.jhtml?articleID=201802175">
+<title>Those Cross-Browser Blues: How To Develop Web Sites For Both Internet Explorer And Firefox -- Browser Compatability</title>
+<link>http://www.informationweek.com/news/showArticle.jhtml?articleID=201802175</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T05:30:18Z</dc:date>
+<dc:subject>firefox software testing web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://htmlunit.sourceforge.net/gettingStarted.html">
+<title>htmlunit - Getting Started with HtmlUnit</title>
+<link>http://htmlunit.sourceforge.net/gettingStarted.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-15T00:11:50Z</dc:date>
+<dc:subject>java testing web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ws.apache.org/commons/tcpmon/">
+<title>Web Services Commons : TCPMon - Apache TCPMon</title>
+<link>http://ws.apache.org/commons/tcpmon/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-06T19:21:22Z</dc:date>
+<dc:subject>apache java software testing web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.oreillynet.com/onjava/blog/2006/10/how_do_you_test.html">
+<title>How do you test? - O'Reilly ONJava Blog</title>
+<link>http://www.oreillynet.com/onjava/blog/2006/10/how_do_you_test.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:21:12Z</dc:date>
+<dc:subject>java testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.philosophe.com/testing/testing.html">
+<title>Philosophe: Testing</title>
+<link>http://www.philosophe.com/testing/testing.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T06:09:10Z</dc:date>
+<dc:subject>development testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mailinator.com/">
+<title>Mailinator</title>
+<link>http://www.mailinator.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-19T03:10:07Z</dc:date>
+<dc:subject>cool testing web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jfunc.sourceforge.net/">
+<title>JFunc: Functional testing</title>
+<link>http://jfunc.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T20:35:04Z</dc:date>
+<dc:subject>codeanalysis java testing</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/testing" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/codeanalysis" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

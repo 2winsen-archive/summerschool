@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/dns">
+<title>del.icio.us/retiman/dns</title>
+<link>http://del.icio.us/retiman/dns</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.ubuntugeek.com/local-dns-cache-for-faster-browsing-on-ubuntu-machine.html" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=6188&#x26;page=2" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=3699&#x26;highlight=iPv6" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.ubuntugeek.com/local-dns-cache-for-faster-browsing-on-ubuntu-machine.html">
+<title>Local DNS Cache for Faster Browsing on Ubuntu Machine -- Ubuntu Geek</title>
+<link>http://www.ubuntugeek.com/local-dns-cache-for-faster-browsing-on-ubuntu-machine.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-22T19:06:45Z</dc:date>
+<dc:subject>dns linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dns" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=6188&#x26;page=2">
+<title>Random and consistant DNS Failure - Page 2 - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=6188&#x26;page=2</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-24T18:14:22Z</dc:date>
+<dc:subject>dns ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/dns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=3699&#x26;highlight=iPv6">
+<title>Performance issues - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=3699&#x26;highlight=iPv6</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-24T18:14:10Z</dc:date>
+<dc:subject>dns ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/dns" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

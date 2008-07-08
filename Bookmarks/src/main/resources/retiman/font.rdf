@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/font">
+<title>del.icio.us/retiman/font</title>
+<link>http://del.icio.us/retiman/font</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.winehq.org/site/docs/wineusr-guide/misc-things-to-configure" />
+  <rdf:li rdf:resource="http://www.dyn-web.com/dhtml/sizefont/index.php" />
+  <rdf:li rdf:resource="http://gentoo-wiki.com/HOWTO_Xorg_and_Fonts" />
+  <rdf:li rdf:resource="http://www.slackwiki.org/LCD_Monitor_Configuration_In_X.Org" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=343670" />
+  <rdf:li rdf:resource="http://penguinfonts.com/howto/ubuntu.php" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.winehq.org/site/docs/wineusr-guide/misc-things-to-configure">
+<title>Wine HQ - Other Things to Configure</title>
+<link>http://www.winehq.org/site/docs/wineusr-guide/misc-things-to-configure</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-10T20:31:22Z</dc:date>
+<dc:subject>font wine</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wine" />
+    <rdf:li resource="http://del.icio.us/tag/font" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dyn-web.com/dhtml/sizefont/index.php">
+<title>Change Font Size OnClick: Font Sizer DX</title>
+<link>http://www.dyn-web.com/dhtml/sizefont/index.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-08T22:35:59Z</dc:date>
+<dc:subject>css font javascript</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/font" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/css" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://gentoo-wiki.com/HOWTO_Xorg_and_Fonts">
+<title>HOWTO Xorg and Fonts - Gentoo Linux Wiki</title>
+<link>http://gentoo-wiki.com/HOWTO_Xorg_and_Fonts</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-30T20:12:22Z</dc:date>
+<dc:subject>firefox font ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/font" />
+    <rdf:li resource="http://del.icio.us/tag/firefox" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.slackwiki.org/LCD_Monitor_Configuration_In_X.Org">
+<title>LCD Monitor Configuration In X.Org - SlackWiki</title>
+<link>http://www.slackwiki.org/LCD_Monitor_Configuration_In_X.Org</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-27T07:34:17Z</dc:date>
+<dc:subject>font linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/font" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=343670">
+<title>Improved subpixel font rendering for Feisty - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=343670</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-24T00:00:11Z</dc:date>
+<dc:subject>font linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/font" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://penguinfonts.com/howto/ubuntu.php">
+<title>HOWTO Install fonts on Ubuntu</title>
+<link>http://penguinfonts.com/howto/ubuntu.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-02T19:17:21Z</dc:date>
+<dc:subject>font linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/font" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

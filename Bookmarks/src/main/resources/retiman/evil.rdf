@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/evil">
+<title>del.icio.us/retiman/evil</title>
+<link>http://del.icio.us/retiman/evil</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://seattletimes.nwsource.com/html/politics/2004001159_spying08.html" />
+  <rdf:li rdf:resource="http://www.biblegateway.com/passage/?search=Isaiah%2045:7;&#x26;version=9;" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://seattletimes.nwsource.com/html/politics/2004001159_spying08.html">
+<title>Politics | AT&#x26;T gave feds access to all Web, phone traffic, ex-tech says | Seattle Times Newspaper</title>
+<link>http://seattletimes.nwsource.com/html/politics/2004001159_spying08.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-09T00:13:44Z</dc:date>
+<dc:subject>at&#x26;amp;t evil privacy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/evil" />
+    <rdf:li resource="http://del.icio.us/tag/privacy" />
+    <rdf:li resource="http://del.icio.us/tag/at%26t" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.biblegateway.com/passage/?search=Isaiah%2045:7;&#x26;version=9;">
+<title>BibleGateway.com - Passage Lookup: Isaiah 45:7;</title>
+<link>http://www.biblegateway.com/passage/?search=Isaiah%2045:7;&#x26;version=9;</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-30T21:16:28Z</dc:date>
+<dc:subject>bible evil</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bible" />
+    <rdf:li resource="http://del.icio.us/tag/evil" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

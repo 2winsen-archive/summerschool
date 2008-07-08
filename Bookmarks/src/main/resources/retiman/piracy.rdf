@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/piracy">
+<title>del.icio.us/retiman/piracy</title>
+<link>http://del.icio.us/retiman/piracy</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://torrentfreak.com/swedish-left-party-wants-to-legalize-piracy-080609/" />
+  <rdf:li rdf:resource="http://www.engadget.com/2007/11/07/playstation-2-modchip-on-a-memory-card-now-on-sale/" />
+  <rdf:li rdf:resource="http://www.mrbass.org/nintendoDS/" />
+  <rdf:li rdf:resource="http://www.nintendowiifanboy.com/2007/08/06/pirates-selling-gamecube-titles-as-wii-games/" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://torrentfreak.com/swedish-left-party-wants-to-legalize-piracy-080609/">
+<title>Swedish Left Party Wants to Legalize Piracy | TorrentFreak</title>
+<link>http://torrentfreak.com/swedish-left-party-wants-to-legalize-piracy-080609/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-28T12:44:13Z</dc:date>
+<dc:subject>law p2p piracy politics</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/politics" />
+    <rdf:li resource="http://del.icio.us/tag/piracy" />
+    <rdf:li resource="http://del.icio.us/tag/p2p" />
+    <rdf:li resource="http://del.icio.us/tag/law" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.engadget.com/2007/11/07/playstation-2-modchip-on-a-memory-card-now-on-sale/">
+<title>PlayStation 2 modchip on a memory card now on sale - Engadget</title>
+<link>http://www.engadget.com/2007/11/07/playstation-2-modchip-on-a-memory-card-now-on-sale/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-07T19:19:06Z</dc:date>
+<dc:subject>piracy ps2</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ps2" />
+    <rdf:li resource="http://del.icio.us/tag/piracy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mrbass.org/nintendoDS/">
+<title>Newbie Guide Nintendo DS Lite Games</title>
+<link>http://www.mrbass.org/nintendoDS/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-21T05:50:18Z</dc:date>
+<dc:subject>gaming piracy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/gaming" />
+    <rdf:li resource="http://del.icio.us/tag/piracy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nintendowiifanboy.com/2007/08/06/pirates-selling-gamecube-titles-as-wii-games/">
+<title>Pirates selling GameCube titles as Wii games - Nintendo Wii Fanboy</title>
+<link>http://www.nintendowiifanboy.com/2007/08/06/pirates-selling-gamecube-titles-as-wii-games/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-06T21:34:31Z</dc:date>
+<dc:subject>piracy</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/piracy" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

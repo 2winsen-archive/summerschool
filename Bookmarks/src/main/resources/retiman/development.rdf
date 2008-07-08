@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/development">
+<title>del.icio.us/retiman/development</title>
+<link>http://del.icio.us/retiman/development</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://littletutorials.com/2008/06/23/inheritance-not-for-code-reuse/" />
+  <rdf:li rdf:resource="http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html" />
+  <rdf:li rdf:resource="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm" />
+  <rdf:li rdf:resource="http://erikengbrecht.blogspot.com/2008/04/multiprocess-versus-multithreaded.html" />
+  <rdf:li rdf:resource="http://epaperpress.com/lexandyacc/index.html" />
+  <rdf:li rdf:resource="http://wiki.netbeans.org/Scala" />
+  <rdf:li rdf:resource="http://www.freelancingjob.com/articles/article_description.php?art_id=96" />
+  <rdf:li rdf:resource="http://www.mnot.net/cache_docs/" />
+  <rdf:li rdf:resource="http://www.kirit.com/Blog:/2007-12-05/Internationalised%20URLs" />
+  <rdf:li rdf:resource="http://graphics.stanford.edu/~seander/bithacks.html" />
+  <rdf:li rdf:resource="http://mitpress.mit.edu/sicp/full-text/book/book.html" />
+  <rdf:li rdf:resource="http://thinking-forth.sourceforge.net/" />
+  <rdf:li rdf:resource="http://www.spinellis.gr/codereading/" />
+  <rdf:li rdf:resource="http://buildix.thoughtworks.com/" />
+  <rdf:li rdf:resource="http://tldp.org/HOWTO/html_single/Debian-Binary-Package-Building-HOWTO/" />
+  <rdf:li rdf:resource="http://hasno.info/2006/04/10/vim-7-ruby-omni-completion" />
+  <rdf:li rdf:resource="http://java.sun.com/products/java-media/jai/forDevelopers/jai1_0_1guide-unc/JAITOC.fm.html" />
+  <rdf:li rdf:resource="http://www.ftponline.com/interviews/beck_cooper/" />
+  <rdf:li rdf:resource="http://www-acs.ucsd.edu/info/vi_tutorial.shtml" />
+  <rdf:li rdf:resource="http://www.ibm.com/developerworks/aix/library/au-satbuildscript.html" />
+  <rdf:li rdf:resource="http://buildr.rubyforge.org/" />
+  <rdf:li rdf:resource="http://amjith.blogspot.com/2007/07/visual-diff-tools-in-linux.html" />
+  <rdf:li rdf:resource="http://code.google.com/p/syntaxhighlighter/" />
+  <rdf:li rdf:resource="http://mjtsai.com/blog/2007/07/15/subversion-to-git/" />
+  <rdf:li rdf:resource="http://osteele.com/archives/2004/11/ides#comment-202" />
+  <rdf:li rdf:resource="http://www.infoq.com/presentations/code-organization-large-projects" />
+  <rdf:li rdf:resource="http://jgap.sourceforge.net/" />
+  <rdf:li rdf:resource="http://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html" />
+  <rdf:li rdf:resource="http://www.theserverside.com/news/thread.tss?thread_id=45868" />
+  <rdf:li rdf:resource="http://www.gotapi.com/" />
+  <rdf:li rdf:resource="http://www.digilife.be/quickreferences/quickrefs.htm" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://littletutorials.com/2008/06/23/inheritance-not-for-code-reuse/">
+<title>No, inheritance is not the way to achieve code reuse! | Little Tutorials</title>
+<link>http://littletutorials.com/2008/06/23/inheritance-not-for-code-reuse/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-06T21:30:30Z</dc:date>
+<dc:subject>development</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html">
+<title>Twin Sunset: This Word, &#x22;Scaling&#x22;</title>
+<link>http://glyph.twistedmatrix.com/2008/06/this-word-scaling.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-05T07:16:27Z</dc:date>
+<dc:subject>development google ruby web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/google" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm">
+<title>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</title>
+<link>http://www.indiangeek.net/wp-content/uploads/Programmer%20competency%20matrix.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-01T16:07:53Z</dc:date>
+<dc:subject>computer design development education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/computer" />
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://erikengbrecht.blogspot.com/2008/04/multiprocess-versus-multithreaded.html">
+<title>Erik Engbrecht's Blog: Multiprocess versus Multithreaded...</title>
+<link>http://erikengbrecht.blogspot.com/2008/04/multiprocess-versus-multithreaded.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-04-10T21:31:37Z</dc:date>
+<dc:subject>development java web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/web" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://epaperpress.com/lexandyacc/index.html">
+<title>Lex &#x26; Yacc</title>
+<link>http://epaperpress.com/lexandyacc/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-23T03:04:10Z</dc:date>
+<dc:subject>compilers development programming</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/programming" />
+    <rdf:li resource="http://del.icio.us/tag/compilers" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://wiki.netbeans.org/Scala">
+<title>NetBeans Wiki: Scala</title>
+<link>http://wiki.netbeans.org/Scala</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-12T19:38:14Z</dc:date>
+<dc:subject>development netbeans scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/netbeans" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.freelancingjob.com/articles/article_description.php?art_id=96">
+<title>15 Exercises for Learning a new Programming Language</title>
+<link>http://www.freelancingjob.com/articles/article_description.php?art_id=96</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-09T08:08:59Z</dc:date>
+<dc:subject>development languages tips</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/languages" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/tips" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.mnot.net/cache_docs/">
+<title>Caching Tutorial for Web Authors and Webmasters</title>
+<link>http://www.mnot.net/cache_docs/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-09T08:03:01Z</dc:date>
+<dc:subject>caching development web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/caching" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kirit.com/Blog:/2007-12-05/Internationalised%20URLs">
+<title>Internationalised URLs &#x2014; 2007-12-05 &#x2014; kirit.com</title>
+<link>http://www.kirit.com/Blog:/2007-12-05/Internationalised%20URLs</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-17T07:22:20Z</dc:date>
+<dc:subject>development url web</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/web" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/url" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://graphics.stanford.edu/~seander/bithacks.html">
+<title>Bit Twiddling Hacks</title>
+<link>http://graphics.stanford.edu/~seander/bithacks.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-01T23:36:45Z</dc:date>
+<dc:subject>cool development java puzzles</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/puzzles" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mitpress.mit.edu/sicp/full-text/book/book.html">
+<title>Structure and Interpretation of Computer Programs</title>
+<link>http://mitpress.mit.edu/sicp/full-text/book/book.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:51:06Z</dc:date>
+<dc:subject>design development haskell howto reference software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/haskell" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://thinking-forth.sourceforge.net/">
+<title>Thinking Forth</title>
+<link>http://thinking-forth.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:50:30Z</dc:date>
+<dc:subject>design development reference software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.spinellis.gr/codereading/">
+<title>Spinellis: Code Reading: The Open Source Perspective</title>
+<link>http://www.spinellis.gr/codereading/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-18T23:49:27Z</dc:date>
+<dc:subject>development reference software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://buildix.thoughtworks.com/">
+<title>Buildix from ThoughtWorks :: project start-up in a box</title>
+<link>http://buildix.thoughtworks.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-08T23:49:22Z</dc:date>
+<dc:subject>development vmware</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/vmware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://tldp.org/HOWTO/html_single/Debian-Binary-Package-Building-HOWTO/">
+<title>Debian Binary Package Building HOWTO</title>
+<link>http://tldp.org/HOWTO/html_single/Debian-Binary-Package-Building-HOWTO/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-04T19:16:17Z</dc:date>
+<dc:subject>development linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://hasno.info/2006/04/10/vim-7-ruby-omni-completion">
+<title>tech addict - vim 7 ruby omni completion</title>
+<link>http://hasno.info/2006/04/10/vim-7-ruby-omni-completion</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-19T07:04:43Z</dc:date>
+<dc:subject>development ruby vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://java.sun.com/products/java-media/jai/forDevelopers/jai1_0_1guide-unc/JAITOC.fm.html">
+<title>Programming in Java Advanced Imaging</title>
+<link>http://java.sun.com/products/java-media/jai/forDevelopers/jai1_0_1guide-unc/JAITOC.fm.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-14T21:58:20Z</dc:date>
+<dc:subject>development jai java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/jai" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ftponline.com/interviews/beck_cooper/">
+<title>Extreme Programming vs. Interaction Design</title>
+<link>http://www.ftponline.com/interviews/beck_cooper/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-11T21:10:48Z</dc:date>
+<dc:subject>design development</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/design" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www-acs.ucsd.edu/info/vi_tutorial.shtml">
+<title>ACS - Beginner's Guide to the Vi editor</title>
+<link>http://www-acs.ucsd.edu/info/vi_tutorial.shtml</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:33:23Z</dc:date>
+<dc:subject>development linux shell vim</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+    <rdf:li resource="http://del.icio.us/tag/vim" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.ibm.com/developerworks/aix/library/au-satbuildscript.html">
+<title>System Administration Toolkit: Build intelligent, unattended scripts</title>
+<link>http://www.ibm.com/developerworks/aix/library/au-satbuildscript.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T09:30:48Z</dc:date>
+<dc:subject>bash development linux scripting shell</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bash" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/scripting" />
+    <rdf:li resource="http://del.icio.us/tag/shell" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://buildr.rubyforge.org/">
+<title>Buildr &#x2013; Welcome</title>
+<link>http://buildr.rubyforge.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-22T00:39:14Z</dc:date>
+<dc:subject>ant development java maven ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/ant" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://amjith.blogspot.com/2007/07/visual-diff-tools-in-linux.html">
+<title>Core Dump: Visual Diff Tools in Linux</title>
+<link>http://amjith.blogspot.com/2007/07/visual-diff-tools-in-linux.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-18T22:30:20Z</dc:date>
+<dc:subject>development linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://code.google.com/p/syntaxhighlighter/">
+<title>syntaxhighlighter - Google Code</title>
+<link>http://code.google.com/p/syntaxhighlighter/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T21:18:21Z</dc:date>
+<dc:subject>ajax cool development javascript software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ajax" />
+    <rdf:li resource="http://del.icio.us/tag/cool" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/javascript" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://mjtsai.com/blog/2007/07/15/subversion-to-git/">
+<title>Michael Tsai - Blog - Subversion to Git</title>
+<link>http://mjtsai.com/blog/2007/07/15/subversion-to-git/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-16T20:20:15Z</dc:date>
+<dc:subject>development git scm software subversion</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/git" />
+    <rdf:li resource="http://del.icio.us/tag/subversion" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/scm" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://osteele.com/archives/2004/11/ides#comment-202">
+<title>Oliver Steele &#xBB; Blog Archive &#xBB; The IDE Divide</title>
+<link>http://osteele.com/archives/2004/11/ides#comment-202</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-06T20:12:41Z</dc:date>
+<dc:subject>development</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.infoq.com/presentations/code-organization-large-projects">
+<title>InfoQ: Code Organization Guidelines for Large Code Bases</title>
+<link>http://www.infoq.com/presentations/code-organization-large-projects</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-26T18:01:34Z</dc:date>
+<dc:subject>development hibernate java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/hibernate" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://jgap.sourceforge.net/">
+<title>JGAP: Java Genetic Algorithms Package</title>
+<link>http://jgap.sourceforge.net/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-25T17:40:02Z</dc:date>
+<dc:subject>development evolution java science software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/evolution" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/science" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html">
+<title>Stevey's Blog Rants: Rich Programmer Food</title>
+<link>http://steve-yegge.blogspot.com/2007/06/rich-programmer-food.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-22T21:41:07Z</dc:date>
+<dc:subject>development education</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/education" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/news/thread.tss?thread_id=45868">
+<title>TSS Asks: POJO as Lingua Franca for persistence?</title>
+<link>http://www.theserverside.com/news/thread.tss?thread_id=45868</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-20T19:08:26Z</dc:date>
+<dc:subject>development java</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.gotapi.com/">
+<title>gotAPI.com - Quick search for HTML/CSS/JavaScript, PHP, AJAX, SQL and more</title>
+<link>http://www.gotapi.com/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T03:15:18Z</dc:date>
+<dc:subject>development howto</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.digilife.be/quickreferences/quickrefs.htm">
+<title>Quick Reference Cards</title>
+<link>http://www.digilife.be/quickreferences/quickrefs.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T03:14:52Z</dc:date>
+<dc:subject>development howto reference</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/development" />
+    <rdf:li resource="http://del.icio.us/tag/howto" />
+    <rdf:li resource="http://del.icio.us/tag/reference" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

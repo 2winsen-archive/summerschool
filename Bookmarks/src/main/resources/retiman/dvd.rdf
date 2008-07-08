@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/dvd">
+<title>del.icio.us/retiman/dvd</title>
+<link>http://del.icio.us/retiman/dvd</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://gentoo-wiki.com/HOWTO_Backup_a_DVD" />
+  <rdf:li rdf:resource="http://www.opensubtitles.org/en" />
+  <rdf:li rdf:resource="https://help.ubuntu.com/7.04/musicvideophotos/C/video.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://gentoo-wiki.com/HOWTO_Backup_a_DVD">
+<title>HOWTO Backup a DVD - Gentoo Linux Wiki</title>
+<link>http://gentoo-wiki.com/HOWTO_Backup_a_DVD</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-08T20:29:32Z</dc:date>
+<dc:subject>backup dvd linux</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/backup" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.opensubtitles.org/en">
+<title>Subtitles - download DivX subtitles from the biggest open subtitles database</title>
+<link>http://www.opensubtitles.org/en</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-04T22:58:59Z</dc:date>
+<dc:subject>bittorrent dvd serials</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/bittorrent" />
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+    <rdf:li resource="http://del.icio.us/tag/serials" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://help.ubuntu.com/7.04/musicvideophotos/C/video.html">
+<title>Play movies and videos</title>
+<link>https://help.ubuntu.com/7.04/musicvideophotos/C/video.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-24T06:09:37Z</dc:date>
+<dc:subject>dvd linux ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/dvd" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

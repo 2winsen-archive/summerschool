@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/xml">
+<title>del.icio.us/retiman/xml</title>
+<link>http://del.icio.us/retiman/xml</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.sdtimes.com/fullcolumn/column-20060901-05.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.sdtimes.com/fullcolumn/column-20060901-05.html">
+<title>SD Times - Just Say No to XML</title>
+<link>http://www.sdtimes.com/fullcolumn/column-20060901-05.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:20:57Z</dc:date>
+<dc:subject>development xml</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xml" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

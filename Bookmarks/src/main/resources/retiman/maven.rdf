@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/maven">
+<title>del.icio.us/retiman/maven</title>
+<link>http://del.icio.us/retiman/maven</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://blog.lostlake.org/index.php?/archives/73-For-all-you-know,-its-just-another-Java-library.html" />
+  <rdf:li rdf:resource="http://blogs.sonatype.com/brian/2008/05/22/1211510197004.html" />
+  <rdf:li rdf:resource="http://weblogs.java.net/blog/inder/archive/2008/05/teaching_maven2_1.html" />
+  <rdf:li rdf:resource="http://scala-tools.org/mvnsites/maven-scala-plugin/index.html" />
+  <rdf:li rdf:resource="http://scala-blogs.org/2008/01/maven-for-scala.html" />
+  <rdf:li rdf:resource="http://www.javaworld.com/javaworld/jw-05-2006/jw-0529-maven.html?page=2" />
+  <rdf:li rdf:resource="http://maven.apache.org/pom.html#Introduction" />
+  <rdf:li rdf:resource="http://communitygrids.blogspot.com/2005/11/using-maven-2-part-1.html" />
+  <rdf:li rdf:resource="http://buildr.rubyforge.org/" />
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=SettingUpMavenRepository" />
+  <rdf:li rdf:resource="http://www.sonatype.com/book/index.html" />
+  <rdf:li rdf:resource="http://maven.apache.org/guides/index.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://blog.lostlake.org/index.php?/archives/73-For-all-you-know,-its-just-another-Java-library.html">
+<title>For all you know, it's just another Java library - David Pollak's Blog</title>
+<link>http://blog.lostlake.org/index.php?/archives/73-For-all-you-know,-its-just-another-Java-library.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-02T06:58:34Z</dc:date>
+<dc:subject>java lift maven scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+    <rdf:li resource="http://del.icio.us/tag/lift" />
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.sonatype.com/brian/2008/05/22/1211510197004.html">
+<title>Adding additional source folders to your Maven build - Brian's Enterprise Blog</title>
+<link>http://blogs.sonatype.com/brian/2008/05/22/1211510197004.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-23T12:07:27Z</dc:date>
+<dc:subject>java maven</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://weblogs.java.net/blog/inder/archive/2008/05/teaching_maven2_1.html">
+<title>Inderjeet Singh's Blog: Teaching Maven2 to use multiple source directories</title>
+<link>http://weblogs.java.net/blog/inder/archive/2008/05/teaching_maven2_1.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-05-23T12:03:37Z</dc:date>
+<dc:subject>java maven</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scala-tools.org/mvnsites/maven-scala-plugin/index.html">
+<title>maven-scala-plugin - maven-scala-plugin</title>
+<link>http://scala-tools.org/mvnsites/maven-scala-plugin/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-12T04:55:55Z</dc:date>
+<dc:subject>maven scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://scala-blogs.org/2008/01/maven-for-scala.html">
+<title>Scala Blog: maven for scala</title>
+<link>http://scala-blogs.org/2008/01/maven-for-scala.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-07T06:50:59Z</dc:date>
+<dc:subject>java maven scala</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/scala" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.javaworld.com/javaworld/jw-05-2006/jw-0529-maven.html?page=2">
+<title>The Maven 2 POM demystified - Java World</title>
+<link>http://www.javaworld.com/javaworld/jw-05-2006/jw-0529-maven.html?page=2</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-18T06:09:26Z</dc:date>
+<dc:subject>java maven</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://maven.apache.org/pom.html#Introduction">
+<title>Maven - POM Reference</title>
+<link>http://maven.apache.org/pom.html#Introduction</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-12-15T08:02:07Z</dc:date>
+<dc:subject>java maven</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://communitygrids.blogspot.com/2005/11/using-maven-2-part-1.html">
+<title>Marlon Pierce's Community Grids Lab Blog: Using Maven 2, Part 1</title>
+<link>http://communitygrids.blogspot.com/2005/11/using-maven-2-part-1.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-21T01:48:36Z</dc:date>
+<dc:subject>java maven</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://buildr.rubyforge.org/">
+<title>Buildr &#x2013; Welcome</title>
+<link>http://buildr.rubyforge.org/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-22T00:39:14Z</dc:date>
+<dc:subject>ant development java maven ruby</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/ant" />
+    <rdf:li resource="http://del.icio.us/tag/ruby" />
+    <rdf:li resource="http://del.icio.us/tag/development" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=SettingUpMavenRepository">
+<title>Enterprise Java Community: Setting Up a Maven Repository</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=SettingUpMavenRepository</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-20T19:09:15Z</dc:date>
+<dc:subject>java maven</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.sonatype.com/book/index.html">
+<title>Maven - Maven: The Definitive Guide (1.0 Alpha 1) - Table Of Contents</title>
+<link>http://www.sonatype.com/book/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-27T17:40:06Z</dc:date>
+<dc:subject>java maven</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://maven.apache.org/guides/index.html">
+<title>Maven - Maven Documentation</title>
+<link>http://maven.apache.org/guides/index.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-22T19:03:33Z</dc:date>
+<dc:subject>java maven</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/maven" />
+    <rdf:li resource="http://del.icio.us/tag/java" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

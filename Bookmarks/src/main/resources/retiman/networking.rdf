@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/networking">
+<title>del.icio.us/retiman/networking</title>
+<link>http://del.icio.us/retiman/networking</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=275856" />
+  <rdf:li rdf:resource="http://www.nintendo.com/consumer/systems/wii/en_na/onlineFirewall.jsp" />
+  <rdf:li rdf:resource="http://playstation.custhelp.com/cgi-bin/playstation.cfg/php/enduser/std_adp.php?p_faqid=241&#x26;p_created=1178664908&#x26;p_sid=vO63J_Hi" />
+  <rdf:li rdf:resource="https://answers.launchpad.net/ubuntu/+source/knetworkmanager/+question/5327" />
+  <rdf:li rdf:resource="http://www.dd-wrt.com/wiki/index.php?title=Installation" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=304131&#x26;highlight=xubuntu" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=275856">
+<title>HOWTO: sshfs (mounting remote directories trough ssh) - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=275856</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-06-21T09:34:17Z</dc:date>
+<dc:subject>linux networking ssh ubuntu</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ssh" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.nintendo.com/consumer/systems/wii/en_na/onlineFirewall.jsp">
+<title>| Nintendo - Customer Service | Wii - Firewall/Antinvirus/Antispyware/Adware Compatibility Info</title>
+<link>http://www.nintendo.com/consumer/systems/wii/en_na/onlineFirewall.jsp</link>
+<description>28910, 29900, 29901, 29920</description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-12T16:51:44Z</dc:date>
+<dc:subject>networking wii</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/wii" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://playstation.custhelp.com/cgi-bin/playstation.cfg/php/enduser/std_adp.php?p_faqid=241&#x26;p_created=1178664908&#x26;p_sid=vO63J_Hi">
+<title>Answer</title>
+<link>http://playstation.custhelp.com/cgi-bin/playstation.cfg/php/enduser/std_adp.php?p_faqid=241&#x26;p_created=1178664908&#x26;p_sid=vO63J_Hi</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-12T16:44:45Z</dc:date>
+<dc:subject>networking ps3</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ps3" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="https://answers.launchpad.net/ubuntu/+source/knetworkmanager/+question/5327">
+<title>knetworkmanager in ubuntu question #5327: &#x201C;Knetworkmanager only shows wired networks &#x201D;</title>
+<link>https://answers.launchpad.net/ubuntu/+source/knetworkmanager/+question/5327</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-11T17:21:23Z</dc:date>
+<dc:subject>kde networking</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/kde" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dd-wrt.com/wiki/index.php?title=Installation">
+<title>Installation - DD-WRT Wiki</title>
+<link>http://www.dd-wrt.com/wiki/index.php?title=Installation</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-28T22:27:40Z</dc:date>
+<dc:subject>ddwrt hack linux networking software</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/ddwrt" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=304131&#x26;highlight=xubuntu">
+<title>How to: Xubuntu - Thunar Native Windows Network Browsing - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=304131&#x26;highlight=xubuntu</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-15T20:39:36Z</dc:date>
+<dc:subject>linux networking samba ubuntu windows xfce</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xfce" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/samba" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

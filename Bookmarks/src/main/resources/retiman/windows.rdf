@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/windows">
+<title>del.icio.us/retiman/windows</title>
+<link>http://del.icio.us/retiman/windows</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://johnhaller.com/jh/useful_stuff/disable_caps_lock/" />
+  <rdf:li rdf:resource="http://www.kpao.org/2008/03/stunningly-dumb-windows-design.html" />
+  <rdf:li rdf:resource="http://www.linux.com/feature/124908" />
+  <rdf:li rdf:resource="http://www.howtogeek.com/howto/windows-vista/what-is-svchostexe-and-why-is-it-running/" />
+  <rdf:li rdf:resource="http://www.wired.com/techbiz/media/news/2007/11/doubleclick" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/showthread.php?t=304131&#x26;highlight=xubuntu" />
+  <rdf:li rdf:resource="http://apcmag.com/vista_activation" />
+  <rdf:li rdf:resource="http://www.zdnetasia.com/news/security/0,39044215,62032221,00.htm" />
+  <rdf:li rdf:resource="http://ubuntuforums.org/archive/index.php/t-85841.html" />
+  <rdf:li rdf:resource="http://lifehacker.com/software/featured-windows-download/remove-programs-in-bulk-with-absolute-uninstaller-291853.php" />
+  <rdf:li rdf:resource="http://articles.techrepublic.com.com/5100-10877_11-6031733.html?tag=nl.e138" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/fontblog/archive/2005/11/08/490490.aspx" />
+  <rdf:li rdf:resource="http://support.microsoft.com/kb/307897" />
+  <rdf:li rdf:resource="http://blogs.msdn.com/ie/archive/2006/11/30/ie6-and-ie7-running-on-a-single-machine.aspx" />
+  <rdf:li rdf:resource="http://connect.microsoft.com/WindowsHomeServer" />
+  <rdf:li rdf:resource="http://www.dr-hoiby.com/WhoLockMe/" />
+  <rdf:li rdf:resource="http://court.shrock.org/sysinternals/" />
+  <rdf:li rdf:resource="http://www.theregister.co.uk/security/security_report_windows_vs_linux/" />
+  <rdf:li rdf:resource="http://news.xinhuanet.com/english/2007-05/20/content_6125876.htm" />
+  <rdf:li rdf:resource="http://www.pcmag.com/article2/0,1895,2123848,00.asp" />
+  <rdf:li rdf:resource="http://www.downloadsquad.com/2007/05/11/hackers-use-windows-update-to-download-malicious-code/" />
+  <rdf:li rdf:resource="http://www.blog.arun-prabha.com/2007/05/07/installing-virtualbox-and-windows-using-virtualbox-in-ubuntu/" />
+  <rdf:li rdf:resource="http://it.slashdot.org/article.pl?sid=07/05/01/1643240&#x26;from=rss" />
+  <rdf:li rdf:resource="http://www.informationweek.com/news/showArticle.jhtml?articleID=199201179" />
+  <rdf:li rdf:resource="http://www.defectivekit.net/2007/03/gain-control-of-those-access-denied.html" />
+  <rdf:li rdf:resource="http://blogs.zdnet.com/Apple/?p=422" />
+  <rdf:li rdf:resource="http://www.zoliblog.com/blog/_archives/2007/3/16/2809817.html" />
+  <rdf:li rdf:resource="http://www.newlaunches.com/archives/only_244_copies_of_genuine_windows_vista_sold_in_china.php" />
+  <rdf:li rdf:resource="http://linux.inet.hr/how-to-flash-motherboard-bios-from-linux-no-dos-windows-no-floppy-drive.html" />
+  <rdf:li rdf:resource="http://foolks.blogspot.com/2007/01/tables-of-equivalents.html" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://johnhaller.com/jh/useful_stuff/disable_caps_lock/">
+<title>Disable Caps Lock :: Useful Stuff :: JohnHaller.com</title>
+<link>http://johnhaller.com/jh/useful_stuff/disable_caps_lock/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-07-04T21:19:29Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.kpao.org/2008/03/stunningly-dumb-windows-design.html">
+<title>Stunningly Dumb Windows Design - KPAO!</title>
+<link>http://www.kpao.org/2008/03/stunningly-dumb-windows-design.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-03-30T08:34:08Z</dc:date>
+<dc:subject>funny windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.linux.com/feature/124908">
+<title>Linux.com :: Seamlessly integrate XP into Linux with SeamlessRDP</title>
+<link>http://www.linux.com/feature/124908</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-02-02T08:19:31Z</dc:date>
+<dc:subject>linux vmware windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/vmware" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.howtogeek.com/howto/windows-vista/what-is-svchostexe-and-why-is-it-running/">
+<title>What is svchost.exe And Why Is It Running? :: the How-To Geek</title>
+<link>http://www.howtogeek.com/howto/windows-vista/what-is-svchostexe-and-why-is-it-running/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2008-01-27T18:25:31Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.wired.com/techbiz/media/news/2007/11/doubleclick">
+<title>Hackers Use Banner Ads on Major Sites to Hijack Your PC</title>
+<link>http://www.wired.com/techbiz/media/news/2007/11/doubleclick</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-19T22:46:02Z</dc:date>
+<dc:subject>hack windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/hack" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/showthread.php?t=304131&#x26;highlight=xubuntu">
+<title>How to: Xubuntu - Thunar Native Windows Network Browsing - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/showthread.php?t=304131&#x26;highlight=xubuntu</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-11-15T20:39:36Z</dc:date>
+<dc:subject>linux networking samba ubuntu windows xfce</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/xfce" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/networking" />
+    <rdf:li resource="http://del.icio.us/tag/samba" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://apcmag.com/vista_activation">
+<title>WARNING: device driver updates causing Vista to deactivate | APC Magazine</title>
+<link>http://apcmag.com/vista_activation</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-23T17:50:13Z</dc:date>
+<dc:subject>vista windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/vista" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zdnetasia.com/news/security/0,39044215,62032221,00.htm">
+<title>Microsoft downplays stealth Windows Update file updates - Security - News - ZDNet Asia</title>
+<link>http://www.zdnetasia.com/news/security/0,39044215,62032221,00.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-09-15T00:42:15Z</dc:date>
+<dc:subject>microsoft windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://ubuntuforums.org/archive/index.php/t-85841.html">
+<title>Connecting to Ubuntu shared folders [Archive] - Ubuntu Forums</title>
+<link>http://ubuntuforums.org/archive/index.php/t-85841.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-23T06:57:38Z</dc:date>
+<dc:subject>linux samba ubuntu windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/samba" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://lifehacker.com/software/featured-windows-download/remove-programs-in-bulk-with-absolute-uninstaller-291853.php">
+<title>Featured Windows Download: Remove Programs in Bulk with Absolute Uninstaller - Lifehacker</title>
+<link>http://lifehacker.com/software/featured-windows-download/remove-programs-in-bulk-with-absolute-uninstaller-291853.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-21T23:42:31Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://articles.techrepublic.com.com/5100-10877_11-6031733.html?tag=nl.e138">
+<title>10 things you can do when Windows XP won't boot</title>
+<link>http://articles.techrepublic.com.com/5100-10877_11-6031733.html?tag=nl.e138</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-07T00:04:23Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/fontblog/archive/2005/11/08/490490.aspx">
+<title>fontblog : Where does 96 DPI come from in Windows?</title>
+<link>http://blogs.msdn.com/fontblog/archive/2005/11/08/490490.aspx</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-08-02T22:10:06Z</dc:date>
+<dc:subject>history software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/history" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://support.microsoft.com/kb/307897">
+<title>How to synchronize the time with the Windows Time service in Windows XP</title>
+<link>http://support.microsoft.com/kb/307897</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-07-17T01:05:11Z</dc:date>
+<dc:subject>microsoft windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.msdn.com/ie/archive/2006/11/30/ie6-and-ie7-running-on-a-single-machine.aspx">
+<title>IEBlog : IE6 and IE7 Running on a Single Machine</title>
+<link>http://blogs.msdn.com/ie/archive/2006/11/30/ie6-and-ie7-running-on-a-single-machine.aspx</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-20T21:50:54Z</dc:date>
+<dc:subject>microsoft software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://connect.microsoft.com/WindowsHomeServer">
+<title>Connect: Windows Home Server</title>
+<link>http://connect.microsoft.com/WindowsHomeServer</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-14T18:19:33Z</dc:date>
+<dc:subject>microsoft software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.dr-hoiby.com/WhoLockMe/">
+<title>WhoLockMe Explorer Extension v1.04 beta (NT-Win2K-XP) download page</title>
+<link>http://www.dr-hoiby.com/WhoLockMe/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T17:42:10Z</dc:date>
+<dc:subject>software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://court.shrock.org/sysinternals/">
+<title>Index of /sysinternals</title>
+<link>http://court.shrock.org/sysinternals/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-06-11T05:07:45Z</dc:date>
+<dc:subject>microsoft software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/microsoft" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.theregister.co.uk/security/security_report_windows_vs_linux/">
+<title>Security Report: Windows vs Linux | The Register</title>
+<link>http://www.theregister.co.uk/security/security_report_windows_vs_linux/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-27T23:17:25Z</dc:date>
+<dc:subject>apache linux security windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/apache" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://news.xinhuanet.com/english/2007-05/20/content_6125876.htm">
+<title>Xinhua - English</title>
+<link>http://news.xinhuanet.com/english/2007-05/20/content_6125876.htm</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-21T18:56:39Z</dc:date>
+<dc:subject>software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/software" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.pcmag.com/article2/0,1895,2123848,00.asp">
+<title>Windows' Words of Doom - Columns by PC Magazine</title>
+<link>http://www.pcmag.com/article2/0,1895,2123848,00.asp</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-19T22:41:23Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.downloadsquad.com/2007/05/11/hackers-use-windows-update-to-download-malicious-code/">
+<title>Hackers use Windows Update to download malicious code - Download Squad</title>
+<link>http://www.downloadsquad.com/2007/05/11/hackers-use-windows-update-to-download-malicious-code/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-13T23:21:59Z</dc:date>
+<dc:subject>security windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/security" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.blog.arun-prabha.com/2007/05/07/installing-virtualbox-and-windows-using-virtualbox-in-ubuntu/">
+<title>Arun&#x2019;s Blog &#xBB; Blog Archive &#xBB; Installing Virtualbox and Windows in Ubuntu</title>
+<link>http://www.blog.arun-prabha.com/2007/05/07/installing-virtualbox-and-windows-using-virtualbox-in-ubuntu/</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-10T07:35:58Z</dc:date>
+<dc:subject>linux windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://it.slashdot.org/article.pl?sid=07/05/01/1643240&#x26;from=rss">
+<title>Slashdot | Microsoft Says Other OSes Should Imitate UAC</title>
+<link>http://it.slashdot.org/article.pl?sid=07/05/01/1643240&#x26;from=rss</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-05-01T20:05:36Z</dc:date>
+<dc:subject>security windows wtf</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/security" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/wtf" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.informationweek.com/news/showArticle.jhtml?articleID=199201179">
+<title>Ubuntu Linux Vs. Windows Vista: The Battle For Your Desktop -- Ubuntu Linux, Windows Vista</title>
+<link>http://www.informationweek.com/news/showArticle.jhtml?articleID=199201179</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-28T07:24:50Z</dc:date>
+<dc:subject>linux ubuntu windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/ubuntu" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.defectivekit.net/2007/03/gain-control-of-those-access-denied.html">
+<title>this is my defective kit.: Gain control of those &#x22;Access Denied Folders&#x22;</title>
+<link>http://www.defectivekit.net/2007/03/gain-control-of-those-access-denied.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:52:23Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://blogs.zdnet.com/Apple/?p=422">
+<title>&#xBB; Gates &#x201C;dares anybody&#x201D; to exploit Vista | The Apple Core | ZDNet.com</title>
+<link>http://blogs.zdnet.com/Apple/?p=422</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:52:00Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.zoliblog.com/blog/_archives/2007/3/16/2809817.html">
+<title>Zoli's Blog :: Windows Update Disables Firefox as Default Browser</title>
+<link>http://www.zoliblog.com/blog/_archives/2007/3/16/2809817.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:51:30Z</dc:date>
+<dc:subject>windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://www.newlaunches.com/archives/only_244_copies_of_genuine_windows_vista_sold_in_china.php">
+<title>Only 244 copies of Genuine Windows Vista sold in China - Newlaunches.com</title>
+<link>http://www.newlaunches.com/archives/only_244_copies_of_genuine_windows_vista_sold_in_china.php</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:50:51Z</dc:date>
+<dc:subject>funny windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/funny" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://linux.inet.hr/how-to-flash-motherboard-bios-from-linux-no-dos-windows-no-floppy-drive.html">
+<title>How to flash motherboard BIOS from Linux (no DOS/Windows, no floppy drive)? | linux.inet.hr</title>
+<link>http://linux.inet.hr/how-to-flash-motherboard-bios-from-linux-no-dos-windows-no-floppy-drive.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-20T05:28:49Z</dc:date>
+<dc:subject>bios linux windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/bios" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+<item rdf:about="http://foolks.blogspot.com/2007/01/tables-of-equivalents.html">
+<title>Linux and Windows: Table of equivalents</title>
+<link>http://foolks.blogspot.com/2007/01/tables-of-equivalents.html</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-04-18T07:09:20Z</dc:date>
+<dc:subject>linux software windows</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/linux" />
+    <rdf:li resource="http://del.icio.us/tag/windows" />
+    <rdf:li resource="http://del.icio.us/tag/software" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>

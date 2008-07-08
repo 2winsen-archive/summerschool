@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://del.icio.us/retiman/spring">
+<title>del.icio.us/retiman/spring</title>
+<link>http://del.icio.us/retiman/spring</link>
+<description></description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.theserverside.com/tt/articles/article.tss?l=IntrotoSpring25" />
+ </rdf:Seq>
+</items>
+</channel>
+
+<item rdf:about="http://www.theserverside.com/tt/articles/article.tss?l=IntrotoSpring25">
+<title>Enterprise Java Community: Introduction to the Spring Framework 2.5</title>
+<link>http://www.theserverside.com/tt/articles/article.tss?l=IntrotoSpring25</link>
+<description></description>
+<dc:creator>retiman</dc:creator>
+<dc:date>2007-10-22T05:30:18Z</dc:date>
+<dc:subject>java spring</dc:subject>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://del.icio.us/tag/java" />
+    <rdf:li resource="http://del.icio.us/tag/spring" />
+  </rdf:Bag>
+</taxo:topics>
+</item>
+
+</rdf:RDF>
