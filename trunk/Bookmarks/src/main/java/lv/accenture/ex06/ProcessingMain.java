@@ -21,7 +21,7 @@ public class ProcessingMain {
 			List<Bookmark> bookmarks = extractor.extractBookmarks(resources[i]);
 			book.addAll(bookmarks);
 		}
-		writeJSON("target/bookmarks.js", book);
+		writeJSON("bookmarks.js", book);
 		
 	}
 	
