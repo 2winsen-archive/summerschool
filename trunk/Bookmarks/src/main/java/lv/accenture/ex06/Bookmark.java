@@ -89,6 +89,7 @@ public class Bookmark {
 			"  tags : " + getTags() + "\n"+
 			"},\n";
 		
+		
 		return s;
 		
 		

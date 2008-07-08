@@ -17,18 +17,12 @@ public class RegexExtractor implements IExtractor {
 
 		Bookmark bookmark = new Bookmark();
 		
-		for (int i = 0, k=0; i < lines.size(); i++) {
+		for (int i = 0; i < lines.size(); i++) {
 			
 			String line = lines.get(i);
 			Pattern p0 = Pattern.compile("<item rdf:about=\"([^\"]+)\">");
 			Matcher m0 = p0.matcher(line); 
 			if (m0.matches()) {
-				//k++;
-				//if(k!=1)
-				//{
-					//result.add(bookmark);
-					//bookmark = new Bookmark();
-				//}
 					
 				String url = m0.group(1);				
 				System.err.println("url = " + url);
@@ -115,7 +109,6 @@ public class RegexExtractor implements IExtractor {
 								
 			}
 		}
-		//result.add(bookmark);
 		return result;
 	}
 
