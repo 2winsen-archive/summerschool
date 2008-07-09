@@ -1,0 +1,1 @@
+If the loop is 150 then only one thread prints all data, it can happen because of CPU frquency. But if the loop is increasing to 1500 (for example) all 4 threads prints output independently, but the output is more than 1500 "hello worlds", because more than one thread can access to a loop and print output simultaneously.
