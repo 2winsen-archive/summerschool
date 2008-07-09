@@ -22,11 +22,16 @@ public class Producer implements Runnable {
 			{
 				PrintJob job = new PrintJob(producerName, sizeOfJobs);
 				printer.addJob(job);
-				//Thread.sleep(delayBetweenJobs);
 			}
 			catch(Exception FullQueueEception)
 			{
 				System.err.println("Queue is FULL");
+			}
+			try {
+				Thread.sleep(delayBetweenJobs);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
 			}
 			
 		}

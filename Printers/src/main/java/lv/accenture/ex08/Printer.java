@@ -24,40 +24,31 @@ public class Printer implements Runnable{
 	
 	public synchronized void addJob(PrintJob job) throws FullQueueException
 	{
-		synchronized (this) {
-			
-				try {
-					this.wait();
-				} catch (InterruptedException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
-						
-		}
+		this.notify();
 		
 		System.out.println("Adding job" + " \'" + job.getName() + "\' " + "to the queue");
 		printQueue.addBack(job);
+		
+		
 	}
 	
 	private synchronized PrintJob getJob() throws EmptyQueueException
 	{
-		synchronized (this) {
-			while(printQueue.isEmpty())
-			{
-				try {
-					this.wait();
-				} catch (InterruptedException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
-			}			
-		}
+		while(printQueue.isEmpty())
+		{
+			try {
+				this.wait();
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 
+		}
 		PrintJob job = (PrintJob)printQueue.getFront();
 		System.out.println("Starting job" + " \'" + job.getName() + "\'");
 		printQueue.removeFront();
 		
-		return job;		
+		return job;	
 	}
 	
 	@Override
