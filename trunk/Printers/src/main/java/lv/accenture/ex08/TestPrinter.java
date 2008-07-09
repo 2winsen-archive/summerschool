@@ -5,7 +5,7 @@ public class TestPrinter {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		
 		Producer p1 = new Producer(3, 5, 200, "Fred");
 		Producer p2 = new Producer(3, 5, 1000, "Simon");
@@ -13,6 +13,8 @@ public class TestPrinter {
 		
 		Printer printer = Printer.getInstance();
 		Thread t = new Thread(printer);
+		t.setPriority(Thread.MAX_PRIORITY);
+		
 		System.out.println("Print manager is starting up");
 		
 		Thread t1 = new Thread(p1);

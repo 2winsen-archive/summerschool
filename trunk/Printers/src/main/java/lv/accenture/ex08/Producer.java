@@ -20,8 +20,9 @@ public class Producer implements Runnable {
 		for(int i=0;i<numberOfJobs;i++){
 			try
 			{
-				PrintJob job = new PrintJob(producerName, sizeOfJobs);
+				PrintJob job = new PrintJob(producerName + "#" + i, sizeOfJobs);
 				printer.addJob(job);
+				System.out.println("Adding job" + " \'" + job.getName() + "\' " + "to the queue");
 			}
 			catch(Exception FullQueueEception)
 			{
