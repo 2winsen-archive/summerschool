@@ -18,21 +18,29 @@ public class Producer implements Runnable {
 	public void run() {
 		Printer printer = Printer.getInstance();
 		for(int i=0;i<numberOfJobs;i++){
-			try
-			{
-				PrintJob job = new PrintJob(producerName + "#" + i, sizeOfJobs);
-				printer.addJob(job);
-				System.out.println("Adding job" + " \'" + job.getName() + "\' " + "to the queue");
+			PrintJob job = new PrintJob(producerName + "#" + i, sizeOfJobs);
+			
+			synchronized (this) {
+				while (true) {
+					try {
+						printer.addJob(job);
+						break;
+					} catch (FullQueueException exFull) {
+						try {
+							Thread.sleep(50);
+							continue;
+						} catch (InterruptedException exSleep) {
+							exSleep.printStackTrace();
+						}
+					}
+				}
 			}
-			catch(Exception FullQueueEception)
-			{
-				System.err.println("Queue is FULL");
-			}
+			System.out.println("P: Adding job " + job.getName() + " to the queue");
+
 			try {
 				Thread.sleep(delayBetweenJobs);
-			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
+			} catch (InterruptedException exSleep) {
+				exSleep.printStackTrace();
 			}
 			
 		}

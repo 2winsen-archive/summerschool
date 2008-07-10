@@ -28,8 +28,9 @@ public class Printer implements Runnable {
 	}
 
 	private synchronized PrintJob getJob() throws EmptyQueueException {
-		while (printQueue.isEmpty()) {
+		if(printQueue.isEmpty()) {
 			try {
+				System.err.println("Waiting on a job to print");
 				this.wait();
 			} catch (InterruptedException e) {
 				// TODO Auto-generated catch block
@@ -46,16 +47,20 @@ public class Printer implements Runnable {
 	@Override
 	public void run() {
 
-		while (stateIsRunning) {
-			try {
-				PrintJob curr = getJob();
-				System.out.println("  C: Starting job" + " \'" + curr.getName()
-						+ "\'");
-			} catch (Exception EmptyQueueException) {
-				System.err.println("Queue is EMPTY");
-			}
-
+		while (stateIsRunning || !printQueue.isEmpty()) {
+			PrintJob curr = getJob();
+			System.out.println("  C: Starting job" + " \'" + curr.getName() + "\'");
+			for (int i = 0; i < curr.getPages(); i++) {
+				try {
+					Thread.sleep(500);
+				} catch (InterruptedException exSleep) {
+					exSleep.printStackTrace();
+				}					
+			}		
+			System.out.println("  C: Completed job" + " \'" + curr.getName() + "\'");
 		}
+		System.err.println("P: The printer manager is halted.");
+
 	}
 
 }
