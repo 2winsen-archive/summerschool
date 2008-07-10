@@ -35,7 +35,6 @@ public class TestPrinter {
 		}
 		
 		printer.halt();
-		System.out.println("Print manager is halted");
 	}
 
 }
