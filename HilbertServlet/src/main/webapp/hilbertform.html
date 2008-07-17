@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+<head>
+<title>Hilbert Curve Settings</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<style>
+body {
+	margin: 0px;
+	background: #fdfdfd;
+}
+
+.outerdiv {
+	position: absolute;
+	top: 15%;
+	left: 25%;
+	background: #fff;
+	border: 0px dashed #99cc33;
+	padding: 65px;
+}
+</style>
+</head>
+<body>
+	<div class="outerdiv">
+	<form name="hilbertform" action="/ex11/hilbert" method="get">
+		<h2>Hilbert Curve Creation</h2>
+		Title:	<input type="text" name="title" value="Hilbert Curve" /><br />
+		Order:
+		<select name="order">
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3" selected="selected">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+			<option value="6">6</option>
+			<option value="7">7</option>
+			<option value="8">8</option>
+			<option value="9">9</option>
+			<option value="10">10</option>
+		</select><br />
+		Colour:<br />
+		<input type="radio" name="colour" value="none" />None<br />
+		<input type="radio" name="colour" value="red" />Red<br />
+		<input type="radio" name="colour" value="green" />Green<br />
+		<input type="radio" name="colour" value="blue" checked="checked"/>Blue<br />
+		<input type="submit" value="Submit" />
+	</form>
+	</div>
+</body>
+</html>

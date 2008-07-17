@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app version="2.4"
+         xmlns="http://java.sun.com/xml/ns/j2ee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee 
+         http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd" >
+  <servlet>
+    <servlet-name>HelloServlet</servlet-name>
+    <servlet-class>lv.accenture.ex11.HelloServlet</servlet-class>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>HelloServlet</servlet-name>
+    <url-pattern>/hello</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>HilbertServlet</servlet-name>
+    <servlet-class>lv.accenture.ex11.HilbertServlet</servlet-class>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>HilbertServlet</servlet-name>
+    <url-pattern>/hilbert</url-pattern>
+  </servlet-mapping>
+  <welcome-file-list>
+    <welcome-file>
+      hilbertform.html
+    </welcome-file>
+  </welcome-file-list>  
+</web-app>
