@@ -3,6 +3,7 @@
 #include <time.h>
 #include <stdio.h>
 #include <string.h>
+#include "network.c"
 #include "snake.h"
 
 
@@ -1092,7 +1093,17 @@ int main(int argc,char *argv[])
 				clear();
 				move(0,0);
 				clrtoeol();
-				mpHostJoinMenu();
+				int result = mpHostJoinMenu();
+				if(result == 0) 
+				{
+					clear();
+					mpHost();
+				}
+				if(result == 1) 
+				{
+					clear();
+					mpJoin();
+				}
 				break;
 			}
 			case 3:	/*top scores*/
