@@ -50,7 +50,6 @@ static int x = START_X;
 static int y = START_Y;
 
 static bool resume=false;
-
 static bool nosave=false;
 static bool save=false;
 static bool bgColored = false;
@@ -83,6 +82,9 @@ void sortLeaderBoard();
 void printleaderBoard();
 void menuCredits();
 void menuRules();
+int mpHostJoinMenu();
+void mpHost();
+void mpJoin();
 
 int mainMenu() 
 {
@@ -137,12 +139,12 @@ int mainMenu()
 		{
 			index--;
 			if(index<0)
-				index=9; 
+				index=MAX-1; 
 		}
 		if(c == KEY_DOWN)
 		{
 			index++;
-			if(index>9)
+			if(index>MAX-1)
 				index=0;
 		}
 		if(c == 10)
@@ -194,12 +196,12 @@ int menuDifficulty()
 		{
 			index--;
 			if(index<0)
-				index=2;
+				index=MAX-1;
 		}
 		if(c == KEY_DOWN)
 		{
 			index++;
-			if(index>2)
+			if(index>MAX-1)
 				index=0;
 		}
 		if(c == 10)
@@ -526,8 +528,8 @@ int generateFood(int** table,int width,int height)
 		foodY = 2;
 		if(table[foodX][foodY] == 7)
 		{
-			foodX = 15;
-			foodY = 17;
+			foodX = 10;
+			foodY = 12;
 			if(table[foodX][foodY] == 7)
 			{
 				foodX = 15;
@@ -1047,6 +1049,70 @@ void menuRules()
 	clear();
 }
 
+int mpHostJoinMenu()
+{
+	const int MAX = 2;
+	char* menu[MAX];
+	
+	menu[0] = "    Host Game\0";
+	menu[1] = "    Join Existing Game\0"; 
+	
+	move(8,34);
+	clrtoeol();
+	printColorString("MULTIPLAYER",MENU_HEADING_COLOR);
+	
+	int i;
+	for(i=0;i<MAX;i++)	/*printing whole menu*/
+	{
+		move(10+i,30);
+		printw("%s",menu[i]);
+		printw("\n");
+	} 
+	
+	bool select = false;
+	
+	int index = 0;
+	move(10+index,30);
+	addch(ACS_DIAMOND);
+	
+	while(select != true)	/*controling menu*/
+	{
+		move(23,79);
+		int c = getch();
+		
+		move(10+index,30);
+		printw("  ");
+			
+		if(c == KEY_UP)
+		{
+			index--;
+			if(index<0)
+				index=MAX-1;
+		}
+		if(c == KEY_DOWN)
+		{
+			index++;
+			if(index>MAX-1)
+				index=0;
+		}
+		if(c == 10)
+			select = true;
+			
+		move(10+index,30);
+		addch(ACS_DIAMOND);
+	}
+	
+	return index;
+}
+
+void mpHost()
+{
+}
+
+void mpJoin()
+{
+}
+
 int main(int argc,char *argv[])
 {
 	initscr();
@@ -1081,6 +1147,10 @@ int main(int argc,char *argv[])
 			}
 			case 2:	/*multiplayer*/
 			{
+				clear();
+				move(0,0);
+				clrtoeol();
+				mpHostJoinMenu();
 				break;
 			}
 			case 3:	/*top scores*/
