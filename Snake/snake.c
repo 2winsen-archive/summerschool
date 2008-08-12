@@ -1055,14 +1055,6 @@ int mpHostJoinMenu()
 	return index;
 }
 
-void mpHost()
-{
-}
-
-void mpJoin()
-{
-}
-
 int main(int argc,char *argv[])
 {
 	initscr();
@@ -1115,7 +1107,7 @@ int main(int argc,char *argv[])
 				{
 					clear();
 					move(0,0);
-					clrtoeol();					
+					clrtoeol();
 					printColorString("LOAD DATA ARE CORRUPTED, REMOVE SCORE.FILE",MENU_HEADING_COLOR);
 					move(23,79);
 				}
