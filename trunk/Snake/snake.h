@@ -22,6 +22,8 @@
 	#define INFO_COLOR 8
 	#define TABLE_COLOR 9
 	
+	#define PORT_NUM 5769
+	
 	
 	int mainMenu();
 	int menuDifficulty();
@@ -50,7 +52,7 @@
 	void menuCredits();
 	void menuRules();
 	int mpHostJoinMenu();
-	void mpHost();
-	void mpJoin();
+	int mpHost();
+	int mpJoin();
 
 #endif /*SNAKE_H_*/
