@@ -18,105 +18,116 @@ void error(char *msg)
     exit(1);
 }
 
-int mpHost()
+int mpHost(int* hostSock, int* clientSock)
 {
+   	/*
+    initialises socket connection, sets its 
+    number into parameter sock, and returns result
+    */
 	clear();
-	move(0,0);
-	echo();
-    int sockfd, newsockfd, portno, clilen;
-    char buffer[256];
+    printw("Creating connection... ");
+    refresh();
+    //int sockfd;
     struct sockaddr_in serv_addr, cli_addr;
+    char buffer[256];
     int n;
-
-    if (PORT_NUM == 0) 
-    {
-        error("ERROR, no port provided\n");
-        return 0;
+    
+    //create socket
+    *hostSock = socket(AF_INET, SOCK_STREAM, 0);
+    if (*hostSock < 0)
+	{
+    	//failed to create
+    	error("Failed to create socket");               
+        return -1;
     }
-     
-	sockfd = socket(AF_INET, SOCK_STREAM, 0);
 
-    
-    if (sockfd < 0) 
-       error("ERROR opening socket");
-    
-        
-    bzero((char *) &serv_addr, sizeof(serv_addr));
-    portno = (char*)PORT_NUM;
     serv_addr.sin_family = AF_INET;
     serv_addr.sin_addr.s_addr = INADDR_ANY;
-    serv_addr.sin_port = htons(portno);
-    if (bind(sockfd, (struct sockaddr *) &serv_addr,sizeof(serv_addr)) < 0) 
-		error("ERROR on binding");
-    
-    listen(sockfd,5);
-    clilen = sizeof(cli_addr);
-    
-    newsockfd = accept(sockfd, (struct sockaddr *) &cli_addr, &clilen);
-    if (newsockfd < 0) 
-         error("ERROR on accept");     
-    bzero(buffer,256);
-    n = read(newsockfd,buffer,255);
-    if (n < 0) error("ERROR reading from socket");
-    
-    printw("Here is the message: %s\n",buffer);
-    n = write(newsockfd,"I got your message",18);
-    if (n < 0) error("ERROR writing to socket");
+    serv_addr.sin_port = htons(PORT_NUM);
 
-    getch();
-    return 0;
+    if (bind(*hostSock, (struct sockaddr *) &serv_addr, sizeof(serv_addr)) < 0) {
+    	error("ERROR on binding");
+        return -1;
+    }
+    
+    listen(*hostSock, 5);
+    
+    int cliLen = sizeof(cli_addr);
+    *clientSock = accept(*hostSock, (struct sockaddr *) &cli_addr, &cliLen);
+    if (*clientSock < 0)
+	{
+    	error("ERROR on accept");
+    	return -1;
+    }
+    
+    bzero(buffer,256);
+	n = read(*clientSock,buffer,255);
+	if (n < 0) error("ERROR reading from socket");
+		printw("Here is the message: %s",buffer);
+		
+	n = write(*clientSock,"I got your message",18);
+	if (n < 0) error("ERROR writing to socket");
+    
+    //return number to the parameter
+    //*sock = sockfd;
+    //if success
+    printw("success!\n");
+    return 1;
 }
 
-int mpJoin()
+int mpJoin(int* clientSock, char* ipAddress)
 {
-	clear();
-	move(0,0);
-	echo();
-	char* ipAddr = "127.0.0.1";
-	int sockfd, portno, n;
-	struct sockaddr_in serv_addr;
-	struct hostent *server;
-	
-	char buffer[256];
-	
-	if (ipAddr == "" && PORT_NUM == 0) 
+    /* initialises client side connection to the specified address */        
+    
+    clear();
+    printw("Connecting to host... ");
+    refresh();
+    
+    //create socket
+    //AF_INT - constant for internets protocols, to communicate through internet
+    //SOCK_STREAM - smth unknown
+    //0 - lets OS automatically choose protocol, 6 would be TCP
+    *clientSock = socket(AF_INET, SOCK_STREAM, 0);
+	if (*clientSock < 0)
 	{
-		printw(stderr,"usage hostname port\n");
-		exit(0);
-	}
-	
-	portno = (char*)PORT_NUM;
-	sockfd = socket(AF_INET, SOCK_STREAM, 0);
-	if (sockfd < 0) 
-		error("ERROR opening socket");
-	server = gethostbyname((char*)ipAddr);
-	if (server == NULL) 
+		//failed to create
+		error("Failed to create socket");               
+		return -1;
+    }       
+    
+    struct hostent *server;
+    char buffer[256];
+    int n; 
+    echo();
+    //associate server with IP address given
+    server = gethostbyname(ipAddress);      
+    if (!server)
 	{
-		printw(stderr,"ERROR, no such host\n");
-		return 0;
-	}
-	bzero((char *) &serv_addr, sizeof(serv_addr));
-	serv_addr.sin_family = AF_INET;
-	bcopy((char *)server->h_addr, 
-	(char *)&serv_addr.sin_addr.s_addr,server->h_length);
-	
-	serv_addr.sin_port = htons(portno);
-	if (connect(sockfd,&serv_addr,sizeof(serv_addr)) < 0) 
+		error("ERROR, no such host");
+		return -1;
+    }
+    
+    struct sockaddr_in serv_addr, cli_addr;
+    //add info about server to the structure
+    serv_addr.sin_family = AF_INET;
+    bcopy((char *)server->h_addr, (char *)&serv_addr.sin_addr.s_addr, server->h_length);
+    serv_addr.sin_port = htons(PORT_NUM);
+    if (connect(*clientSock, (struct sockaddr *)&serv_addr, sizeof(serv_addr)) < 0)
+    {
 		error("ERROR connecting");
-		
-	printw("Please enter the message: ");
-	bzero(buffer,256);
-	//scanw("%s",buffer);
-	fgets(buffer,255,stdin);
-	n = write(sockfd,buffer,strlen(buffer));
-	if (n < 0) 
+		return -1;
+    }
+    
+	n = write(*clientSock,"Hallo World",18);
+	if (n < 0)
 		error("ERROR writing to socket");
 	bzero(buffer,256);
-	n = read(sockfd,buffer,255);
+	n = read(*clientSock,buffer,255);
 	if (n < 0) 
 		error("ERROR reading from socket");
 	printw("%s\n",buffer);
-	clear();
-	getch();
-	return 0;
+	    
+	//if success
+    printw("success!\n");
+    return 1;
 }
