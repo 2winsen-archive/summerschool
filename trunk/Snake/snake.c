@@ -210,7 +210,35 @@ int menuNewGame()
 		drawTable(table,tWidth,tHeight);
 		if(eaten)
 		{
-			generateFood(table,tWidth,tHeight);			
+			int res;
+			res = generateFood(table,tWidth,tHeight);
+			if(res == 1)
+			{
+				int foodX = 3;
+				int foodY = 2;
+				if(table[foodX][foodY] == 7)
+				{
+					foodX = 10;
+					foodY = 12;
+					if(table[foodX][foodY] == 7)
+					{
+						foodX = 15;
+						foodY = 3;
+						if(table[foodX][foodY] == 7)
+						{
+							foodX = 2;
+							foodY = 17;			
+						}
+						if(table[foodX][foodY] == 7)
+						{
+							srand((unsigned)time(0));
+				  			foodX = rand()%(tWidth-2)+1;
+							foodY = rand()%(tHeight-2)+1;
+						}
+					}
+				}
+				table[foodX][foodY] = 9;
+			}
 			eaten=false;
 		}
 		halfdelay(speed);
@@ -451,55 +479,9 @@ int generateFood(int** table,int width,int height)
 	/*generate food*/
   	int foodX = rand()%(width-2)+1;
 	int foodY = rand()%(height-2)+1;
-/*
-	if(table[foodY][foodX] == 7)
-	{
-		while(1==1)
-		{
-			srand((unsigned)time(0));
-		  	foodX = rand()%(width-2)+1;
-			foodY = rand()%(height-2)+1;
-			int i;
-			for(i=0;i<length;i++)
-			{
-				if(foodX!=snake[i].x && foodY!=snake[i].y)
-				{
-				}
-				else
-					break;
-			}
-			if(i==length)
-				break;
-		}
-	}
-*/
-	if(table[foodX][foodY] == 7)
-	{
-		foodX = 3;
-		foodY = 2;
-		if(table[foodX][foodY] == 7)
-		{
-			foodX = 10;
-			foodY = 12;
-			if(table[foodX][foodY] == 7)
-			{
-				foodX = 15;
-				foodY = 3;
-				if(table[foodX][foodY] == 7)
-				{
-					foodX = 2;
-					foodY = 17;			
-				}
-				if(table[foodX][foodY] == 7)
-				{
-					srand((unsigned)time(0));
-		  			foodX = rand()%(width-2)+1;
-					foodY = rand()%(height-2)+1;
-				}
-			}
-		}
-	}
-	
+
+	if(table[foodX][foodY] == 7) onSnake = true;
+		
 	table[foodX][foodY] = 9;
 	if(onSnake) return 1;
 	else return 0;
@@ -1090,6 +1072,7 @@ int main(int argc,char *argv[])
 			}
 			case 2:	/*multiplayer*/
 			{
+				int hostSock, clientSock;
 				clear();
 				move(0,0);
 				clrtoeol();
@@ -1097,12 +1080,12 @@ int main(int argc,char *argv[])
 				if(result == 0) 
 				{
 					clear();
-					mpHost();
+					mpHost(&hostSock,&clientSock);
 				}
 				if(result == 1) 
 				{
 					clear();
-					mpJoin();
+					mpJoin(&clientSock,"127.0.0.1");
 				}
 				break;
 			}
