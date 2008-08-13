@@ -22,7 +22,7 @@
 	#define INFO_COLOR 8
 	#define TABLE_COLOR 9
 	
-	#define PORT_NUM 5769
+	#define PORT_NUM 9769
 	
 	
 	int mainMenu();
@@ -54,5 +54,12 @@
 	int mpHostJoinMenu();
 	int mpHost();
 	int mpJoin();
+	int mpHostNewGame(int clientSock);
+	int mpClientNewGame(int clientSock);
+	int sendTable(int clientSock,int** table,int width,int height);
+	int sendLenDir(int clientSock);
+	
+	int sendFood(int clientSock);
+	
 
 #endif /*SNAKE_H_*/

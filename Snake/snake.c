@@ -7,13 +7,13 @@
 #include "snake.h"
 
 
-static int diff=EASY;
-static int attempts=5;
-static int speed=5;
-static bool borders=false;
-static int points=0;
-static int direction=D_RIGHT;
-static int length=3;
+int diff=EASY;
+int attempts=5;
+int speed=5;
+bool borders=false;
+int points=0;
+int direction=D_RIGHT;
+int length=3;
 
 struct Snake
 {
@@ -27,10 +27,10 @@ struct Leader
 	int score;
 } leader[11];
  
-static int x = START_X;
-static int y = START_Y;
+int x = START_X;
+int y = START_Y;
 
-static bool resume=false;
+bool resume=false;
 static bool nosave=false;
 static bool save=false;
 static bool bgColored = false;
@@ -1046,6 +1046,8 @@ int main(int argc,char *argv[])
 	colorSupport();
 	bool exit = false;
 	
+	int hostSock, clientSock;
+	
 	while(!exit)
 	{
 		switch(mainMenu())
@@ -1072,7 +1074,6 @@ int main(int argc,char *argv[])
 			}
 			case 2:	/*multiplayer*/
 			{
-				int hostSock, clientSock;
 				clear();
 				move(0,0);
 				clrtoeol();
@@ -1081,11 +1082,14 @@ int main(int argc,char *argv[])
 				{
 					clear();
 					mpHost(&hostSock,&clientSock);
+					close(clientSock);
+                    close(hostSock);					
 				}
 				if(result == 1) 
 				{
 					clear();
 					mpJoin(&clientSock,"127.0.0.1");
+					close(clientSock);					
 				}
 				break;
 			}
@@ -1177,9 +1181,8 @@ int main(int argc,char *argv[])
 				printw("Illegal Choise");
 				endwin();
 			}
-		}
+		}	
 	}
-	 
 	endwin();
 	return 0;
 }
