@@ -83,8 +83,8 @@ int mpHost(int* hostSock, int* clientSock)
     /*********************
     **Hosted played game**
     *********************/	
-	mpHostNewGame(*clientSock);
-	
+	renewGlobals();
+	mpHostNewGame(*clientSock);		
 	
 	/*return number to the parameter*/
     return 1;
@@ -144,7 +144,11 @@ int mpJoin(int* clientSock)
     /*********************
     **Joined played game**
     *********************/
-    	
+ 	mpPoints = points;
+ 	mpDirection = direction;
+ 	mpLength = length;
+ 	mpX = START_X;
+ 	mpY = START_Y-10;
 	mpClientNewGame(*clientSock);
 	
     return 1;
@@ -179,11 +183,6 @@ int mpHostNewGame(int clientSock)
 	bool exit = false;
 	bool eaten = false;
 	resume=false;
-	
-	table[2][2] = 9;
-	table[4][5] = 9;
-	table[7][5] = 9;
-	table[11][14] = 9;
 	
 	do
 	{		
@@ -229,15 +228,35 @@ int mpHostNewGame(int clientSock)
 				break;
 			}
 		}
-		
+
 		for(i=0;i<tWidth;i++)
 			for(j=0;j<tHeight;j++)
 			{
 				recv(clientSock, &table[i][j],sizeof(int),0);
-				drawTable(table,tWidth,tHeight);
 			}
-		moveSnake(table,x,y,bufDirection,&eaten);
+		drawTable(table,tWidth,tHeight);
 		
+		for(i=0;i<tWidth;i++)
+		{
+			bool isFood = false;
+			for(j=0;j<tHeight;j++)
+			{
+				if(table[i][j]== 9)
+				{
+					isFood = true;
+					break;
+				}			
+			}
+			if(isFood) break;
+		}
+		if(i*j == tWidth*tHeight)
+		{
+			move(0,0);
+			printw("Table empty");
+		}
+		
+		moveSnake(table,x,y,bufDirection,&eaten);
+
 		n = sendTable(clientSock,table,tWidth,tHeight);
 		if(n<0)
 			return -1;
@@ -280,23 +299,26 @@ int mpClientNewGame(int clientSock)
 	mpInitSnake(mpX,mpY);
 
 	bool exit = false;
-	bool eaten = false;		
+	bool eaten = false;
 	resume=false;
 	
-	/*generate many food*/
-	/*
-	srand((unsigned)time(0));
-  	int foodX = rand()%(tWidth-2)+1;
-	int foodY = rand()%(tHeight-2)+1;
-
-	table[foodX][foodY] = 9;	
-	for(i=0;i<10;i++)
-	{
-		foodX = rand()%(tWidth-2)+1;
-		foodY = rand()%(tHeight-2)+1;
-		table[foodX][foodY] = 9;
-	}
-	*/
+	table[1][1] = 9;
+	table[2][2] = 9;
+	table[3][3] = 9;
+	table[4][4] = 9;
+	table[5][5] = 9;
+	table[6][6] = 9;
+	table[7][7] = 9;
+	
+	table[18][1] = 9;
+	table[17][2] = 9;
+	table[16][3] = 9;
+	table[15][4] = 9;
+	table[14][5] = 9;
+	table[13][6] = 9;
+	table[12][7] = 9;
+	
+	table[10][18] = 9;
 	
 	do
 	{	
@@ -343,10 +365,33 @@ int mpClientNewGame(int clientSock)
 			}
 		}
 		
+		for(i=0;i<tWidth;i++)
+		{
+			bool isFood = false;
+			for(j=0;j<tHeight;j++)
+			{
+				if(table[i][j]== 9)
+				{
+					isFood = true;
+					break;
+				}			
+			}
+			if(isFood) break;
+		}
+		if(i*j == tWidth*tHeight)
+		{
+			move(0,0);
+			printw("Table empty");
+		}
+		
 		mpMoveSnake(table,mpX,mpY,bufDirection,&eaten);
+		
 		int n = sendTable(clientSock,table,tWidth,tHeight);
 		if(n<0)
 			return -1;
+			
+		
+			
 		for(i=0;i<tWidth;i++)
 			for(j=0;j<tHeight;j++)
 			{
