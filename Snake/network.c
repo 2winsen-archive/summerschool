@@ -23,10 +23,22 @@ extern int x;
 extern int y;
 extern bool resume;
 
-void error(char *msg)
+int mpPoints=0;
+int mpDirection=D_RIGHT;
+int mpLength=3;
+int mpX = START_X;
+int mpY = START_Y-10;
+struct MPSnake
 {
-    perror(msg);
-    exit(1);
+	int x;
+	int y;
+} mpSnake[SNAKE_MAX];
+
+
+int error(char *msg)
+{
+    printw(msg);
+    return -1;
 }
 
 int mpHost(int* hostSock, int* clientSock)
@@ -75,16 +87,19 @@ int mpHost(int* hostSock, int* clientSock)
 	
 	
 	/*return number to the parameter*/
-    /*if success*/
-    printw("success!\n");
     return 1;
 }
 
-int mpJoin(int* clientSock, char* ipAddress)
+int mpJoin(int* clientSock)
 {
-    /* initialises client side connection to the specified address */        
-    
-    clear();
+	clear();
+	char ip[16];
+	echo();
+	printw("Enter Host IP Address: ");
+	scanw("%s\0",&ip);
+	
+    /* initialises client side connection to the specified address */            
+	noecho();
     printw("Connecting to host... ");
     refresh();
     
@@ -105,7 +120,7 @@ int mpJoin(int* clientSock, char* ipAddress)
     int n; 
     echo();
     /*associate server with IP address given*/
-    server = gethostbyname(ipAddress);      
+    server = gethostbyname((char*)ip);      
     if (!server)
 	{
 		error("ERROR, no such host");
@@ -123,15 +138,15 @@ int mpJoin(int* clientSock, char* ipAddress)
 		return -1;
     }
     
+    /*if success*/
+    printw("success!\n");
+    
     /*********************
     **Joined played game**
     *********************/
     	
 	mpClientNewGame(*clientSock);
 	
-	
-	//if success
-    printw("success!\n");
     return 1;
 }
 
@@ -162,9 +177,24 @@ int mpHostNewGame(int clientSock)
 		initSnake(x,y);
 
 	bool exit = false;
-	bool eaten = false;		
-	generateFood(table,tWidth,tHeight);
+	bool eaten = false;
 	
+	/*generate many food*/
+	
+	srand((unsigned)time(0));
+  	int foodX = rand()%(tWidth-2)+1;
+	int foodY = rand()%(tHeight-2)+1;
+	int n;
+
+	table[foodX][foodY] = 9;
+	
+	for(i=0;i<10;i++)
+	{
+		foodX = rand()%(tWidth-2)+1;
+		foodY = rand()%(tHeight-2)+1;
+		table[foodX][foodY] = 9;
+	}
+		
 	resume=false;
 	do
 	{	
@@ -172,46 +202,12 @@ int mpHostNewGame(int clientSock)
 			break;
 	
 		printScore(points);
-		printAttempts(attempts);
 		
-		int n=0;
 		n = sendTable(clientSock,table,tWidth,tHeight);
 		if(n<0)
 			return -1;
 		drawTable(table,tWidth,tHeight);
-		if(eaten)
-		{
-			int res;
-			res = generateFood(table,tWidth,tHeight);
-			if(res == 1)
-			{
-				int foodX = 3;
-				int foodY = 2;
-				if(table[foodX][foodY] == 7)
-				{
-					foodX = 10;
-					foodY = 12;
-					if(table[foodX][foodY] == 7)
-					{
-						foodX = 15;
-						foodY = 3;
-						if(table[foodX][foodY] == 7)
-						{
-							foodX = 2;
-							foodY = 17;			
-						}
-						if(table[foodX][foodY] == 7)
-						{
-							srand((unsigned)time(0));
-				  			foodX = rand()%(tWidth-2)+1;
-							foodY = rand()%(tHeight-2)+1;
-						}
-					}
-				}
-				table[foodX][foodY] = 9;
-			}
-			eaten=false;
-		}
+
 		halfdelay(speed);
 		
 		int c = getch();
@@ -256,10 +252,14 @@ int mpHostNewGame(int clientSock)
 			}
 		}
 		
-		if(table[y][x] == 7)	/*new attempt*/
-			newAttempt(table,tWidth,tHeight);
-		else
-			moveSnake(table,x,y,bufDirection,&eaten);	
+		for(i=0;i<tWidth;i++)
+			for(j=0;j<tHeight;j++)
+			{
+				recv(clientSock, &table[i][j],sizeof(int),0);
+				drawTable(table,tWidth,tHeight);
+			}
+		moveSnake(table,x,y,bufDirection,&eaten);
+		
 	}while(!exit);
 	
 	/*deallocate dynamic array from memory*/
@@ -272,14 +272,18 @@ int mpHostNewGame(int clientSock)
 }
 
 int mpClientNewGame(int clientSock)
-{	
+{
+	bkgdset((chtype)COLOR_PAIR(INFO_COLOR));
+	clear();
+	
 	/*table borders*/
 	const int tWidth = 20;
-	const int tHeight = 20;
-	int len; 
+	const int tHeight = 20; 
 		 
 	int i=0;
 	int j=0;
+	
+	int bufDirection=mpDirection;
 
 	/*allocate memory for dynamic array*/
 	int** table = malloc(tHeight * sizeof(int *));
@@ -289,23 +293,77 @@ int mpClientNewGame(int clientSock)
 	for(i=0;i<tWidth;i++)
 		for(j=0;j<tHeight;j++)
 			table[i][j]=0;
+			
+	if(!resume) 
+		mpInitSnake(mpX,mpY);
 
-	bool exit = false;	
+	bool exit = false;
+	bool eaten = false;		
+	resume=false;
 	do
-	{
+	{	
+		if(gameOver()==1)	/*see if not game over*/
+			break;
+	
+		printScore(mpPoints);
+		
 		for(i=0;i<tWidth;i++)
 			for(j=0;j<tHeight;j++)
-			{
-				recv(clientSock, &table[i][j],sizeof(int),0);
-				halfdelay(speed);
-			}
-		drawTable(table,tWidth,tHeight);				
+		{
+			recv(clientSock, &table[i][j],sizeof(int),0);
+			drawTable(table,tWidth,tHeight);
+		}
+		
+		/*drawTable(table,tWidth,tHeight);*/		
+		halfdelay(speed);
 		
 		int c = getch();
 		if(c == 10) 
 		{
 			exit=true;
+			resume = true;
 		}	
+		
+		bufDirection=mpDirection;
+		mpDirection = mpChangeDirection(c);
+		switch(mpDirection)
+		{
+			case 1:
+			{	
+				mpY--;
+				mpBorderFunction(table,tWidth,tHeight);
+				break;
+			}		 
+			case 2: 
+			{
+				mpX++;
+				mpBorderFunction(table,tWidth,tHeight);
+				break;	
+			}
+			case 3:
+			{
+				mpY++;
+				mpBorderFunction(table,tWidth,tHeight);
+				break;
+			}
+			case 4:
+			{
+				mpX--;
+				mpBorderFunction(table,tWidth,tHeight);
+				break;
+			} 
+			default:
+			{
+				printw("Illegal direction!");
+				break;
+			}
+		}
+		
+		mpMoveSnake(table,mpX,mpY,bufDirection,&eaten);
+		int n = sendTable(clientSock,table,tWidth,tHeight);
+		if(n<0)
+			return -1;			
+		
 	}while(!exit);
 	
 	/*deallocate dynamic array from memory*/
@@ -334,34 +392,106 @@ int sendTable(int clientSock,int** table,int width,int height)
 	return 1;
 }
 
-int sendLenDir(int clientSock)
-{
-	int n;
-	n = send(clientSock,&direction, sizeof(int),0);
-	if(n<0)
-		return -1;
-	n = send(clientSock,&length, sizeof(int),0);
-	if(n<0)
-		return -1;
-	return 1;
-}
-/*
+
 int sendSnake(int clientSock)
 {
 	int n;
 	int i;
-	for(i=0;i<length;i++)
+	for(i=0;i<mpLength;i++)
 	{
-		n = send(clientSock,&snake[i].x, sizeof(int),0);
+		n = send(clientSock,&mpSnake[i].x, sizeof(int),0);
 		if(n<0)
 			return -1;
-		n = send(clientSock,&snake[i].y, sizeof(int),0);
+		n = send(clientSock,&mpSnake[i].y, sizeof(int),0);
 		if(n<0)
 			return -1;
 	}
 }
-*/
 
-int sendFood(int clientSock)
+void mpMoveSnake(int **table,int mpX,int mpY,int bufDirection,bool *eaten)
 {
+	int k=0;
+	for(k=0;k<mpLength;k++)
+	{
+		if(k==0)
+			table[mpSnake[k].y][mpSnake[k].x] = 0;
+		if(k>=1)
+		{
+			mpSnake[k-1].x = mpSnake[k].x;
+			mpSnake[k-1].y = mpSnake[k].y;
+		}
+		if(k==mpLength-1)
+		{
+			if(table[mpX][mpY]==9)	/*eating food*/
+			{
+				mpPoints+=5;
+				mpLength++;
+				if(mpLength>SNAKE_MAX)
+					mpLength = SNAKE_MAX;
+				mpSnake[mpLength-1].x = mpX;
+				mpSnake[mpLength-1].y = mpY;
+				*eaten=true;
+			}
+			
+			if((bufDirection==D_UP && mpDirection==D_DOWN)
+				||(bufDirection==D_DOWN && mpDirection==D_UP)
+				||(bufDirection==D_RIGHT && mpDirection==D_LEFT)
+				||(bufDirection==D_LEFT && mpDirection==D_RIGHT))
+			{
+				/*revert*/
+			}
+			else
+			{
+				mpSnake[k].x = mpX;
+				mpSnake[k].y = mpY;
+			}
+			break;
+		}
+	}
+	for(k=0;k<mpLength;k++)
+	{
+		table[mpSnake[k].y][mpSnake[k].x] = 7;
+	}
+}
+
+void mpBorderFunction(int** table,int width,int height)
+{
+	if(!borders)
+	{
+		if(mpX>width-2) mpX=1;
+		else if(mpX<1) mpX=width-2;
+		if(mpY>height-2) mpY=1;
+		else if(mpY<1) mpY=height-2;
+	}
+	else
+	{
+		if(mpX>width-2)
+			newAttempt(table,width,height);
+		if(mpX<1)
+			newAttempt(table,width,height);
+		if(mpY>height-2)
+			newAttempt(table,width,height);
+		if(mpY<1)
+			newAttempt(table,width,height);
+	}
+}
+
+int mpChangeDirection(int c)
+{
+	if(c == KEY_UP) return D_UP;
+	else if(c == KEY_RIGHT) return D_RIGHT;
+	else if(c == KEY_DOWN) return D_DOWN;
+	else if(c == KEY_LEFT) return D_LEFT;
+	else return mpDirection;
+}
+
+void mpInitSnake(int x,int y)
+{
+	/*initializing snake*/ 
+	mpSnake[2].x = mpX;
+	mpSnake[2].y = mpY;
+	mpSnake[1].x = mpX-1;
+	mpSnake[1].y = mpY;	
+	mpSnake[0].x = mpX-2;
+	mpSnake[0].y = mpY;	
 }
