@@ -161,6 +161,7 @@ int mpHostNewGame(int clientSock)
 		 
 	int i=0;
 	int j=0;
+	int n;
 	
 	int bufDirection=direction;
 
@@ -173,49 +174,26 @@ int mpHostNewGame(int clientSock)
 		for(j=0;j<tHeight;j++)
 			table[i][j]=0;
 			
-	if(!resume) 
-		initSnake(x,y);
+	initSnake(x,y);
 
 	bool exit = false;
 	bool eaten = false;
-	
-	/*generate many food*/
-	
-	srand((unsigned)time(0));
-  	int foodX = rand()%(tWidth-2)+1;
-	int foodY = rand()%(tHeight-2)+1;
-	int n;
-
-	table[foodX][foodY] = 9;
-	
-	for(i=0;i<10;i++)
-	{
-		foodX = rand()%(tWidth-2)+1;
-		foodY = rand()%(tHeight-2)+1;
-		table[foodX][foodY] = 9;
-	}
-		
 	resume=false;
-	do
-	{	
-		if(gameOver()==1)	/*see if not game over*/
-			break;
 	
+	table[2][2] = 9;
+	table[4][5] = 9;
+	table[7][5] = 9;
+	table[11][14] = 9;
+	
+	do
+	{		
 		printScore(points);
-		
-		n = sendTable(clientSock,table,tWidth,tHeight);
-		if(n<0)
-			return -1;
 		drawTable(table,tWidth,tHeight);
-
 		halfdelay(speed);
 		
 		int c = getch();
 		if(c == 10) 
-		{
 			exit=true;
-			resume = true;
-		}	
 		
 		bufDirection=direction;
 		direction = changeDirection(c);
@@ -260,6 +238,10 @@ int mpHostNewGame(int clientSock)
 			}
 		moveSnake(table,x,y,bufDirection,&eaten);
 		
+		n = sendTable(clientSock,table,tWidth,tHeight);
+		if(n<0)
+			return -1;
+		
 	}while(!exit);
 	
 	/*deallocate dynamic array from memory*/
@@ -275,10 +257,11 @@ int mpClientNewGame(int clientSock)
 {
 	bkgdset((chtype)COLOR_PAIR(INFO_COLOR));
 	clear();
+	move(23,79);
 	
 	/*table borders*/
 	const int tWidth = 20;
-	const int tHeight = 20; 
+	const int tHeight = 20;
 		 
 	int i=0;
 	int j=0;
@@ -294,35 +277,36 @@ int mpClientNewGame(int clientSock)
 		for(j=0;j<tHeight;j++)
 			table[i][j]=0;
 			
-	if(!resume) 
-		mpInitSnake(mpX,mpY);
+	mpInitSnake(mpX,mpY);
 
 	bool exit = false;
 	bool eaten = false;		
 	resume=false;
+	
+	/*generate many food*/
+	/*
+	srand((unsigned)time(0));
+  	int foodX = rand()%(tWidth-2)+1;
+	int foodY = rand()%(tHeight-2)+1;
+
+	table[foodX][foodY] = 9;	
+	for(i=0;i<10;i++)
+	{
+		foodX = rand()%(tWidth-2)+1;
+		foodY = rand()%(tHeight-2)+1;
+		table[foodX][foodY] = 9;
+	}
+	*/
+	
 	do
 	{	
-		if(gameOver()==1)	/*see if not game over*/
-			break;
-	
 		printScore(mpPoints);
-		
-		for(i=0;i<tWidth;i++)
-			for(j=0;j<tHeight;j++)
-		{
-			recv(clientSock, &table[i][j],sizeof(int),0);
-			drawTable(table,tWidth,tHeight);
-		}
-		
-		/*drawTable(table,tWidth,tHeight);*/		
+		drawTable(table,tWidth,tHeight);
 		halfdelay(speed);
 		
 		int c = getch();
 		if(c == 10) 
-		{
 			exit=true;
-			resume = true;
-		}	
 		
 		bufDirection=mpDirection;
 		mpDirection = mpChangeDirection(c);
@@ -362,7 +346,13 @@ int mpClientNewGame(int clientSock)
 		mpMoveSnake(table,mpX,mpY,bufDirection,&eaten);
 		int n = sendTable(clientSock,table,tWidth,tHeight);
 		if(n<0)
-			return -1;			
+			return -1;
+		for(i=0;i<tWidth;i++)
+			for(j=0;j<tHeight;j++)
+			{
+				recv(clientSock, &table[i][j],sizeof(int),0);
+			}
+		drawTable(table,tWidth,tHeight);		
 		
 	}while(!exit);
 	
@@ -391,7 +381,6 @@ int sendTable(int clientSock,int** table,int width,int height)
 	}
 	return 1;
 }
-
 
 int sendSnake(int clientSock)
 {
@@ -450,7 +439,7 @@ void mpMoveSnake(int **table,int mpX,int mpY,int bufDirection,bool *eaten)
 	}
 	for(k=0;k<mpLength;k++)
 	{
-		table[mpSnake[k].y][mpSnake[k].x] = 7;
+		table[mpSnake[k].y][mpSnake[k].x] = 77;
 	}
 }
 
