@@ -54,12 +54,15 @@
 	int mpHostJoinMenu();
 	int mpHost();
 	int mpJoin();
+	int error(char *msg);
 	int mpHostNewGame(int clientSock);
 	int mpClientNewGame(int clientSock);
 	int sendTable(int clientSock,int** table,int width,int height);
 	int sendLenDir(int clientSock);
-	
-	int sendFood(int clientSock);
+	void mpMoveSnake(int **table,int mpX,int mpY,int bufDirection,bool *eaten);
+	void mpBorderFunction(int** table,int width,int height);
+	int mpChangeDirection(int c);
+	void mpInitSnake(int x,int y);
 	
 
 #endif /*SNAKE_H_*/

@@ -658,9 +658,7 @@ void menuSave()
 	speed = encrypt((int)speed);
 	fwrite(&speed,sizeof(int),1,output_file);	
 	chkSum+=speed;
-	
-	/*printw("%d",borders);*/
-	borders = encrypt((int)borders);
+
 	fwrite(&borders,sizeof(int),1,output_file);	
 	chkSum+=borders;
 	
@@ -733,8 +731,6 @@ void menuLoad()
 			
 		fread(&borders,sizeof(int),1,output_file);
 		chkSum+=borders;
-		borders = encrypt((int)borders);
-	 	/*printw("%d",borders);*/
 		
 		fread(&points,sizeof(int),1,output_file);
 		chkSum+=points;
@@ -843,11 +839,6 @@ void readLeaderBoard()
 		fread(&tstSum,sizeof(int),1,output_file);
 		tstSum = encrypt((int)tstSum);
 		
-		move(0,0);
-		printw("Read %d",tstSum);
-		printw("\n");
-		printw("Counted %d",chkSum);
-		
 		if(chkSum != tstSum) scoreValid=false;
 	}
 	fclose(output_file);
@@ -876,9 +867,6 @@ void writeLeaderBoard()
 		chkSum+=leader[i].score;
 		fwrite(&leader[i].score,sizeof(int),1,output_file);
 	}
-	
-	move(3,0);
-	printw("CheckSum %d",chkSum);
 	
 	chkSum = encrypt((int)chkSum);
 	fwrite(&chkSum,sizeof(int),1,output_file);	
@@ -967,18 +955,21 @@ void menuRules()
 		
 		int i;
 		int j=0;
-		move(10+j,0);
-		/* read back the file */
-		for(;;)
+		int k=0;
+		move(10+k,0);
+		/*char* buffer[33];*/
+		
+		while(1==1)
 		{
 			i = fgetc(output_file);
 			if(i == EOF) break;
 			printw("%c",i);
+			j++;
 		}
 	}
 	fclose(output_file);	
 	move(23,79);
-	getch();
+	while(getch() != 10);
 	clear();
 }
 
@@ -1088,7 +1079,7 @@ int main(int argc,char *argv[])
 				if(result == 1) 
 				{
 					clear();
-					mpJoin(&clientSock,"127.0.0.1");
+					mpJoin(&clientSock);
 					close(clientSock);					
 				}
 				break;
@@ -1142,7 +1133,7 @@ int main(int argc,char *argv[])
 				if(valid)
 				{
 					clear();
-					resume=true;					
+					resume=true;			
 					menuNewGame();
 				}
 				else
