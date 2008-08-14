@@ -492,6 +492,7 @@ void printScore(int points)
 	move(1,1);
 	clrtoeol();
 	printw("Score: %d",points);
+	move(23,79);
 }
 
 void printAttempts(int attempts)
@@ -499,6 +500,7 @@ void printAttempts(int attempts)
 	move(3,1);
 	clrtoeol();
 	printw("Lives: %d",attempts);
+	move(23,79);
 }
 
 void drawTable(int** table,int width,int height)
@@ -603,6 +605,12 @@ void drawTable(int** table,int width,int height)
 				addch(' ' | COLOR_PAIR(SNAKE_COLOR));
 				addch(' ' | COLOR_PAIR(SNAKE_COLOR));
 			}
+			/*client snake*/
+			if(table[i][j]==77)
+			{
+				addch(' ' | COLOR_PAIR(SNAKE_HEAD_COLOR));
+				addch(' ' | COLOR_PAIR(SNAKE_HEAD_COLOR));
+			}			
 			/*food*/
 			if(table[i][j]==9)
 			{
@@ -793,7 +801,7 @@ void colorSupport()
 	init_pair(MENU_BG_COLOR, COLOR_BLUE, COLOR_WHITE);
 	init_pair(MENU_HEADING_COLOR, COLOR_RED, COLOR_WHITE);
 	init_pair(SNAKE_COLOR, COLOR_RED, COLOR_YELLOW);
-	init_pair(SNAKE_HEAD_COLOR, COLOR_GREEN, COLOR_BLACK);
+	init_pair(SNAKE_HEAD_COLOR, COLOR_GREEN, COLOR_CYAN);
 	init_pair(BORDER_COLOR,  COLOR_GREEN, COLOR_GREEN);
 	init_pair(GAME_COLOR, COLOR_YELLOW, COLOR_WHITE);
 	init_pair(FOOD_COLOR, COLOR_RED, COLOR_RED);
@@ -975,11 +983,12 @@ void menuRules()
 
 int mpHostJoinMenu()
 {
-	const int MAX = 2;
+	const int MAX = 3;
 	char* menu[MAX];
 	
 	menu[0] = "    Host Game\0";
-	menu[1] = "    Join Existing Game\0"; 
+	menu[1] = "    Join Existing Game\0";
+	menu[2] = "    BACK\0"; 
 	
 	move(8,34);
 	clrtoeol();
