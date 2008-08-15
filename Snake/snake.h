@@ -1,3 +1,6 @@
+/* COMPILE
+gcc snake.c -o snake -lncurses -ansi 
+*/
 #ifndef SNAKE_H_
 #define SNAKE_H_
 
@@ -63,6 +66,7 @@
 	void mpBorderFunction(int** table,int width,int height);
 	int mpChangeDirection(int c);
 	void mpInitSnake(int x,int y);
+	int matchEnd(int** table,int width,int height,int clientSock,int points);
 	
 
 #endif /*SNAKE_H_*/

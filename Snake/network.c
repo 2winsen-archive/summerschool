@@ -3,13 +3,13 @@
 #include <time.h>
 #include <string.h>
 #include "snake.h"
-
 /*network libs*/
 #include <stdio.h>
 #include <sys/types.h> 
 #include <sys/socket.h>
 #include <netinet/in.h>	
 #include <netdb.h>
+
 
 extern int diff;
 extern int attempts;
@@ -56,7 +56,7 @@ int mpHost(int* hostSock, int* clientSock)
     *hostSock = socket(AF_INET, SOCK_STREAM, 0);
     if (*hostSock < 0)
 	{
-    	error("Failed to create socket");               
+    	error("Failed to create socket");
         return -1;
     }
 
@@ -64,6 +64,8 @@ int mpHost(int* hostSock, int* clientSock)
     serv_addr.sin_addr.s_addr = INADDR_ANY;
     serv_addr.sin_port = htons(PORT_NUM);
 
+	/*reuses port address and no bind err*/
+	setsockopt(*hostSock, SOL_SOCKET, SO_REUSEADDR, &serv_addr, sizeof(serv_addr));
     if (bind(*hostSock, (struct sockaddr *) &serv_addr, sizeof(serv_addr)) < 0) {
     	error("ERROR on binding");
         return -1;
@@ -79,12 +81,13 @@ int mpHost(int* hostSock, int* clientSock)
     	return -1;
     }
     
-    
     /*********************
     **Hosted played game**
-    *********************/	
+    *********************/
+
 	renewGlobals();
-	mpHostNewGame(*clientSock);		
+	/*speed = 1;*/
+	mpHostNewGame(*clientSock);
 	
 	/*return number to the parameter*/
     return 1;
@@ -117,7 +120,7 @@ int mpJoin(int* clientSock)
     
     struct hostent *server;
     char buffer[256];
-    int n; 
+    int n;
     echo();
     /*associate server with IP address given*/
     server = gethostbyname((char*)ip);      
@@ -144,11 +147,13 @@ int mpJoin(int* clientSock)
     /*********************
     **Joined played game**
     *********************/
- 	mpPoints = points;
- 	mpDirection = direction;
- 	mpLength = length;
- 	mpX = START_X;
- 	mpY = START_Y-10;
+	mpPoints = points;
+	mpDirection = direction;
+	mpLength = length;
+	mpX = START_X;
+	mpY = START_Y-10;
+	/*speed = 1;*/
+	 
 	mpClientNewGame(*clientSock);
 	
     return 1;
@@ -166,6 +171,7 @@ int mpHostNewGame(int clientSock)
 	int i=0;
 	int j=0;
 	int n;
+	int signal;
 	
 	int bufDirection=direction;
 
@@ -191,8 +197,21 @@ int mpHostNewGame(int clientSock)
 		halfdelay(speed);
 		
 		int c = getch();
-		if(c == 10) 
+		if(c == 10)
+		{
+			signal = 1;
+			n = send(clientSock,&signal, sizeof(int),0);
+			if(n<0)
+				return -1;
 			exit=true;
+		}
+		else
+		{
+			signal = 0;
+				n = send(clientSock,&signal, sizeof(int),0);
+				if(n<0)
+			return -1;
+		}
 		
 		bufDirection=direction;
 		direction = changeDirection(c);
@@ -234,50 +253,23 @@ int mpHostNewGame(int clientSock)
 				recv(clientSock, &table[i][j],sizeof(int),0);
 		drawTable(table,tWidth,tHeight);
 		
-		/*
 		if(table[y][x] == 7)
+		{
+			move(3,1);
+			printw("You lost");
 			break;
-		*/
+		}
 		moveSnake(table,x,y,bufDirection,&eaten);
 
 		/*sending own table*/
 		n = sendTable(clientSock,table,tWidth,tHeight);
 		if(n<0)
 			return -1;
-				
-		/*match end condition*/
-		for(i=0;i<tWidth;i++)
-		{
-			bool isFood = false;
-			for(j=0;j<tHeight;j++)
-			{
-				if(table[i][j]== 9)
-				{
-					isFood = true;
-					break;
-				}			
-			}
-			if(isFood) break;
-		}
-		if(i*j == tWidth*tHeight)
-		{
-			n = send(clientSock,&points, sizeof(int),0);
-			if(n<0)
-				return -1;
-			int otherPoints;
-			recv(clientSock, &otherPoints,sizeof(int),0);
 			
-			if(points>otherPoints)
-			{
-				move(3,1);
-				printw("You win: %d - %d",points,otherPoints);
-			}
-			else
-			{
-				move(3,1);
-				printw("You lost: %d - %d",points,otherPoints);
-			}
-		}
+		n = matchEnd(table,tWidth,tHeight,clientSock,points);
+		if(n<0)
+			return -1;
+		
 	}while(!exit);
 	
 	/*deallocate dynamic array from memory*/
@@ -320,14 +312,6 @@ int mpClientNewGame(int clientSock)
 	bool eaten = false;
 	resume=false;
 	
-	table[1][1] = 9;
-	table[2][2] = 9;
-	table[3][3] = 9;
-	table[4][4] = 9;
-	table[5][5] = 9;
-	table[6][6] = 9;
-	table[7][7] = 9;
-	
 	table[18][1] = 9;
 	table[17][2] = 9;
 	table[16][3] = 9;
@@ -336,16 +320,25 @@ int mpClientNewGame(int clientSock)
 	table[13][6] = 9;
 	table[12][7] = 9;
 	
-	table[10][18] = 9;
+	table[1][1] = 9;
+	table[2][2] = 9;
+	table[3][3] = 9;
+	table[4][4] = 9;
+	table[5][5] = 9;
+	table[6][6] = 9;
+	table[7][7] = 9;
 
 	do
-	{		
+	{	
 		printScore(mpPoints);
 		drawTable(table,tWidth,tHeight);
 		halfdelay(speed);
 		
 		int c = getch();
-		if(c == 10) 
+			
+		int signal;
+		recv(clientSock, &signal,sizeof(int),0);		
+		if(signal == 1)
 			exit=true;
 		
 		bufDirection=mpDirection;
@@ -382,11 +375,13 @@ int mpClientNewGame(int clientSock)
 				break;
 			}
 		}
-					
-		/*
+		
 		if(table[mpY][mpX] == 77)
+		{
+			move(3,1);
+			printw("You lost");
 			break;
-		*/
+		}
 		mpMoveSnake(table,mpX,mpY,bufDirection,&eaten);
 		
 		/*sending table to host*/
@@ -399,40 +394,11 @@ int mpClientNewGame(int clientSock)
 			for(j=0;j<tHeight;j++)
 				recv(clientSock, &table[i][j],sizeof(int),0);
 		drawTable(table,tWidth,tHeight);
-		
-		/*match end condition*/
-		for(i=0;i<tWidth;i++)
-		{
-			bool isFood = false;
-			for(j=0;j<tHeight;j++)
-			{
-				if(table[i][j]== 9)
-				{
-					isFood = true;
-					break;
-				}			
-			}
-			if(isFood) break;
-		}
-		if(i*j == tWidth*tHeight)
-		{
-			int otherPoints;
-			n = send(clientSock,&mpPoints, sizeof(int),0);
-			if(n<0)
-				return -1;
-			recv(clientSock, &otherPoints,sizeof(int),0);
 				
-			if(mpPoints>otherPoints)
-			{
-				move(3,1);
-				printw("You win: %d - %d",mpPoints,otherPoints);
-			}
-			else
-			{
-				move(3,1);
-				printw("You lost: %d - %d",mpPoints,otherPoints);
-			}			
-		}
+		n = matchEnd(table,tWidth,tHeight,clientSock,mpPoints);
+		if(n<0)
+			return -1;
+		
 	}while(!exit);
 	
 	/*deallocate dynamic array from memory*/
@@ -562,4 +528,50 @@ void mpInitSnake(int x,int y)
 	mpSnake[1].y = mpY;	
 	mpSnake[0].x = mpX-2;
 	mpSnake[0].y = mpY;	
+}
+
+int matchEnd(int** table,int width,int height,int clientSock,int points)
+{
+	int i;
+	int j;
+	int n;
+	/*match end condition*/
+	for(i=0;i<width;i++)
+	{
+		bool isFood = false;
+		for(j=0;j<height;j++)
+		{
+			if(table[i][j]== 9)
+			{
+				isFood = true;
+				break;
+			}			
+		}
+		if(isFood) break;
+	}
+	if(i*j == width*height)
+	{
+		int otherPoints;
+		n = send(clientSock,&points, sizeof(int),0);
+		if(n<0)
+			return -1;
+		recv(clientSock, &otherPoints,sizeof(int),0);
+			
+		if(points>otherPoints)
+		{
+			move(3,1);
+			printw("You win: %d - %d",points,otherPoints);
+		}
+		else if(points<otherPoints)
+		{
+			move(3,1);
+			printw("You lost: %d - %d",points,otherPoints);
+		}
+		else if(points==otherPoints)
+		{
+			move(3,1);
+			printw("Draw: %d - %d",points,otherPoints);
+		}
+	}
+	return 1;	
 }
