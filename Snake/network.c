@@ -86,7 +86,7 @@ int mpHost(int* hostSock, int* clientSock)
     *********************/
 
 	renewGlobals();
-	/*speed = 1;*/
+	speed = 1;
 	mpHostNewGame(*clientSock);
 	
 	/*return number to the parameter*/
@@ -152,7 +152,7 @@ int mpJoin(int* clientSock)
 	mpLength = length;
 	mpX = START_X;
 	mpY = START_Y-10;
-	/*speed = 1;*/
+	speed = 1;
 	 
 	mpClientNewGame(*clientSock);
 	
