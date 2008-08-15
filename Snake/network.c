@@ -185,7 +185,7 @@ int mpHostNewGame(int clientSock)
 	resume=false;
 	
 	do
-	{		
+	{			
 		printScore(points);
 		drawTable(table,tWidth,tHeight);
 		halfdelay(speed);
@@ -234,6 +234,10 @@ int mpHostNewGame(int clientSock)
 				recv(clientSock, &table[i][j],sizeof(int),0);
 		drawTable(table,tWidth,tHeight);
 		
+		/*
+		if(table[y][x] == 7)
+			break;
+		*/
 		moveSnake(table,x,y,bufDirection,&eaten);
 
 		/*sending own table*/
@@ -256,9 +260,23 @@ int mpHostNewGame(int clientSock)
 			if(isFood) break;
 		}
 		if(i*j == tWidth*tHeight)
-		{;
-			move(0,0);
-			printw("Table empty");
+		{
+			n = send(clientSock,&points, sizeof(int),0);
+			if(n<0)
+				return -1;
+			int otherPoints;
+			recv(clientSock, &otherPoints,sizeof(int),0);
+			
+			if(points>otherPoints)
+			{
+				move(3,1);
+				printw("You win: %d - %d",points,otherPoints);
+			}
+			else
+			{
+				move(3,1);
+				printw("You lost: %d - %d",points,otherPoints);
+			}
 		}
 	}while(!exit);
 	
@@ -283,6 +301,7 @@ int mpClientNewGame(int clientSock)
 		 
 	int i=0;
 	int j=0;
+	int n;
 	
 	int bufDirection=mpDirection;
 
@@ -302,7 +321,6 @@ int mpClientNewGame(int clientSock)
 	resume=false;
 	
 	table[1][1] = 9;
-	/*
 	table[2][2] = 9;
 	table[3][3] = 9;
 	table[4][4] = 9;
@@ -319,9 +337,9 @@ int mpClientNewGame(int clientSock)
 	table[12][7] = 9;
 	
 	table[10][18] = 9;
-	*/
+
 	do
-	{	
+	{		
 		printScore(mpPoints);
 		drawTable(table,tWidth,tHeight);
 		halfdelay(speed);
@@ -364,11 +382,15 @@ int mpClientNewGame(int clientSock)
 				break;
 			}
 		}
-		
+					
+		/*
+		if(table[mpY][mpX] == 77)
+			break;
+		*/
 		mpMoveSnake(table,mpX,mpY,bufDirection,&eaten);
 		
 		/*sending table to host*/
-		int n = sendTable(clientSock,table,tWidth,tHeight);
+		n = sendTable(clientSock,table,tWidth,tHeight);
 		if(n<0)
 			return -1;
 			
@@ -394,9 +416,23 @@ int mpClientNewGame(int clientSock)
 		}
 		if(i*j == tWidth*tHeight)
 		{
-			move(0,0);
-			printw("Table empty");
-		}				
+			int otherPoints;
+			n = send(clientSock,&mpPoints, sizeof(int),0);
+			if(n<0)
+				return -1;
+			recv(clientSock, &otherPoints,sizeof(int),0);
+				
+			if(mpPoints>otherPoints)
+			{
+				move(3,1);
+				printw("You win: %d - %d",mpPoints,otherPoints);
+			}
+			else
+			{
+				move(3,1);
+				printw("You lost: %d - %d",mpPoints,otherPoints);
+			}			
+		}
 	}while(!exit);
 	
 	/*deallocate dynamic array from memory*/
