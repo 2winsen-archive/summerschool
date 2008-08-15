@@ -8,7 +8,7 @@
 	#define D_LEFT 4
 	#define START_X 3
 	#define START_Y 15
-	#define EASY 0 
+	#define EASY 0
 	#define NORMAL 1
 	#define HARD 2
 	

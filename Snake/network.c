@@ -227,15 +227,21 @@ int mpHostNewGame(int clientSock)
 				printw("Illegal direction!");
 				break;
 			}
-		}
-
+		}		
+		/*Recieving table from client*/
 		for(i=0;i<tWidth;i++)
 			for(j=0;j<tHeight;j++)
-			{
 				recv(clientSock, &table[i][j],sizeof(int),0);
-			}
 		drawTable(table,tWidth,tHeight);
 		
+		moveSnake(table,x,y,bufDirection,&eaten);
+
+		/*sending own table*/
+		n = sendTable(clientSock,table,tWidth,tHeight);
+		if(n<0)
+			return -1;
+				
+		/*match end condition*/
 		for(i=0;i<tWidth;i++)
 		{
 			bool isFood = false;
@@ -250,17 +256,10 @@ int mpHostNewGame(int clientSock)
 			if(isFood) break;
 		}
 		if(i*j == tWidth*tHeight)
-		{
+		{;
 			move(0,0);
 			printw("Table empty");
 		}
-		
-		moveSnake(table,x,y,bufDirection,&eaten);
-
-		n = sendTable(clientSock,table,tWidth,tHeight);
-		if(n<0)
-			return -1;
-		
 	}while(!exit);
 	
 	/*deallocate dynamic array from memory*/
@@ -303,6 +302,7 @@ int mpClientNewGame(int clientSock)
 	resume=false;
 	
 	table[1][1] = 9;
+	/*
 	table[2][2] = 9;
 	table[3][3] = 9;
 	table[4][4] = 9;
@@ -319,7 +319,7 @@ int mpClientNewGame(int clientSock)
 	table[12][7] = 9;
 	
 	table[10][18] = 9;
-	
+	*/
 	do
 	{	
 		printScore(mpPoints);
@@ -365,6 +365,20 @@ int mpClientNewGame(int clientSock)
 			}
 		}
 		
+		mpMoveSnake(table,mpX,mpY,bufDirection,&eaten);
+		
+		/*sending table to host*/
+		int n = sendTable(clientSock,table,tWidth,tHeight);
+		if(n<0)
+			return -1;
+			
+		/*recieving table*/			
+		for(i=0;i<tWidth;i++)
+			for(j=0;j<tHeight;j++)
+				recv(clientSock, &table[i][j],sizeof(int),0);
+		drawTable(table,tWidth,tHeight);
+		
+		/*match end condition*/
 		for(i=0;i<tWidth;i++)
 		{
 			bool isFood = false;
@@ -382,23 +396,7 @@ int mpClientNewGame(int clientSock)
 		{
 			move(0,0);
 			printw("Table empty");
-		}
-		
-		mpMoveSnake(table,mpX,mpY,bufDirection,&eaten);
-		
-		int n = sendTable(clientSock,table,tWidth,tHeight);
-		if(n<0)
-			return -1;
-			
-		
-			
-		for(i=0;i<tWidth;i++)
-			for(j=0;j<tHeight;j++)
-			{
-				recv(clientSock, &table[i][j],sizeof(int),0);
-			}
-		drawTable(table,tWidth,tHeight);		
-		
+		}				
 	}while(!exit);
 	
 	/*deallocate dynamic array from memory*/
