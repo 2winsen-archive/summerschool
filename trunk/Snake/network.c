@@ -159,6 +159,7 @@ int mpJoin(int* clientSock)
     return 1;
 }
 
+
 int mpHostNewGame(int clientSock)
 {
 	bkgdset((chtype)COLOR_PAIR(INFO_COLOR));
@@ -189,6 +190,8 @@ int mpHostNewGame(int clientSock)
 	bool exit = false;
 	bool eaten = false;
 	resume=false;
+	
+	table[10][1] = 9;
 	
 	do
 	{			
@@ -246,12 +249,7 @@ int mpHostNewGame(int clientSock)
 				printw("Illegal direction!");
 				break;
 			}
-		}		
-		/*Recieving table from client*/
-		for(i=0;i<tWidth;i++)
-			for(j=0;j<tHeight;j++)
-				recv(clientSock, &table[i][j],sizeof(int),0);
-		drawTable(table,tWidth,tHeight);
+		}
 		
 		if(table[y][x] == 7)
 		{
@@ -259,12 +257,19 @@ int mpHostNewGame(int clientSock)
 			printw("You lost");
 			break;
 		}
-		moveSnake(table,x,y,bufDirection,&eaten);
-
+		else
+			moveSnake(table,x,y,bufDirection,&eaten);
+		
 		/*sending own table*/
 		n = sendTable(clientSock,table,tWidth,tHeight);
 		if(n<0)
 			return -1;
+		
+		/*Recieving table from client*/
+		for(i=0;i<tWidth;i++)
+			for(j=0;j<tHeight;j++)
+				recv(clientSock, &table[i][j],sizeof(int),0);
+		drawTable(table,tWidth,tHeight);
 			
 		n = matchEnd(table,tWidth,tHeight,clientSock,points);
 		if(n<0)
@@ -311,22 +316,6 @@ int mpClientNewGame(int clientSock)
 	bool exit = false;
 	bool eaten = false;
 	resume=false;
-	
-	table[18][1] = 9;
-	table[17][2] = 9;
-	table[16][3] = 9;
-	table[15][4] = 9;
-	table[14][5] = 9;
-	table[13][6] = 9;
-	table[12][7] = 9;
-	
-	table[1][1] = 9;
-	table[2][2] = 9;
-	table[3][3] = 9;
-	table[4][4] = 9;
-	table[5][5] = 9;
-	table[6][6] = 9;
-	table[7][7] = 9;
 
 	do
 	{	
@@ -376,24 +365,25 @@ int mpClientNewGame(int clientSock)
 			}
 		}
 		
+		/*recieving table*/			
+		for(i=0;i<tWidth;i++)
+			for(j=0;j<tHeight;j++)
+				recv(clientSock, &table[i][j],sizeof(int),0);
+		drawTable(table,tWidth,tHeight);
+		
 		if(table[mpY][mpX] == 77)
 		{
 			move(3,1);
 			printw("You lost");
 			break;
 		}
-		mpMoveSnake(table,mpX,mpY,bufDirection,&eaten);
+		else
+			mpMoveSnake(table,mpX,mpY,bufDirection,&eaten);	
 		
 		/*sending table to host*/
 		n = sendTable(clientSock,table,tWidth,tHeight);
 		if(n<0)
 			return -1;
-			
-		/*recieving table*/			
-		for(i=0;i<tWidth;i++)
-			for(j=0;j<tHeight;j++)
-				recv(clientSock, &table[i][j],sizeof(int),0);
-		drawTable(table,tWidth,tHeight);
 				
 		n = matchEnd(table,tWidth,tHeight,clientSock,mpPoints);
 		if(n<0)
@@ -456,7 +446,7 @@ void mpMoveSnake(int **table,int mpX,int mpY,int bufDirection,bool *eaten)
 		}
 		if(k==mpLength-1)
 		{
-			if(table[mpX][mpY]==9)	/*eating food*/
+			if(table[mpY][mpX]==9)	/*eating food*/
 			{
 				mpPoints+=5;
 				mpLength++;
