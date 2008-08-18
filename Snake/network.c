@@ -191,8 +191,18 @@ int mpHostNewGame(int clientSock)
 	bool eaten = false;
 	resume=false;
 	
-	table[10][1] = 9;
+	/*food positions*/
+  	int foodX;
+	int foodY;
+	srand((unsigned)time(0));	
+	for(i=0;i<30;i++)
+	{
 	
+		foodX = rand()%(tWidth-2)+1;
+		foodY = rand()%(tHeight-2)+1;
+		table[foodX][foodY] = 9;
+	}
+
 	do
 	{			
 		printScore(points);
@@ -255,15 +265,30 @@ int mpHostNewGame(int clientSock)
 		{
 			move(3,1);
 			printw("You lost");
-			break;
+			
+			signal = 1;
+			n = send(clientSock,&signal, sizeof(int),0);
+			if(n<0)
+				return -1;
+			exit=true;
 		}
 		else
+		{
 			moveSnake(table,x,y,bufDirection,&eaten);
+			signal = 0;
+				n = send(clientSock,&signal, sizeof(int),0);
+				if(n<0)
+			return -1;
+		}
 		
 		/*sending own table*/
 		n = sendTable(clientSock,table,tWidth,tHeight);
 		if(n<0)
 			return -1;
+			
+		recv(clientSock, &signal,sizeof(int),0);		
+		if(signal == 1)
+			exit=true;
 		
 		/*Recieving table from client*/
 		for(i=0;i<tWidth;i++)
@@ -271,9 +296,27 @@ int mpHostNewGame(int clientSock)
 				recv(clientSock, &table[i][j],sizeof(int),0);
 		drawTable(table,tWidth,tHeight);
 			
-		n = matchEnd(table,tWidth,tHeight,clientSock,points);
+		n = matchEnd(table,tWidth,tHeight,clientSock,points);		
 		if(n<0)
 			return -1;
+		if(n==1)
+		{			
+			signal = 1;
+			n = send(clientSock,&signal, sizeof(int),0);
+			if(n<0)
+				return -1;
+			exit=true;
+		}		
+		else if(n==2)
+		{
+			signal = 0;
+			n = send(clientSock,&signal, sizeof(int),0);
+			if(n<0)
+				return -1;
+		}
+		recv(clientSock, &signal,sizeof(int),0);		
+		if(signal == 1)
+			exit=true;
 		
 	}while(!exit);
 	
@@ -281,7 +324,8 @@ int mpHostNewGame(int clientSock)
 	for(i = 0; i < tHeight; i++)
 		free(table[i]);		
 	free(table);
-
+	
+	while(getch() != 10);	/*pause to view table, before exit*/
 	clear();
 	return 0;
 }
@@ -299,6 +343,7 @@ int mpClientNewGame(int clientSock)
 	int i=0;
 	int j=0;
 	int n;
+	int signal;
 	
 	int bufDirection=mpDirection;
 
@@ -323,9 +368,7 @@ int mpClientNewGame(int clientSock)
 		drawTable(table,tWidth,tHeight);
 		halfdelay(speed);
 		
-		int c = getch();
-			
-		int signal;
+		int c = getch();			
 		recv(clientSock, &signal,sizeof(int),0);		
 		if(signal == 1)
 			exit=true;
@@ -365,20 +408,36 @@ int mpClientNewGame(int clientSock)
 			}
 		}
 		
+		recv(clientSock, &signal,sizeof(int),0);		
+		if(signal == 1)
+			exit=true;
+		
 		/*recieving table*/			
 		for(i=0;i<tWidth;i++)
 			for(j=0;j<tHeight;j++)
 				recv(clientSock, &table[i][j],sizeof(int),0);
 		drawTable(table,tWidth,tHeight);
 		
+		
 		if(table[mpY][mpX] == 77)
 		{
 			move(3,1);
 			printw("You lost");
-			break;
-		}
+			
+			signal = 1;
+			n = send(clientSock,&signal, sizeof(int),0);
+			if(n<0)
+				return -1;
+			exit=true;
+		}		
 		else
-			mpMoveSnake(table,mpX,mpY,bufDirection,&eaten);	
+		{
+			mpMoveSnake(table,mpX,mpY,bufDirection,&eaten);
+			signal = 0;
+				n = send(clientSock,&signal, sizeof(int),0);
+				if(n<0)
+			return -1;
+		}	
 		
 		/*sending table to host*/
 		n = sendTable(clientSock,table,tWidth,tHeight);
@@ -388,6 +447,25 @@ int mpClientNewGame(int clientSock)
 		n = matchEnd(table,tWidth,tHeight,clientSock,mpPoints);
 		if(n<0)
 			return -1;
+		recv(clientSock, &signal,sizeof(int),0);		
+		if(signal == 1)
+			exit=true;
+		if(n==1)
+		{			
+			signal = 1;
+			n = send(clientSock,&signal, sizeof(int),0);
+			if(n<0)
+				return -1;
+			exit=true;
+		}		
+		else if(n==2)
+		{
+			signal = 0;
+			n = send(clientSock,&signal, sizeof(int),0);
+			if(n<0)
+				return -1;
+		}	
+		
 		
 	}while(!exit);
 	
@@ -395,7 +473,8 @@ int mpClientNewGame(int clientSock)
 	for(i = 0; i < tHeight; i++)
 		free(table[i]);		
 	free(table);
-
+	
+	while(getch() != 10);	/*pause to view table, before exit*/
 	clear();
 	return 0;
 }
@@ -415,21 +494,6 @@ int sendTable(int clientSock,int** table,int width,int height)
 		}
 	}
 	return 1;
-}
-
-int sendSnake(int clientSock)
-{
-	int n;
-	int i;
-	for(i=0;i<mpLength;i++)
-	{
-		n = send(clientSock,&mpSnake[i].x, sizeof(int),0);
-		if(n<0)
-			return -1;
-		n = send(clientSock,&mpSnake[i].y, sizeof(int),0);
-		if(n<0)
-			return -1;
-	}
 }
 
 void mpMoveSnake(int **table,int mpX,int mpY,int bufDirection,bool *eaten)
@@ -562,6 +626,8 @@ int matchEnd(int** table,int width,int height,int clientSock,int points)
 			move(3,1);
 			printw("Draw: %d - %d",points,otherPoints);
 		}
+		return 1;
 	}
-	return 1;	
+	else
+		return 2;	
 }
