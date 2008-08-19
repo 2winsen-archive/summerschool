@@ -195,7 +195,7 @@ int mpHostNewGame(int clientSock)
   	int foodX;
 	int foodY;
 	srand((unsigned)time(0));	
-	for(i=0;i<30;i++)
+	for(i=0;i<1;i++)
 	{
 	
 		foodX = rand()%(tWidth-2)+1;
@@ -415,9 +415,7 @@ int mpClientNewGame(int clientSock)
 		/*recieving table*/			
 		for(i=0;i<tWidth;i++)
 			for(j=0;j<tHeight;j++)
-				recv(clientSock, &table[i][j],sizeof(int),0);
-		drawTable(table,tWidth,tHeight);
-		
+				recv(clientSock, &table[i][j],sizeof(int),0);		
 		
 		if(table[mpY][mpX] == 77)
 		{
@@ -438,6 +436,7 @@ int mpClientNewGame(int clientSock)
 				if(n<0)
 			return -1;
 		}	
+		drawTable(table,tWidth,tHeight);
 		
 		/*sending table to host*/
 		n = sendTable(clientSock,table,tWidth,tHeight);

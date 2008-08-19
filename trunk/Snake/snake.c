@@ -962,22 +962,48 @@ void menuRules()
 		printw("\n");
 		
 		int i;
-		int j=0;
 		int k=0;
-		move(10+k,0);
-		/*char* buffer[33];*/
+		long offset;
 		
-		while(1==1)
+		int topBorder = 0;
+		int bottomBorder = 10;
+		
+		do
 		{
-			i = fgetc(output_file);
-			if(i == EOF) break;
-			printw("%c",i);
-			j++;
-		}
+			move(10,0);
+			k=0;
+			i=0;
+			offset=0;
+			while(k!=bottomBorder)
+			{				
+				i = fgetc(output_file);
+				if(i == EOF) break;
+				if(i == '\n')
+				{
+					k++;
+				}
+				printw("%c",i);
+			}
+			
+			int c = getch();
+			if(c == KEY_DOWN)
+			{
+				move(10,0);
+				if(i!=EOF) clrtobot();
+				fseek(output_file, offset, SEEK_CUR);	
+			}
+			if(c == KEY_UP)
+			{
+				fseek(output_file, offset, SEEK_SET);
+			}
+
+			if(c != KEY_UP && c != KEY_DOWN)
+				break;
+			
+		}while(1 == 1);			
 	}
 	fclose(output_file);	
 	move(23,79);
-	while(getch() != 10);
 	clear();
 }
 
