@@ -4,28 +4,27 @@
  * @param fileName
  * @return loaded xml object from given file 
  */
-function loadXMLDoc(fileName) 
-{
-try //Internet Explorer
-  {
-  xmlDoc=new ActiveXObject("Microsoft.XMLDOM");
-  }
-catch(e)
-  {
-  try //Firefox, Mozilla, Opera, etc.
-    {
-    xmlDoc=document.implementation.createDocument("","",null);
-    }
-  catch(e) {alert(e.message)}
-  }
-try 
-  {
-  xmlDoc.async=false;
-  xmlDoc.load("../resources/data/"+fileName);
-  return(xmlDoc);
-  }
-catch(e) {alert(e.message)}
-return(null);
+function loadXMLDoc(fileName) {
+	//	Internet Explorer
+	try {
+		xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
+	}
+	catch(e) {
+		//Firefox, Mozilla, Opera, etc.
+		try {
+			xmlDoc=document.implementation.createDocument("","",null);
+	    } catch(e) {
+	    	alert(e.message)
+	    } 
+	} try {
+		xmlDoc.async=false;
+		xmlDoc.load("../resources/data/"+fileName);
+		return(xmlDoc);
+	}
+	catch(e) {
+		alert(e.message)
+	}
+	return(null);
 }
 
 
