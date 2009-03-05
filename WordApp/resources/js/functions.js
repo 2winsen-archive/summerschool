@@ -123,6 +123,13 @@ function addNewWord() {
 //		newWord.appendChild(newTrans.appendChild(newTransData));		
 		
 //		xmlDoc.appendChild(newWord);
+
+	xmlDoc=loadXMLDoc("LVEN.xml");
+
+	y=xmlDoc.getElementsByTagName("word")[0];
+	x=xmlDoc.documentElement.removeChild(y);
+
+	document.write("Removed node: " + x.nodeName);
 		
 		document.getElementById("err").innerHTML = "";
 		document.getElementById("notif").innerHTML = "Data added sucessfuly";
