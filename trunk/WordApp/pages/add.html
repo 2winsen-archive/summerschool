@@ -5,8 +5,29 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <title>WordApp:add</title>
+    
+    <!-- imports -->
+	<link rel="styleSheet" type="text/css" href="../resources/css/style.css" />
+	<script language="JavaScript" type="text/javascript" src="../resources/js/functions.js"></script>
+	
   </head>
   <body>
+	<h1><a href="../WordApp.html">WordApp</a></h1>
+    <div id="main">
+    	<form>
+    		<fieldset>
+    			<p>
+    				<span class="error" id="err"></span>
+    				<span class="notification" id="notif"></span>
+    			</p>
+    			<span>text:</span>
+    			<input type="text" id="text" size="32" value="" /><br/>
+    			<span>translation:</span>
+    			<input type="text" id="translation" size="32" value="" /><br/><br/>    			
+	    		<input type="button" id="done" value="OK" onclick="addNewWord()" />
+    		</fieldset>
+    	</form>
+    </div>
 
   </body>
 </html>
