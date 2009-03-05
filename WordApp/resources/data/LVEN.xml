@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSet>
+	<lang>LV - EN</lang>
+	<word>
+		<text>tīkls</text>
+		<translation>network</translation>
+	</word>
+	
+	<word>
+		<text>pele</text>
+		<translation>mouse</translation>
+	</word>
+</dataSet>
