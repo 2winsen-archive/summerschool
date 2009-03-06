@@ -4,7 +4,7 @@
  * @param fileName
  * @return loaded xml object from given file 
  */
-function loadXMLDoc(fileName) {
+function loadXMLDoc(fileName) {	
 	//	Internet Explorer
 	try {
 		xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
@@ -14,7 +14,7 @@ function loadXMLDoc(fileName) {
 		try {
 			xmlDoc=document.implementation.createDocument("","",null);
 	    } catch(e) {
-	    	alert(e.message)
+	    	alert(e.message);
 	    } 
 	} try {
 		xmlDoc.async=false;
@@ -22,20 +22,35 @@ function loadXMLDoc(fileName) {
 		return(xmlDoc);
 	}
 	catch(e) {
-		alert(e.message)
+		alert(e.message);
 	}
 	return(null);
 }
 
+/**
+ * Function that makes main block visible
+ * And activate next word
+ * 
+ * @return
+ */
+function doStart() {
+	
+	document.getElementById("non-visible").style.display = "none";
+	document.getElementById("start").style.display = "block";
+	
+	doNext();
+}
 
 /**
  * Function gets a random word text from xml file
  * 
  * @return
  */
-function doStart() {
+function doNext() {
 	 
 	var xmlDoc = loadXMLDoc("LVEN.xml");
+	
+	document.write(translation);
 	
 	var nodes = xmlDoc.getElementsByTagName("word");
 	//	Generate random index depends on xml nodes length
@@ -85,7 +100,6 @@ function doAnswer() {
 		document.getElementById("notif").innerHTML = "";
 		document.getElementById("err").innerHTML = "MISTAKE";
 	}
-	doStart();
 	//	clear all user input text
 	document.getElementById("answer").value = "";
 	
@@ -140,6 +154,16 @@ function addNewWord() {
 	
 }
 
+// TODO XSLT
 function viewData() {
+	
+}
+
+/**
+ * Function saves number of word and translation in global variable
+ * 
+ * @return
+ */
+function saveValues() {
 	
 }
