@@ -4,7 +4,7 @@
  * @param fileName
  * @return loaded xml object from given file 
  */
-function loadXMLDoc(fileName) {	
+function loadXMLDoc(path, fileName) {	
 	//	Internet Explorer
 	try {
 		xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
@@ -18,7 +18,7 @@ function loadXMLDoc(fileName) {
 	    } 
 	} try {
 		xmlDoc.async=false;
-		xmlDoc.load("../resources/data/"+fileName);
+		xmlDoc.load(path+fileName);
 		return(xmlDoc);
 	}
 	catch(e) {
@@ -48,9 +48,7 @@ function doStart() {
  */
 function doNext() {
 	 
-	var xmlDoc = loadXMLDoc("LVEN.xml");
-	
-	document.write(translation);
+	var xmlDoc = loadXMLDoc("../resources/data/", "LVEN.xml");
 	
 	var nodes = xmlDoc.getElementsByTagName("word");
 	//	Generate random index depends on xml nodes length
@@ -74,7 +72,7 @@ function checkAnswer() {
 	var question = document.getElementById("question").innerHTML;
 	var answer = document.getElementById("answer").value;
 	
-	var xmlDoc = loadXMLDoc("LVEN.xml");
+	var xmlDoc = loadXMLDoc("../resources/data/", "LVEN.xml");
 	var nodes = xmlDoc.getElementsByTagName("word");
 	
 	for (i=0; i<nodes.length; i++) {
@@ -116,7 +114,7 @@ function addNewWord() {
 	var text = document.getElementById("text").value;
 	var translation = document.getElementById("translation").value;
 	
-	var xmlDoc = loadXMLDoc("LVEN.xml");	
+	var xmlDoc = loadXMLDoc("../resources/data/", "LVEN.xml");	
 	var nodes = xmlDoc.getElementsByTagName("word");	
 	for (i=0; i<nodes.length; i++) {		
 		if(nodes[i].getElementsByTagName("text")[0].childNodes[0].nodeValue == text) {
@@ -138,7 +136,7 @@ function addNewWord() {
 		
 //		xmlDoc.appendChild(newWord);
 
-	xmlDoc=loadXMLDoc("LVEN.xml");
+	xmlDoc=loadXMLDoc("../resources/data/", "LVEN.xml");
 
 	y=xmlDoc.getElementsByTagName("word")[0];
 	x=xmlDoc.documentElement.removeChild(y);
