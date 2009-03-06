@@ -75,7 +75,7 @@ function checkAnswer() {
 	var xmlDoc = loadXMLDoc("../resources/data/", "LVEN.xml");
 	var nodes = xmlDoc.getElementsByTagName("word");
 	
-	for (i=0; i<nodes.length; i++) {
+	for (var i=0; i<nodes.length; i++) {
 		if(nodes[i].getElementsByTagName("text")[0].childNodes[0].nodeValue == question) {
 			if(nodes[i].getElementsByTagName("translation")[0].childNodes[0].nodeValue == answer) {
 				return true;
@@ -116,7 +116,7 @@ function addNewWord() {
 	
 	var xmlDoc = loadXMLDoc("../resources/data/", "LVEN.xml");	
 	var nodes = xmlDoc.getElementsByTagName("word");	
-	for (i=0; i<nodes.length; i++) {		
+	for (var i=0; i<nodes.length; i++) {		
 		if(nodes[i].getElementsByTagName("text")[0].childNodes[0].nodeValue == text) {
 			document.getElementById("notif").innerHTML = "";
 			document.getElementById("err").innerHTML = "Data already exists!";
@@ -136,12 +136,12 @@ function addNewWord() {
 		
 //		xmlDoc.appendChild(newWord);
 
-	xmlDoc=loadXMLDoc("../resources/data/", "LVEN.xml");
-
-	y=xmlDoc.getElementsByTagName("word")[0];
-	x=xmlDoc.documentElement.removeChild(y);
-
-	document.write("Removed node: " + x.nodeName);
+//		xmlDoc=loadXMLDoc("../resources/data/", "LVEN.xml");
+//	
+//		y=xmlDoc.getElementsByTagName("word")[0];
+//		x=xmlDoc.documentElement.removeChild(y);
+//	
+//		document.write("Removed node: " + x.nodeName);
 		
 		document.getElementById("err").innerHTML = "";
 		document.getElementById("notif").innerHTML = "Data added sucessfuly";
@@ -158,10 +158,22 @@ function viewData() {
 }
 
 /**
- * Function saves number of word and translation in global variable
+ * Function saves number of word and translation in settings.xml
  * 
  * @return
  */
 function saveValues() {
-	
+	 
+	 var number = document.getElementById("number").value;
+	 var translation = document.getElementById("translationSelect").value;
+	 
+	 xmlDoc=loadXMLDoc("../resources/settings/", "settings.xml");
+	 
+	 node = xmlDoc.getElementsByTagName("number")[0].childNodes[0];
+	 node.nodeValue = number;	 
+	 xmlDoc.replaceChild(node, xmlDoc.getElementsByTagName("number")[0].childNodes[0]);
+	 
+	 node = xmlDoc.getElementsByTagName("translation")[0].childNodes[0];
+	 node.nodeValue = translation;
+	 xmlDoc.replaceChild("uuu", xmlDoc.getElementsByTagName("LVEN"));
 }
