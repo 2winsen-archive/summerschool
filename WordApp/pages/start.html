@@ -11,11 +11,19 @@
 	<script language="JavaScript" type="text/javascript" src="../resources/js/functions.js"></script>
     
   </head>
-  <body onload="doStart()">
-  	<h1 id="logo"><a href="../WordApp.html">WordApp</a></h1>
+  <body>
+  	<h1 class="logo"><a href="../WordApp.html">WordApp</a></h1>
+
+    <div id="non-visible">
+    	<form>
+    		<fieldset>
+			    <input type="button" class="button" value="Start" onclick="doStart()" />
+    		</fieldset>
+    	</form>
+    </div>
     
-    <div>translation: <span id="translation"></span></div>
-    <div id="main">
+    <div class="main" id="start">
+	    <div>translation: <span id="translation"></span></div>
     	<form>
     		<fieldset>
     			<span class="error" id="err"></span>
@@ -23,7 +31,7 @@
 		    	<h3 id="question"></h3>
     			<span>Answer:</span>
     			<input type="text" id="answer" size="32" value="" /><br/><br/>
-	    		<input type="button" id="done" value="OK" onclick="doAnswer()" />
+	    		<input type="button" class="button" value="OK" onclick="doAnswer()" />
     		</fieldset>
     	</form>
     </div>
